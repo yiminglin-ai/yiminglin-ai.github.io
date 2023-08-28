@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/notes/index.html",
+    "items": [
+      "/notes/llm/index.html",
+      "/notes/code.html"
+    ]
+  },
+  {
+    "listing": "/notes/llm/index.html",
+    "items": []
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/post-with-code/index.html",
