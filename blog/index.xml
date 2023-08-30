@@ -135,8 +135,7 @@ Efficiency on Large Scale Datasets.”</span> August 30, 2023. <a href="https://
 <section id="code-folding-and-dynamic-code-execution" class="level2">
 <h2 class="anchored" data-anchor-id="code-folding-and-dynamic-code-execution">Code Folding and Dynamic Code Execution</h2>
 <p>Figure&nbsp;1 shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.</p>
-<div id="fig-polar" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
+<div class="cell" data-execution_count="1">
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
@@ -194,8 +193,14 @@ background-color: null;
 font-style: inherit;">True</span>)</span>
 <span id="cb1-12">plt.show()</span></code></pre></div>
 </details>
-<figcaption class="figure-caption">Figure&nbsp;1: <strong>?(caption)</strong></figcaption>
+<div class="cell-output cell-output-display">
+<div id="fig-polar" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://yiminglin-ai.github.io/blog/posts/post-with-code/index_files/figure-html/fig-polar-output-1.png" width="450" height="439" class="figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: A line plot on a polar axis</figcaption>
 </figure>
+</div>
+</div>
 </div>
 Below is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.
 <blockquote class="twitter-tweet blockquote">
