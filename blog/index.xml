@@ -6,9 +6,9 @@
       version="2.0">
 <channel>
 <title>Yiming Lin</title>
-<link>https://yiminglin-ai.github.io/index.html</link>
-<atom:link href="https://yiminglin-ai.github.io/index.xml" rel="self" type="application/rss+xml"/>
-<description>Personal blog.</description>
+<link>https://yiminglin-ai.github.io/blog/index.html</link>
+<atom:link href="https://yiminglin-ai.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 29 Aug 2023 23:00:00 GMT</lastBuildDate>
 <item>

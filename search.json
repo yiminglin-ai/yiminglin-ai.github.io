@@ -4,7 +4,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 30, 2023\n\n\nDataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets\n\n\nYiming Lin\n\n\n\n\nAug 26, 2023\n\n\nUsing Quarto for Notes and Code\n\n\nYiming Lin\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nAug 30, 2023\n\n\nDataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets\n\n\n\n\nAug 26, 2023\n\n\nUsing Quarto for Notes and Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/post-with-code/index.html",
@@ -18,14 +18,14 @@
     "href": "blog/posts/post-with-code/index.html#code-folding-and-dynamic-code-execution",
     "title": "Using Quarto for Notes and Code",
     "section": "Code Folding and Dynamic Code Execution",
-    "text": "Code Folding and Dynamic Code Execution\nFigure 1 shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis\n\n\n\n\nBelow is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.\n\n\nLots of people have asked me about what tools I use for my TIL site (https://t.co/XvHdrWxTNH) (inspired by @simonw ) I use @quarto_pub - its the only SSG I know of that fully supports Jupyter Notebooks. If your TILs/ notes have code, using notebooks is very helpful!\n\n— Hamel Husain (@HamelHusain) August 11, 2023"
+    "text": "Code Folding and Dynamic Code Execution\nFigure 1 shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.\n\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nFigure 1: ?(caption)\n\n\nBelow is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.\n\n\nLots of people have asked me about what tools I use for my TIL site (https://t.co/XvHdrWxTNH) (inspired by @simonw ) I use @quarto_pub - its the only SSG I know of that fully supports Jupyter Notebooks. If your TILs/ notes have code, using notebooks is very helpful!\n\n— Hamel Husain (@HamelHusain) August 11, 2023"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yiming Lin",
     "section": "",
-    "text": "I am a staff research engineer at Realeyes where I am responsible for leading the research efforts in Face Perception, with a focus on AI Fairness and Responsible AI. Prior to Realeyes, I worked as a research scientist at Meta AI (formerly Facebook AI), where I contributed to multiple products related to face analysis, emotion recognition, and virtual avatar generation. I am also an affiliated honoary research fellow at iBUG, Imperial College London, where I completed my PhD supervsied by Professor Maja Pantic."
+    "text": "Hi, this is Yiming’s personal blog for my thoughts and notes on various topics.\nFor my research portfolio, please visit here."
   },
   {
     "objectID": "index.html#blog-posts",

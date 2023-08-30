@@ -98,6 +98,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <link rel="stylesheet" href="../../../styles.css">
+<meta property="og:title" content="Yiming Lin - Using Quarto for Notes and Code">
+<meta property="og:description" content="">
+<meta property="og:site-name" content="Yiming Lin">
+<meta name="twitter:title" content="Yiming Lin - Using Quarto for Notes and Code">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@yiming_lin__">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -117,7 +124,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
  <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
-          <div class="quarto-navbar-tools ms-auto">
+          <div class="quarto-navbar-tools ms-auto tools-wide">
+    <a href="https://twitter.com/yiming_lin__" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/yiminglin-ai" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+    <a href="../../../index.xml" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
 </div>
             <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
@@ -150,7 +160,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">August 26, 2023</p>
+        <p class="date">2023-08-26</p>
       </div>
     </div>
     
@@ -187,7 +197,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="code-folding-and-dynamic-code-execution" class="level2">
 <h2 class="anchored" data-anchor-id="code-folding-and-dynamic-code-execution">Code Folding and Dynamic Code Execution</h2>
 <p><a href="#fig-polar">Figure&nbsp;1</a> shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.</p>
-<div class="cell" data-execution_count="1">
+<div id="fig-polar" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -203,14 +214,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>ax.grid(<span class="va">True</span>)</span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-display">
-<div id="fig-polar" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="index_files/figure-html/fig-polar-output-1.png" width="450" height="439" class="figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: A line plot on a polar axis</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;1: <strong>?(caption)</strong></figcaption>
 </figure>
-</div>
-</div>
 </div>
 Below is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.
 <blockquote class="twitter-tweet blockquote">
@@ -224,7 +229,17 @@ Lots of people have asked me about what tools I use for my TIL site (<a href="ht
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lin2023,
+  author = {Lin, Yiming},
+  title = {Using {Quarto} for {Notes} and {Code}},
+  date = {2023-08-26},
+  url = {https://yiminglin-ai.github.io//blog/posts/post-with-code},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lin2023" class="csl-entry quarto-appendix-citeas" role="listitem">
+Lin, Yiming. 2023. <span>“Using Quarto for Notes and Code.”</span>
+August 26, 2023. <a href="https://yiminglin-ai.github.io//blog/posts/post-with-code">https://yiminglin-ai.github.io//blog/posts/post-with-code</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
