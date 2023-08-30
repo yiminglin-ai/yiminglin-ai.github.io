@@ -1,20 +1,16 @@
 [
   {
-    "listing": "/notes/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/notes/llm/index.html",
-      "/notes/code.html"
+      "/blog/posts/dataset-pruning/index.html",
+      "/blog/posts/post-with-code/index.html"
     ]
   },
   {
-    "listing": "/notes/llm/index.html",
-    "items": []
-  },
-  {
-    "listing": "/blog/index.html",
+    "listing": "/index.html",
     "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html"
+      "/blog/posts/dataset-pruning/index.html",
+      "/blog/posts/post-with-code/index.html"
     ]
   }
 ]

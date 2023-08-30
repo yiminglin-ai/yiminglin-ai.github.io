@@ -1,37 +1,65 @@
 [
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto Test Site",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "blog/posts/post-with-code/index.html",
-    "href": "blog/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\nFor a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 26, 2023\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nAug 23, 2023\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 30, 2023\n\n\nDataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets\n\n\nYiming Lin\n\n\n\n\nAug 26, 2023\n\n\nUsing Quarto for Notes and Code\n\n\nYiming Lin\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "notes/code.html",
-    "href": "notes/code.html",
-    "title": "Post With Code",
+    "objectID": "blog/posts/post-with-code/index.html",
+    "href": "blog/posts/post-with-code/index.html",
+    "title": "Using Quarto for Notes and Code",
     "section": "",
-    "text": "This is a post with executable code.\nFor a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "Inspired by Hamel’s twitter, I am exploring Quarto for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:\n1. Flexible Markup: Quarto seamlessly supports both Jupyter Notebooks and Quarto Markdown, providing an optimal environment for crafting intricate technical notes."
+  },
+  {
+    "objectID": "blog/posts/post-with-code/index.html#code-folding-and-dynamic-code-execution",
+    "href": "blog/posts/post-with-code/index.html#code-folding-and-dynamic-code-execution",
+    "title": "Using Quarto for Notes and Code",
+    "section": "Code Folding and Dynamic Code Execution",
+    "text": "Code Folding and Dynamic Code Execution\nFigure 1 shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis\n\n\n\n\nBelow is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.\n\n\nLots of people have asked me about what tools I use for my TIL site (https://t.co/XvHdrWxTNH) (inspired by @simonw ) I use @quarto_pub - its the only SSG I know of that fully supports Jupyter Notebooks. If your TILs/ notes have code, using notebooks is very helpful!\n\n— Hamel Husain (@HamelHusain) August 11, 2023"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yiming Lin",
+    "section": "",
+    "text": "I am a staff research engineer at Realeyes where I am responsible for leading the research efforts in Face Perception, with a focus on AI Fairness and Responsible AI. Prior to Realeyes, I worked as a research scientist at Meta AI (formerly Facebook AI), where I contributed to multiple products related to face analysis, emotion recognition, and virtual avatar generation. I am also an affiliated honoary research fellow at iBUG, Imperial College London, where I completed my PhD supervsied by Professor Maja Pantic."
+  },
+  {
+    "objectID": "index.html#blog-posts",
+    "href": "index.html#blog-posts",
+    "title": "Yiming Lin",
+    "section": "Blog Posts",
+    "text": "Blog Posts\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n8/30/23\n\n\nDataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets\n\n\n\n\n8/26/23\n\n\nUsing Quarto for Notes and Code\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/dataset-pruning/index.html",
+    "href": "blog/posts/dataset-pruning/index.html",
+    "title": "Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets",
+    "section": "",
+    "text": "Dataset pruning (Yang et al. 2023; Xia et al. 2023) is an emerging technique for data-efficient learning of deep neural networks. The idea of dataset pruning revolves identifying and removing redundant samples from the training, creating a reduced training set (the coreset) that can be used to train a model with similar performance to the model trained on the original dataset. This is a very useful technique in many scenarios, such as reducing the training time, reducing the storage cost, and even improving the model performance. In this article, we will introduce the basic concepts of dataset pruning, and review the recent works in this area.\nImage Credit: (Yang et al. 2023)"
+  },
+  {
+    "objectID": "blog/posts/dataset-pruning/index.html#introduction",
+    "href": "blog/posts/dataset-pruning/index.html#introduction",
+    "title": "Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets",
+    "section": "Introduction",
+    "text": "Introduction\nLarge scale datasets have been the key to the success of deep learning. However, the large scale datasets also bring many challenges. For example, the training time of deep neural networks is usually very long, and the storage cost of large scale datasets is also very high. In addition, the large scale datasets also bring many challenges to the privacy and security of the data. Furthermore, noisy samples, repeated samples, skewed class distributions, and other issues are also common as the dataset size increases. Therefore, it is very important to reduce the size of the training set to an appropriate level while maintaining the performance of the model.\nDataset pruning, also known as data selection or coreset selection, has been proposed to mitigate the abovementioned issues. Dataset pruning methods typically calculate a scalar score for each training example, and select the subset of training samples whose scores meet certain criteria."
+  },
+  {
+    "objectID": "blog/posts/dataset-pruning/index.html#different-dataset-pruning-strategies",
+    "href": "blog/posts/dataset-pruning/index.html#different-dataset-pruning-strategies",
+    "title": "Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets",
+    "section": "Different Dataset Pruning Strategies",
+    "text": "Different Dataset Pruning Strategies\nThey can be categorized into the following categories based on the score criteria (Yang et al. 2023):\n\nGeometric-based Score Criteria\nThe geometric-based dataset pruning methods use geometric distances in the feature space to score the training samples. A recent work is Moderate Coreset (Xia et al. 2023) measures the distance of a data point to its class center, and those data points with distances close to the median distances are selected as a coreset.\n\n\nConfidence-based Score Criteria\nThe confidence-based dataset pruning methods use the predition confidence/uncertainty of the model probabilistic outputs as the score. The coreset typicall consists of samples that the model has the least confidence in (Coleman et al. 2020), or those that lie near the decision boundary where prediction variability is high (Margatina et al. 2021; Chang, Learned-Miller, and McCallum 2017).\n\n\nLoss-based Score Criteria\nThe loss-based dataset pruning methods focus on the samples that contribute the most to the loss function. For example, the loss-based dataset pruning methods can be used to select the samples with the largest loss values, or the samples with the largest gradients. Representative methods are GraNd and EL2N (Paul, Ganguli, and Dziugaite 2021), Forgetting(Toneva et al. 2019; Wei et al. 2020; Jiang et al. 2018),"
+  },
+  {
+    "objectID": "blog/posts/dataset-pruning/index.html#related-fields",
+    "href": "blog/posts/dataset-pruning/index.html#related-fields",
+    "title": "Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets",
+    "section": "Related Fields",
+    "text": "Related Fields\nDon’t confuse dataset pruning with the following related fields:\n\nModel Pruning: Model pruning aims to reduce the size of the model by removing the redundant parameters.\n\nDataset Distillation (Yu, Liu, and Wang 2023) or dataset condensation(Zhao, Mopuri, and Bilen 2020): Dataset distillation aims to synthesize a compact but informative dataset such that the models trained on these samples have similar test performance to those trained on the original dataset.\n\nMachine Unlearning (Zhang et al. 2023; “NeurIPS 2023 Machine Unlearning Challenge” n.d.): Machine unlearning aims to remove the influence of a subset (the forget set) of training samples on the trained model. A naive way to achieve this is to retrain the model on the remaining samples."
   }
 ]

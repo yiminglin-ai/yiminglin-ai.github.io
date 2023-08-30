@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Harlow Malloc">
+<meta name="author" content="Yiming Lin">
 <meta name="dcterms.date" content="2023-08-26">
 
-<title>Yiming Lin - Post With Code</title>
+<title>Yiming Lin - Using Quarto for Notes and Code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
@@ -103,31 +104,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Yiming Lin</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+          <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../../blog/index.html" rel="" target="">
  <span class="menu-text">Blog</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../notes/index.html" rel="" target="">
- <span class="menu-text">Notes</span></a>
-  </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          <div class="quarto-navbar-tools ms-auto">
 </div>
-          </div> <!-- /navcollapse -->
+            <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -135,11 +127,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Post With Code</h1>
+      <h1 class="title">Using Quarto for Notes and Code</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
                 <div class="quarto-category">code</div>
-                <div class="quarto-category">analysis</div>
+                <div class="quarto-category">til</div>
+                <div class="quarto-category">note</div>
+                <div class="quarto-category">quarto</div>
               </div>
                   </div>
   </div>
@@ -150,7 +143,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Harlow Malloc </p>
+               <p>Yiming Lin </p>
             </div>
     </div>
       
@@ -169,7 +162,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#code-folding-and-dynamic-code-execution" id="toc-code-folding-and-dynamic-code-execution" class="nav-link active" data-scroll-target="#code-folding-and-dynamic-code-execution">Code Folding and Dynamic Code Execution</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -177,8 +176,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>This is a post with executable code.</p>
-<p>For a demonstration of a line plot on a polar axis, see <a href="#fig-polar">Figure&nbsp;1</a>.</p>
+<p>Inspired by <a href="https://hamel.dev/">Hamel</a>’s twitter, I am exploring <a href="https://quarto.org/">Quarto</a> for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:<br>
+1. <strong>Flexible Markup:</strong> Quarto seamlessly supports both Jupyter Notebooks and Quarto Markdown, providing an optimal environment for crafting intricate technical notes.</p>
+<ol start="2" type="1">
+<li><p><strong>Unified Composition:</strong> Embracing the essence of <a href="https://www.wikiwand.com/en/Literate_programming">literate programming</a>, Quarto empowers you to interweave code and text within a single file. This fusion of elements transpires without the need to forsake the familiarity of your preferred integrated development environment.</p></li>
+<li><p><strong>Sleek Code Folding:</strong> The HTML output generated by Quarto boasts a code folding functionality that proves invaluable for managing lengthy code blocks, ensuring a more organized and digestible reading experience.</p></li>
+<li><p><strong>Dynamic Code Execution:</strong> Quarto’s prowess extends to executing code within the HTML output. This dynamic capability not only facilitates interactive plot creation but also maintains a seamless correspondence between the code itself and its resulting output.</p></li>
+<li><p><strong>Scholarly Support:</strong> With built-in compatibility for LaTeX and seamless integration of citations, Quarto emerges as an exceptional tool for the composition of academic papers.</p></li>
+</ol>
+<section id="code-folding-and-dynamic-code-execution" class="level2">
+<h2 class="anchored" data-anchor-id="code-folding-and-dynamic-code-execution">Code Folding and Dynamic Code Execution</h2>
+<p><a href="#fig-polar">Figure&nbsp;1</a> shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.</p>
 <div class="cell" data-execution_count="1">
 <details>
 <summary>Code</summary>
@@ -204,8 +212,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
+Below is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.
+<blockquote class="twitter-tweet blockquote">
+<p lang="en" dir="ltr">
+Lots of people have asked me about what tools I use for my TIL site (<a href="https://t.co/XvHdrWxTNH">https://t.co/XvHdrWxTNH</a>) (inspired by <a href="https://twitter.com/simonw?ref_src=twsrc%5Etfw"><span class="citation" data-cites="simonw">@simonw</span></a> ) <br><br>I use <a href="https://twitter.com/quarto_pub?ref_src=twsrc%5Etfw"><span class="citation" data-cites="quarto_pub">@quarto_pub</span></a> - its the only SSG I know of that fully supports Jupyter Notebooks. If your TILs/ notes have code, using notebooks is very helpful!
+</p>
+— Hamel Husain (<span class="citation" data-cites="HamelHusain">@HamelHusain</span>) <a href="https://twitter.com/HamelHusain/status/1690049793958236160?ref_src=twsrc%5Etfw">August 11, 2023</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Yiming Lin">
+<meta name="dcterms.date" content="2023-08-30">
+
+<title>Yiming Lin - Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(image.png);
+background-size: cover;
+      }
+</style>
+
+
+<link rel="stylesheet" href="../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Yiming Lin</span>
+    </a>
+  </div>
+          <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../blog/index.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+          <div class="quarto-navbar-tools ms-auto">
+</div>
+            <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">research</div>
+                <div class="quarto-category">dataset-pruning</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Yiming Lin </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 30, 2023</p>
+      </div>
+    </div>
+    
+      <div>
+      <div class="quarto-title-meta-heading">Modified</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date-modified">August 30, 2023</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#different-dataset-pruning-strategies" id="toc-different-dataset-pruning-strategies" class="nav-link" data-scroll-target="#different-dataset-pruning-strategies">Different Dataset Pruning Strategies</a>
+  <ul class="collapse">
+  <li><a href="#geometric-based-score-criteria" id="toc-geometric-based-score-criteria" class="nav-link" data-scroll-target="#geometric-based-score-criteria">Geometric-based Score Criteria</a></li>
+  <li><a href="#confidence-based-score-criteria" id="toc-confidence-based-score-criteria" class="nav-link" data-scroll-target="#confidence-based-score-criteria">Confidence-based Score Criteria</a></li>
+  <li><a href="#loss-based-score-criteria" id="toc-loss-based-score-criteria" class="nav-link" data-scroll-target="#loss-based-score-criteria">Loss-based Score Criteria</a></li>
+  </ul></li>
+  <li><a href="#related-fields" id="toc-related-fields" class="nav-link" data-scroll-target="#related-fields">Related Fields</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p>Dataset pruning <span class="citation" data-cites="yang2023dataset xia2023moderate">(<a href="#ref-yang2023dataset" role="doc-biblioref">Yang et al. 2023</a>; <a href="#ref-xia2023moderate" role="doc-biblioref">Xia et al. 2023</a>)</span> is an emerging technique for data-efficient learning of deep neural networks. The idea of dataset pruning revolves identifying and removing redundant samples from the training, creating a reduced training set (<em>the coreset</em>) that can be used to train a model with similar performance to the model trained on the original dataset. This is a very useful technique in many scenarios, such as reducing the training time, reducing the storage cost, and even improving the model performance. In this article, we will introduce the basic concepts of dataset pruning, and review the recent works in this area.</p>
+<p><img src="image.png" class="img-fluid" alt="Dataset Pruning"> Image Credit: <span class="citation" data-cites="yang2023dataset">(<a href="#ref-yang2023dataset" role="doc-biblioref">Yang et al. 2023</a>)</span></p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Large scale datasets have been the key to the success of deep learning. However, the large scale datasets also bring many challenges. For example, the training time of deep neural networks is usually very long, and the storage cost of large scale datasets is also very high. In addition, the large scale datasets also bring many challenges to the privacy and security of the data. Furthermore, noisy samples, repeated samples, skewed class distributions, and other issues are also common as the dataset size increases. Therefore, it is very important to reduce the size of the training set to an appropriate level while maintaining the performance of the model.</p>
+<p>Dataset pruning, also known as data selection or coreset selection, has been proposed to mitigate the abovementioned issues. Dataset pruning methods typically calculate a scalar score for each training example, and select the subset of training samples whose scores meet certain criteria.</p>
+</section>
+<section id="different-dataset-pruning-strategies" class="level2">
+<h2 class="anchored" data-anchor-id="different-dataset-pruning-strategies">Different Dataset Pruning Strategies</h2>
+<p>They can be categorized into the following categories based on the score criteria <span class="citation" data-cites="yang2023dataset">(<a href="#ref-yang2023dataset" role="doc-biblioref">Yang et al. 2023</a>)</span>:</p>
+<section id="geometric-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="geometric-based-score-criteria">Geometric-based Score Criteria</h3>
+<p>The geometric-based dataset pruning methods use geometric distances in the feature space to score the training samples. A recent work is Moderate Coreset <span class="citation" data-cites="xia2023moderate">(<a href="#ref-xia2023moderate" role="doc-biblioref">Xia et al. 2023</a>)</span> measures the distance of a data point to its class center, and those data points with distances close to the median distances are selected as a coreset.</p>
+</section>
+<section id="confidence-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="confidence-based-score-criteria">Confidence-based Score Criteria</h3>
+<p>The confidence-based dataset pruning methods use the predition confidence/uncertainty of the model probabilistic outputs as the score. The coreset typicall consists of samples that the model has the least confidence in <span class="citation" data-cites="colemanSelectionProxyEfficient2020">(<a href="#ref-colemanSelectionProxyEfficient2020" role="doc-biblioref">Coleman et al. 2020</a>)</span>, or those that lie near the decision boundary where prediction variability is high <span class="citation" data-cites="margatinaActiveLearningAcquiring2021 changActiveBiasTraining2017">(<a href="#ref-margatinaActiveLearningAcquiring2021" role="doc-biblioref">Margatina et al. 2021</a>; <a href="#ref-changActiveBiasTraining2017" role="doc-biblioref">Chang, Learned-Miller, and McCallum 2017</a>)</span>.</p>
+</section>
+<section id="loss-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="loss-based-score-criteria">Loss-based Score Criteria</h3>
+<p>The loss-based dataset pruning methods focus on the samples that contribute the most to the loss function. For example, the loss-based dataset pruning methods can be used to select the samples with the largest loss values, or the samples with the largest gradients. Representative methods are GraNd and EL2N <span class="citation" data-cites="paulDeepLearningData2021">(<a href="#ref-paulDeepLearningData2021" role="doc-biblioref">Paul, Ganguli, and Dziugaite 2021</a>)</span>, Forgetting<span class="citation" data-cites="toneva2018an weiCombatingNoisyLabels2020 jiangMentorNetLearningDataDriven2018">(<a href="#ref-toneva2018an" role="doc-biblioref">Toneva et al. 2019</a>; <a href="#ref-weiCombatingNoisyLabels2020" role="doc-biblioref">Wei et al. 2020</a>; <a href="#ref-jiangMentorNetLearningDataDriven2018" role="doc-biblioref">Jiang et al. 2018</a>)</span>,</p>
+</section>
+</section>
+<section id="related-fields" class="level2">
+<h2 class="anchored" data-anchor-id="related-fields">Related Fields</h2>
+<p>Don’t confuse dataset pruning with the following related fields:</p>
+<ul>
+<li><strong>Model Pruning</strong>: Model pruning aims to reduce the size of the model by removing the redundant parameters.<br>
+</li>
+<li><strong>Dataset Distillation</strong> <span class="citation" data-cites="yuDatasetDistillationComprehensive2023">(<a href="#ref-yuDatasetDistillationComprehensive2023" role="doc-biblioref">Yu, Liu, and Wang 2023</a>)</span> or dataset condensation<span class="citation" data-cites="zhaoDatasetCondensationGradient2020">(<a href="#ref-zhaoDatasetCondensationGradient2020" role="doc-biblioref">Zhao, Mopuri, and Bilen 2020</a>)</span>: Dataset distillation aims to <em>synthesize a compact but informative dataset</em> such that the models trained on these samples have similar test performance to those trained on the original dataset.<br>
+</li>
+<li><strong>Machine Unlearning</strong> <span class="citation" data-cites="zhangReviewMachineUnlearning2023 NeurIPS2023Machine">(<a href="#ref-zhangReviewMachineUnlearning2023" role="doc-biblioref">Zhang et al. 2023</a>; <a href="#ref-NeurIPS2023Machine" role="doc-biblioref"><span>“<span>NeurIPS</span> 2023 <span>Machine Unlearning Challenge</span>”</span> n.d.</a>)</span>: Machine unlearning aims to remove the influence of a subset (the forget set) of training samples on the trained model. A naive way to achieve this is to retrain the model on the remaining samples.</li>
+</ul>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-changActiveBiasTraining2017" class="csl-entry" role="listitem">
+Chang, Haw-Shiuan, Erik Learned-Miller, and Andrew McCallum. 2017. <span>“Active <span>Bias</span>: <span>Training More Accurate Neural Networks</span> by <span>Emphasizing High Variance Samples</span>.”</span> In <em>Advances in <span>Neural Information Processing Systems</span></em>. Vol. 30. <span>Curran Associates, Inc.</span> <a href="https://proceedings.neurips.cc/paper/2017/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html">https://proceedings.neurips.cc/paper/2017/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html</a>.
+</div>
+<div id="ref-colemanSelectionProxyEfficient2020" class="csl-entry" role="listitem">
+Coleman, Cody, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, and Matei Zaharia. 2020. <span>“Selection via <span>Proxy</span>: <span>Efficient Data Selection</span> for <span>Deep Learning</span>.”</span> In <em><span>ICLR</span></em>. <a href="https://openreview.net/forum?id=HJg2b0VYDr">https://openreview.net/forum?id=HJg2b0VYDr</a>.
+</div>
+<div id="ref-jiangMentorNetLearningDataDriven2018" class="csl-entry" role="listitem">
+Jiang, Lu, Zhengyuan Zhou, Thomas Leung, Li-Jia Li, and Li Fei-Fei. 2018. <span>“<span>MentorNet</span>: <span>Learning Data-Driven Curriculum</span> for <span>Very Deep Neural Networks</span> on <span>Corrupted Labels</span>.”</span> In <em>Proceedings of the 35th <span>International Conference</span> on <span>Machine Learning</span></em>, 2304–13. <span>PMLR</span>. <a href="https://proceedings.mlr.press/v80/jiang18c.html">https://proceedings.mlr.press/v80/jiang18c.html</a>.
+</div>
+<div id="ref-margatinaActiveLearningAcquiring2021" class="csl-entry" role="listitem">
+Margatina, Katerina, Giorgos Vernikos, Loïc Barrault, and Nikolaos Aletras. 2021. <span>“Active <span>Learning</span> by <span>Acquiring Contrastive Examples</span>.”</span> In <em>Proceedings of the 2021 <span>Conference</span> on <span>Empirical Methods</span> in <span>Natural Language Processing</span></em>, 650–63. <span>Online and Punta Cana, Dominican Republic</span>: <span>Association for Computational Linguistics</span>. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.51">https://doi.org/10.18653/v1/2021.emnlp-main.51</a>.
+</div>
+<div id="ref-NeurIPS2023Machine" class="csl-entry" role="listitem">
+<span>“<span>NeurIPS</span> 2023 <span>Machine Unlearning Challenge</span>.”</span> n.d. <em>NeurIPS 2023 Machine Unlearning Challenge</em>. Accessed August 30, 2023. <a href="https://unlearning-challenge.github.io/unlearning-challenge.github.io/">https://unlearning-challenge.github.io/unlearning-challenge.github.io/</a>.
+</div>
+<div id="ref-paulDeepLearningData2021" class="csl-entry" role="listitem">
+Paul, Mansheej, Surya Ganguli, and Gintare Karolina Dziugaite. 2021. <span>“Deep <span>Learning</span> on a <span>Data Diet</span>: <span>Finding Important Examples Early</span> in <span>Training</span>.”</span> In <em>Advances in <span>Neural Information Processing Systems</span></em>, 34:20596–607. <span>Curran Associates, Inc.</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2021/hash/ac56f8fe9eea3e4a365f29f0f1957c55-Abstract.html">https://proceedings.neurips.cc/paper_files/paper/2021/hash/ac56f8fe9eea3e4a365f29f0f1957c55-Abstract.html</a>.
+</div>
+<div id="ref-toneva2018an" class="csl-entry" role="listitem">
+Toneva, Mariya, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, and Geoffrey J. Gordon. 2019. <span>“An Empirical Study of Example Forgetting During Deep Neural Network Learning.”</span> In <em>International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=BJlxm30cKm">https://openreview.net/forum?id=BJlxm30cKm</a>.
+</div>
+<div id="ref-weiCombatingNoisyLabels2020" class="csl-entry" role="listitem">
+Wei, Hongxin, Lei Feng, Xiangyu Chen, and Bo An. 2020. <span>“Combating <span>Noisy Labels</span> by <span>Agreement</span>: <span>A Joint Training Method</span> with <span>Co-Regularization</span>.”</span> In <em>Proceedings of the <span>IEEE</span>/<span>CVF Conference</span> on <span>Computer Vision</span> and <span>Pattern Recognition</span></em>, 13726–35. <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html">https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html</a>.
+</div>
+<div id="ref-xia2023moderate" class="csl-entry" role="listitem">
+Xia, Xiaobo, Jiale Liu, Jun Yu, Xu Shen, Bo Han, and Tongliang Liu. 2023. <span>“Moderate Coreset: <span>A</span> Universal Method of Data Selection for Real-World Data-Efficient Deep Learning.”</span> In <em>The Eleventh International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=7D5EECbOaf9">https://openreview.net/forum?id=7D5EECbOaf9</a>.
+</div>
+<div id="ref-yang2023dataset" class="csl-entry" role="listitem">
+Yang, Shuo, Zeke Xie, Hanyu Peng, Min Xu, Mingming Sun, and Ping Li. 2023. <span>“Dataset Pruning: <span>Reducing</span> Training Data by Examining Generalization Influence.”</span> In <em>The Eleventh International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=4wZiAXD29TQ">https://openreview.net/forum?id=4wZiAXD29TQ</a>.
+</div>
+<div id="ref-yuDatasetDistillationComprehensive2023" class="csl-entry" role="listitem">
+Yu, Ruonan, Songhua Liu, and Xinchao Wang. 2023. <span>“Dataset <span>Distillation</span>: <span>A Comprehensive Review</span>.”</span> <span>arXiv</span>. <a href="https://doi.org/10.48550/arXiv.2301.07014">https://doi.org/10.48550/arXiv.2301.07014</a>.
+</div>
+<div id="ref-zhangReviewMachineUnlearning2023" class="csl-entry" role="listitem">
+Zhang, Haibo, Toru Nakamura, Takamasa Isohara, and Kouichi Sakurai. 2023. <span>“A <span>Review</span> on <span>Machine Unlearning</span>.”</span> <em>SN Computer Science</em> 4 (4): 337. <a href="https://doi.org/10.1007/s42979-023-01767-4">https://doi.org/10.1007/s42979-023-01767-4</a>.
+</div>
+<div id="ref-zhaoDatasetCondensationGradient2020" class="csl-entry" role="listitem">
+Zhao, Bo, Konda Reddy Mopuri, and Hakan Bilen. 2020. <span>“Dataset <span>Condensation</span> with <span>Gradient Matching</span>.”</span> In <em>International <span>Conference</span> on <span>Learning Representations</span></em>. <a href="https://openreview.net/forum?id=mSAKhLYLSsl">https://openreview.net/forum?id=mSAKhLYLSsl</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<script src="https://utteranc.es/client.js" repo="yiminglin-ai/yiminglin-ai.github.io" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

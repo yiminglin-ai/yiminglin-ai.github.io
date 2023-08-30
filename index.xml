@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Yiming Lin</title>
+<link>https://yiminglin-ai.github.io/index.html</link>
+<atom:link href="https://yiminglin-ai.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal blog.</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Tue, 29 Aug 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets</title>
+  <dc:creator>Yiming Lin</dc:creator>
+  <link>https://yiminglin-ai.github.io/blog/posts/dataset-pruning/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Dataset pruning <span class="citation" data-cites="yang2023dataset xia2023moderate">(Yang et al. 2023; Xia et al. 2023)</span> is an emerging technique for data-efficient learning of deep neural networks. The idea of dataset pruning revolves identifying and removing redundant samples from the training, creating a reduced training set (<em>the coreset</em>) that can be used to train a model with similar performance to the model trained on the original dataset. This is a very useful technique in many scenarios, such as reducing the training time, reducing the storage cost, and even improving the model performance. In this article, we will introduce the basic concepts of dataset pruning, and review the recent works in this area.</p>
+<p><img src="https://yiminglin-ai.github.io/blog/posts/dataset-pruning/image.png" class="img-fluid" alt="Dataset Pruning"> Image Credit: <span class="citation" data-cites="yang2023dataset">(Yang et al. 2023)</span></p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Large scale datasets have been the key to the success of deep learning. However, the large scale datasets also bring many challenges. For example, the training time of deep neural networks is usually very long, and the storage cost of large scale datasets is also very high. In addition, the large scale datasets also bring many challenges to the privacy and security of the data. Furthermore, noisy samples, repeated samples, skewed class distributions, and other issues are also common as the dataset size increases. Therefore, it is very important to reduce the size of the training set to an appropriate level while maintaining the performance of the model.</p>
+<p>Dataset pruning, also known as data selection or coreset selection, has been proposed to mitigate the abovementioned issues. Dataset pruning methods typically calculate a scalar score for each training example, and select the subset of training samples whose scores meet certain criteria.</p>
+</section>
+<section id="different-dataset-pruning-strategies" class="level2">
+<h2 class="anchored" data-anchor-id="different-dataset-pruning-strategies">Different Dataset Pruning Strategies</h2>
+<p>They can be categorized into the following categories based on the score criteria <span class="citation" data-cites="yang2023dataset">(Yang et al. 2023)</span>:</p>
+<section id="geometric-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="geometric-based-score-criteria">Geometric-based Score Criteria</h3>
+<p>The geometric-based dataset pruning methods use geometric distances in the feature space to score the training samples. A recent work is Moderate Coreset <span class="citation" data-cites="xia2023moderate">(Xia et al. 2023)</span> measures the distance of a data point to its class center, and those data points with distances close to the median distances are selected as a coreset.</p>
+</section>
+<section id="confidence-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="confidence-based-score-criteria">Confidence-based Score Criteria</h3>
+<p>The confidence-based dataset pruning methods use the predition confidence/uncertainty of the model probabilistic outputs as the score. The coreset typicall consists of samples that the model has the least confidence in <span class="citation" data-cites="colemanSelectionProxyEfficient2020">(Coleman et al. 2020)</span>, or those that lie near the decision boundary where prediction variability is high <span class="citation" data-cites="margatinaActiveLearningAcquiring2021 changActiveBiasTraining2017">(Margatina et al. 2021; Chang, Learned-Miller, and McCallum 2017)</span>.</p>
+</section>
+<section id="loss-based-score-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="loss-based-score-criteria">Loss-based Score Criteria</h3>
+<p>The loss-based dataset pruning methods focus on the samples that contribute the most to the loss function. For example, the loss-based dataset pruning methods can be used to select the samples with the largest loss values, or the samples with the largest gradients. Representative methods are GraNd and EL2N <span class="citation" data-cites="paulDeepLearningData2021">(Paul, Ganguli, and Dziugaite 2021)</span>, Forgetting<span class="citation" data-cites="toneva2018an weiCombatingNoisyLabels2020 jiangMentorNetLearningDataDriven2018">(Toneva et al. 2019; Wei et al. 2020; Jiang et al. 2018)</span>,</p>
+</section>
+</section>
+<section id="related-fields" class="level2">
+<h2 class="anchored" data-anchor-id="related-fields">Related Fields</h2>
+<p>Don’t confuse dataset pruning with the following related fields:</p>
+<ul>
+<li><strong>Model Pruning</strong>: Model pruning aims to reduce the size of the model by removing the redundant parameters.<br>
+</li>
+<li><strong>Dataset Distillation</strong> <span class="citation" data-cites="yuDatasetDistillationComprehensive2023">(Yu, Liu, and Wang 2023)</span> or dataset condensation<span class="citation" data-cites="zhaoDatasetCondensationGradient2020">(Zhao, Mopuri, and Bilen 2020)</span>: Dataset distillation aims to <em>synthesize a compact but informative dataset</em> such that the models trained on these samples have similar test performance to those trained on the original dataset.<br>
+</li>
+<li><strong>Machine Unlearning</strong> <span class="citation" data-cites="zhangReviewMachineUnlearning2023 NeurIPS2023Machine">(Zhang et al. 2023; <span>“<span>NeurIPS</span> 2023 <span>Machine Unlearning Challenge</span>”</span> n.d.)</span>: Machine unlearning aims to remove the influence of a subset (the forget set) of training samples on the trained model. A naive way to achieve this is to retrain the model on the remaining samples.</li>
+</ul>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-changActiveBiasTraining2017" class="csl-entry">
+Chang, Haw-Shiuan, Erik Learned-Miller, and Andrew McCallum. 2017. <span>“Active <span>Bias</span>: <span>Training More Accurate Neural Networks</span> by <span>Emphasizing High Variance Samples</span>.”</span> In <em>Advances in <span>Neural Information Processing Systems</span></em>. Vol. 30. <span>Curran Associates, Inc.</span> <a href="https://proceedings.neurips.cc/paper/2017/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html">https://proceedings.neurips.cc/paper/2017/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html</a>.
+</div>
+<div id="ref-colemanSelectionProxyEfficient2020" class="csl-entry">
+Coleman, Cody, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, and Matei Zaharia. 2020. <span>“Selection via <span>Proxy</span>: <span>Efficient Data Selection</span> for <span>Deep Learning</span>.”</span> In <em><span>ICLR</span></em>. <a href="https://openreview.net/forum?id=HJg2b0VYDr">https://openreview.net/forum?id=HJg2b0VYDr</a>.
+</div>
+<div id="ref-jiangMentorNetLearningDataDriven2018" class="csl-entry">
+Jiang, Lu, Zhengyuan Zhou, Thomas Leung, Li-Jia Li, and Li Fei-Fei. 2018. <span>“<span>MentorNet</span>: <span>Learning Data-Driven Curriculum</span> for <span>Very Deep Neural Networks</span> on <span>Corrupted Labels</span>.”</span> In <em>Proceedings of the 35th <span>International Conference</span> on <span>Machine Learning</span></em>, 2304–13. <span>PMLR</span>. <a href="https://proceedings.mlr.press/v80/jiang18c.html">https://proceedings.mlr.press/v80/jiang18c.html</a>.
+</div>
+<div id="ref-margatinaActiveLearningAcquiring2021" class="csl-entry">
+Margatina, Katerina, Giorgos Vernikos, Loïc Barrault, and Nikolaos Aletras. 2021. <span>“Active <span>Learning</span> by <span>Acquiring Contrastive Examples</span>.”</span> In <em>Proceedings of the 2021 <span>Conference</span> on <span>Empirical Methods</span> in <span>Natural Language Processing</span></em>, 650–63. <span>Online and Punta Cana, Dominican Republic</span>: <span>Association for Computational Linguistics</span>. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.51">https://doi.org/10.18653/v1/2021.emnlp-main.51</a>.
+</div>
+<div id="ref-NeurIPS2023Machine" class="csl-entry">
+<span>“<span>NeurIPS</span> 2023 <span>Machine Unlearning Challenge</span>.”</span> n.d. <em>NeurIPS 2023 Machine Unlearning Challenge</em>. Accessed August 30, 2023. <a href="https://unlearning-challenge.github.io/unlearning-challenge.github.io/">https://unlearning-challenge.github.io/unlearning-challenge.github.io/</a>.
+</div>
+<div id="ref-paulDeepLearningData2021" class="csl-entry">
+Paul, Mansheej, Surya Ganguli, and Gintare Karolina Dziugaite. 2021. <span>“Deep <span>Learning</span> on a <span>Data Diet</span>: <span>Finding Important Examples Early</span> in <span>Training</span>.”</span> In <em>Advances in <span>Neural Information Processing Systems</span></em>, 34:20596–607. <span>Curran Associates, Inc.</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2021/hash/ac56f8fe9eea3e4a365f29f0f1957c55-Abstract.html">https://proceedings.neurips.cc/paper_files/paper/2021/hash/ac56f8fe9eea3e4a365f29f0f1957c55-Abstract.html</a>.
+</div>
+<div id="ref-toneva2018an" class="csl-entry">
+Toneva, Mariya, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, and Geoffrey J. Gordon. 2019. <span>“An Empirical Study of Example Forgetting During Deep Neural Network Learning.”</span> In <em>International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=BJlxm30cKm">https://openreview.net/forum?id=BJlxm30cKm</a>.
+</div>
+<div id="ref-weiCombatingNoisyLabels2020" class="csl-entry">
+Wei, Hongxin, Lei Feng, Xiangyu Chen, and Bo An. 2020. <span>“Combating <span>Noisy Labels</span> by <span>Agreement</span>: <span>A Joint Training Method</span> with <span>Co-Regularization</span>.”</span> In <em>Proceedings of the <span>IEEE</span>/<span>CVF Conference</span> on <span>Computer Vision</span> and <span>Pattern Recognition</span></em>, 13726–35. <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html">https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html</a>.
+</div>
+<div id="ref-xia2023moderate" class="csl-entry">
+Xia, Xiaobo, Jiale Liu, Jun Yu, Xu Shen, Bo Han, and Tongliang Liu. 2023. <span>“Moderate Coreset: <span>A</span> Universal Method of Data Selection for Real-World Data-Efficient Deep Learning.”</span> In <em>The Eleventh International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=7D5EECbOaf9">https://openreview.net/forum?id=7D5EECbOaf9</a>.
+</div>
+<div id="ref-yang2023dataset" class="csl-entry">
+Yang, Shuo, Zeke Xie, Hanyu Peng, Min Xu, Mingming Sun, and Ping Li. 2023. <span>“Dataset Pruning: <span>Reducing</span> Training Data by Examining Generalization Influence.”</span> In <em>The Eleventh International Conference on Learning Representations</em>. <a href="https://openreview.net/forum?id=4wZiAXD29TQ">https://openreview.net/forum?id=4wZiAXD29TQ</a>.
+</div>
+<div id="ref-yuDatasetDistillationComprehensive2023" class="csl-entry">
+Yu, Ruonan, Songhua Liu, and Xinchao Wang. 2023. <span>“Dataset <span>Distillation</span>: <span>A Comprehensive Review</span>.”</span> <span>arXiv</span>. <a href="https://doi.org/10.48550/arXiv.2301.07014">https://doi.org/10.48550/arXiv.2301.07014</a>.
+</div>
+<div id="ref-zhangReviewMachineUnlearning2023" class="csl-entry">
+Zhang, Haibo, Toru Nakamura, Takamasa Isohara, and Kouichi Sakurai. 2023. <span>“A <span>Review</span> on <span>Machine Unlearning</span>.”</span> <em>SN Computer Science</em> 4 (4): 337. <a href="https://doi.org/10.1007/s42979-023-01767-4">https://doi.org/10.1007/s42979-023-01767-4</a>.
+</div>
+<div id="ref-zhaoDatasetCondensationGradient2020" class="csl-entry">
+Zhao, Bo, Konda Reddy Mopuri, and Hakan Bilen. 2020. <span>“Dataset <span>Condensation</span> with <span>Gradient Matching</span>.”</span> In <em>International <span>Conference</span> on <span>Learning Representations</span></em>. <a href="https://openreview.net/forum?id=mSAKhLYLSsl">https://openreview.net/forum?id=mSAKhLYLSsl</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>research</category>
+  <category>dataset-pruning</category>
+  <guid>https://yiminglin-ai.github.io/blog/posts/dataset-pruning/index.html</guid>
+  <pubDate>Tue, 29 Aug 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Using Quarto for Notes and Code</title>
+  <dc:creator>Yiming Lin</dc:creator>
+  <link>https://yiminglin-ai.github.io/blog/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Inspired by <a href="https://hamel.dev/">Hamel</a>’s twitter, I am exploring <a href="https://quarto.org/">Quarto</a> for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:<br>
+1. <strong>Flexible Markup:</strong> Quarto seamlessly supports both Jupyter Notebooks and Quarto Markdown, providing an optimal environment for crafting intricate technical notes.</p>
+<ol start="2" type="1">
+<li><p><strong>Unified Composition:</strong> Embracing the essence of <a href="https://www.wikiwand.com/en/Literate_programming">literate programming</a>, Quarto empowers you to interweave code and text within a single file. This fusion of elements transpires without the need to forsake the familiarity of your preferred integrated development environment.</p></li>
+<li><p><strong>Sleek Code Folding:</strong> The HTML output generated by Quarto boasts a code folding functionality that proves invaluable for managing lengthy code blocks, ensuring a more organized and digestible reading experience.</p></li>
+<li><p><strong>Dynamic Code Execution:</strong> Quarto’s prowess extends to executing code within the HTML output. This dynamic capability not only facilitates interactive plot creation but also maintains a seamless correspondence between the code itself and its resulting output.</p></li>
+<li><p><strong>Scholarly Support:</strong> With built-in compatibility for LaTeX and seamless integration of citations, Quarto emerges as an exceptional tool for the composition of academic papers.</p></li>
+</ol>
+<section id="code-folding-and-dynamic-code-execution" class="level2">
+<h2 class="anchored" data-anchor-id="code-folding-and-dynamic-code-execution">Code Folding and Dynamic Code Execution</h2>
+<p>Figure&nbsp;1 shows a line plot on a polar axis using the foldable code block feature. The code is executed when the post is rendered. This is ideal for keeping the code snippet and the output in the same file.</p>
+<div class="cell" data-execution_count="1">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> numpy <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> np</span>
+<span id="cb1-2"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> plt</span>
+<span id="cb1-3"></span>
+<span id="cb1-4">r <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> np.arange(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.01</span>)</span>
+<span id="cb1-5">theta <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span> <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> np.pi <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> r</span>
+<span id="cb1-6">fig, ax <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> plt.subplots(</span>
+<span id="cb1-7">  subplot_kw <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> {<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'projection'</span>: <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'polar'</span>} </span>
+<span id="cb1-8">)</span>
+<span id="cb1-9">ax.plot(theta, r)</span>
+<span id="cb1-10">ax.set_rticks([<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1.5</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>])</span>
+<span id="cb1-11">ax.grid(<span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">True</span>)</span>
+<span id="cb1-12">plt.show()</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<div id="fig-polar" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://yiminglin-ai.github.io/blog/posts/post-with-code/index_files/figure-html/fig-polar-output-1.png" width="450" height="439" class="figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: A line plot on a polar axis</figcaption>
+</figure>
+</div>
+</div>
+</div>
+Below is the original tweet from Hamel and the source of inspiration. Shout out to Hamel for sharing his experience with Quarto.
+<blockquote class="twitter-tweet blockquote">
+<p lang="en" dir="ltr">
+Lots of people have asked me about what tools I use for my TIL site (<a href="https://t.co/XvHdrWxTNH">https://t.co/XvHdrWxTNH</a>) (inspired by <a href="https://twitter.com/simonw?ref_src=twsrc%5Etfw"><span class="citation" data-cites="simonw">@simonw</span></a> ) <br><br>I use <a href="https://twitter.com/quarto_pub?ref_src=twsrc%5Etfw"><span class="citation" data-cites="quarto_pub">@quarto_pub</span></a> - its the only SSG I know of that fully supports Jupyter Notebooks. If your TILs/ notes have code, using notebooks is very helpful!
+</p>
+— Hamel Husain (<span class="citation" data-cites="HamelHusain">@HamelHusain</span>) <a href="https://twitter.com/HamelHusain/status/1690049793958236160?ref_src=twsrc%5Etfw">August 11, 2023</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>til</category>
+  <category>note</category>
+  <category>quarto</category>
+  <guid>https://yiminglin-ai.github.io/blog/posts/post-with-code/index.html</guid>
+  <pubDate>Fri, 25 Aug 2023 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
