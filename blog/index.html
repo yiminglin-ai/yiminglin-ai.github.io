@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-reading-time','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dataset-pruning">dataset-pruning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="note">note <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="research">research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="til">til <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-centric-ai">data-centric-ai <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dataset-pruning">dataset-pruning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -161,39 +161,65 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="data-centric-ai,dataset-pruning" data-listing-date-sort="1693350000000" data-listing-file-modified-sort="1693429084701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="../blog/posts/dataset-pruning/index.html"> <p class="card-img-top"><img src="posts/dataset-pruning/image.png" alt="Dataset Pruning"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="../blog/posts/dataset-pruning/index.html">
+<h3 class="no-anchor listing-title">
+Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets
+</h3>
+<div class="listing-subtitle">
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="research,dataset-pruning" data-listing-date-sort="1693350000000" data-listing-file-modified-sort="1693428100526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Aug 30, 2023</span>
-</td>
-<td>
-<a href="../blog/posts/dataset-pruning/index.html" class="title listing-title">Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets</a>
-</td>
-</tr>
-<tr data-index="1" data-categories="code,til,note,quarto" data-listing-date-sort="1693004400000" data-listing-file-modified-sort="1693428286778" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Using Quarto for Notes and Code" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Aug 26, 2023</span>
-</td>
-<td>
-<a href="../blog/posts/post-with-code/index.html" class="title listing-title">Using Quarto for Notes and Code</a>
-</td>
-</tr>
-</tbody>
+</div>
+<div class="listing-description">
+Dataset pruning <span class="citation" data-cites="yang2023dataset xia2023moderate">(Yang et al. 2023; Xia et al. 2023)</span> is an emerging technique for data-efficient learning of deep neural networks. The…<em></em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../blog/posts/dataset-pruning/index.html">
+<div class="listing-date">
+Aug 30, 2023
+</div>
+<div class="listing-reading-time">
+3 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="blog,quarto" data-listing-date-sort="1693004400000" data-listing-file-modified-sort="1693429050484" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="../blog/posts/post-with-code/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="../blog/posts/post-with-code/index.html">
+<h3 class="no-anchor listing-title">
+Using Quarto for Notes and Code
+</h3>
+<div class="listing-subtitle">
 
-</table>
+</div>
+<div class="listing-description">
+Inspired by Hamel’s twitter, I am exploring Quarto for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../blog/posts/post-with-code/index.html">
+<div class="listing-date">
+Aug 26, 2023
+</div>
+<div class="listing-reading-time">
+2 min
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

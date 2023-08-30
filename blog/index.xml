@@ -110,7 +110,7 @@ Zhao, Bo, Konda Reddy Mopuri, and Hakan Bilen. 2020. <span>“Dataset <span>Cond
 Lin, Yiming. 2023. <span>“Dataset Pruning: Enhancing Deep Learning
 Efficiency on Large Scale Datasets.”</span> August 30, 2023. <a href="https://yiminglin-ai.github.io//blog/posts/dataset-pruning">https://yiminglin-ai.github.io//blog/posts/dataset-pruning</a>.
 </div></div></section></div> ]]></description>
-  <category>research</category>
+  <category>data-centric-ai</category>
   <category>dataset-pruning</category>
   <guid>https://yiminglin-ai.github.io/blog/posts/dataset-pruning/index.html</guid>
   <pubDate>Tue, 29 Aug 2023 23:00:00 GMT</pubDate>
@@ -220,9 +220,7 @@ Lots of people have asked me about what tools I use for my TIL site (<a href="ht
 Lin, Yiming. 2023. <span>“Using Quarto for Notes and Code.”</span>
 August 26, 2023. <a href="https://yiminglin-ai.github.io//blog/posts/post-with-code">https://yiminglin-ai.github.io//blog/posts/post-with-code</a>.
 </div></div></section></div> ]]></description>
-  <category>code</category>
-  <category>til</category>
-  <category>note</category>
+  <category>blog</category>
   <category>quarto</category>
   <guid>https://yiminglin-ai.github.io/blog/posts/post-with-code/index.html</guid>
   <pubDate>Fri, 25 Aug 2023 23:00:00 GMT</pubDate>
