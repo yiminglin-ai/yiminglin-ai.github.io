@@ -11,7 +11,7 @@
     "href": "blog/posts/post-with-code/index.html",
     "title": "Using Quarto for Notes and Code",
     "section": "",
-    "text": "Inspired by Hamel’s twitter, I am exploring Quarto for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:\n1. Flexible Markup: Quarto seamlessly supports both Jupyter Notebooks and Quarto Markdown, providing an optimal environment for crafting intricate technical notes."
+    "text": "Inspired by Hamel’s twitter, I am exploring Quarto for compiling my notes into a static website on Github Pages. Some of the features I like about Quarto are:"
   },
   {
     "objectID": "blog/posts/post-with-code/index.html#code-folding-and-dynamic-code-execution",
