@@ -1,0 +1,6 @@
+audit_batches/
+audit_batches_corrected/
+__pycache__/
+*.pyc
+.DS_Store
+

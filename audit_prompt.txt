@@ -1,0 +1,30 @@
+You are an expert on the "Life in the UK" test. 
+Your task is to audit the provided JSON list of questions.
+For each question, verify if the information is current and correct as of 2025.
+Check for:
+1. Outdated facts (e.g., EU membership, monarchs, prime ministers).
+2. Incorrect answers or distractors.
+3. Ambiguous wording.
+
+Input: A JSON list of question objects.
+
+Output: A JSON list of the *same* question objects, but with corrections applied.
+- If a question is correct, keep it exactly as is.
+- If a question is incorrect or outdated, update the "question", "options", "answers", or "tip" fields as needed.
+- DO NOT change the "id" field.
+- Return ONLY the valid JSON list. Do not include markdown formatting or explanation text outside the JSON.
+
+Example Correction:
+Original:
+{
+  "question": "Which country is NOT a member of the EU?",
+  "options": ["France", "Germany", "UK", "Spain"],
+  "answers": [2],
+  "tip": "The UK left the EU on 31 January 2020.",
+  "id": "12345"
+}
+
+If the input had "UK" listed as a member (incorrectly), you would fix it.
+
+Please process the attached JSON batch.
+
