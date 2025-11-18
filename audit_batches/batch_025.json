@@ -1,0 +1,670 @@
+[
+  {
+    "question": "Which of the following is a Crown dependency?",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Channel Islands",
+      "Scotland"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Channel Islands are closely linked with the UK but are not part of it, and have their own governments.",
+    "id": "32e0d27a"
+  },
+  {
+    "question": "Who set up the first formal anti-slavery campaigns?",
+    "options": [
+      "Cavaliers",
+      "Roundheads",
+      "Jacobites",
+      "The Quakers"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s, and they petitioned Parliament to ban the practice.",
+    "id": "32edd68a"
+  },
+  {
+    "question": "Films were first shown publicly in the UK in ______",
+    "options": [
+      "1846",
+      "1896",
+      "1916",
+      "1946"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "32fb8f08"
+  },
+  {
+    "question": "Wales united with England during the reign of Henry VIII.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "By the Act for the Government of Wales during the reign of King Henry VIII, Wales united with England.",
+    "id": "33128d40"
+  },
+  {
+    "question": "Why is it called 'The Glorious Revolution'?",
+    "options": [
+      "Because there was no fighting",
+      "Because of new technological advances",
+      "Because of new achievements",
+      "Women were given the right to vote"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+    "id": "331ce71a"
+  },
+  {
+    "question": "Where were the first farmers that came to Britain from?",
+    "options": [
+      "South west Europe",
+      "North Europe",
+      "South east Europe",
+      "North west Europe"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe.",
+    "id": "331f0ce7"
+  },
+  {
+    "question": "When did newspapers begin to operate without a government licence?",
+    "options": [
+      "1681",
+      "1695",
+      "1708",
+      "1712"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "This was also an important time for the development of a free press (newspapers and other publications which are not controlled by the government). From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+    "id": "33315723"
+  },
+  {
+    "question": "Who was the first 'Scottish King'?",
+    "options": [
+      "William I",
+      "Kenneth MacAlpin",
+      "Harold",
+      "Cnut also \"Canute\""
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the north, the threat of attack by Vikings had encouraged the people to unite under one king, Kenneth MacAlpin. The term Scotland began to be used to describe that country.",
+    "id": "334fc511"
+  },
+  {
+    "question": "Which court deals with minor criminal cases in England and Wales?",
+    "options": [
+      "Justice of the Peace Court",
+      "Crown Court",
+      "High Court",
+      "Magistrates' Court"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt within a Magistrates' Court.",
+    "id": "33621c76"
+  },
+  {
+    "question": "The Opposition is the second largest party in the House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The second-largest party in the House of Commons is called the Opposition. The leader of the Opposition usually becomes Prime Minister if his or her party wins the next General Election.",
+    "id": "3379d955"
+  },
+  {
+    "question": "Which TWO things can you do to look after the environment?",
+    "options": [
+      "Drive your car as much as possible",
+      "Recycle your waste",
+      "Never turn the lights off in your house",
+      "Walk and use public transport to get around"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Recycle as much of your waste as you can, as this will reduce the amount of rubbish in landfill sites. Walking and using public transport creates less pollution than using a car.",
+    "id": "3385b952"
+  },
+  {
+    "question": "Elderly population is being declined in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The UK has an ageing population and people in the UK are living longer than ever before, there are now a record number of people aged 85 and over",
+    "answers": [
+      1
+    ],
+    "id": "3399fe9d"
+  },
+  {
+    "question": "Practising Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is a criminal offence",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "339fad34"
+  },
+  {
+    "question": "What were TWO important aspects of the Reform Act of 1832?",
+    "options": [
+      "It decreased the power of the monarch.",
+      "It increased the number of people who could vote.",
+      "It abolished rotten boroughs.",
+      "It gave women the vote."
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The Reform Act of 1832 increased the number of men who could vote. It also abolished many rotten boroughs (parliamentary seats where there were few voters), and increased the number of seats in the new cities and towns.",
+    "id": "33a26afd"
+  },
+  {
+    "question": "Where are all minor criminal cases heard in England, Wales and Northern Ireland?",
+    "options": [
+      "High court",
+      "Sheriff court",
+      "Magistrates’ court",
+      "County court"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "id": "33b8b98a"
+  },
+  {
+    "question": "The Prime Minister appoints about 80 senior MPs to become ministers in charge of departments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments.",
+    "id": "33c4f0e4"
+  },
+  {
+    "question": "Queen Elizabeth II celebrated ______ in 2012",
+    "options": [
+      "Diamond Jubilee",
+      "Silver Jubilee",
+      "Platinum Jubilee",
+      "Golden Jubilee"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "33c9500e"
+  },
+  {
+    "question": "Local councils, in the UK, are often called local authorities",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is correct",
+    "id": "33fde192"
+  },
+  {
+    "question": "Who established the Church of England?",
+    "options": [
+      "The Pope",
+      "Henry VII",
+      "St George",
+      "Henry VIII"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "To divorce his first wife, Henry VIII needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new Church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+    "id": "34135957"
+  },
+  {
+    "question": "The Roman army left Britain in AD ______ to defend other parts of the Roman Empire and never returned",
+    "options": [
+      "110",
+      "210",
+      "310",
+      "410"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "341eb7b1"
+  },
+  {
+    "question": "Mothering Sunday is two weeks before Easter",
+    "options": [
+      "True",
+      "False, its three weeks"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3453a1d1"
+  },
+  {
+    "question": "In 1707 the kingdoms of England and Scotland were united.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The term Great Britain dates from the union in 1707 of England and Scotland.",
+    "id": "346bf6cc"
+  },
+  {
+    "question": "Once you are aged 17 or older, you can learn to drive",
+    "options": [
+      "Heavy goods vehicle",
+      "Motor cycle",
+      "Fire engine",
+      "Car"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "3474d08d"
+  },
+  {
+    "question": "What do The National Trust do?",
+    "options": [
+      "Preserves old aircraft",
+      "Plants more trees in the UK",
+      "Conserves native bird species",
+      "Preserves important buildings and places"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "347faf15"
+  },
+  {
+    "question": "People don't celebrate Christmas as much as they used to before",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Christmas remains very popular in the UK. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
+    "id": "348395ff"
+  },
+  {
+    "question": "The Channel Islands are self-governing",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’.",
+    "id": "34ab70d4"
+  },
+  {
+    "question": "What is the national flower of Northern Ireland?",
+    "options": [
+      "A Lily",
+      "A Shamrock",
+      "A Thistle",
+      "A Rose"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A Shamrock is the national flower of Northern Ireland.",
+    "id": "34ba1e7d"
+  },
+  {
+    "question": "Name the most famous cricket competition, which is a series of Test matches played between England and Australia",
+    "options": [
+      "Lords",
+      "Masters",
+      "Classics",
+      "Ashes"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The most famous competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "id": "34e80900"
+  },
+  {
+    "question": "How often is the electoral register updated?",
+    "options": [
+      "Yearly",
+      "Weekly",
+      "Daily",
+      "Monthly"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The electoral register is updated every year in September or October. An electoral registration form is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote.",
+    "id": "34f1f2ec"
+  },
+  {
+    "question": "Alcohol should not be sold to anyone under the age of",
+    "options": [
+      "16",
+      "18",
+      "14",
+      "21"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "34f6d90b"
+  },
+  {
+    "question": "Which of the following poets was inspired by nature?",
+    "options": [
+      "John Masefield",
+      "Wilfred Owen",
+      "Siegfried Sassoon",
+      "William Wordsworth"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "3512dd43"
+  },
+  {
+    "question": "A General Election occurs every six years",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "its every five years",
+    "answers": [
+      1
+    ],
+    "id": "35243ffb"
+  },
+  {
+    "question": "The system of government in the UK is a parliamentary democracy",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The system of government in the UK is a parliamentary democracy. The UK is divided into parliamentary constituencies. Voters in each constituency elect their member of Parliament (MP) in a General Election. All of the elected MPs form the House of Commons. Most MPs belong to a political party, and the party with the majority of MPs forms the government. If one party does not get a majority, two parties can join together to form a coalition.",
+    "id": "3525b521"
+  },
+  {
+    "question": "What is the Giant's Causeway made of?",
+    "options": [
+      "Stone",
+      "Iron",
+      "Bronze",
+      "Volcanic Lava"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Located on the north-east coast of Northern Ireland, the Giant's Causeway is a land formation of columns made from volcanic lava. It was formed about 50 million years ago. There are many legends about the Causeway and how it was formed.",
+    "id": "3533aaf5"
+  },
+  {
+    "question": "Who is the next heir to the throne?",
+    "options": [
+      "Prince William",
+      "The Prime Minister",
+      "The Queen's husband",
+      "The Queen's eldest son"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Queen has reigned since her father’s death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "id": "3550b6ce"
+  },
+  {
+    "question": "How long does Diwali normally last for?",
+    "options": [
+      "5 days",
+      "8 days",
+      "7 days",
+      "3 days"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+    "id": "356827f1"
+  },
+  {
+    "question": "Only members of the public who have their name on the electoral register can listen to debates in the Palace of Westminister in the House of Lords",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.",
+    "id": "356a2f94"
+  },
+  {
+    "question": "There is no upper age limit for doing jury service",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+    "id": "3577fe61"
+  },
+  {
+    "question": "You can serve on a jury up to the age of 75",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The age limit for jury service is 70",
+    "answers": [
+      1
+    ],
+    "id": "35794bd5"
+  },
+  {
+    "question": "When did the English Civil war begin?",
+    "options": [
+      "1642",
+      "1640",
+      "1598",
+      "1588"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "3583f688"
+  },
+  {
+    "question": "The UK belongs to international bodies which includes:",
+    "options": [
+      "The North American Free Trade Agreement (NAFTA)",
+      "The North Atlantic Treaty Organization (NATO)",
+      "The Arab League",
+      "The Commonwealth"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "358b5f28"
+  },
+  {
+    "question": "In 1998, what was the estimated population of the UK?",
+    "options": [
+      "75 million",
+      "42 million",
+      "57 million",
+      "62 million"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "(1951, 50 million), (1998, 57 million), (2005, Just under 60 million), (2010, Just over 62 million)",
+    "id": "358bccbe"
+  },
+  {
+    "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony.",
+    "options": [
+      "Affirm",
+      "Send",
+      "Swear",
+      "Sign"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.",
+    "id": "3597372c"
+  },
+  {
+    "question": "Which TWO wives of Henry VIII were executed?",
+    "options": [
+      "Catherine Howard",
+      "Anne Boleyn",
+      "Anne of Cleves",
+      "Jayne Seymour"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Anne Boleyn – Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London.\nCatherine Howard – Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+    "id": "359e3b72"
+  },
+  {
+    "question": "How long did the Hundred Years War last for?",
+    "options": [
+      "100 years",
+      "116 years",
+      "97 years",
+      "108 years"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+    "id": "35a0b3cd"
+  },
+  {
+    "question": "What destroyed London in year 1666?",
+    "options": [
+      "Plague",
+      "Water",
+      "Fire",
+      "Nuclear Plant"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "During Charles II’s reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul’s Cathedral.",
+    "id": "35b88a29"
+  },
+  {
+    "question": "In 1348 a third of the populations of England, Wales and Scotland died as a result of which plague?",
+    "options": [
+      "The Blue Death",
+      "The White Death",
+      "The Green Death",
+      "The Black Death"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The vast number of people who died from the Black Death led to changes in the way society was structured. For example, new social classes appeared, including large landowners, and labour shortages meant that peasants demanded higher wages.",
+    "id": "35b8b5a7"
+  },
+  {
+    "question": "Which TWO events are religious festivals?",
+    "options": [
+      "Easter",
+      "Christmas Day",
+      "Boxing Day",
+      "Bonfire Night"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Easter and Christmas are two Christian festivals. Christmas celebrates the birth of Jesus Christ, and Easter marks his death on Good Friday and his rising from the dead on Easter Sunday.",
+    "id": "35bded80"
+  },
+  {
+    "question": "Who was the first Danish King?",
+    "options": [
+      "William",
+      "Cnut also 'Canute'",
+      "Kenneth MacAlpin",
+      "Harold"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The first Danish King was Cnut, also called Canute.",
+    "id": "35d66b8c"
+  },
+  {
+    "question": "Where was Emmeline Pankhurst born?",
+    "options": [
+      "Aberdeen",
+      "London",
+      "Manchester",
+      "Glasgow"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women’s Franchise League in 1889, which fought to get the vote in local elections for married women.",
+    "id": "35da0faa"
+  }
+]

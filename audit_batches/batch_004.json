@@ -1,0 +1,687 @@
+[
+  {
+    "question": "What must all dogs wear in public?",
+    "options": [
+      "A Hat",
+      "Shoes",
+      "A Collar",
+      "A Jacket"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "All dogs in public places must wear a collar showing the name and address of the owner. The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.",
+    "id": "0651cf94"
+  },
+  {
+    "question": "Who tried to arrest 5 parliamentary leaders from the House of Commons?",
+    "options": [
+      "Charles I",
+      "Henry VII",
+      "Henry VIII",
+      "James I"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
+    "id": "065599fe"
+  },
+  {
+    "question": "The name of a novel by Jane Austen is ______",
+    "options": [
+      "Our Man in Havana",
+      "Sense and Sensibility",
+      "Oliver Twist",
+      "Far from the Madding Crowd"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "066d2b96"
+  },
+  {
+    "question": "When did the first farmers start settling in Britain?",
+    "options": [
+      "4000 years ago",
+      "10000 years ago",
+      "6000 years ago",
+      "8500 years ago"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land.",
+    "id": "06894542"
+  },
+  {
+    "question": "Which form of religion developed as a result of the Reformation?",
+    "options": [
+      "Catholicism",
+      "Protestantism",
+      "Methodism",
+      "Hinduism"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Reformation occurred across Europe against the Roman Catholic Church, which led to the establishment of Protestant churches.",
+    "id": "069b22a2"
+  },
+  {
+    "question": "Which two of the following issues can the devolved administrations pass laws on?",
+    "options": [
+      "Immigration",
+      "Foreign affairs",
+      "Health",
+      "Education"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "069e5377"
+  },
+  {
+    "question": "You have to be on the electoral register to visit the Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "06a26bc6"
+  },
+  {
+    "question": "______ is the process of preparing fibres for spinning into yarn and fabric",
+    "options": [
+      "Cordmill",
+      "Spindering",
+      "Milling",
+      "Carding"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "06af90d0"
+  },
+  {
+    "question": "A General Election occurs every eight years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "General Elections in the UK are held at least every five years.",
+    "id": "06b06117"
+  },
+  {
+    "question": "What is the function of the House of Lords?",
+    "options": [
+      "It give ex-MPs jobs",
+      "It has no function and should be declared illegal",
+      "It helps old judges keep an interest in things",
+      "It suggests amendments or proposes new laws"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "06b6d08f"
+  },
+  {
+    "question": "British scientists were the first to clone a mammal successfully. The animal was a rabbit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The British team used a sheep for the first mammal cloning. The sheep was called Dolly.",
+    "id": "06c159e5"
+  },
+  {
+    "question": "Who appoints the local Chief Constable?",
+    "options": [
+      "The Prime Minister",
+      "The Speaker",
+      "Police and Crime Commissioners",
+      "The Monarch"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "PCCs (Police and Crime Commissioners) set local police priorities and the local policing budget. They also appoint the Chief Constable.",
+    "id": "06c72c10"
+  },
+  {
+    "question": "What is London's West End also known as?",
+    "options": [
+      "Theatreland",
+      "Playland",
+      "Actorland",
+      "Actland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are theatres in most towns and cities throughout the UK, ranging from the large to the small. London’s West End, also known as ‘Theatreland’, is particularly well known.",
+    "id": "06ccd847"
+  },
+  {
+    "question": "Which TWO words appear in the first two lines of the national anthem 'God save the Queen'?",
+    "options": [
+      "Gracious",
+      "Noble",
+      "Royal",
+      "Majesty"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The first verse is: 'God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!'.",
+    "id": "06d06b6b"
+  },
+  {
+    "question": "The National Assembly elections are held every ____ years using a form of proportional representation",
+    "options": [
+      "one",
+      "two",
+      "four",
+      "five"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "06dcf72e"
+  },
+  {
+    "question": "Which of these is NOT a responsibility of British citizen?",
+    "options": [
+      "To obey and respect the law",
+      "To preserve the environment",
+      "To behave responsibly",
+      "To go to the local pub"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
+    "id": "06de00f8"
+  },
+  {
+    "question": "In 1776, ______ colonies of the British Empire decided to declare their independence",
+    "options": [
+      "American",
+      "Australian",
+      "Canadian",
+      "South African"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "06de610b"
+  },
+  {
+    "question": "Commonwealth members are",
+    "options": [
+      "Bangladesh",
+      "Czech Republic",
+      "Germany",
+      "India",
+      "Poland",
+      "South Africa",
+      "Spain",
+      "UK"
+    ],
+    "answers": [
+      0,
+      3,
+      5,
+      7
+    ],
+    "id": "06e0d6c3"
+  },
+  {
+    "question": "Who designed the Dumfries House in Scotland?",
+    "options": [
+      "Sir Edwin Lutyens",
+      "Inigo Jones",
+      "Sir Christopher Wren",
+      "Robert Adam"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the 18th century, simpler designs became popular. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America. He designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland. His ideas influenced architects in cities such as Bath, where the Royal Crescent was built.",
+    "id": "06f28be1"
+  },
+  {
+    "question": "Where can you get help if you can't afford to pay a vet?",
+    "options": [
+      "Charities",
+      "Family",
+      "Friends",
+      "Your vet"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets). There are charities which may help people who cannot afford to pay a vet.",
+    "id": "06f3e9be"
+  },
+  {
+    "question": "Which of the following is a rugby competition?",
+    "options": [
+      "The Scottish Grand National",
+      "The Wimbledon Championships",
+      "The Ashes",
+      "The Six Nations Championship"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "06f7b960"
+  },
+  {
+    "question": "How do an employee pay their National Insurance contribution?",
+    "options": [
+      "Deducted from his/her pay by the employer",
+      "Will pay in full at the end of each year",
+      "Need to pay before 31st March",
+      "No need to pay"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "06fee71d"
+  },
+  {
+    "question": "Which two British pop music groups were famous during the Swinging Sixties?",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "ABBA",
+      "Radiohead"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "0706d4c9"
+  },
+  {
+    "question": "What is known as Lent?",
+    "options": [
+      "The 40 days after Easter",
+      "The 40 days before Easter",
+      "The 40 days before Christmas",
+      "The 40 days after Christmas"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 40 days before Easter are known as Lent.",
+    "id": "070b33d1"
+  },
+  {
+    "question": "The Scottish Parliament (after the Magna Carta was established in England) was spilt into two estates: the Lords and the Commons",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons. Only a small part of the population was able to join in electing the members of the Commons. In Scotland, the parliament had three Houses, called Estates: the Lords, the Commons and the Clergy.",
+    "id": "070dec40"
+  },
+  {
+    "question": "What does the TV licence money pay for?",
+    "options": [
+      "The BBC",
+      "Electricity",
+      "All Free Radio Channels",
+      "Freeview Channels"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The money from TV licences is used to pay for the British Broadcasting Corporation also known as the BBC.",
+    "id": "071b35aa"
+  },
+  {
+    "question": "The Civil War between Charles I and Parliament in the mid-17th century led to Oliver Cromwell becoming king of England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "At the end of the Civil War, England became a republic and Oliver Cromwell was made Lord Protector.",
+    "id": "0728c000"
+  },
+  {
+    "question": "When did the Glorious Revolution happen?",
+    "options": [
+      "1692",
+      "1685",
+      "1688",
+      "1680"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+    "id": "073c64b4"
+  },
+  {
+    "question": "Who led the Labour Government from 2007 to 2010?",
+    "options": [
+      "Tony Blair",
+      "Gordon Brown",
+      "David Cameron",
+      "Margaret Thatcher"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Gordon Brown took over as Prime Minister in 2007 and led the Labour Party.",
+    "id": "073f43bf"
+  },
+  {
+    "question": "There is a food that is traditionally associated with Northern Ireland is ______",
+    "options": [
+      "Roast beef, which is served with potatoes, vegetables, Yorkshire puddings",
+      "Fish and chips",
+      "Ulster fry - a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes mushrooms, soda bread and potato bread",
+      "Welsh cakes",
+      "Haggis - a sheep's stomach stuffed with offal, suet, onions and oatmeal"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "074846d8"
+  },
+  {
+    "question": "People lived in roundhouses and buried their dead in tombs called",
+    "options": [
+      "tombs barrows",
+      "round barrows",
+      "ground barrows",
+      "dead barrows"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "074c3f38"
+  },
+  {
+    "question": "An aim of the United Nations is",
+    "options": [
+      "to examine decisions made by the European Union",
+      "to create a single free trade market",
+      "to promote dictatorship",
+      "to prevent war and promote international peace and security"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "074f5091"
+  },
+  {
+    "question": "Which TWO of the following are major outdoor music festivals?",
+    "options": [
+      "Royal Ascot",
+      "Isle of Wight Festival",
+      "Hogmanay",
+      "Glastonbury"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Famous UK festivals include Glastonbury and the Isle of Wight Festival. Festival season takes place across the UK every summer, with major events in various locations.",
+    "id": "075d7733"
+  },
+  {
+    "question": "When is the Bonfire Night celebrated?",
+    "options": [
+      "28 November",
+      "31 October",
+      "5 November",
+      "28 October"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "id": "0764994c"
+  },
+  {
+    "question": "Queen Elizabeth I was a devout Catholic and persecuted Protestants",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’). Mary also died after a short reign and the next monarch was her half-sister, Elizabeth, the daughter of Henry VIII and Anne Boleyn.",
+    "id": "0775262d"
+  },
+  {
+    "question": "Which of these religions was developed as a result of the Reformation?",
+    "options": [
+      "Catholicism",
+      "Methodism",
+      "Protestantism",
+      "Hinduism"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "id": "07761047"
+  },
+  {
+    "question": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+    "options": [
+      "Houses of the Parliament",
+      "Stonehenge",
+      "Tower of London",
+      "Whitehall"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "0777997d"
+  },
+  {
+    "question": "In 1999 new national bodies established were",
+    "options": [
+      "English Parliament",
+      "House of Lords",
+      "Welsh Assembly",
+      "Scottish Parliament"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "07b71107"
+  },
+  {
+    "question": "What is the name of the first major railway built in Britain?",
+    "options": [
+      "Southern Railway",
+      "Victorian Rail",
+      "Blue Rail",
+      "The Great Western Railway"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Great Western Railway is the name of the first major railway built in Britain.",
+    "id": "07c3d286"
+  },
+  {
+    "question": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+    "options": [
+      "Auld Lang Syne",
+      "The British Anthem",
+      "Jingle Bells",
+      "White Christmas"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "07da737c"
+  },
+  {
+    "question": "Britain was invaded by tribes from ______ Europe: the Jutes, the Angles and the Saxons",
+    "options": [
+      "northern",
+      "eastern",
+      "western",
+      "southern"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "07eb6840"
+  },
+  {
+    "question": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+    "options": [
+      "A war",
+      "A flood",
+      "A fire",
+      "An earthquake"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "07f4e4d7"
+  },
+  {
+    "question": "Many local authorities appoint ______, who is the ceremonial leader of the council",
+    "options": [
+      "a mayor",
+      "an MP",
+      "an accountant",
+      "a shadow minister"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "07f944a1"
+  },
+  {
+    "question": "What is the name of the holiday when banks and many other businesses are closed for the day?",
+    "options": [
+      "Credit Holidays",
+      "Branch Holidays",
+      "Bank Holidays",
+      "Business Holidays"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "08020c69"
+  },
+  {
+    "question": "What should you do when you move into a new house or apartment?",
+    "options": [
+      "Do nothing",
+      "Introduce yourself to the people who live near you so they can help you",
+      "Warn the people who live near you not to talk to you",
+      "Tell the people who live near you not to make noise"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "When you move into a new house or apartment, introduce yourself to the people who live near you. Getting to know your neighbours can help you to become part of the community and make friends.",
+    "id": "0807ddf9"
+  },
+  {
+    "question": "Who does keep order during political debates to make sure the rules are followed",
+    "options": [
+      "The Prime Minister",
+      "The Queen",
+      "The Hansard",
+      "The Speaker"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "080bfd9a"
+  },
+  {
+    "question": "In Elizabeth I's time, English settlers began to colonise which part of the world?",
+    "options": [
+      "Eastern coast of America",
+      "Central Africa",
+      "India",
+      "Australia"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of America. The Elizabethan period is also remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare.",
+    "id": "080dc94f"
+  },
+  {
+    "question": "What is a jury made up of?",
+    "options": [
+      "People working in high-powered jobs",
+      "People randomly chosen from the electoral register",
+      "People who are members of political parties ",
+      "People who have submitted an application form and been accepted"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A jury is made up of members of the public chosen at random from the electoral register.",
+    "id": "081726e2"
+  },
+  {
+    "question": "Charles was unwilling to reach any agreement with the Parliament and in ______ he was executed",
+    "options": [
+      "1649",
+      "1654",
+      "1659",
+      "1664"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0825d22c"
+  },
+  {
+    "question": "Who won gold medals in rowing in five consecutive Olympic Games?",
+    "options": [
+      "Sir Chris Hoy",
+      "Dame Ellen MacArthur",
+      "Sir Steve Redgrave",
+      "Sir Roger Bannister"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
+    "id": "082a2f7d"
+  }
+]

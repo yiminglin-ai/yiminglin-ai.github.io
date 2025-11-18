@@ -1,0 +1,659 @@
+[
+  {
+    "question": "The National Citizen Service provides military training to young people",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "508e36e5"
+  },
+  {
+    "question": "As part of the citizenship ceremony, new citizens pledge to uphold its democratic values",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "50909669"
+  },
+  {
+    "question": "What does the Butler Act refer to?",
+    "options": [
+      "Free Primary Education",
+      "Free University Education",
+      "Free College Education",
+      "Free Secondary Education"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Richard Austen Butler (later Lord Butler) oversaw the introduction of the Education Act 1944 (often called 'The Butler Act'), which introduced free secondary education in England and Wales. The education system has changed significantly since the Act was introduced, but the division between primary and secondary schools that it enforced still remains in most areas of Britain.",
+    "id": "50adbb7a"
+  },
+  {
+    "question": "What is the official report of the Parliament's Proceedings called?",
+    "options": [
+      "Westminster's Herald",
+      "Hansard",
+      "Cenotaph",
+      "Gansard"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "50b73428"
+  },
+  {
+    "question": "In order to vote in elections you must have",
+    "options": [
+      "passed an electoral test",
+      "registered your identity with the police",
+      "put your name on the electoral register",
+      "paid income tax in the previous year"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "50b9ca9d"
+  },
+  {
+    "question": "Which one is not a valid UK coin?",
+    "options": [
+      "2p",
+      "25p",
+      "50p",
+      "5p"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+    "id": "50bd175c"
+  },
+  {
+    "question": "Sir Kingsley Amis was a famous English novelist and poet who wrote more than 20 novels, including ‘Lucky Jim’",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Sir Kingsley Amis (1922–95) was an English novelist and poet. He wrote more than 20 novels. The most well-known is Lucky Jim.",
+    "id": "50e32788"
+  },
+  {
+    "question": "The process ‘Highland Clearances’ happened due to rebellion of slaves",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A process began which became known as the ‘Highland Clearances’. Many Scottish landlords destroyed individual small farms (known as ‘crofts’) to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+    "id": "51257986"
+  },
+  {
+    "question": "The Victoria Cross was introduced during the ______",
+    "options": [
+      "First World War",
+      "Second World War",
+      "Boer War",
+      "Crimean War"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "512e1d6b"
+  },
+  {
+    "question": "Christmas Day celebrates the birth of Jesus Christ",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+    "id": "51320b67"
+  },
+  {
+    "question": "The Commonwealth is made up of countries which were once part of the British Empire only",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+    "id": "51453324"
+  },
+  {
+    "question": "Where can you find a solicitor in the UK?",
+    "options": [
+      "Paying expensive Law firms to find one",
+      "By contacting the police",
+      "Go to one of the Youth Courts",
+      "The Citizens Advice Bureau"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Solicitors are trained lawyers who give advice on legal matters. They take action for their clients and represent them in court. The Citizens Advice Bureau can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society.",
+    "id": "51494391"
+  },
+  {
+    "question": "What did Sir Frank Whittle invent in the 1930s?",
+    "options": [
+      "Jet engine",
+      "Telephone",
+      "Computer",
+      "Ballpoint pen"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The jet engine was developed in Britain in the 1930s by Sir Frank Whittle (1907–96), a British Royal Air Force engineer Officer.",
+    "id": "514cf5c1"
+  },
+  {
+    "question": "Who won the Wars of the Roses?",
+    "options": [
+      "House of York",
+      "House of Lancaster",
+      "House of Lords",
+      "House of Commons"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose. The war ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII.",
+    "id": "514fe79d"
+  },
+  {
+    "question": "Many of the painters working in Britain in the 16th and 17th centuries were from abroad",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Many of the painters working in Britain in the 16th and 17th centuries were from abroad – for example, Hans Holbein and Sir Anthony Van Dyck.",
+    "id": "51684725"
+  },
+  {
+    "question": "The UK originally decided not to join the European Union but it became a member in 1973",
+    "options": [
+      "Yes, this is correct",
+      "No, it became a member in 1989"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5174256b"
+  },
+  {
+    "question": "What are TWO responsibilities of members of Parliament (MPs)?",
+    "options": [
+      "Represent only those who voted for them",
+      "They represent everyone in their constituency",
+      "Appoint the Prime Minister (PM)",
+      "Scrutinise and comment on what the government is doing"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "MPs have a number of different responsibilities. They:; represent everyone in their constituency; ; help to create new laws; ; scrutinise and comment on what the government is doing; ; debate important national issues;",
+    "id": "519a27ae"
+  },
+  {
+    "question": "Those who don't respect the law should not expect to be allowed to become permanent residents",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "If you don't respect the law you should not expect to be allowed to settle in the UK",
+    "id": "51a5f698"
+  },
+  {
+    "question": "Who were the first people to start living in Britain?",
+    "options": [
+      "Inventors",
+      "Hunter-gatherers",
+      "Pirates",
+      "The Romans"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age.",
+    "id": "51b0a08a"
+  },
+  {
+    "question": "There is a food that is traditionally associated with Scotland is ______",
+    "options": [
+      "Roast beef, which is served with potatoes, vegetables, Yorkshire puddings",
+      "Fish and chips",
+      "Ulster fry",
+      "Welsh cakes",
+      "Haggis - a sheep's stomach stuffed with offal, suet, onions and oatmeal"
+    ],
+    "answers": [
+      4
+    ],
+    "id": "51bce37c"
+  },
+  {
+    "question": "Which two of these forts were part of Hadrian's wall?",
+    "options": [
+      "Vindolanda",
+      "Maiden Castle",
+      "Housesteads",
+      "Grimsby"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "",
+    "id": "51d01319"
+  },
+  {
+    "question": "Queen Elizabeth I was the younger daughter of",
+    "options": [
+      "Henry VII",
+      "Edward VI",
+      "Henry VIII",
+      "King Richard III"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "51d23412"
+  },
+  {
+    "question": "People of the Iron Age sometimes defended sites called",
+    "options": [
+      "Hill forts",
+      "Hill barrows",
+      "Round barrows",
+      "Skara Brae"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "51dd68bd"
+  },
+  {
+    "question": "School governors, or members of the school board in Scotland, are people from ______ who wish to make a positive contribution to children's education",
+    "options": [
+      "the school board",
+      "the local community",
+      "the teacher union",
+      "the Ministry of School"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "51e05670"
+  },
+  {
+    "question": "The police can confiscate alcohol or move young people on from public places",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "51e5658d"
+  },
+  {
+    "question": "Which king defeated the Vikings?",
+    "options": [
+      "King William the Conqueror",
+      "Kind Harold",
+      "King Alfred the Great",
+      "King Robert the Bruce"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings. Many of the Viking invaders stayed in Britain – especially in the east and north of England, in an area known as the Danelaw",
+    "id": "51eac885"
+  },
+  {
+    "question": "Ulster fry is a traditional food of which country?",
+    "options": [
+      "Northern Ireland",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Northern Ireland’s traditional food is ‘Ulster fry’ – a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+    "id": "51f066f7"
+  },
+  {
+    "question": "Which of these are associated with Sir Francis Drake?",
+    "options": [
+      "Sailing around the world",
+      "The Titanic",
+      "The Spanish Armada",
+      "Empress of Ireland"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "51f8c63a"
+  },
+  {
+    "question": "Scotland and Northern Ireland have their patron saint's day as an official holiday",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "521c4f0f"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, ______ of people said that they had no religion",
+    "options": [
+      "21%",
+      "23%",
+      "25%",
+      "27%"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "521db9a9"
+  },
+  {
+    "question": "Which of these is known as West End in London?",
+    "options": [
+      "Theatreland",
+      "Playland",
+      "Actorland",
+      "Actland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are theatres in most towns and cities throughout the UK, ranging from the large to the small. London’s West End, also known as ‘Theatreland’, is particularly well known.",
+    "id": "5224eb0e"
+  },
+  {
+    "question": "Who wrote the Canterbury Tales?",
+    "options": [
+      "J K Rowling",
+      "Charles Dickens",
+      "William Caxton",
+      "Geoffrey Chaucer"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told called The Canterbury Tales.",
+    "id": "524267b9"
+  },
+  {
+    "question": "Which two of the following are British overseas territories?",
+    "options": [
+      "St Helena",
+      "Solomon Islands",
+      "Mauritius",
+      "The Falkland Islands"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "",
+    "id": "52447e39"
+  },
+  {
+    "question": "Who developed important Economics ideas?",
+    "options": [
+      "Adam Smith",
+      "James Watt",
+      "David Hume",
+      "Richard Arkwright"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today.",
+    "id": "524a6139"
+  },
+  {
+    "question": "Wales and Scotland use a system called 'individual registration'.All those entitled to vote must complete their own registration forms",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In Northern Ireland a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
+    "id": "5253410e"
+  },
+  {
+    "question": "The money from TV licences is used to pay for the ______",
+    "options": [
+      "Sky",
+      "BBC",
+      "DVLA",
+      "road maintenance"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5254da6b"
+  },
+  {
+    "question": "What happens if an MP dies or resigns?",
+    "options": [
+      "A by-election is held",
+      "Someone takes over",
+      "The closest MP will have to cover",
+      "A new General Election is held"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency.",
+    "id": "525b88aa"
+  },
+  {
+    "question": "In the UK,men and women have equal rights to work,own property,marry and divorce.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "They have equal rights to work, own property, marry a4nd divorce.",
+    "id": "525ea430"
+  },
+  {
+    "question": "What is the capital of Scotland?",
+    "options": [
+      "London",
+      "Belfast",
+      "Edinburgh",
+      "Cardiff"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Edinburgh is the capital city of Scotland.",
+    "id": "526370ce"
+  },
+  {
+    "question": "Emmeline Pankhurst is famous for her leadership of the campaign to give women the voting rights in parliamentary elections in the United Kingdom",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "526aca9f"
+  },
+  {
+    "question": "When did the first farmers come to Britain?",
+    "options": [
+      "10,000 years ago",
+      "6,000 years ago",
+      "15,000 years ago",
+      "2,000 years ago"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "528d4009"
+  },
+  {
+    "question": "Which TWO of the following are famous British authors?",
+    "options": [
+      "Sir Steve Redgrave",
+      "Gustav Holst",
+      "Sir Arthur Conan Doyle",
+      "J K Rowling"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Sir Arthur Conan Doyle was a Scottish writer, best known for his stories about Sherlock Holmes. J K Rowling wrote the Harry Potter series of children's books.",
+    "id": "528e7d3b"
+  },
+  {
+    "question": "Who requested to write The Domesday book?",
+    "options": [
+      "Edward I",
+      "King Alfred the Great",
+      "Kenneth Macalpin",
+      "William the Conqueror"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+    "id": "5290f034"
+  },
+  {
+    "question": "When was Charles I executed?",
+    "options": [
+      "1646",
+      "1649",
+      "1658",
+      "1653"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The king’s army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+    "id": "529b8627"
+  },
+  {
+    "question": "Which of these words is based on Norman words?",
+    "options": [
+      "Apple",
+      "Park",
+      "Cow",
+      "Summer"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words. Others – for example, ‘apple’, ‘cow’ and ‘summer’ – are based on Anglo-Saxon words.",
+    "id": "52a29305"
+  },
+  {
+    "question": "Britain has never been at war with France",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Britain fought many wars with France during the Middle Ages and later",
+    "answers": [
+      1
+    ],
+    "id": "52b5182c"
+  },
+  {
+    "question": "Which TWO of the following were British inventions?",
+    "options": [
+      "Television",
+      "Jet engine",
+      "Personal computer",
+      "Diesel engine"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The television and jet engine are two of many important inventions by Britons in the 20th century.",
+    "id": "52b79a4b"
+  },
+  {
+    "question": "The members of the Armed Forces can stand for Public Office",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for Public Office. There are some exceptions, including:\n- Members of the armed forces\n- Civil servants\n- People found guilty of certain criminal offences.",
+    "id": "52bd0c55"
+  },
+  {
+    "question": "A fundamental principle of British life is participating in your community",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "52c957fe"
+  },
+  {
+    "question": "In which field were Adam Smith contributions, during 'the Enlightenment'?",
+    "options": [
+      "Industrial Revolution",
+      "Economics",
+      "Politics",
+      "Philosophy"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called the Enlightenment. Adam Smith developed ideas about economics which are still referred to today.",
+    "id": "52eb492b"
+  }
+]

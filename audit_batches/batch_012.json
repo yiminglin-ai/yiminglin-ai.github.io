@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Parts of the west of Britain, including much of what is now ______, remained free of Anglo-Saxon rule",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "17ac11f2"
+  },
+  {
+    "question": "At the beginning of the Middle Ages, Ireland was an independent country",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to help the Irish king and remained to build their own settlements. By 1200, the English ruled an area of Ireland known as the Pale, around Dublin. Some of the important lords in other parts of Ireland accepted the authority of the English king.",
+    "id": "17afe98a"
+  },
+  {
+    "question": "It is expected that women should stay at home and not work",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "17b049ef"
+  },
+  {
+    "question": "Select TWO early members of the Royal Society",
+    "options": [
+      "Sir Edmund Halley",
+      "Sir William Shakespeare",
+      "Sir Isaac Newton",
+      "Sir Geoffrey Chaucer"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Charles II was interested in science. During his reign, the Royal Society was formed to promote ‘natural knowledge’. This is the oldest surviving scientific society in the world. Among its early members were Sir Edmund Halley, who successfully predicted the return of the comet now called Halley’s Comet, and Sir Isaac Newton.",
+    "id": "17b67c6e"
+  },
+  {
+    "question": "Which word comes from the Viking language?",
+    "options": [
+      "Scunthorpe",
+      "Leg",
+      "Cow",
+      "Arm"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Grimsby and Scunthorpe are the examples of words that come from the Viking languages.",
+    "id": "17bbae3c"
+  },
+  {
+    "question": "What happened to hereditary peers in the House of Lords in 1999?",
+    "options": [
+      "Women were allowed to inherit their titles",
+      "Their numbers were greatly increased",
+      "They lost their automatic right to attend the House of Lords",
+      "Their salaries were stopped"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "17cd0823"
+  },
+  {
+    "question": "In the UK you are expected to respect the rights of others to have their own opinions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. These include respecting the rights of others, including their right to their own opinions.",
+    "id": "17dd76a9"
+  },
+  {
+    "question": "People under ______ are not allowed to participate in the National Lottery",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "17de2aaf"
+  },
+  {
+    "question": "Which party did Margaret Thatcher belong to?",
+    "options": [
+      "Labour",
+      "Liberal Democrats",
+      "Conservative",
+      "UKIP"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990.",
+    "id": "17f68c68"
+  },
+  {
+    "question": "When is St George's day?",
+    "options": [
+      "23rd March",
+      "23rd of April",
+      "23rd of June",
+      "23rd of December"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Each saint has a special day. Wales 1 March: St David's Day; Northern Ireland 17 March: St Patrick's Day; England 23 April: St George's Day; Scotland 30 November: St Andrew's Day.",
+    "id": "1801ebdd"
+  },
+  {
+    "question": "Who invaded the Falkland Islands in 1982?",
+    "options": [
+      "Portugal",
+      "Argentina",
+      "Columbia",
+      "Spain"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+    "id": "182046de"
+  },
+  {
+    "question": "______ developed ideas about economics which are still referred to today",
+    "options": [
+      "David Hume",
+      "James Watt",
+      "Adam Smith",
+      "Howard Florey"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1847918b"
+  },
+  {
+    "question": "Who makes a speech which summarises the government's policies for the year ahead?",
+    "options": [
+      "The Prime Minister",
+      "The Queen",
+      "The Cabinet",
+      "Local Authorities"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "184cf8a4"
+  },
+  {
+    "question": "Who was Catherine of Aragon (the first of Henry VIII's six wives)?",
+    "options": [
+      "Swedish princess",
+      "French princess",
+      "Dutch princess",
+      "Spanish princess"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Catherine was a Spanish princess. She and Henry had a number of children but only one, Mary, survived. When Catherine was too old to give him another child, Henry decided to divorce her, hoping that another wife would give him a son to be his heir.",
+    "id": "18569c1d"
+  },
+  {
+    "question": "When did the Wars of the Roses end with the Battle of Bosworth?",
+    "options": [
+      "1314",
+      "1324",
+      "1485",
+      "1455"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485.",
+    "id": "186409b0"
+  },
+  {
+    "question": "The UK has a free press",
+    "options": [
+      "This means that what is written in newspapers is free from government control",
+      "This means any information is free to view in the newspaper",
+      "This means all the information is in the newspapers can also be found in Hansard"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "18651c94"
+  },
+  {
+    "question": "When is Halloween (an ancient festival) celebrated?",
+    "options": [
+      "30th November",
+      "31st October",
+      "30th October",
+      "31st November"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "18753110"
+  },
+  {
+    "question": "What does the Habeas Corpus Act enforce?",
+    "options": [
+      "Right to a court hearing",
+      "Free secondary education",
+      "Slavery Abolishment",
+      "Freedom of belief"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
+    "id": "18774ffe"
+  },
+  {
+    "question": "Who was Admiral Nelson?",
+    "options": [
+      "One of the tribal leaders who fought against the Romans",
+      "A British officer in charge of the British army at the Battle of Waterloo",
+      "A British general who established the authority of the English Parliament",
+      "A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "187887b4"
+  },
+  {
+    "question": "British branches of international charity organisations includes",
+    "options": [
+      "Age UK",
+      "British Red Cross",
+      "National Trust"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "187e2787"
+  },
+  {
+    "question": "In the mid-19th century, the Chartists campaigned for democratic reforms including:",
+    "options": [
+      "All women to have the vote",
+      "MPs to be paid",
+      "Any man to be able to stand as an MP",
+      "Secret ballots",
+      "Open voting"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "id": "18818f94"
+  },
+  {
+    "question": "What kind of charities are \"National Trust\" and \"Friends of the Earth\" ?",
+    "options": [
+      "Medical research",
+      "Environmental",
+      "Animal",
+      "Elderly"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are medical research charities (for example, Cancer Research UK), environmental charities (including the National Trust and Friends of the Earth) and charities working with animals (such as the People's Dispensary for Sick Animals (PDSA)).",
+    "id": "18a18130"
+  },
+  {
+    "question": "Where did Cricket originate from?",
+    "options": [
+      "England",
+      "Scotland",
+      "Australia",
+      "India"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw! The most famous Cricket competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "id": "18a7492e"
+  },
+  {
+    "question": "Which TWO groups contested the Wars of the Roses in the 15th century?",
+    "options": [
+      "Irish",
+      "House of York",
+      "Scottish",
+      "House of Lancaster"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "A civil war known as the Wars of the Roses broke out in 1455 between supporters of the House of Lancaster and the House of York. It ended in 1485 at the Battle of Bosworth, when King Richard III of the House of York was killed.",
+    "id": "18ae6bc2"
+  },
+  {
+    "question": "What are the MPs who don't represent a political party called?",
+    "options": [
+      "Sole MP",
+      "Civil MP",
+      "Independents",
+      "Neutrals"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "There are a few MPs who do not represent any of the main political parties. They are called 'independents' and usually represent an issue important to their constituency.",
+    "id": "18b090ce"
+  },
+  {
+    "question": "Important aspects of the Reform Act of 1832 were:",
+    "options": [
+      "It gave women the vote",
+      "It decreased the power of the monarch",
+      "It abolished rotten boroughs",
+      "It increased the number of people who could vote"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "18bb3347"
+  },
+  {
+    "question": "Proceedings in Parliament are broadcast on television and published in official reports called",
+    "options": [
+      "Ontario",
+      "Hansard",
+      "Congressional Record",
+      "Political reports"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "18c6f677"
+  },
+  {
+    "question": "Which area of government policy is the responsibility of the Chancellor of the Exchequer?",
+    "options": [
+      "Education",
+      "Health",
+      "Economy",
+      "Legal affairs"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Chancellor of the Exchequer is responsible for the economy, and is a member of the cabinet.",
+    "id": "1916954c"
+  },
+  {
+    "question": "John Constable (1776-1837) founded the modern Police force in England",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "John Constable (1776–1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk–Essex border in the east of England.",
+    "id": "19251c98"
+  },
+  {
+    "question": "How many members does The National Assembly for Wales have?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "193dc22a"
+  },
+  {
+    "question": "There are some MPs (Members of Parliament) who do not represent any of the main political parties",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are a few MPs who do not represent any of the main political parties. They are called ‘independents’ and usually represent an issue important to their constituency.",
+    "id": "193fb783"
+  },
+  {
+    "question": "There are 9 National Parks in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK has a large network of public footpaths in the countryside. There are also many opportunities for mountain biking, mountaineering and hill walking. There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+    "id": "1949ba22"
+  },
+  {
+    "question": "Who of the following is associated with the Bonfire Night?",
+    "options": [
+      "Roger Bannister",
+      "Napoleon",
+      "Ian Fleming",
+      "Guy Fawkes"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "id": "194cd7e7"
+  },
+  {
+    "question": "How did Charles II manage to escape to Europe after his defeat in the Civil War?",
+    "options": [
+      "Hiding in a farmer's house",
+      "Riding a horse",
+      "Hiding in an oak tree",
+      "Swimming"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "194d3fa6"
+  },
+  {
+    "question": "The Vikings came from ______",
+    "options": [
+      "Denmark",
+      "Germany",
+      "Norway",
+      "Spain"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "",
+    "id": "1952f0ac"
+  },
+  {
+    "question": "Who wrote music for George VI and Queen Elizabeth II?",
+    "options": [
+      "Sir William Walton",
+      "Henry Purcell",
+      "George Frederick Handel",
+      "Sir Edward Elgar"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir William Walton (1902–83) wrote a wide range of music, from film scores to opera. He wrote marches for the coronations of King George VI and Queen Elizabeth II but his best-known works are probably Façade, which became a ballet, and Balthazar’s Feast, which is intended to be sung by a large choir.",
+    "id": "195fa69e"
+  },
+  {
+    "question": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+    "options": [
+      "Bonnie Prince Charlie",
+      "Robert Burns",
+      "Oliver Cromwell",
+      "Kenneth MacAlpin"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "1966f1cf"
+  },
+  {
+    "question": "The UK is governed by the parliament sitting in",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Westminster",
+      "Northern Ireland"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1971bdc4"
+  },
+  {
+    "question": "When did the English defeat the Spanish Armada?",
+    "options": [
+      "1588",
+      "1600",
+      "1597",
+      "1584"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+    "id": "197d9674"
+  },
+  {
+    "question": "The UN was set up",
+    "options": [
+      "before the first World War",
+      "after the First World War",
+      "before the Second World War",
+      "after the Second World War"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "19806d2a"
+  },
+  {
+    "question": "The term 'suffragettes' is associated with ______",
+    "options": [
+      "Women",
+      "Children",
+      "Men",
+      "Migrants"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "19812483"
+  },
+  {
+    "question": "The Channel Islands are a part of the United Kingdom",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Its not a part of the UK but closely linked to it",
+    "answers": [
+      1
+    ],
+    "id": "1981c17c"
+  },
+  {
+    "question": "When did Britain join the European Union?",
+    "options": [
+      "1971",
+      "1973",
+      "1975",
+      "1976"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "19823237"
+  },
+  {
+    "question": "In the UK, brutality and violence in the home is a serious crime.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the UK, brutality and violence in the home is a serious crime.",
+    "id": "19848c40"
+  },
+  {
+    "question": "The House of Lords mostly acts as the government wishes",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "It is normally more independent of government than the House of Commons",
+    "answers": [
+      1
+    ],
+    "id": "19bbfc99"
+  },
+  {
+    "question": "Who was given the title of Lord Protector?",
+    "options": [
+      "Charles I",
+      "Charles II",
+      "Winston Churchill",
+      "Oliver Cromwell"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "19c357a6"
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "19c7f1dc"
+  },
+  {
+    "question": "Cocaine and Heroin are ______",
+    "options": [
+      "Medicines",
+      "Drugs",
+      "Name of the European famous places",
+      "Famous Hotels"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "19c87efd"
+  },
+  {
+    "question": "What are TWO core values of a civil servant?",
+    "options": [
+      "Must belong to a political party",
+      "Impartiality",
+      "Integrity",
+      "Sense of humour"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are: integrity, honesty, objectivity and impartiality",
+    "id": "19e76351"
+  },
+  {
+    "question": "Which of these were famous Victorians?",
+    "options": [
+      "Dylan Thomas",
+      "Florence Nightingale",
+      "Isambard Kingdom Brunei",
+      "Margaret Thatcher"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "19ef1295"
+  }
+]

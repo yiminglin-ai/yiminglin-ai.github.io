@@ -1,0 +1,660 @@
+[
+  {
+    "question": "The Magna Carta established the idea that even the king was subject to the law.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Magna Carta established the idea that even the king was subject to the law.",
+    "id": "6d429709"
+  },
+  {
+    "question": "When is Mother's Day?",
+    "options": [
+      "The Sunday, 1 week after Easter",
+      "The Sunday, 3 weeks before Easter",
+      "The Sunday, 2 weeks before Easter",
+      "The Sunday, 1 week before Easter"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6d477288"
+  },
+  {
+    "question": "Dylan Thomas was a famous writer and poet from which country?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Dylan Thomas, who lived from 1914 until 1953, was a Welsh poet and writer. One of his famous works is Under Milk Wood.",
+    "id": "6d4bcf0f"
+  },
+  {
+    "question": "What term arose after the evacuation of 300,000 people from the beaches?",
+    "options": [
+      "The Blitz spirit",
+      "D-Day",
+      "The British spirit",
+      "The Dunkirk spirit"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase ‘the Dunkirk spirit’.",
+    "id": "6d4d9684"
+  },
+  {
+    "question": "Which of these are protected by law from discrimination?",
+    "options": [
+      "Choice of benefit",
+      "Choice of car",
+      "Disability",
+      "Eye colour",
+      "Marital status"
+    ],
+    "answers": [
+      2,
+      4
+    ],
+    "id": "6d784fa1"
+  },
+  {
+    "question": "There are 160 Members in The National Assembly for Wales",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6d788190"
+  },
+  {
+    "question": "What tools did the Bronze age people introduce?",
+    "options": [
+      "Ornaments and weapons",
+      "Basic farming machinery",
+      "Roads",
+      "Gold Currency"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons.",
+    "id": "6d7ba3d4"
+  },
+  {
+    "question": "Blind people can get a 50% discount on their TV licence",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Blind people can get a 50% discount on their TV licence",
+    "id": "6d7f4bc9"
+  },
+  {
+    "question": "Where is the Tate art gallery located?",
+    "options": [
+      "Edinburgh",
+      "Manchester",
+      "Cardiff",
+      "London"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Works by British and international artists are displayed in galleries across the UK. Some of the most well-known galleries are The National Gallery, Tate Britain and Tate Modern in London, the National Museum in Cardiff, and the National Gallery of Scotland in Edinburgh.",
+    "id": "6da86116"
+  },
+  {
+    "question": "Everyone celebrates New Year on the First January in Britain",
+    "options": [
+      "Yes, that correct",
+      "No it's celebrated on the 1st December",
+      "No it celebrated on the 25th December"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6dbae324"
+  },
+  {
+    "question": "How often are the General Elections held?",
+    "options": [
+      "Every 3 years",
+      "Every 7 years",
+      "Every 5 years",
+      "Every year"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "MPs are elected at a General Election, which is held at least every five years.",
+    "id": "6dbb291d"
+  },
+  {
+    "question": "The Wimbledon Championships are associated with motor sports.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Wimbledon Championships are associated with tennis.",
+    "id": "6dc86899"
+  },
+  {
+    "question": "Which TWO buildings were built during the Middle Ages?",
+    "options": [
+      "Edinburgh Castle",
+      "Lincoln Cathedral",
+      "New St Paul's Cathedral",
+      "The building of Parliament"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The Middle Ages also saw a change in the type of buildings in Britain. Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use. Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship.",
+    "id": "6dcaf381"
+  },
+  {
+    "question": "Where can Crown Jewels be seen?",
+    "options": [
+      "Loch Lomond",
+      "Tower of London",
+      "Big Ben",
+      "Edinburgh Castle"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Crown Jewels can be seen in the Tower of London.",
+    "id": "6dd4c843"
+  },
+  {
+    "question": "British scientists were the first to clone a mammal successfully and the animal was a rabbit",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The British team used a sheep for the first mammal cloning and the sheep was called Dolly",
+    "answers": [
+      1
+    ],
+    "id": "6ddc91dd"
+  },
+  {
+    "question": "The East India Company, originally set up to trade, gained control of large parts of India",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6de2b393"
+  },
+  {
+    "question": "Which TWO British Actors have recently won Oscars?",
+    "options": [
+      "Kate Winslet",
+      "Dame Judi Dench",
+      "Simon Cowell",
+      "Dame Kelly Holmes"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "British actors continue to be popular and continue to win awards throughout the world. Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+    "id": "6e0a8f49"
+  },
+  {
+    "question": "What is the distance (in miles) between the North coast of Scotland and the South coast of England?",
+    "options": [
+      "270 miles",
+      "470 miles",
+      "870 miles",
+      "1070 miles"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6e12b389"
+  },
+  {
+    "question": "______ defeated a Scottish army in the Battles of Dunbar and Worcester",
+    "options": [
+      "Robert Burns",
+      "Oliver Cromwell",
+      "William Shakespeare",
+      "Isaac Newton"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6e2f5dd1"
+  },
+  {
+    "question": "Who wrote \"The Daffodils\"",
+    "options": [
+      "William Blake",
+      "Robert Browning",
+      "Lord Byron",
+      "William Wordsworth"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "6e3484a8"
+  },
+  {
+    "question": "Which of the following are two famous British inventors of the 20th century?",
+    "options": [
+      "Tim Berners Lee and Isambard Kingdom Brunel",
+      "Isambard Kingdom Brunel and John Logie Baird",
+      "Alan Turing and Isambard Kingdom Brunel",
+      "Tim Berners Lee and Alan Turing"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912–54), a British mathematician, in the 1930s. The inventor of the World Wide Web, Sir Tim Berners-Lee is British.",
+    "id": "6e4108e3"
+  },
+  {
+    "question": "All acts of Parliaments made in who's name?",
+    "options": [
+      "The King's",
+      "The Queen's",
+      "The Parliament's",
+      "The Cabinet's"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "6e453547"
+  },
+  {
+    "question": "Julius Caesar led a Roman invasion of Britain in 55 BC but this was unsuccessful. For how many years did Britain remain separate from the Roman Empire?",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
+    "id": "6e460410"
+  },
+  {
+    "question": "The Industrial Revolution was the rapid development of industry in Britain in the",
+    "options": [
+      "15th and 16th centuries",
+      "15th and 17th centuries",
+      "16th and 17th centuries",
+      "18th and 19th centuries"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6e4c3b72"
+  },
+  {
+    "question": "William Blake, Lord Byron and Robert Browning were all famous golfers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "William Blake, Lord Byron and Robert Browning were all 19th-century poets.",
+    "id": "6e506c4f"
+  },
+  {
+    "question": "Diwali is celebrated by",
+    "options": [
+      "Christians",
+      "Sikhs",
+      "Buddhists",
+      "Hindus"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "6e5166d4"
+  },
+  {
+    "question": "What values are upheld by the Commonwealth association of countries?",
+    "options": [
+      "Rule of law",
+      "Communism",
+      "Democracy",
+      "Violence"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "6e5984af"
+  },
+  {
+    "question": "Which TWO fought in wars against Napoleon?",
+    "options": [
+      "Margaret Thatcher",
+      "Horatio Nelson",
+      "Winston Churchill",
+      "The Duke of Wellington"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Admiral Lord Nelson commanded the British fleet at the Battle of Trafalgar in 1805. He died during the battle. The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815.",
+    "id": "6e5bae2c"
+  },
+  {
+    "question": "The House of Lords always acts as the government wishes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The House of Lords is normally more independent of government than the House of Commons.",
+    "id": "6e781309"
+  },
+  {
+    "question": "Where do Beefeaters serve as tour guides?",
+    "options": [
+      "The Houses of the Parliament",
+      "The Tower of London",
+      "The O2",
+      "The Big Ben"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6e7a2608"
+  },
+  {
+    "question": "In 1783, 13 American colonies declared their independence, stating that people had a right to establish their own governments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies’ independence in 1783.",
+    "id": "6e7a4886"
+  },
+  {
+    "question": "The Prime Minister is",
+    "options": [
+      "in charge of the economy",
+      "The MP in charge of Health",
+      "The leader of the opposition party",
+      "The leader of the party in power"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6e7aca56"
+  },
+  {
+    "question": "A National Insurance number makes sure that the National Insurance Contributions and tax you pay are properly recorded against your name",
+    "options": [
+      "Yes, this is correct",
+      "No, it is only for state retirement pension"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6e8030cf"
+  },
+  {
+    "question": "Which Two British film actors have recently won Oscars?",
+    "options": [
+      "Colin Firth",
+      "Tilda Swinton",
+      "Leonardo DiCaprio",
+      "Jacky Stewart"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+    "id": "6e82f74e"
+  },
+  {
+    "question": "What is known as 'canvassing'?",
+    "options": [
+      "Persuade people to vote for the party you represent",
+      "Filling in the ballot paper for those who cannot do it themselves"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates - for instance, by handing out leaflets in the street or by knocking on people's doors and asking for their support.",
+    "id": "6e8356ce"
+  },
+  {
+    "question": "In each constituency, the candidate who gets the most votes is",
+    "options": [
+      "elected",
+      "collected",
+      "selected"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6e852a83"
+  },
+  {
+    "question": "Civil servants",
+    "options": [
+      "have to be politically aligned to the elected government",
+      "are politically neutral"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6e88aa3f"
+  },
+  {
+    "question": "When did women get the right to vote at the same age as men?",
+    "options": [
+      "1918",
+      "1928",
+      "1938",
+      "1948"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6e92c91e"
+  },
+  {
+    "question": "Which TWO are British overseas territories?",
+    "options": [
+      "Cyprus",
+      "Falkland Islands",
+      "St Helena",
+      "Hawaii"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "There are several British overseas territories in other parts of the world, such as the Falkland Islands and St Helena. They are linked to the UK but not part of it.",
+    "id": "6e9fde8c"
+  },
+  {
+    "question": "A lot of people have gardens at home and will spend their free time looking after them",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6eb0d1a5"
+  },
+  {
+    "question": "Famous London buildings that built in the 19th-century 'gothic' style are:",
+    "options": [
+      "Buckingham Palace",
+      "St Paul's Cathedral",
+      "The Houses of Parliament",
+      "St Pancras Station"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "6ec52094"
+  },
+  {
+    "question": "Magna Carta is Latin for what?",
+    "options": [
+      "The Great Charter",
+      "The British Agreement",
+      "The Bible law",
+      "The act of government"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Latin Magna Carta means the Great Charter",
+    "id": "6ed56649"
+  },
+  {
+    "question": "The British system of government is a parliamentary democracy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6ee57cce"
+  },
+  {
+    "question": "Records that tell us about England during the time of William I are:",
+    "options": [
+      "Bayeux Tapestry",
+      "Diary of Samuel Pepys",
+      "Domesday Book",
+      "Magna Carta"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "6eedac09"
+  },
+  {
+    "question": "The National Trust is a",
+    "options": [
+      "charity that works for the homeless",
+      "charity that works to preserve important buildings in the UK",
+      "government-run organisation that provides funding for charities",
+      "charity for medical research"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6eedc7d3"
+  },
+  {
+    "question": "Bank Holidays are at the beginning of May, in late May or early June, and in August",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6ef0ce4f"
+  },
+  {
+    "question": "Robert Stephenson and George were famous pioneers of which industry?",
+    "options": [
+      "Canal building",
+      "Railway engines",
+      "Automobile",
+      "Agricultural"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Just before Victoria came to the throne, the father and son George and Robert Stephenson pioneered the railway engine and a major expansion of the railways took place in the Victorian period. Railways were built throughout the Empire.",
+    "id": "6ef0d5ce"
+  },
+  {
+    "question": "For which TWO subjects are the Secretaries of State responsible?",
+    "options": [
+      "Policing",
+      "Education",
+      "Economy",
+      "Defence"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Secretaries of State are responsible for subjects such as education, health and defence.",
+    "id": "6efcf102"
+  },
+  {
+    "question": "Which TWO of the following are protected by law from discrimination?",
+    "options": [
+      "Disability",
+      "Eye colour",
+      "Choice of car",
+      "Marital status"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "There are laws to ensure that people are not treated unfairly in any area of work or life because of their disability, marital status, age, pregnancy and maternity, race, religion or belief, or sexuality.",
+    "id": "6efed3b8"
+  },
+  {
+    "question": "The Ceremonial duties performed by the monarch include, reading of Queen's Speech and opening and closing of Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6f039c08"
+  }
+]

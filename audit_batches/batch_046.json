@@ -1,0 +1,653 @@
+[
+  {
+    "question": "John Constable (1776–1837) founded the modern police force in England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "John Constable was a famous British landscape painter.",
+    "id": "5f693e5e"
+  },
+  {
+    "question": "The Black Death killed one fifth of the population of England and a similar proportion in Scotland and Wales.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Black Death killed one third of the population of England and a similar proportion in Scotland and Wales.",
+    "id": "5f6b9b9a"
+  },
+  {
+    "question": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about 870 kilometres.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
+    "id": "5f7d361e"
+  },
+  {
+    "question": "Which TWO are associated with rugby?",
+    "options": [
+      "The Premier League",
+      "Wimbledon",
+      "The Six Nations Championship",
+      "The Super League"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy. The Super League is the most well-known rugby league (club) competition.",
+    "id": "5f88c7be"
+  },
+  {
+    "question": "It is a criminal offence to",
+    "options": [
+      "sell alcohol to anyone who is under 18",
+      "go to surgery without booking an appointment",
+      "buy alcohol for people who are under the age of 18",
+      "go to hospital without a letter from your GP"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "5f8dcfb6"
+  },
+  {
+    "question": "Which TWO were associated with King Charles I and Parliament during the English Civil War?",
+    "options": [
+      "Tories",
+      "Roundheads",
+      "Cavaliers",
+      "Luddites"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Supporters of the king were known as Cavaliers and supporters of Parliament were known as Roundheads.",
+    "id": "5f90adc7"
+  },
+  {
+    "question": "It is important to recycle as much of your waste as you can because using recycled materials to make new products uses less energy and means that we need to extract fewer raw materials from the earth",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5f9b76b0"
+  },
+  {
+    "question": "What Palace was a cast-iron and plate-glass building originally erected in Hyde Park, London, England, to house the Great Exhibition of 1851?",
+    "options": [
+      "Crystal Palace",
+      "Dream Palace",
+      "Gold Palace",
+      "The Great Palace"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "British industry led the world in the 19th century. The UK produced more than half of the world’s iron, coal and cotton cloth. The UK also became a centre for financial services, including insurance and banking. In 1851, the Great Exhibition opened in Hyde Park in the Crystal Palace, a huge building made of steel and glass. Exhibits ranged from huge machines to handmade goods. Countries from all over the world showed their goods but most of the objects were made in Britain.",
+    "id": "5faa4233"
+  },
+  {
+    "question": "In England, Wales and Scotland the Magistrates work unpaid and do not need legal qualifications.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Scotland they usually work unpaid and do not need legal qualifications.",
+    "id": "5faaa0e3"
+  },
+  {
+    "question": "Which of these international events was held in London in 2012?",
+    "options": [
+      "The World Cup",
+      "The Commonwealth Games",
+      "The Paralympic Games",
+      "EURO 2012"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The Paralympic Games for 2012 were also hosted in London.",
+    "id": "5fabc5a3"
+  },
+  {
+    "question": "______ first visited Britain in AD 789 to raid coastal towns and take away goods and slaves",
+    "options": [
+      "The Anglo-Saxons",
+      "The Norman Conquest",
+      "The Romans",
+      "The Vikings"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5fb51bbb"
+  },
+  {
+    "question": "During the Middle Ages, who were the serfs?",
+    "options": [
+      "Peasants who had a small area of their lord's agricultural land",
+      "Soldiers who fought at the Battle of Trafalgar",
+      "Noblemen who formed part of the king's council of advisers",
+      "A group of skilled people from Holland who came to England during the Middle Ages"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "5fc8a24e"
+  },
+  {
+    "question": "Cardiff is the capital city of which country?",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "Ireland",
+      "Wales"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "5fcc2bad"
+  },
+  {
+    "question": "By law, radio and television coverage of the political parties must be ______ and so equal time has to be given to rival viewpoints",
+    "options": [
+      "loyal",
+      "balanced",
+      "elected",
+      "called"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5fd49a48"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, less than ______ of people identified themselves as Jewish",
+    "options": [
+      "0.5%",
+      "1%",
+      "2%",
+      "4%"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "5fd74ca2"
+  },
+  {
+    "question": "How many countries make up the EU?",
+    "options": [
+      "28",
+      "190",
+      "15",
+      "54"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states",
+    "id": "5fed472b"
+  },
+  {
+    "question": "Emmeline Pankhurst is famous for her leadership of the campaign to give women the vote in parliamentary elections in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Emmeline Pankhurst (1858–1928) was the leader of the women's suffrage movement that campaigned for women to be given the vote. Her supporters were called 'suffragettes'.",
+    "id": "60004c0b"
+  },
+  {
+    "question": "The court systems in England, Scotland, Wales and Northern Ireland are similar",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "There are some differences in different parts of the UK",
+    "answers": [
+      1
+    ],
+    "id": "60073599"
+  },
+  {
+    "question": "The Speaker represents Parliament on ceremonial occasions",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "60096640"
+  },
+  {
+    "question": "Before the 18th century, ______ was the biggest source of employment in Britain",
+    "options": [
+      "creating the new roads to join small villages",
+      "agriculture",
+      "building properties"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "600a5cb2"
+  },
+  {
+    "question": "In 1348, a disease, probably a form of plague, came to Britain was known as the",
+    "options": [
+      "Great Mortality",
+      "Black Death",
+      "Great Pestilence",
+      "Great Plague"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "601632bf"
+  },
+  {
+    "question": "Who built the tower of London?",
+    "options": [
+      "William the Conqueror",
+      "Henry VIII",
+      "Winston Churchill",
+      "Admiral Nelson"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history.",
+    "id": "601bb43b"
+  },
+  {
+    "question": "What was Isambard Kingdom Brunel famous for designing and building?",
+    "options": [
+      "Motor cars",
+      "Aeroplanes",
+      "Bridges",
+      "Skyscrapers"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Isambard Kingdom Brunel was a famous Victorian engineer who built railway lines, bridges, tunnels and ships.",
+    "id": "601c5df3"
+  },
+  {
+    "question": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a",
+    "options": [
+      "Magistrates' Court",
+      "Justice of the Peace Court"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6025136d"
+  },
+  {
+    "question": "Who led the group of scientists who were the first to 'Split The Atom'?",
+    "options": [
+      "Ernst Chain",
+      "Ernest Rutherford",
+      "Robert Walpole",
+      "Howard Florey"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "60366be0"
+  },
+  {
+    "question": "What type of government does the UK have?",
+    "options": [
+      "Dictatorship",
+      "Federal government",
+      "Parliamentary democracy",
+      "Communist government"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "606fe60c"
+  },
+  {
+    "question": "Which Battle is commemorated in the Bayeux Tapestry?",
+    "options": [
+      "Bosworth",
+      "Hastings",
+      "Agincourt",
+      "Boyne"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "607e2059"
+  },
+  {
+    "question": "Which traditions or festivals are held in November every year?",
+    "options": [
+      "Father's Day",
+      "Remembrance Day",
+      "Valentine's Day",
+      "Bonfire Night"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "60803daa"
+  },
+  {
+    "question": "Political party members work hard to persuade people to vote for their candidates by handing out leaflets in the street or by knocking on people's doors and asking for their support, this is called",
+    "options": [
+      "Fund-raising",
+      "Marketing",
+      "Canvassing",
+      "Promoting"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "609a2eac"
+  },
+  {
+    "question": "In Britain, the Government control the press (news and media)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "60a74d93"
+  },
+  {
+    "question": "Peers nominated by the Prime Minister can only serve for their lifetime",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.",
+    "id": "60ad7c16"
+  },
+  {
+    "question": "What important change to our voting rights took place in 1969?",
+    "options": [
+      "Women over 35 were given the vote.",
+      "Prisoners were given the vote.",
+      "The voting age was reduced to 18 for men and women.",
+      "Compulsory voting was introduced."
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1969, the voting age was reduced to 18 for men and women.",
+    "id": "60bdeef3"
+  },
+  {
+    "question": "In 1066, ______ invaded England and defeated King Harold at the Battle of Hastings",
+    "options": [
+      "Canute",
+      "Harold of Wessex",
+      "Richard the Lionheart",
+      "William of Normandy"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "60c62fc0"
+  },
+  {
+    "question": "How long is Hannukah celebrated for?",
+    "options": [
+      "8 days",
+      "7 days",
+      "10 days",
+      "9 days"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Hannukah is in November or December and is celebrated for eight days. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
+    "id": "60d0a7fb"
+  },
+  {
+    "question": "What is the Grand National?",
+    "options": [
+      "Football",
+      "Golf",
+      "Horse racing",
+      "Cricket"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr.",
+    "id": "60d5e8d8"
+  },
+  {
+    "question": "When is Christmas Day?",
+    "options": [
+      "1st January",
+      "7th January",
+      "23rd March",
+      "25th December"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "60f124d6"
+  },
+  {
+    "question": "Who appoints Life Peers?",
+    "options": [
+      "The Queen",
+      "The Prime Minister",
+      "The Archbishop of Canterbury",
+      "None of these"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "60fa25aa"
+  },
+  {
+    "question": "Who founded a monastery on the Island of Iona?",
+    "options": [
+      "St Andrew",
+      "St Columba",
+      "St Patrick",
+      "St Augustine"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland, and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+    "id": "6100db7d"
+  },
+  {
+    "question": "The Prime Minister's official residence is",
+    "options": [
+      "Palace of Westminster",
+      "10 Downing Street",
+      "The cabinet",
+      "Buckingham Palace"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6111d3ae"
+  },
+  {
+    "question": "When were The Beatles (a popular British band) formed?",
+    "options": [
+      "1950",
+      "1960",
+      "1970",
+      "1980"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Beatles were an English rock band, formed in Liverpool in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became widely regarded as the foremost and most influential act of the rock era.",
+    "id": "611baa66"
+  },
+  {
+    "question": "In 1928 women in Britain received voting rights at the same age as men",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "611c8117"
+  },
+  {
+    "question": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for ______",
+    "options": [
+      "2 days",
+      "3 days",
+      "a week",
+      "a month"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "611ffc3d"
+  },
+  {
+    "question": "Britain has a constitutional monarchy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "61304db9"
+  },
+  {
+    "question": "Stories associated with Geoffrey Chaucer are ______",
+    "options": [
+      "The Ambridge Tales",
+      "The Canterbury Tales",
+      "The Westbury Tales",
+      "The London Tales"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "61361590"
+  },
+  {
+    "question": "It is illegal for shops and businesses to not accept the banknotes of Northern Ireland and Scotland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+    "id": "613cf892"
+  },
+  {
+    "question": "The ‘King James Version’ or the ‘Authorised Version’ was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The ‘King James Version’ or the ‘Authorised Version’ was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "id": "614d6569"
+  },
+  {
+    "question": "What is the 'Divine Right of Kings?",
+    "options": [
+      "The King was Appointed by God",
+      "Reduced the power of the nobles",
+      "Reduced the power of the King",
+      "Increased power of the parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Divine Right of Kings' is the idea that the king was directly appointed by God to rule. The king should be able to act without having to seek approval from Parliament.",
+    "id": "6170cbf5"
+  },
+  {
+    "question": "What can the Laws made by the EU also be called?",
+    "options": [
+      "Regulations",
+      "Directives",
+      "Framework Decisions",
+      "All of these"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.",
+    "id": "61713b55"
+  },
+  {
+    "question": "How are local councils funded?",
+    "options": [
+      "Through money raised from local fundraising events ",
+      "Through donations from local people",
+      "From central government and local taxes",
+      "From local businesses"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Towns, cities and rural areas in the UK are governed by democratically elected councils, often called 'local authorities'. These are funded by money from central government and by local taxes.",
+    "id": "61719aa1"
+  },
+  {
+    "question": "Ulster Fry is a welsh traditional food",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Ulster fry is a Northern Irish fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+    "id": "617a8b75"
+  }
+]

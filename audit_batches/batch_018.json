@@ -1,0 +1,671 @@
+[
+  {
+    "question": "In 1642, The Civil War split the country into which two groups?",
+    "options": [
+      "The knights and the slaves",
+      "The landowners and the slaves",
+      "The Roundheads and the Cavaliers",
+      "Pocket and rotten boroughs"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "24d1261e"
+  },
+  {
+    "question": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "24df4d2d"
+  },
+  {
+    "question": "Which of the following plays was written by William Shakespeare?",
+    "options": [
+      "Pride and Prejudice",
+      "A Midsummer Night's dream",
+      "Sense and Sensibility",
+      "Great Expectations"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "24e419ba"
+  },
+  {
+    "question": "The Queen represents the UK to the rest of the world",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "24fe0039"
+  },
+  {
+    "question": "Henry VIII was most famous for",
+    "options": [
+      "breaking away from the Church of Rome",
+      "bringing peace in the UK",
+      "marrying six times",
+      "his great skills of art",
+      "writing poems for the nation"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "",
+    "id": "2518038f"
+  },
+  {
+    "question": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+    "options": [
+      "The Battle of Britain",
+      "The Battle of Worcester",
+      "The Battle of Dunbar",
+      "The Battle of Marston Moor"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "25185f8d"
+  },
+  {
+    "question": "Which of the following traditional heavy industries were badly affected during the great depression?",
+    "options": [
+      "Shipbuilding",
+      "Aviation",
+      "Railway",
+      "Automobile"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed.",
+    "id": "251f05cc"
+  },
+  {
+    "question": "Who became the first Briton to win the Tour de France?",
+    "options": [
+      "Mo Farah",
+      "Andy Murray",
+      "Sir Chris Hoy",
+      "Bradley Wiggins"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Bradley Wiggins (1980–) is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.",
+    "id": "252bc70c"
+  },
+  {
+    "question": "Robert the Bruce is associated with which country?",
+    "options": [
+      "Wales",
+      "Scotland",
+      "England",
+      "Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "id": "252c0f2b"
+  },
+  {
+    "question": "People who are self-employed need to pay National Insurance Contributions themselves",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions.",
+    "id": "253c4d17"
+  },
+  {
+    "question": "The capital city of Wales is ______",
+    "options": [
+      "Bangor",
+      "Newport",
+      "Cardiff",
+      "Swansea"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2551d675"
+  },
+  {
+    "question": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should",
+    "options": [
+      "notify your local police force",
+      "tell them that I will inform police",
+      "leave the country",
+      "move to another city"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "25559a60"
+  },
+  {
+    "question": "The event that occurs every year on the 3rd Sunday in June is",
+    "options": [
+      "Remembrance Day",
+      "Father's Day",
+      "Mother's Day",
+      "Halloween"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "25625d7c"
+  },
+  {
+    "question": "You will receive a fine of up to ______ if you watch TV but do not have a TV licence",
+    "options": [
+      "£200",
+      "£500",
+      "£800",
+      "£1,000"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "256b73a2"
+  },
+  {
+    "question": "When did the first farmers arrive in Britain?",
+    "options": [
+      "6,000 years ago",
+      "8,000 years ago",
+      "10,000 years ago",
+      "4,000 years ago"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land.",
+    "id": "257a1a1c"
+  },
+  {
+    "question": "When was the Scottish Parliament formed?",
+    "options": [
+      "1989",
+      "1991",
+      "1999",
+      "1978"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+    "id": "2581b312"
+  },
+  {
+    "question": "What is a bank holiday?",
+    "options": [
+      "Religious holiday",
+      "Summer holiday",
+      "Christmas holiday",
+      "Public holiday"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "There are public holidays each year called bank holidays, when banks and many other businesses are closed for the day.",
+    "id": "258776eb"
+  },
+  {
+    "question": "How many years did Mary, the queen of Scots spend in prison?",
+    "options": [
+      "11",
+      "4",
+      "30",
+      "20"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+    "id": "25913787"
+  },
+  {
+    "question": "Which of these is an Anglo-Saxon poem?",
+    "options": [
+      "Pride and Prejudice",
+      "Jude the Obscure",
+      "Mr Hyde",
+      "Beowulf"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Anglo-Saxon poem ‘Beowulf’ tells of its hero’s battles against monsters and is still translated into modern English.",
+    "id": "25aec2cb"
+  },
+  {
+    "question": "How are the members of the Northern Ireland Parliament elected?",
+    "options": [
+      "By a system of proportional representation",
+      "Using a system of ranked voting",
+      "Using the first past the post system",
+      "Using a runoff system"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "25b735af"
+  },
+  {
+    "question": "______ means all the judges in a country",
+    "options": [
+      "The Juries",
+      "The judiciary",
+      "Magistrates",
+      "District Judges"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "25c5f90c"
+  },
+  {
+    "question": "'The Restoration' refers to the re-establishment of Catholicism as the official Church in the 15th century",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "'The Restoration' refers to the re-establishment of the monarchy in 1660, when Charles II returned from exile after being invited back by Parliament",
+    "answers": [
+      1
+    ],
+    "id": "25cb5580"
+  },
+  {
+    "question": "What lead the American colonies to declare their independence?",
+    "options": [
+      "The UK not providing enough health care",
+      "The UK wanting to tax the colonies",
+      "The UK wanting to stop the slave trade",
+      "The UK not sending enough money"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By the 1760s, there were substantial British colonies in North America. The colonies were wealthy and largely in control of their own affairs. Many of the colonist families had originally gone to North America in order to have religious freedom. They were well educated and interested in ideas of liberty. The British government wanted to tax the colonies.",
+    "id": "25db298b"
+  },
+  {
+    "question": "Who should you write to if you wish to make a complaint about the Police?",
+    "options": [
+      "The House of Lords",
+      "The House of Commons",
+      "Your local MP",
+      "The Chief Constable"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+    "id": "25f07b8a"
+  },
+  {
+    "question": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now",
+    "options": [
+      "northern England",
+      "eastern England",
+      "western England",
+      "southern England"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "25f10aa7"
+  },
+  {
+    "question": "When did the American colonies declare independence?",
+    "options": [
+      "1776",
+      "1783",
+      "1781",
+      "1779"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies’ independence in 1783.",
+    "id": "25f5c6e8"
+  },
+  {
+    "question": "Which river banks the London eye?",
+    "options": [
+      "Thames",
+      "Wye",
+      "Severn",
+      "Trent"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.",
+    "id": "25fd1df1"
+  },
+  {
+    "question": "What is Hogmanay?",
+    "options": [
+      "A Scottish celebration on New Year",
+      "A Welsh celebration on 27th December",
+      "The day after Christmas Day",
+      "A type of pork meal enjoyed by Scots"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "260c4d6a"
+  },
+  {
+    "question": "Who was William Wilberforce?",
+    "options": [
+      "A famous novelist",
+      "A scientist",
+      "A politician",
+      "An inventor"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "William Wilberforce, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade.",
+    "id": "260d8f4a"
+  },
+  {
+    "question": "The Corn Laws were repealed in 1846. This had prevented the import of cheap grain",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true.",
+    "id": "26108e25"
+  },
+  {
+    "question": "During the 18th century, Britain fought a number of wars with France.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 18th century, Britain fought a number of wars with France.",
+    "id": "26174349"
+  },
+  {
+    "question": "The UK is a parliamentary democracy with the monarch as head of state.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK is a parliamentary democracy with the monarch as head of state.",
+    "id": "261ac43d"
+  },
+  {
+    "question": "The Republic of Ireland is part of the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland make up the UK.",
+    "id": "262656ef"
+  },
+  {
+    "question": "Stonehenge is in the English county of",
+    "options": [
+      "Berkshire",
+      "Hampshire",
+      "Wiltshire",
+      "Yorkshire"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "26285735"
+  },
+  {
+    "question": "Where can you find Crown Jewels?",
+    "options": [
+      "The Tower of London",
+      "The National Museum",
+      "The Buckingham Palace",
+      "Queen's house in Greenwich"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history. People can also see the Crown Jewels there.",
+    "id": "262d1624"
+  },
+  {
+    "question": "All dogs in public places must wear ______",
+    "options": [
+      "A collar with the name and address of the owner",
+      "Wellington boots for big puddles",
+      "Sunglasses on a sunny day to avoid eye damage",
+      "A raincoat in wet weather"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2633ac01"
+  },
+  {
+    "question": "Many people use social networking by the ______ when out and about",
+    "options": [
+      "mobile phone",
+      "television",
+      "newspaper",
+      "post"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2639981c"
+  },
+  {
+    "question": "People in the UK are living longer than ever before because of the",
+    "options": [
+      "improved living standards",
+      "improved weather conditions",
+      "outdoor activities",
+      "better health care",
+      "increase in the unemployment benefit"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "265ae15a"
+  },
+  {
+    "question": "When were the women given the right to vote at the same age as men?",
+    "options": [
+      "1928",
+      "1918",
+      "1969",
+      "1957"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women’s Franchise League in 1889, which fought to get the vote in local elections for married women. Shortly before Emmeline’s death in 1928, women were given the right to vote at the age of 21, the same as men.",
+    "id": "26677c3e"
+  },
+  {
+    "question": "Which movement campaigned for the women's rights?",
+    "options": [
+      "Suffragettes",
+      "Chartists",
+      "Quakers",
+      "Bishops"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the late 19th and early 20th centuries, an increasing number of women campaigned and demonstrated for greater rights and, in particular, the right to vote. They formed the women's suffrage movement and became known as 'suffragettes'.",
+    "id": "2676662a"
+  },
+  {
+    "question": "Can the devolved administrations control sectors such as immigration, foreign affairs and taxation?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if the local people support them",
+      "Only in Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+    "id": "2679f2bb"
+  },
+  {
+    "question": "Some people rent land called ______, where they grow fruit and vegetables",
+    "options": [
+      "'an rentment'",
+      "'a shipment'",
+      "'an allotment'",
+      "'a tablement'"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "26802a5f"
+  },
+  {
+    "question": "Which TWO services are funded by National Insurance Contributions?",
+    "options": [
+      "Local taxi services",
+      "State retirement pension",
+      "Supermarket home deliveries",
+      "National Health Service (NHS)"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Almost everybody in the UK who is in paid employment, including self-employed people, must pay National Insurance Contributions. The money raised is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+    "id": "26948ba1"
+  },
+  {
+    "question": "Foods associated with England are:",
+    "options": [
+      "Haggis",
+      "Fish and chips",
+      "Roast beef",
+      "Ulster fry"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "269fa1e4"
+  },
+  {
+    "question": "MPs are elected through a system called",
+    "options": [
+      "First past the post",
+      "Proportional Representation",
+      "Instant runoff"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "26a03fe5"
+  },
+  {
+    "question": "What is the minimum age to be able to drink alcohol with a meal?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "26a0f772"
+  },
+  {
+    "question": "The UK is part of the United Nations (UN)",
+    "options": [
+      "Yes, this is correct",
+      "No, the UK is not part of UN anymore"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "26baa51c"
+  },
+  {
+    "question": "National Insurance is needed if you wish to work in the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+    "id": "26bb9fa3"
+  },
+  {
+    "question": "What were the refugees that came from France between 1680 and 1720 called?",
+    "options": [
+      "Huguenots",
+      "Quakers",
+      "Chartists",
+      "Sikhs"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+    "id": "26bc86c4"
+  },
+  {
+    "question": "Political parties that formed the coalition government in 2010 are:",
+    "options": [
+      "Liberal Democrats",
+      "Conservatives",
+      "Labour",
+      "Communists"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "26bde1a7"
+  }
+]

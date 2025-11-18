@@ -1,0 +1,668 @@
+[
+  {
+    "question": "Who is the heir to the throne?",
+    "options": [
+      "Prince Charles",
+      "Prince Philip",
+      "Prince Harry",
+      "Prince William"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen’s eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "id": "289a007d"
+  },
+  {
+    "question": "How many people lost their lives in the decades after 1969 due to violence in Northern Ireland?",
+    "options": [
+      "30,000",
+      "12,000",
+      "3,000",
+      "60,000"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Around 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland.",
+    "id": "28b85772"
+  },
+  {
+    "question": "Who was Isambard Kingdom Brunel?",
+    "options": [
+      "An artist",
+      "A gardener",
+      "An engineer",
+      "A novelist"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships.",
+    "id": "28b89454"
+  },
+  {
+    "question": "For most people, the right amount of income tax is automatically taken from their bank account by direct debit",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "28ba53f1"
+  },
+  {
+    "question": "The Isle of Man is a Crown dependency.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Isle of Man is a Crown dependency. It is closely linked with the UK but not part of it.",
+    "id": "28d690f2"
+  },
+  {
+    "question": "In the UK a citizen may only follow an approved religion.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Everyone has the legal right to choose their religion, or to choose not to practise a religion.",
+    "id": "28eeb0d4"
+  },
+  {
+    "question": "What is the Church of England formally known as?",
+    "options": [
+      "The Methodist Church",
+      "The Anglican Church",
+      "The Baptist Church"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "28f5133d"
+  },
+  {
+    "question": "The currency of the UK is pound sterling.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £).",
+    "id": "29061be4"
+  },
+  {
+    "question": "Which patron Saint has a white cross on a blue ground?",
+    "options": [
+      "St George",
+      "St Andrew",
+      "St Patrick",
+      "St David"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "290ab0ba"
+  },
+  {
+    "question": "St David's Day, the national day of ______",
+    "options": [
+      "England",
+      "Wales",
+      "Republic of Ireland",
+      "Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2910410c"
+  },
+  {
+    "question": "The assassination of the Archduke Franz Ferdinand of Austria in 1914 led to which of the following wars?",
+    "options": [
+      "The Crimean War",
+      "The First World War",
+      "The Civil War",
+      "The Second World War"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "29505729"
+  },
+  {
+    "question": "What is the system that automatically deducts tax called?",
+    "options": [
+      "Self-Assessment",
+      "PAYE",
+      "PAYG",
+      "HMRC"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "This system that deducts tax automatically is called ‘Pay As You Earn’, also known as PAYE.",
+    "id": "297ef867"
+  },
+  {
+    "question": "Which one of these is England's largest national park?",
+    "options": [
+      "The Lake District",
+      "Snowdonia",
+      "Broads",
+      "Loch Lomond and the Trossachs"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2983a6b2"
+  },
+  {
+    "question": "Wales and Scotland use a system called ‘individual registration’.  All those entitled to vote must complete their own registration forms",
+    "options": [
+      "Trues",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In Northern Ireland a system called ‘individual registration’ operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
+    "id": "298e7159"
+  },
+  {
+    "question": "The Welsh government and National Assembly for Wales are based in",
+    "options": [
+      "Newport",
+      "Cardiff",
+      "Swansea",
+      "Bangor"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2998d5b2"
+  },
+  {
+    "question": "Who defeated Napoleon at the Battle of Waterloo?",
+    "options": [
+      "Henry VII",
+      "Nelson",
+      "Louis XIV",
+      "The Duke of Wellington"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": " In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo.",
+    "id": "29a20e23"
+  },
+  {
+    "question": "What's the % of Jewish or Buddhist people in the UK?",
+    "options": [
+      "more than 3%",
+      "2%",
+      "1%",
+      "less than 0.5%"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the 2009 Citizenship Survey, 70% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both less than 0.5%), and 2% of people followed another religion.",
+    "id": "29b1044e"
+  },
+  {
+    "question": "Which is a fundamental principle of British life?",
+    "options": [
+      "Actively supporting your local football team",
+      "Participation in community life",
+      "Ignoring your neighbours",
+      "Eating fish on a Friday"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Participation in community life is a fundamental principle of British life. British society is founded on fundamental values and principles which all those living in the UK should respect and support.",
+    "id": "29c29a0b"
+  },
+  {
+    "question": "In what year was there a revolution in France which led to a war with Britain?",
+    "options": [
+      "1789",
+      "1679",
+      "1097",
+      "1298"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 18th century, Britain fought a number of wars with France. In 1789, there was a revolution in France and the new French government soon declared war on Britain. Napoleon, who became Emperor of France, continued the war.",
+    "id": "29c38694"
+  },
+  {
+    "question": "Where can people see the Crown Jewels?",
+    "options": [
+      "Edinburgh Castle",
+      "The Lake District",
+      "The Eden Project",
+      "The Tower of London"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "29cee721"
+  },
+  {
+    "question": "Which TWO of these aircrafts were used by Britain in WWII?",
+    "options": [
+      "Spitfire",
+      "Hurricane",
+      "Mig-21",
+      "F-22"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The most important planes used by the Royal Air Force in the Battle of Britain(1940) were the Spitfire and the Hurricane – which were designed and built in Britain.",
+    "id": "29d52da9"
+  },
+  {
+    "question": "Members of the House of Lords are democratically elected by the public.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the House of Lords, known as peers, are not elected by the people and do not represent a constituency.",
+    "id": "29f85212"
+  },
+  {
+    "question": "Hadrian's Wall was built",
+    "options": [
+      "by the Piets (ancestors of the Scottish people) to keep out the Romans",
+      "on the orders of the Roman Emperor Hadrian"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "29fcb9d2"
+  },
+  {
+    "question": "What % of the UK population does Wales account for?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Around 5% of the UK population lives in Wales.",
+    "id": "2a3e7133"
+  },
+  {
+    "question": "Which of these UK landmarks is in Wales?",
+    "options": [
+      "Snowdonia",
+      "Loch Lomond",
+      "The Giant's Causeway",
+      "The Lake District"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "2a4a982d"
+  },
+  {
+    "question": "Which sport team was Bobby Moore a captain of?",
+    "options": [
+      "Football",
+      "Golf",
+      "Cricket",
+      "Rugby"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bobby Moore (1941-93) captained the English football team that won the World Cup in 1966.",
+    "id": "2a5747ad"
+  },
+  {
+    "question": "In 2003, ______ by JRR Tolkien was voted the country's best-loved novel",
+    "options": [
+      "The Sound and the Fury",
+      "The Heart of the Matter",
+      "Lord of the Flies",
+      "The Lord of the Rings"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "2a5b6ea5"
+  },
+  {
+    "question": "What is a good way to support your local community?",
+    "options": [
+      "Buying good from large supermarkets",
+      "Driving everywhere",
+      "Donating to boost the economy",
+      "Shop for products locally where you can"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far. ",
+    "id": "2a64bbfe"
+  },
+  {
+    "question": "Who discovered Insulin?",
+    "options": [
+      "John MacLeod",
+      "Patrick Steptoe",
+      "Ian Wilmot",
+      "Mary Peters"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Scottish physician and researcher John MacLeod (1876–1935) was the co-discoverer of insulin, used to treat diabetes.",
+    "id": "2aa5837f"
+  },
+  {
+    "question": "Who was the new Prime Minister in 1945?",
+    "options": [
+      "Clement Attlee",
+      "Dylan Thomas",
+      "Ernest Rutherford",
+      "William Beveridge"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2aaac679"
+  },
+  {
+    "question": "How many members does the Northern Ireland Assembly have?",
+    "options": [
+      "12",
+      "60",
+      "90",
+      "108"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "2aac9f8d"
+  },
+  {
+    "question": "Which is the largest National Park in England?",
+    "options": [
+      "Snowdonia",
+      "Loch Lomond and the Trossachs National Park",
+      "The Giant's Causeway",
+      "The Lake District"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "2ab17cd1"
+  },
+  {
+    "question": "Where can you see the 'Bayeux Tapestry' today?",
+    "options": [
+      "England",
+      "France",
+      "Wales",
+      "Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "2ab558fc"
+  },
+  {
+    "question": "When is the Boxing day?",
+    "options": [
+      "24th December",
+      "25th December",
+      "26th December",
+      "27th December"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2acd315a"
+  },
+  {
+    "question": "The Lake District is England’s largest national park",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Lake District is England’s largest national park",
+    "id": "2acf61a9"
+  },
+  {
+    "question": "Sir Ian Botham is famous for his achievements in which sport?",
+    "options": [
+      "Rugby",
+      "Cycling",
+      "Football",
+      "Cricket"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Sir Ian Botham (1955–) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.",
+    "id": "2adc40e0"
+  },
+  {
+    "question": "When did the BBC start the first radio broadcast?",
+    "options": [
+      "1928",
+      "1903",
+      "1936",
+      "1922"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936.",
+    "id": "2ae1f957"
+  },
+  {
+    "question": "Which TWO things happened when Mary Stuart's husband got murdered?",
+    "options": [
+      "She gave her throne to Elizabeth I",
+      "She was suspected of involvement in the murder",
+      "She asked Elizabeth I for help",
+      "She fled to France"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen. Much of her childhood was spent in France. When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I's cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+    "id": "2ae560eb"
+  },
+  {
+    "question": "During the English Civil War which two were associated with King Charles I and Parliament?",
+    "options": [
+      "Roundheads",
+      "Luddites",
+      "Tories",
+      "Cavaliers"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "2af02eed"
+  },
+  {
+    "question": "The Queen's ______ is the heir to the throne",
+    "options": [
+      "Oldest daughter",
+      "Oldest son",
+      "Oldest grandson"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2af29641"
+  },
+  {
+    "question": "The Queen makes a speech at the opening of the new parliamentary session each year. What is included in it?",
+    "options": [
+      "Her own policies for next year",
+      "She appoints the next Prime Minister",
+      "Government's policies for the year ahead",
+      "She summarises the public's achievements of the past year"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "2b2075d3"
+  },
+  {
+    "question": "At what age did Queen Victoria become Queen of the UK?",
+    "options": [
+      "18 years old",
+      "7 years old",
+      "One week old",
+      "3 years old"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. At the date of writing (2013) this is the longest reign of any British monarch. Her reign is known as the Victorian Age.",
+    "id": "2b24db01"
+  },
+  {
+    "question": "What is the national day of Northern Ireland?",
+    "options": [
+      "St George's",
+      "St Andrew's",
+      "St Patrick's",
+      "St David's"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2b30ba3b"
+  },
+  {
+    "question": "Which of these charities works with animals?",
+    "options": [
+      "PDSA",
+      "Crisis and Shelter",
+      "NSPCC",
+      "Age UK"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People's Dispensary for Sick Animals (PDSA) is the charity that works with animals",
+    "id": "2b30cefb"
+  },
+  {
+    "question": "Who was Florence Nightingale?",
+    "options": [
+      "An economist",
+      "A painter",
+      "A nurse",
+      "A poet"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "2b3b776f"
+  },
+  {
+    "question": "Shakespeare was a great English playwright.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shakespeare is regarded by many as the greatest playwright of all time.",
+    "id": "2b3f989f"
+  },
+  {
+    "question": "The UK population in 1901 was 20 million",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK population in 1901 was 40 million",
+    "id": "2b570239"
+  },
+  {
+    "question": "Which language was spoken by people during the Iron Age?",
+    "options": [
+      "Celtic",
+      "English",
+      "Anglo-Saxon",
+      "Norman French"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Most Iron age people were farmers, craft workers or warriors. The language they spoke was part of the Celtic language family.",
+    "id": "2b5ee82c"
+  },
+  {
+    "question": "Which of the following statements is TRUE:",
+    "options": [
+      "Mary Stuart ('Mary, Queen of Scots') was a Protestant",
+      "Mary Stuart ('Mary, Queen of Scots') was a Catholic"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2b76e672"
+  },
+  {
+    "question": "Where was Florence Nightingale born?",
+    "options": [
+      "Italy",
+      "England",
+      "Scotland",
+      "France"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Florence Nightingale was born in Italy to English parents in 1820.",
+    "id": "2b907075"
+  }
+]

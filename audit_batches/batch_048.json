@@ -1,0 +1,677 @@
+[
+  {
+    "question": "What year was the Scottish Parliament formed in?",
+    "options": [
+      "1996",
+      "1997",
+      "1999",
+      "1998"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Scottish Parliament was formed in 1999.",
+    "id": "63996e22"
+  },
+  {
+    "question": "Which is the UK's most popular sport?",
+    "options": [
+      "Cricket",
+      "Golf",
+      "Rugby",
+      "Football"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Football is the UK's most popular sport. It has a long history in the UK, and the English Premier League attracts a huge international audience.",
+    "id": "63afbbf2"
+  },
+  {
+    "question": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+    "options": [
+      "Up to 3 specially trained magistrates",
+      "A District Judge",
+      "A sheriff",
+      "Up to 5 specially trained magistrates"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "63b2f6f5"
+  },
+  {
+    "question": "______ was the longest-serving UK Prime Minister of the 20th century",
+    "options": [
+      "John Major",
+      "Sir John Major",
+      "Margaret Thatcher",
+      "Tony Blair"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "63b6e496"
+  },
+  {
+    "question": "The UK had high levels of employment during the Great Depression of the 1930s",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "at that time parts of the UK suffered mass unemployment",
+    "answers": [
+      1
+    ],
+    "id": "63ce9ba5"
+  },
+  {
+    "question": "Where is the UK geographically located?",
+    "options": [
+      "South west of Europe",
+      "North east of Europe",
+      "North west of Europe",
+      "South east of Europe"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "63d7a456"
+  },
+  {
+    "question": "Which of the following is associated with the Elizabethan period in England?",
+    "options": [
+      "Growing patriotism",
+      "Women rights",
+      "Civil wars",
+      "Scientific movement"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English. The Elizabethan period is also remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare.",
+    "id": "63d96953"
+  },
+  {
+    "question": "Which Admiral's Column is in Trafalgar Square, London?",
+    "options": [
+      "Christopher Wren",
+      "Francis Drake",
+      "Nelson",
+      "Charles I"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson's Column in Trafalgar Square, London, is a monument to him. His ship, HMS Victory, can be visited in Portsmouth.",
+    "id": "63dae1a4"
+  },
+  {
+    "question": "What is the King James Bible also known as?",
+    "options": [
+      "The Real Version",
+      "Authorised Version",
+      "The Protestant Version",
+      "Anglisian Version"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "id": "63dd4e76"
+  },
+  {
+    "question": "The UK has hosted the Olympic Games three times. When did the UK host the games in the 20th century? (Choose TWO)",
+    "options": [
+      "1908",
+      "1916",
+      "1928",
+      "1948"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The main Olympic site for the 2012 Games was in Stratford, East London. The British team was very successful, across a wide range of Olympic sports, finishing third in the medal table.",
+    "id": "63ddf3f8"
+  },
+  {
+    "question": "What is the Mercury Music Prize awarded for?",
+    "options": [
+      "The best music producer in the UK and Ireland",
+      "The best classical song in the UK and Ireland",
+      "The best song in the UK and Ireland",
+      "The best album from the UK and Ireland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland. The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+    "id": "63e168e3"
+  },
+  {
+    "question": "How many members does a jury in Wales have?",
+    "options": [
+      "13",
+      "11",
+      "15",
+      "12"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+    "id": "63e4b393"
+  },
+  {
+    "question": "What TWO actions can a judge take if a public body is not respecting someone's legal rights?",
+    "options": [
+      "Place its members in prison",
+      "Order them to change their practices",
+      "Order them to pay compensation",
+      "Close down the public body"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "If a judge finds that a public body is not respecting people's legal rights, they can order that the body changes its practices and/or pays compensation.",
+    "id": "63e558fd"
+  },
+  {
+    "question": "Some local councils appoint ______, who is the ceremonial leader of the council",
+    "options": [
+      "local business leader",
+      "a mayor",
+      "a local celebrity",
+      "a member of the Royal Family"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "63ea0000"
+  },
+  {
+    "question": "Who developed the radar?",
+    "options": [
+      "Patrick Steptoe",
+      "Sir Robert Watson-Watt",
+      "James Goodfellow",
+      "Mary Peters"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892–1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+    "id": "63f6773c"
+  },
+  {
+    "question": "Anyone aged ______ or over can stand for election as an MP",
+    "options": [
+      "17",
+      "18",
+      "21",
+      "25"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "63f9ce02"
+  },
+  {
+    "question": "Who wrote the poem \"The Daffodils\"?",
+    "options": [
+      "William Shakespeare",
+      "William Blake",
+      "William Williams",
+      "William Wordsworth"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Daffodils was written by William Wordsworth",
+    "id": "6405cbc6"
+  },
+  {
+    "question": "When did the War of the Roses start?",
+    "options": [
+      "1425",
+      "1455",
+      "1465",
+      "1473"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "640bc0c5"
+  },
+  {
+    "question": "In the UK, you must have a ______ to drive on public roads",
+    "options": [
+      "a mechanic's report on the engine",
+      "a road map and a receipt for the car/motorcycle",
+      "Driving licence",
+      "A passport and a photo of your car/motorbike"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "64225c40"
+  },
+  {
+    "question": "What is a fundamental principle of British life?",
+    "options": [
+      "The rule of law",
+      "The rule of the upper classes",
+      "The rule of the monarch",
+      "The rule of your local member of Parliament (MP)"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The rule of law is a fundamental principle of British life. British society is founded on fundamental values and principles which all those living in the UK should respect and support.",
+    "id": "6427fcc2"
+  },
+  {
+    "question": "What did the Chartists campaign for?",
+    "options": [
+      "Every man to have a vote",
+      "Anyone to be able to stand as an MP",
+      "Elections every 5 years",
+      "Open ballots"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes:\n- For every man to have the vote\n- Elections every year\n- For all regions to be equal in the electoral system\n- Secret ballots\n- For any man to be able to stand as an MP\n- For MPs to be paid.",
+    "id": "642d6627"
+  },
+  {
+    "question": "When did William of Orange invade England?",
+    "options": [
+      "1688",
+      "1692",
+      "1696",
+      "1684"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king.",
+    "id": "643d8dba"
+  },
+  {
+    "question": "In which year was Britain's first woman Prime Minister, Margaret Thatcher, elected to join the parliament of United Kingdom?",
+    "options": [
+      "1959",
+      "1949",
+      "1979",
+      "1986"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Margaret Thatcher was the daughter of a grocer from Grantham in Lincolnshire. She trained as a chemist and lawyer. She was elected as a Conservative MP in 1959 and became a cabinet minister in 1970 as the Secretary of State for Education and Science. In 1975 she was elected as Leader of the Conservative Party and so became Leader of the Opposition.",
+    "id": "645a4a17"
+  },
+  {
+    "question": "______, the queen of the Iceni is still remembered today and there is a statue of her on Westminster Bridge in London",
+    "options": [
+      "Julian",
+      "Ethelfleda",
+      "Boudicca",
+      "Jehanne"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "64656ca3"
+  },
+  {
+    "question": "What is the name given to rented additional land which people use to grow fruit and vegetable?",
+    "options": [
+      "Allotment",
+      "Garden",
+      "Spacage",
+      "Roomage"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A lot of people have gardens at home and will spend their free time looking after them. Some people rent additional land called ‘an allotment’, where they grow fruit and vegetables. Gardening and flower shows range from major national exhibitions to small local events.",
+    "id": "6465f049"
+  },
+  {
+    "question": "How often are elections held in Britain?",
+    "options": [
+      "Every 3 years",
+      "Every 4 years",
+      "At least every 5 years",
+      "Every 7 years"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "64689f18"
+  },
+  {
+    "question": "Where is the SECC located?",
+    "options": [
+      "London",
+      "Wales",
+      "Glasgow",
+      "Swansea"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "There are many large venues that host music events throughout the year, such as: Wembley Stadium; The O2 in Greenwich, south-east London; and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.",
+    "id": "646c9e58"
+  },
+  {
+    "question": "People over 75 years of age don't have to pay for a TV licence",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "64b7225f"
+  },
+  {
+    "question": "In Northern Ireland, the anniversary of the Battle of the Boyne in July is also a public holiday",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "64bd5fd2"
+  },
+  {
+    "question": "Where was Robert Burns from?",
+    "options": [
+      "Northern Ireland",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Robert Burns is a famous Scottish Poet",
+    "id": "64d05d7e"
+  },
+  {
+    "question": "Which flower is associated with Scotland?",
+    "options": [
+      "The Shamrock",
+      "The Rose",
+      "The Daffodil",
+      "The Thistle"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "64f9705f"
+  },
+  {
+    "question": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register. If you are eligible to vote, you can register by contacting your local council electoral registration Office.",
+    "id": "650276e0"
+  },
+  {
+    "question": "Conservative Party is a political party in the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The main political parties include: Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests.",
+    "id": "6506d187"
+  },
+  {
+    "question": "Where is the Cenotaph located?",
+    "options": [
+      "New Delhi",
+      "Whitehall",
+      "Derbyshire",
+      "Dorset"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+    "id": "652373a4"
+  },
+  {
+    "question": "In 1921 a treaty gave independence to the south of Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The 1921 treaty led to Ireland being divided into two parts, Northern Ireland and the Irish Free State.",
+    "id": "6529fb88"
+  },
+  {
+    "question": "Which of the Houses is more important in today's Britain?",
+    "options": [
+      "The House of Commons",
+      "The House of Lords",
+      "The House of Lancaster",
+      "The House of York"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The House of Commons is regarded as the more important of the two chambers in Parliament because its members are democratically elected.",
+    "id": "652ef2c8"
+  },
+  {
+    "question": "What is the percentage of Sikh living in the UK?",
+    "options": [
+      "2%",
+      "4%",
+      "0.5%",
+      "1%"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK is historically a Christian country. In the 2009 Citizenship Survey, 70% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both less than 0.5%), and 2% of people followed another religion.",
+    "id": "6543ad37"
+  },
+  {
+    "question": "What percentage of the workforce are women?",
+    "options": [
+      "40%",
+      "30%",
+      "50%",
+      "60%"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Women in Britain today make up about half of the workforce. On average, girls leave school with better qualifications than boys. More women than men study at university.",
+    "id": "654466cb"
+  },
+  {
+    "question": "First professional football clubs were formed in the late 19th century",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "It’s True. The first professional football clubs were formed in the late 19th century.",
+    "id": "65450914"
+  },
+  {
+    "question": "The Man Booker Prize is awarded in which area?",
+    "options": [
+      "Literature",
+      "Movies",
+      "Theatre",
+      "Music"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes.",
+    "id": "656e0386"
+  },
+  {
+    "question": "John Constable (1776-1837) founded the modern police force in England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "He was a famous British landscape painter",
+    "answers": [
+      1
+    ],
+    "id": "6571995b"
+  },
+  {
+    "question": "What are the MPs who don’t represent a political party called?",
+    "options": [
+      "Independents",
+      "Sole MP",
+      "Neutrals",
+      "Civil MP"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are a few MPs who do not represent any of the main political parties. They are called ‘independents’ and usually represent an issue important to their constituency.",
+    "id": "65974325"
+  },
+  {
+    "question": "What are TWO of the roles of the House of Lords?",
+    "options": [
+      "Scrutinise and comment on what the government is doing",
+      "Represent everyone in their constituency",
+      "Check laws that have been passed to ensure that they are fit for purpose",
+      "Suggest amendments or propose new laws, which are then discussed by the MPs"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.",
+    "id": "65a01c69"
+  },
+  {
+    "question": "The members of the National Assembly for Welsh (AMs) can only speak in Welsh",
+    "options": [
+      "Yes, this is correct",
+      "No, They can also speak in English"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "65a3aa10"
+  },
+  {
+    "question": "Where are all minor criminal cases heard in England, Wales and Northern Ireland?",
+    "options": [
+      "County court",
+      "Magistrates' court",
+      "Sheriff court",
+      "High court"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "id": "65a954f7"
+  },
+  {
+    "question": "The UK has hosted the Olympic Games on two occasions",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK has hosted the Olympic Games on three occasions",
+    "id": "65bcae6b"
+  },
+  {
+    "question": "Who build the wall to keep out the Picts?",
+    "options": [
+      "Henry I",
+      "Richard II",
+      "Emperor Hadrian",
+      "Donald Trump"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "id": "65cf3c81"
+  },
+  {
+    "question": "When was the Scottish Parliament established?",
+    "options": [
+      "1997",
+      "2000",
+      "1998",
+      "1999"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+    "id": "65d19913"
+  },
+  {
+    "question": "Which of the options is a famous British author?",
+    "options": [
+      "Sir Arthur Conan Doyle",
+      "John Milton",
+      "William Wordsworth",
+      "Lord Byron"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Arthur Conan Doyle (1859-1930) was a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives.",
+    "id": "65d7f69c"
+  },
+  {
+    "question": "When was The First British Prime minister (Sir Robert Walpole) in power?",
+    "options": [
+      "1721-1742",
+      "1742-1746",
+      "1714-1721",
+      "1707-1714"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first man to be called ‘Prime Minister’ was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "id": "65f0b39d"
+  }
+]

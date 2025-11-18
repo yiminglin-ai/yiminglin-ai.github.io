@@ -1,0 +1,661 @@
+[
+  {
+    "question": "Which TWO scientists led a team which was the first to clone an animal?",
+    "options": [
+      "Sir Ian Wilmot",
+      "Keith Campbell",
+      "Ernst Rutherford",
+      "James Goodfellow"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "In 1996, two British scientists, Sir Ian Wilmot (1944–) and Keith Campbell (1954–2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep. This has led to further research into the possible use of cloning to preserve endangered species and for medical purposes.",
+    "id": "4495a744"
+  },
+  {
+    "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as ‘Individual Registration’)",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "This system operates in Northern Ireland. This is called ‘individual registration’ and all those entitled to vote must complete their own registration form",
+    "id": "449c70bf"
+  },
+  {
+    "question": "The electoral register is updated annually",
+    "options": [
+      "Yes, that's correct",
+      "No, it's updated every five years",
+      "No, it's updated every ten years"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "44a924cc"
+  },
+  {
+    "question": "What became the symbol of the House of Tudor?",
+    "options": [
+      "A red and white rose",
+      "A red rose",
+      "A pink rose",
+      "A white rose"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose. The war ended with the Battle of Bosworth Field in 1485 the House of Lancaster won. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+    "id": "44cd1f63"
+  },
+  {
+    "question": "What is the name of the area in London where famous theatres are located?",
+    "options": [
+      "Soho",
+      "Theatreland",
+      "Westminster",
+      "Hyde Park"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "44cf313e"
+  },
+  {
+    "question": "The Magna Carta protected the rights of the nobility and restricted the king's power to collect taxes or to make or change laws",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "44d05159"
+  },
+  {
+    "question": "After 1588, Queen Elizabeth I became one of the most popular monarchs in English history",
+    "options": [
+      "Yes, this is true",
+      "False, she was before 1568"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "44e7bed7"
+  },
+  {
+    "question": "The longest distance on the mainland is about ______ from John O'Groats on the north coast of Scotland to Land's End in the south-west corner of England",
+    "options": [
+      "460 miles",
+      "870 miles",
+      "1540 miles",
+      "2068 miles"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "44fbc804"
+  },
+  {
+    "question": "Where is the UK geographically located with respect to Europe?",
+    "options": [
+      "North-East",
+      "North-West",
+      "South-East",
+      "South-West"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK is located in the North-West of Europe.",
+    "id": "44fd65a5"
+  },
+  {
+    "question": "During the First World War the British suffered 60,000 casualties on the first day of the battle of ______",
+    "options": [
+      "The Somme",
+      "El Alamein",
+      "Waterloo",
+      "Agincourt"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "44fec4dd"
+  },
+  {
+    "question": "In the mid-17th century, the Civil War between Charles I and Parliament led to Oliver Cromwell becoming king of England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "At the end of the Civil War, England became a republic and Oliver Cromwell was made Lord Protector",
+    "answers": [
+      1
+    ],
+    "id": "4506c828"
+  },
+  {
+    "question": "What religion did Elizabeth I follow?",
+    "options": [
+      "She was a Protestant",
+      "She was a Catholic"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "450f97fa"
+  },
+  {
+    "question": "Christmas Day, which celebrates the birth of Jesus Christ, is on which day?",
+    "options": [
+      "25 December",
+      "26 December",
+      "1 January",
+      "31 December"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+    "id": "451e4361"
+  },
+  {
+    "question": "If you wish to be a permanent resident of the UK, you should look after yourself. In return you are guaranteed a job",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You are not guaranteed a job if you settle in the UK.",
+    "id": "4523e25a"
+  },
+  {
+    "question": "What are TWO fundamental principles of British life?",
+    "options": [
+      "Only driving your car on weekdays",
+      "Participation in community life",
+      "Growing your own fruit and vegetables",
+      "Tolerance of those with different faiths and beliefs"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Participation in community life and tolerance of those with different faiths and beliefs are fundamental principles of British life. British society is founded on fundamental values and principles, which all those living in the UK should respect and support.",
+    "id": "45447620"
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+    "id": "4556607b"
+  },
+  {
+    "question": "How is the Queen's husband, Prince Philip, often called?",
+    "options": [
+      "The Duke of London",
+      "The Duke of Swansea",
+      "The Duke of Belfast",
+      "The Duke of Edinburgh"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "id": "4557211a"
+  },
+  {
+    "question": "The great thinkers of the Enlightenment were:",
+    "options": [
+      "Adam Smith",
+      "Robert Louis",
+      "Robert Burns",
+      "David Hume"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "456f26d0"
+  },
+  {
+    "question": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of",
+    "options": [
+      "America",
+      "Africa",
+      "China",
+      "Europe"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4576f5e3"
+  },
+  {
+    "question": "The Speaker of the House of Commons",
+    "options": [
+      "has to give up being an MP when elected as Speaker",
+      "remains an MP after election as Speaker"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "45828da1"
+  },
+  {
+    "question": "In the United Kingdom a citizen may only follow an approved religion",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Everyone has the legal right to choose a religion, or to choose not to practise a religion at all",
+    "answers": [
+      1
+    ],
+    "id": "4593bc37"
+  },
+  {
+    "question": "What is the BBC funded by?",
+    "options": [
+      "advertisements",
+      "TV licences",
+      "the government",
+      "the local council"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Money from TV licences goes to the BBC.",
+    "id": "45a32fc3"
+  },
+  {
+    "question": "A civil war was begun to decide who should be king of England in",
+    "options": [
+      "1405",
+      "1455",
+      "1505",
+      "1555"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "45c030a5"
+  },
+  {
+    "question": "In Scotland, a third verdict of 'not proven' is also possible",
+    "options": [
+      "Yes, it's correct",
+      "No, only 'guilty' or 'not guilty' are allowed"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "45d6372e"
+  },
+  {
+    "question": "What English King introduced the Domesday Book?",
+    "options": [
+      "King Henry V",
+      "King Henry IV",
+      "William the Conqueror",
+      "Harold, the Saxon king of England"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "45df7807"
+  },
+  {
+    "question": "Walking and using public transport to get around when you can is a good way to protect the environment because it creates less pollution than using a car",
+    "options": [
+      "Yes, this is correct",
+      "No, because public transport such as a bus is using more fuel then a car"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "45e8c9c1"
+  },
+  {
+    "question": "Major outdoor music festivals in the UK are:",
+    "options": [
+      "Hogmanay",
+      "Royal Ascot",
+      "Isle of Wight Festival",
+      "Glastonbury"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "45eb1a2b"
+  },
+  {
+    "question": "The Channel Islands have their own governments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Channel Islands have their own governments and are called 'Crown dependencies'.",
+    "id": "45ebd6ad"
+  },
+  {
+    "question": "Who defeated the Emperor Napoleon in 1815?",
+    "options": [
+      "Admiral Nelson",
+      "Captain Robert",
+      "Duke of Cornwall",
+      "Duke of Wellington"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "45f2741f"
+  },
+  {
+    "question": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+    "options": [
+      "Harry Potter",
+      "Spider-man",
+      "The Lord of the Rings",
+      "Indiana Jones"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "45f6b1fd"
+  },
+  {
+    "question": "______ is the national flower of Wales",
+    "options": [
+      "The rose",
+      "The thistle",
+      "The daffodil",
+      "The shamrock"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "45fbc637"
+  },
+  {
+    "question": "Where are the most serious criminal cases in Scotland heard at?",
+    "options": [
+      "Crown Court",
+      "Court of Session",
+      "High Court",
+      "Sheriff Court"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+    "id": "45fc06e7"
+  },
+  {
+    "question": "What are members of the House of Lords called?",
+    "options": [
+      "Patriots",
+      "Whips",
+      "Peoples Representatives",
+      "Peers"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "46116920"
+  },
+  {
+    "question": "What were the refugees that came from France between 1680 and 1720 called?",
+    "options": [
+      "Huguenots",
+      "Quakers",
+      "Chartists",
+      "Sikhs"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+    "id": "46246644"
+  },
+  {
+    "question": "With which sport do you associate Lewis Hamilton, Jensen Button and Damon Hill?",
+    "options": [
+      "Football",
+      "Athletics",
+      "Skiing",
+      "Formula 1"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Lewis Hamilton, Jensen Button and Damon Hill are all British winners of the Formula 1 World Championship.",
+    "id": "4628591f"
+  },
+  {
+    "question": "What does an MP do?",
+    "options": [
+      "Meets other MPs to talk about the good old days",
+      "Represents constituents, helps create new laws and scrutinise and comment on what government is doing",
+      "Helps people with personal problems and makes sure all the taxes are collected",
+      "Stays at home and writes new laws"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "463b3e9d"
+  },
+  {
+    "question": "What is the Battle of Agincourt?",
+    "options": [
+      "The battle where the Scottish defeated the English",
+      "A decisive battle that allowed Romans to invade England",
+      "The most famous battle of the War of the Roses",
+      "The most famous battle of the Hundred Years War"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "4640b09d"
+  },
+  {
+    "question": "Where are the minor criminal cases dealt with in England, Wales and N. Ireland?",
+    "options": [
+      "Magistrates’ Court",
+      "Justice of the Peace Court",
+      "Crown Court",
+      "High Court"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "id": "46445d11"
+  },
+  {
+    "question": "Which queen is remembered for her rebellion against the Romans?",
+    "options": [
+      "Elizabeth",
+      "Boudicca",
+      "Victoria",
+      "Anne"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Boudicca was a warrior queen who was queen of the Iceni in what is now eastern England. There is a statue of her near the Houses of Parliament in London.",
+    "id": "46485b99"
+  },
+  {
+    "question": "Queen ______ is still remembered for her rebellion against the Romans",
+    "options": [
+      "Anne",
+      "Boudicca",
+      "Elizabeth",
+      "Victoria"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "467aedbf"
+  },
+  {
+    "question": "Which TWO houses formed the House of Tudor?",
+    "options": [
+      "House of Lords",
+      "House of York",
+      "House of Commons",
+      "House of Lancaster"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard’s niece, Elizabeth of York, and united the two families. Henry was the first king of the House of Tudor. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+    "id": "467cce9c"
+  },
+  {
+    "question": "Where is the Hadrian Wall?",
+    "options": [
+      "In the north of Wales",
+      "In the north of England",
+      "in the north of Scotland",
+      "In the north of Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "id": "468f64b9"
+  },
+  {
+    "question": "When you move into a new house or apartment,",
+    "options": [
+      "ask the people who live near you not to make noise",
+      "introduce yourself to the people who live near you so you can help each other",
+      "ask the people who live near you not to bang on the walls",
+      "ask the people who live near you not to play loud music"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "46949f23"
+  },
+  {
+    "question": "According to law, where should the parties be represented equally?",
+    "options": [
+      "Television and Newspapers",
+      "Radio and Internet",
+      "Internet and Newspapers",
+      "Radio and Television"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+    "id": "46955f93"
+  },
+  {
+    "question": "Members in the Welsh Assembly can speak English and Welsh, and all publications of the Assembly are in both languages",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true",
+    "id": "46adf30f"
+  },
+  {
+    "question": "Traditional British foods are:",
+    "options": [
+      "Haggis",
+      "Sushi",
+      "Welsh cakes",
+      "Strudel"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "46b2f2cc"
+  },
+  {
+    "question": "Who was the first Danish king in England?",
+    "options": [
+      "Cnut",
+      "Edward",
+      "Harold",
+      "William"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was Cnut, also called Canute.",
+    "id": "46b4332b"
+  },
+  {
+    "question": "Tobacco should not be sold to anyone under the age of",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "46c19397"
+  },
+  {
+    "question": "What is Boxing Day?",
+    "options": [
+      "The day after Christmas Day",
+      "When people watch boxing championship",
+      "A public holiday",
+      "The day everyone punches friends",
+      "When people collect boxes to recycle"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "46de017f"
+  },
+  {
+    "question": "Remembrance Day is celebrated on",
+    "options": [
+      "1st November",
+      "11th November",
+      "24th November",
+      "25th November"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "46e39194"
+  }
+]

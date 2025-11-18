@@ -1,0 +1,662 @@
+[
+  {
+    "question": "The composer George Frederick Handel (1695-1759) was born in ______ and spent many years in the UK and became a British citizen in 1727",
+    "options": [
+      "Iceland",
+      "Germany",
+      "Japan",
+      "Russia"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1c69b21f"
+  },
+  {
+    "question": "If a person is under the age of 21, their case will be heard in a Youth Court",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "If the person is aged 10 to 17, the case is normally held in a Youth Court",
+    "answers": [
+      1
+    ],
+    "id": "1c6ea130"
+  },
+  {
+    "question": "What does St Patrick's cross look like?",
+    "options": [
+      "A red cross on a white ground",
+      "A diagonal red cross on a white ground",
+      "A diagonal white cross on a blue ground",
+      "Welsh dragon cross"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "1c6f8394"
+  },
+  {
+    "question": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries.",
+    "id": "1c718f7b"
+  },
+  {
+    "question": "Who receives ambassadors and high commissioners, entertains visiting heads of state and makes state visits overseas in support of diplomatic and economic relationships with other countries?",
+    "options": [
+      "The Speaker",
+      "The Prime Minister",
+      "The Foreign Secretary",
+      "The Queen"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Queen represents the UK to the rest of the world. She receives foreign ambassadors and high commissioners, entertains visiting heads of state, and makes state visits overseas in support of diplomatic and economic relationships with other countries.",
+    "id": "1c743946"
+  },
+  {
+    "question": "The Council of Europe is ______ for the protection and promotion of human rights in member countries",
+    "options": [
+      "responsible",
+      "not responsible"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1c7e458e"
+  },
+  {
+    "question": "Which of these countries was NOT UK’s ally in the WWII?",
+    "options": [
+      "Soviet Union",
+      "Japan",
+      "France",
+      "Poland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies.",
+    "id": "1c806d6b"
+  },
+  {
+    "question": "What is 'the Proms'?",
+    "options": [
+      "An annual event that gives awards in a range of categories, such as best British group and best British solo artist",
+      "An annual cultural festival which includes music, dance, art and original performances largely in Welsh",
+      "An eight-week summer season of daily orchestral classical music concerts",
+      "Light-hearted plays with music and comedy"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1c93e174"
+  },
+  {
+    "question": "Anyone facing ______ can go and stay in safe places, called refuges or shelters in some areas",
+    "options": [
+      "jail",
+      "domestic violence"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1c94d1ad"
+  },
+  {
+    "question": "Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as",
+    "options": [
+      "Income support",
+      "Jobseeker's Allowance",
+      "A full state retirement pension",
+      "Housing benefit"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "1cab4747"
+  },
+  {
+    "question": "Where are the most serious civil cases heard in England and Wales?",
+    "options": [
+      "Crown Court",
+      "High Court",
+      "The Court of Session",
+      "Sheriff Court"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court in England, Wales and Northern Ireland.",
+    "id": "1cad3b34"
+  },
+  {
+    "question": "Where was Rudyard Kipling born?",
+    "options": [
+      "India",
+      "England",
+      "Spain",
+      "France"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Rudyard Kipling was born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was a force for good. Kipling was awarded the Nobel Prize in Literature in 1907.",
+    "id": "1cafe454"
+  },
+  {
+    "question": "Sheriff Courts and Crown Courts deal with cases of",
+    "options": [
+      "Serious offences",
+      "Small claims procedures",
+      "Minor criminal cases",
+      "Youth cases"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1cbb88ba"
+  },
+  {
+    "question": "What is the name of capital city of Scotland?",
+    "options": [
+      "Edinburgh",
+      "Glasgow",
+      "Belfast",
+      "Cardiff"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The capital city of Scotland is Edinburgh",
+    "id": "1cc88ea9"
+  },
+  {
+    "question": "During the 'Great Depression' of the 1930s, major new Industries developed were:",
+    "options": [
+      "Coal mining",
+      "Aviation",
+      "Shipbuilding",
+      "Automobile"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "1cd9da89"
+  },
+  {
+    "question": "What was the first war to be extensively covered by media?",
+    "options": [
+      "The Battle Of Britain",
+      "The Battle of Waterloo",
+      "The Crimean War",
+      "The Battle of Hastings"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War. It was the first war to be extensively covered by the media through news stories and photographs.",
+    "id": "1cdb6c4c"
+  },
+  {
+    "question": "The monarch is the head of the Church of England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1cee01ad"
+  },
+  {
+    "question": "In the beginning, the number of people who had the right to vote for members of Parliament was still very small",
+    "options": [
+      "Only women who owned property of a certain value were able to vote",
+      "Only men who owned property of a certain value were able to vote",
+      "Only women aged 30 had the right to the vote",
+      "No women at all had the right to the vote"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "1cf0413a"
+  },
+  {
+    "question": "People have to pay tax on pensions in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People in the UK have to pay tax on their income, which includes:\n- Wages from paid employment\n- Profits from self-employment\n- Taxable benefits\n- Pensions\n- Income from property, savings and dividends.",
+    "id": "1cf214e5"
+  },
+  {
+    "question": "Which languages were the basis of modern English?",
+    "options": [
+      "Gaelic and Celtic",
+      "Norman French and Celtic",
+      "Celtic and Anglo Saxon",
+      "Norman French and Anglo Saxon"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+    "id": "1d0895a3"
+  },
+  {
+    "question": "Examples of criminal laws are",
+    "options": [
+      "Carrying a weapon or drugs",
+      "Disputes between landlords and tenants",
+      "Faulty consumer goods or services",
+      "Murder, racial crime, theft and assault",
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "1d287568"
+  },
+  {
+    "question": "Which pair won gold medals for Ice dancing at the Olympic Games in 1984 and in four consecutive world championships?",
+    "options": [
+      "Jayne Torvill and Christopher Dean",
+      "Doreen Denny and Courtney Jones",
+      "Jennifer Nicks and John Nicks",
+      "Jean Westwood and Lawrence Demmy"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Jayne Torvill (1957–) and Christopher Dean (1958–) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.",
+    "id": "1d3f76e6"
+  },
+  {
+    "question": "Which religion did the Huguenots follow?",
+    "options": [
+      "Catholicism",
+      "Protestantism",
+      "Buddhism",
+      "Russian Orthodox"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts.",
+    "id": "1d45ad2f"
+  },
+  {
+    "question": "What is Christmas day?",
+    "options": [
+      "The birth of Jesus Christ",
+      "Holidays",
+      "The death of Jesus Christ"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1d4e4ac4"
+  },
+  {
+    "question": "Northern Ireland has its own established church.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "1d737230"
+  },
+  {
+    "question": "______ developed horse-driven spinning mills that used only one machine",
+    "options": [
+      "Richard Arkwright",
+      "Adam Smith",
+      "James Watt",
+      "Howard Florey"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1d75d13b"
+  },
+  {
+    "question": "Which TWO of the following are famous British artists?",
+    "options": [
+      "Andy Murray",
+      "David Hockney",
+      "Sir Edward Elgar",
+      "Henry Moore"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "David Hockney was an important contributor to the 'pop art' movement of the 1960s. Henry Moore is famous for his abstract sculptures.",
+    "id": "1d7795fa"
+  },
+  {
+    "question": "When did the British troops leave Iraq?",
+    "options": [
+      "2013",
+      "2009",
+      "2004",
+      "2000"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq. British combat troops left Iraq in 2009.",
+    "id": "1dad9f9d"
+  },
+  {
+    "question": "Conditions in Ireland in the 19th century were much better than in the rest of the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Conditions in Ireland were not as good as in the rest of the UK. Two-thirds of the population still depended on farming to make their living, often on very small plots of land. Many depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+    "id": "1dafb7ac"
+  },
+  {
+    "question": "On election day, you will get your ballot paper, which you take to a polling booth to",
+    "options": [
+      "fill in front of the polling officer",
+      "fill in privately",
+      "read in front of the polling officer"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1db626de"
+  },
+  {
+    "question": "What is the National Citizen Service programme for?",
+    "options": [
+      "Army recruitment",
+      "Youth Skills Development",
+      "Mortgage Advisory",
+      "A shelter for the homeless"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The National Citizen Service programme, which gives 16 and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "1dcbfdc0"
+  },
+  {
+    "question": "Henry VIII's fourth wife, Anne of Cleves was a Spanish princess",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anne of Cleves was a German princess. Henry married her for political reasons but divorced her soon after.",
+    "id": "1dd54de7"
+  },
+  {
+    "question": "The National Anthem \"God save the queen\" can only be played in the presence of the Queen.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "1ddd1ef9"
+  },
+  {
+    "question": "A lot of People carve lanterns out of ______ and put a candle inside of them during Halloween",
+    "options": [
+      "Melons",
+      "Pineapples",
+      "Coconuts",
+      "Pumpkins"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1e063d8a"
+  },
+  {
+    "question": "What were the first Women's Social and Political Union group members called?",
+    "options": [
+      "House of Lords",
+      "Rotten boroughs",
+      "Slaves",
+      "Suffragettes"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Emmeline Pankhurst (1858-1928) was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU). This was the first group whose members were called 'suffragettes'.",
+    "id": "1e09c664"
+  },
+  {
+    "question": "During the Civil War supporters of King Charles I were called ______",
+    "options": [
+      "Cavaliers",
+      "Luddites",
+      "Levellers",
+      "Roundheads"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1e0c3aa3"
+  },
+  {
+    "question": "In England, parents and other community groups can apply to open a ______ school in their local area",
+    "options": [
+      "free",
+      "premium",
+      "affordable"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1e10ae8e"
+  },
+  {
+    "question": "In England, Wales and Northern Ireland, serious offences are tried in front of a judge and a jury in a",
+    "options": [
+      "Magistrates' Court",
+      "Justice of the Peace Court",
+      "Crown Court"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1e19d5d9"
+  },
+  {
+    "question": "If it is difficult for you to get to a polling station or polling place",
+    "options": [
+      "you can ask a family member who can vote on your behalf",
+      "you can register for a telephone vote",
+      "you can register for a postal ballot"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1e2b2c88"
+  },
+  {
+    "question": "The Glorious Revolution was called the “Glorious revolution” because there was no fighting in England and it guaranteed the power of Parliament",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Glorious Revolution was called the “Glorious revolution” because there was no fighting in England and it guaranteed the power of Parliament",
+    "id": "1e2ccae0"
+  },
+  {
+    "question": "Catherine Howard was Anne Boleyn’s cousin",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+    "id": "1e2eea3d"
+  },
+  {
+    "question": "The types of case which are held in County Courts includes:",
+    "options": [
+      "Breaches of contract",
+      "Divorce",
+      "Minor criminal offences",
+      "Murder"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "1e2ff79b"
+  },
+  {
+    "question": "Who was the first person to be called a Prime Minister?",
+    "options": [
+      "Edward Heath",
+      "William Lamb",
+      "Sir Robert Walpole",
+      "Arthur Wellesley"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The most important minister in Parliament became known as the Prime Minister. The first man to be called this was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "id": "1e30f844"
+  },
+  {
+    "question": "Which TWO issues can the devolved administrations pass laws on?",
+    "options": [
+      "Health",
+      "Education",
+      "Foreign affairs",
+      "Immigration"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The devolved administrations in Scotland, Wales and Northern Ireland can pass laws on matters that directly affect them, including health and education.",
+    "id": "1e385c38"
+  },
+  {
+    "question": "To apply for UK citizenship or permanent residency, which TWO things do you need?",
+    "options": [
+      "A UK bank account",
+      "An ability to speak and read English",
+      "A good understanding of life in the UK",
+      "A driving licence"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "To apply to become a UK citizen or permanent resident, you must be able to speak and read English and have a good understanding of life in the UK.",
+    "id": "1e38abfa"
+  },
+  {
+    "question": "Which of Henry VIII's wives were executed?",
+    "options": [
+      "Anne Boleyn and Catherine Howard",
+      "Catherine of Aragon and Anne Boleyn",
+      "Catherine Parr and Anne of Cleves",
+      "Anne of Cleves and Jane Seymour"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London. Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+    "id": "1e38d785"
+  },
+  {
+    "question": "Which house won the War of the Roses?",
+    "options": [
+      "The House of Lancaster",
+      "The House of York",
+      "The House of Commons",
+      "The House of Lords"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The war ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII.",
+    "id": "1e4929b5"
+  },
+  {
+    "question": "There are ______ ski centres in Scotland, as well as Europe's longest dry ski slope near Edinburgh",
+    "options": [
+      "two",
+      "three",
+      "four",
+      "five"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1e5dafb3"
+  },
+  {
+    "question": "In 1314, who led the Scots to defeat the English at the Battle of Bannockburn?",
+    "options": [
+      "Robert the Bruce",
+      "James VI",
+      "Kenneth MacAlpin",
+      "Alfred the Great"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "id": "1e66659f"
+  },
+  {
+    "question": "In 1998 the Good Friday Agreement",
+    "options": [
+      "devolved powers to Wales",
+      "led to the establishment of the Northern Ireland Assembly",
+      "devolved powers to Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1e74f018"
+  }
+]

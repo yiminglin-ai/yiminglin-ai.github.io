@@ -1,0 +1,672 @@
+[
+  {
+    "question": "If you are a dog owner, which two things should your dog's collar have when you go out for a walk?",
+    "options": [
+      "The owner's address",
+      "The owner's name",
+      "The dog's breed",
+      "The dog's name"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "3ee5e52b"
+  },
+  {
+    "question": "Which TWO of these were introduced before the First World War in 1914?",
+    "options": [
+      "State retirement pension",
+      "Child Benefit payments",
+      "Free school meals",
+      "National Health Service"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Financial help for the unemployed, old-age pensions and free school meals were just a few of the important measures introduced.",
+    "id": "3eed1b9e"
+  },
+  {
+    "question": "County Courts deal with",
+    "options": [
+      "criminal cases",
+      "murder cases",
+      "civil disputes"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3efb08bb"
+  },
+  {
+    "question": "Who used a system of land ownership known as feudalism?",
+    "options": [
+      "The Anglo-Saxons",
+      "The Normans",
+      "The Romans",
+      "The Vikings"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3f0772ff"
+  },
+  {
+    "question": "What are traditional pub games? (Select TWO)",
+    "options": [
+      "Pool",
+      "Darts",
+      "Lottery",
+      "Slots"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Most communities will have a ‘local’ pub that is a natural focal point for social activities. Pub quizzes are popular. Pool and darts are traditional pub games.",
+    "id": "3f085ca6"
+  },
+  {
+    "question": "What is the geographic position of the UK in Europe?",
+    "options": [
+      "North West",
+      "West",
+      "East",
+      "South"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK is located in the North West of Europe.",
+    "id": "3f0aba7e"
+  },
+  {
+    "question": "Any man who forces a woman to have sex, including a woman's husband, can be charged with rape",
+    "options": [
+      "Yes, it's correct",
+      "No, if he is married he has the right to do it"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3f0b448d"
+  },
+  {
+    "question": "When did the 'Battle of the Boyne' happen?",
+    "options": [
+      "1690",
+      "1695",
+      "1693",
+      "1697"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "James II wanted to regain the throne and invaded Ireland with the help of a French army. William defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today. William re-conquered Ireland and James fled back to France.",
+    "id": "3f0e90fd"
+  },
+  {
+    "question": "Which of these drugs can you buy or sell legally in UK?",
+    "options": [
+      "Cannabis",
+      "Heroin",
+      "Paracetamol",
+      "Ecstasy"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.",
+    "id": "3f27fe5d"
+  },
+  {
+    "question": "MPs can only be contacted by post.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "3f385675"
+  },
+  {
+    "question": "Drivers can use their driving licence until they are 70 years old.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Drivers can use their driving licence until they are 70 years old.",
+    "id": "3f3a654b"
+  },
+  {
+    "question": "What do children do on Father's Day for their fathers?",
+    "options": [
+      "drive cars",
+      "send cards",
+      "buy gifts",
+      "play football"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "3f499f47"
+  },
+  {
+    "question": "Which general remains a controversial figure in Ireland?",
+    "options": [
+      "James Cook",
+      "Oliver Cromwell",
+      "Francis Drake",
+      "Nelson"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Cromwell was successful in establishing the authority of the English Parliament in Ireland but did this with such violence that even today Cromwell remains a controversial figure.",
+    "id": "3f501d03"
+  },
+  {
+    "question": "What countries does 'Great Britain' refer to?",
+    "options": [
+      "Just England",
+      "England, Scotland and Wales",
+      "England and Scotland ",
+      "England, Scotland and Northern Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland. The official name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+    "id": "3f5374ce"
+  },
+  {
+    "question": "Two British film actors who have recently won Oscars are",
+    "options": [
+      "Colin Firth",
+      "Jayne Torvill",
+      "Tilda Swinton",
+      "Robert Louis Stevenson"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "3f552d47"
+  },
+  {
+    "question": "It is a legal requirement that men and women should not be discriminated against due to their gender or marital status",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.",
+    "id": "3f5865a9"
+  },
+  {
+    "question": "The United Kingdom is made up of",
+    "options": [
+      "England",
+      "The Isle of Man",
+      "Scotland",
+      "Wales",
+      "Channel Islands",
+      "Northern Ireland",
+      "Republic of Ireland"
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "id": "3f5b4651"
+  },
+  {
+    "question": "In Scotland, the national Church is the Church of Scotland, which is a ______",
+    "options": [
+      "Protestant Church",
+      "Presbyterian Church",
+      "Methodists Church",
+      "Anglican Church"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3f69bd1f"
+  },
+  {
+    "question": "What kind of event is The Wimbledon Championship?",
+    "options": [
+      "Cricket",
+      "Tennis",
+      "Water sport",
+      "Rugby"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Tennis evolved in England in the late 19th century. The first tennis club was founded in Leamington Spa in 1872. The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass.",
+    "id": "3f7dcb11"
+  },
+  {
+    "question": "Which British TV shows are popular in the UK now?",
+    "options": [
+      "Coronation Street",
+      "Friends",
+      "The Bing Bang theory",
+      "How I met your mother"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Popular programmes include regular soap operas such as Coronation Street and EastEnders.",
+    "id": "3f95693b"
+  },
+  {
+    "question": "The Welsh language, spoken in Wales and is taught in schools and universities, is a completely different language from English",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The English language has many accents and dialects. In Wales, many people speak Welsh – a completely different language from English – and it is taught in schools and universities. In Scotland, Gaelic (again, a different language) is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic.",
+    "id": "3fae99ce"
+  },
+  {
+    "question": "Women over 21 were allowed to vote for the first time in 1969",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The voting franchise was also extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+    "id": "3fc7db95"
+  },
+  {
+    "question": "When do pubs usually open?",
+    "options": [
+      "1:00 PM",
+      "11:00 AM",
+      "4:00 PM",
+      "10:00 PM"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Public Houses, also known as Pubs, usually open at 11:00 AM, 12:00 PM on Sundays.",
+    "id": "3fcb002f"
+  },
+  {
+    "question": "How can you help looking after the environment?",
+    "options": [
+      "Recycling your waste",
+      "Studying your area",
+      "Not smoking in public",
+      "Going shopping carefully"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.",
+    "id": "3fd3faf2"
+  },
+  {
+    "question": "When a member of Parliament (MP) resigns or dies, what is the election called that is held to replace them?",
+    "options": [
+      "By-selection",
+      "Re-selection",
+      "By-election",
+      "Re-election"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3fd62014"
+  },
+  {
+    "question": "St Augustine led missionaries from Rome, who spread Christianity in the",
+    "options": [
+      "north",
+      "east",
+      "west",
+      "south"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "3fd9ff56"
+  },
+  {
+    "question": "Why is 1969 a very important year in British history?",
+    "options": [
+      "Women were given the right to vote",
+      "Women were given the right to vote at the age of 30",
+      "Women were given the right to vote at the age of 21, same as men",
+      "Women were given the right to vote at the age of 18"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The voting franchise was also extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+    "id": "3fee37d8"
+  },
+  {
+    "question": "Which two issues can the devolved administrations pass laws on?",
+    "options": [
+      "Defence",
+      "Social security",
+      "Health",
+      "Education"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "",
+    "id": "40094d2a"
+  },
+  {
+    "question": "As a resident of the UK your responsibilities should be",
+    "options": [
+      "Vote for the government in power",
+      "Respect and obey the law",
+      "Take in and look after stray animals",
+      "Treat others with fairness"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "401227a5"
+  },
+  {
+    "question": "The jury decides on the penalty if the defendant is found guilty",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based on what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible. If the jury finds a defendant guilty, the judge decides on the penalty.",
+    "id": "401b4c92"
+  },
+  {
+    "question": "What building was constructed in Hyde Park to hold the Great Exhibition of 1851?",
+    "options": [
+      "The Crystal Palace",
+      "Buckingham Palace",
+      "Kensington Palace",
+      "Apsley House"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "401fd8e6"
+  },
+  {
+    "question": "The Proms",
+    "options": [
+      "are a series of tennis matches held every July in London",
+      "is an eight week summer season of orchestral music"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4025ce17"
+  },
+  {
+    "question": "The Northern Ireland Assembly was established soon after the Belfast Agreement in ______",
+    "options": [
+      "1982",
+      "1988",
+      "1992",
+      "1998"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "403047af"
+  },
+  {
+    "question": "Which country became formally united with England during the reign of Henry VIII?",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "Wales",
+      "Netherlands"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "During the reign of Henry VIII, Wales became formally united with England by the Act for the Government of Wales. The Welsh sent representatives to the House of Commons and the Welsh legal system was reformed.",
+    "id": "40309bd8"
+  },
+  {
+    "question": "Examples of civil law are:",
+    "options": [
+      "Carrying a weapon",
+      "Disputes between landlords and tenants",
+      "Discrimination in the workplace",
+      "Selling tobacco"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "403845b3"
+  },
+  {
+    "question": "Who is the author of 'Charlie and the Chocolate Factory'?",
+    "options": [
+      "Roald Dahl",
+      "J.R.R. Tolkien",
+      "Charles Dickens",
+      "Jane Kipling"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Roald Dahl was born in Wales to Norwegian parents. He served in the Royal Air Force during the Second World War. His best-known works include Charlie and the Chocolate Factory and George's Marvellous Medicine.",
+    "id": "403f4e00"
+  },
+  {
+    "question": "The Speaker of the House of Commons is",
+    "options": [
+      "Appointed by the Prime Minister",
+      "Heir to the throne",
+      "An ordinary MP",
+      "Appointed by the Queen"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "40493e0e"
+  },
+  {
+    "question": "In the years leading up to ______, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage",
+    "options": [
+      "1200",
+      "1300",
+      "1400",
+      "1500"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4067043c"
+  },
+  {
+    "question": "In Scotland, 31 December is called ______",
+    "options": [
+      "Hogsback",
+      "Hogwarts",
+      "Hogmanay"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "406fde71"
+  },
+  {
+    "question": "For which types of literature is William Shakespeare famous?",
+    "options": [
+      "Sonnets",
+      "Plays",
+      "Novels",
+      "Biographies"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "407eaf91"
+  },
+  {
+    "question": "Who was the monarch when the Book of Common Prayer was written to be used in the Church of England?",
+    "options": [
+      "Henry VII",
+      "Henry VIII",
+      "King Richard III",
+      "Edward VI"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Henry VIII was succeeded by his son Edward VI, who was strongly Protestant. During his reign, the Book of Common Prayer was written to be used in the Church of England. A version of this book is still used in some churches today.",
+    "id": "408f1558"
+  },
+  {
+    "question": "The UK is a parliamentary democracy with ______ as head of state",
+    "options": [
+      "The MP",
+      "The Prime Minister",
+      "Peers",
+      "The monarch"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "409836e8"
+  },
+  {
+    "question": "Oliver Cromwell took the title 'King of Ireland'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Cromwell was given the title of Lord Protector and ruled until his death in 1658. Henry VIII took the title 'King of Ireland'",
+    "id": "409a0c27"
+  },
+  {
+    "question": "There are a few MPs (Members of Parliament) who do not represent any of the main political parties",
+    "options": [
+      "Yes, this is correct They are called 'independents'",
+      "No, All MPs have to belong to a political party"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "40a69a88"
+  },
+  {
+    "question": "20th century British inventions or discoveries are:",
+    "options": [
+      "Mobile phone",
+      "Television",
+      "Diesel engine",
+      "World Wide Web"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "40aacbdd"
+  },
+  {
+    "question": "Giving blood only takes about ______ to do",
+    "options": [
+      "10 minutes",
+      "1 hour",
+      "3 hours",
+      "24 hours"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "40ac5bab"
+  },
+  {
+    "question": "Which of the devolved administrations has been suspended a few times?",
+    "options": [
+      "Northern Ireland Assembly",
+      "Scottish Parliament",
+      "Welsh Assembly",
+      "Westminster"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+    "id": "40baadaa"
+  },
+  {
+    "question": "Other than London universities, which university was credited with the discovery of the DNA molecule in 1953?",
+    "options": [
+      "Edinburgh",
+      "Cambridge",
+      "Aberdeen",
+      "Oxford"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916–2004), one of those awarded the Nobel Prize for this discovery, was British.",
+    "id": "40bc7c9b"
+  },
+  {
+    "question": "A husband who forces his wife to have sex can be charged with rape.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Any man who forces a woman to have sex, including a woman's husband, can be charged with rape.",
+    "id": "40daa056"
+  },
+  {
+    "question": "Henry VIII’s fourth wife, Anne of Cleves was a Spanish princess",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anne of Cleves was a German princess. Henry married her for political reasons but divorced her soon after.",
+    "id": "40de6559"
+  }
+]

@@ -1,0 +1,669 @@
+[
+  {
+    "question": "On St Valentine's Day",
+    "options": [
+      "Secret admirers give unsigned cards",
+      "Engaged couples get married",
+      "Boyfriends and girlfriends exchange cards and presents",
+      "Husband and wives exchange cards and presents"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5938ccc8"
+  },
+  {
+    "question": "If a judge finds that a public body is not respecting someone's legal rights, they can",
+    "options": [
+      "order them to change their practices",
+      "place its members in prison",
+      "close down the public body",
+      "order them to pay compensation"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "593c72bf"
+  },
+  {
+    "question": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5944f0af"
+  },
+  {
+    "question": "What must the police officer tell you if you get arrested?",
+    "options": [
+      "Ask about your background",
+      "To put your arms in the air",
+      "To follow his instructions",
+      "The reason for your arrest"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "A Police officer will tell you the reason for your arrest and you will be able to seek legal advice.",
+    "id": "59505a5a"
+  },
+  {
+    "question": "What are Halloween lanterns traditionally made from?",
+    "options": [
+      "Potatoes",
+      "Apples",
+      "Cucumbers",
+      "Pumpkins"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "During Halloween, a lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "5967007f"
+  },
+  {
+    "question": "What is the name given to the PM's country house?",
+    "options": [
+      "Country Retreat",
+      "Quaker",
+      "Windsor Palace",
+      "Chequers"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+    "id": "59861805"
+  },
+  {
+    "question": "The Habeas Corpus Act became law in ______",
+    "options": [
+      "1679",
+      "1689",
+      "1699",
+      "1709"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "598874cb"
+  },
+  {
+    "question": "You can be fined or arrested if you consume alcohol in alcohol-free zones",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "599787bc"
+  },
+  {
+    "question": "Who was one of the founders of England’s naval tradition?",
+    "options": [
+      "Sir Francis Drake",
+      "Oliver Cromwell",
+      "William Shakespeare",
+      "King James"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship (The Golden Hind) was one of the first to sail around the world.",
+    "id": "59992b48"
+  },
+  {
+    "question": "The devolved governments do not have the power to legislate on any issues but can advise and encourage",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+    "id": "59b144d9"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, ______ of people identified themselves as Christian",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "59cf0929"
+  },
+  {
+    "question": "Who was the prime minister during the Second World War?",
+    "options": [
+      "Winston Churchill",
+      "Arthur Neville Chamberlain",
+      "Clement Richard Attlee",
+      "James Harold Wilson"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Winston Churchill was the Prime Minister and Britain's war leader during the Second World War.",
+    "id": "59d17995"
+  },
+  {
+    "question": "Women in Britain today make up about half of the workforce.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Women in Britain today make up about half of the workforce.",
+    "id": "59d1d989"
+  },
+  {
+    "question": "Which jubilee did Queen Elizabeth II celebrate in 2012?",
+    "options": [
+      "Golden",
+      "Diamond",
+      "Platinum",
+      "Pearl"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Diamond Jubilee of Queen Elizabeth II was a multinational celebration throughout 2012, that marked the 60th anniversary of the accession of Queen Elizabeth II on 6 February 1952.",
+    "id": "59d8c284"
+  },
+  {
+    "question": "Halloween is an ancient festival and is celebrated on ______",
+    "options": [
+      "31st October",
+      "31st January",
+      "31st March",
+      "31st July"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "59df247b"
+  },
+  {
+    "question": "The Anglo-Saxons established Christianity when they invaded Britain",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity.",
+    "id": "59e3c4f9"
+  },
+  {
+    "question": "A British sailor, Sir Francis Chichester, was the first person to sail single-handed around the world",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A British sailor, Sir Francis Chichester, was the first person to sail single-handed around the world",
+    "id": "59e71f49"
+  },
+  {
+    "question": "Who is the patron saint of England and on which date is the feast day?",
+    "options": [
+      "St George 23rd April",
+      "St Patrick 17th March",
+      "St David 1st March",
+      "None of the above"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "59e93fb5"
+  },
+  {
+    "question": "Where does the Prime Minister reside?",
+    "options": [
+      "10 Downing Street",
+      "The Buckingham palace",
+      "1 Devonshire Terrace",
+      "76 Charlotte Street"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament.",
+    "id": "59eb16b3"
+  },
+  {
+    "question": "Some people rent land called 'an allotment', where they grow fruit and vegetables.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Allotments are plots of land that can be rented for growing fruit and vegetables.",
+    "id": "59eb6d6b"
+  },
+  {
+    "question": "Scottish and Northern Irish bank notes valid everywhere in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "59f255c2"
+  },
+  {
+    "question": "How many members does the Welsh Assembly have?",
+    "options": [
+      "108",
+      "60",
+      "129",
+      "140"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Welsh Assembly has 60 members.",
+    "id": "59f39f3a"
+  },
+  {
+    "question": "Who wrote the popular operas HMS Pinafore, The Pirates of Penzance and the Mikado?",
+    "options": [
+      "Laurence Oliver",
+      "Gilbert and Sullivan",
+      "Andrew Webber",
+      "Tim Rice"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
+    "id": "59fc504b"
+  },
+  {
+    "question": "Which TWO patron saints' days occur in March?",
+    "options": [
+      "St David",
+      "St Patrick",
+      "St George",
+      "St Andrew"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "St David, the patron saint of Wales, has a special day on 1 March. St Patrick, the patron saint of Northern Ireland (and the Republic of Ireland), has a special day on 17 March.",
+    "id": "5a092f30"
+  },
+  {
+    "question": "Which TWO were great thinkers of the Enlightenment?",
+    "options": [
+      "Robert Burns",
+      "Robert Louis Stevenson",
+      "Adam Smith",
+      "David Hume"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics. David Hume wrote about human nature.",
+    "id": "5a1224b3"
+  },
+  {
+    "question": "The First World War ended at 11.00 am on 11 November 1918.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The ending of the First World War on 11 November 1918 is still commemorated to this day.",
+    "id": "5a1d0555"
+  },
+  {
+    "question": "What are Halloween lanterns traditionally made out of?",
+    "options": [
+      "Apples",
+      "Cucumbers",
+      "Potatoes",
+      "Pumpkins"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "5a28e81a"
+  },
+  {
+    "question": "Who appoints life peers to the House of Lords?",
+    "options": [
+      "The cabinet",
+      "Their parents/guardians",
+      "The prime minister",
+      "The monarch"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Life peers are appointed by the monarch on the advice of the Prime Minister.",
+    "id": "5a3d89e8"
+  },
+  {
+    "question": "Which TWO are associated with Sir Francis Drake?",
+    "options": [
+      "The Spanish Armada",
+      "Early flight",
+      "The Titanic",
+      "Sailing around the world"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Sir Francis Drake was a famous Elizabethan sailor who took part in the defeat of the Spanish Armada and also successfully sailed around the world.",
+    "id": "5a4ea2e3"
+  },
+  {
+    "question": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+    "options": [
+      "To look after the area in which you live and the environment",
+      "To look after yourself and your family",
+      "To stay in the UK forever",
+      "To promote work in your local community"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "5a5cdee7"
+  },
+  {
+    "question": "Some issues may be debated in the Welsh Assembly and the Scottish Parliament, but remain under the control of the UK Government in London, they are:",
+    "options": [
+      "Defence, Taxation, Foreign affairs, and social security",
+      "Education, Environment, Police",
+      "Transport, Defence",
+      "Environment, Education, Taxation"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5a62c4f1"
+  },
+  {
+    "question": "During which period did the Beatles become popular and social laws were liberalised?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1950s"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "5a70b1cc"
+  },
+  {
+    "question": "Which of these was said by Winston Churchill?",
+    "options": [
+      "'Never in the field of human conflict was so much owed by so many to so few' only",
+      "All of the these",
+      "'I have nothing to offer but blood, toil, tears and sweat' only",
+      "'We shall never surrender' only"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "All of these are examples of his speeches.",
+    "id": "5a97cfad"
+  },
+  {
+    "question": "Which TWO will you be agreeing with when applying to become a permanent resident?",
+    "options": [
+      "To support the Coalition Government",
+      "To remain in the UK forever",
+      "To accept the responsibilities which come with 'Settlement'",
+      "To respect the law, values and traditions of the UK"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "You should accept all responsibilities that come with permanent residency and fundamental principles of British life",
+    "id": "5a9fa61d"
+  },
+  {
+    "question": "Before becoming the King of England, King James I was king of which country?",
+    "options": [
+      "France",
+      "Northern Ireland",
+      "Wales",
+      "Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Elizabeth I never married and so had no children of her own to inherit her throne. When she died in 1603 her heir was her cousin James VI of Scotland. He became King James I of England, Wales and Ireland but Scotland remained a separate country.",
+    "id": "5aa4a54c"
+  },
+  {
+    "question": "What percentage of the UK population lives in England?",
+    "options": [
+      "76%",
+      "84%",
+      "82%",
+      "78%"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+    "id": "5ab06573"
+  },
+  {
+    "question": "Most towns and cities have a central shopping area, which is called ______",
+    "options": [
+      "the market",
+      "the town centre",
+      "the shopping club",
+      "car-boot sale"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5ab1ec3f"
+  },
+  {
+    "question": "Which festival is celebrated on 31 October?",
+    "options": [
+      "Valentine's Day",
+      "Bonfire Night",
+      "Halloween",
+      "Hogmanay"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Halloween is celebrated on 31 October.",
+    "id": "5ad49973"
+  },
+  {
+    "question": "The Romans remained in Britain for 200 years and they built roads and public buildings, created a structure of law, and introduced new plants and animals",
+    "options": [
+      "Yes, this is true",
+      "No, it's 400 years"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5ad868e0"
+  },
+  {
+    "question": "______ is a British overseas territory",
+    "options": [
+      "The Falkland Islands",
+      "USA",
+      "Northern Ireland",
+      "France"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5add6c36"
+  },
+  {
+    "question": "Which TWO are School Governor’s duties?",
+    "options": [
+      "Looking after school's finances",
+      "Setting the strategic direction",
+      "Monitoring expenses",
+      "Evaluating school performance"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Governors and school boards have an important part to play in raising school standards. They have three key roles:",
+    "id": "5adf05af"
+  },
+  {
+    "question": "What medal was introduced during the Crimean War?",
+    "options": [
+      "The Elizabeth Medal",
+      "Medal of Honour",
+      "The Victoria Cross",
+      "Elizabeth gold"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Queen Victoria introduced the Victoria Cross medal during the Crimean war. It honours acts of valour by soldiers.",
+    "id": "5adfbd62"
+  },
+  {
+    "question": "What was Richard Arkwright remembered for?",
+    "options": [
+      "Inventing the carding machine",
+      "Cutting hair",
+      "Improving steam power",
+      "Efficiently running factories"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Born in 1732, Arkwright originally trained and worked as a barber. He was able to dye hair and make wigs. When wigs became less popular, he started to work in textiles. He improved the original carding machine. Arkwright is particularly remembered for the efficient and profitable way that he ran his factories.",
+    "id": "5ae80f09"
+  },
+  {
+    "question": "When did the English settlers first begin to colonise the eastern coast of America?",
+    "options": [
+      "In Elizabeth I's time",
+      "In Mary I's time",
+      "In Diana's time",
+      "In William I's time"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Elizabeth I’s time, English settlers first began to colonise the eastern coast of America. This colonisation, particularly by people who disagreed with the religious views of the next two kings, greatly increased in the next century.",
+    "id": "5aeb1276"
+  },
+  {
+    "question": "During the Iron Age ______ language was spoken by people",
+    "options": [
+      "Anglo-Saxon",
+      "Latin",
+      "Celtic",
+      "English"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5af7f31e"
+  },
+  {
+    "question": "Mothering Sunday is the third Sunday in June",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Mothering Sunday (or Mother’s Day) is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers.",
+    "id": "5afac694"
+  },
+  {
+    "question": "Volunteering and helping your community are an important part of being a good citizen",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5b0ea6be"
+  },
+  {
+    "question": "Voters in each constituency elect their member of Parliament (MP) in a General Election.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Voters in each constituency elect their member of Parliament (MP) in a General Election.",
+    "id": "5b13cac9"
+  },
+  {
+    "question": "The title of the UK National Anthem is ______",
+    "options": [
+      "Long Live the Queen",
+      "Almighty is the Queen",
+      "God Save the Queen",
+      "Long Live the Monarch"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5b2b2913"
+  },
+  {
+    "question": "Which TWO of the following are major horse-racing events in the UK?",
+    "options": [
+      "Scottish Grand National",
+      "Royal Ascot",
+      "Six Nations Championship",
+      "The Open Championship"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+    "id": "5b36ad89"
+  }
+]

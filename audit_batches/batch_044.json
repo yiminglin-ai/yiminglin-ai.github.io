@@ -1,0 +1,648 @@
+[
+  {
+    "question": "On becoming a UK citizen or permanent resident",
+    "options": [
+      "you will be agreeing to respect the laws, values and traditions of the UK",
+      "you can choose which laws and responsibilities you want to accept by ticking on the application form"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5b65daa8"
+  },
+  {
+    "question": "During the 18th century, new ideas about politics, philosophy and science were developed, called 'the Enlightenment'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5b708448"
+  },
+  {
+    "question": "Who is able to change the Prime Minister during his/her term?",
+    "options": [
+      "The Governing Party",
+      "The Speaker",
+      "The Monarch",
+      "Fellow MPs"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign. The Prime Minister usually resigns if his or her party loses a General Election.",
+    "id": "5b75b047"
+  },
+  {
+    "question": "Shakespeare is renowned as the English playwright",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5b8178d8"
+  },
+  {
+    "question": "Decisions on government policies are made by ______",
+    "options": [
+      "The monarch",
+      "The Prime Minister and cabinet"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5b8dbebe"
+  },
+  {
+    "question": "Who appoints life peers in the House of Lords?",
+    "options": [
+      "The monarch",
+      "The Prime Minister",
+      "The Speaker of the House of Commons",
+      "The Chief Whip"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister has the power to nominate peers for their own lifetime, but they are appointed by the monarch.",
+    "id": "5b9b0459"
+  },
+  {
+    "question": "What must you have done in order to vote in elections?",
+    "options": [
+      "Paid income tax in the previous year",
+      "Put your name on the electoral register",
+      "Registered your identity with the police",
+      "Passed an electoral test"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register. You can register by contacting your local council electoral registration office.",
+    "id": "5bd28224"
+  },
+  {
+    "question": "Which two of the following are plays by William Shakespeare?",
+    "options": [
+      "Oliver Twist",
+      "A Mid summer Night's Dream",
+      "Romeo and Juliet",
+      "Pride and Prejudice"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "5be9e00d"
+  },
+  {
+    "question": "The symbol of Lancaster was a red rose and the symbol of York was a white rose and the war between the House of Lancaster and the House of York was called",
+    "options": [
+      "The Wars of Red",
+      "The Wars of White",
+      "The Wars of the Roses",
+      "The Wars of Red White"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5bed8e14"
+  },
+  {
+    "question": "The Prime Minister appoints about ______ senior MPs to become ministers in charge of departments",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5bf01d03"
+  },
+  {
+    "question": "It is ______ to smoke tobacco products in nearly every enclosed public place in the UK",
+    "options": [
+      "allowed",
+      "against the law",
+      "legal"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5bfbf4fb"
+  },
+  {
+    "question": "Which was a crucial aerial battle against the Germans?",
+    "options": [
+      "The Blitz spirit",
+      "D-Day",
+      "The Battle of Britain",
+      "The Dunkirk spirit"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called ‘the Battle of Britain’.",
+    "id": "5c03c510"
+  },
+  {
+    "question": "Who was the first Briton to win the Olympic gold medal in the 10,000 meters?",
+    "options": [
+      "Mo Farah",
+      "David Weir",
+      "Sir Chris Hoy",
+      "Bradley Wiggins"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mo Farah was the first British runner to win the gold medal in the 10 km.",
+    "id": "5c11b984"
+  },
+  {
+    "question": "When did Queen Victoria become queen?",
+    "options": [
+      "1877",
+      "1861",
+      "1845",
+      "1837"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years.",
+    "id": "5c220767"
+  },
+  {
+    "question": "The small claims procedure is used for claims of less than ______ in Scotland and Northern Ireland",
+    "options": [
+      "£3,000",
+      "£5,000",
+      "£10,000",
+      "£15,000"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5c29ca7e"
+  },
+  {
+    "question": "What is the British Constitution often described as?",
+    "options": [
+      "Unwritten",
+      "Preserved",
+      "Documented",
+      "Written down"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.",
+    "id": "5c2ce12a"
+  },
+  {
+    "question": "In 1846, the Corn Laws prevented the import of cheap grain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1846, the Corn Laws prevented the import of cheap grain.",
+    "id": "5c2fe949"
+  },
+  {
+    "question": "Which TWO are famous horse-racing events?",
+    "options": [
+      "The Grand National",
+      "The Cup Final",
+      "Royal Ascot",
+      "The Six Nations"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "The Grand National is held at Aintree near Liverpool, and Royal Ascot is a five-day race meeting held in Berkshire.",
+    "id": "5c375fde"
+  },
+  {
+    "question": "On election day, the polling station or place will be open from",
+    "options": [
+      "7.00 am to 10.00 pm",
+      "8.00 am to 8.00 pm",
+      "8.00 am to 4.30 pm",
+      "9.am to 5.00 pm"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5c4ab529"
+  },
+  {
+    "question": "What are the names of TWO famous British film actors?",
+    "options": [
+      "Tilda Swinton",
+      "Jayne Torvill",
+      "Colin Firth",
+      "Robert Louis Stevenson"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Tilda Swinton and Colin Firth are two British film actors who have recently won Oscars.",
+    "id": "5c5f7314"
+  },
+  {
+    "question": "British principles and values are based on history and traditions",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5c6a0685"
+  },
+  {
+    "question": "English kings fought a long war with France was known as",
+    "options": [
+      "The English War",
+      "The France War",
+      "The Ten Years War",
+      "The Hundred Years War"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "5cb34e6e"
+  },
+  {
+    "question": "Henry VIII was king of England from 21 April ______",
+    "options": [
+      "1509",
+      "1559",
+      "1609",
+      "1659"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5cc9f1e3"
+  },
+  {
+    "question": "The Corn Laws were repealed in 1846. This had prevented the import of cheap grain",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true.",
+    "id": "5cca9ea5"
+  },
+  {
+    "question": "In Northern Ireland a member of your family must complete a voting registration form on your behalf",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "all those entitled to vote must complete their own registration form",
+    "answers": [
+      1
+    ],
+    "id": "5ccf640b"
+  },
+  {
+    "question": "Which TWO types of cases are held in County Courts?",
+    "options": [
+      "Divorce",
+      "Murder",
+      "Minor criminal offences",
+      "Breaches of contract"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "County Courts deal with a wide range of civil disputes, including divorce and other family matters, and breaches of contract.",
+    "id": "5cde18fb"
+  },
+  {
+    "question": "How many Olympic gold medals has the Scottish cyclist, Sir Chris Hoy, won?",
+    "options": [
+      "2",
+      "5",
+      "6",
+      "7"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Sir Chris Hoy (1976–) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+    "id": "5ce05835"
+  },
+  {
+    "question": "Traditionally, what do children do on Mother's Day?",
+    "options": [
+      "Take their mother for a Chinese meal",
+      "Take their mother to a park",
+      "Take their mother to the cinema",
+      "Give gifts/cards to their mother"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5ce33407"
+  },
+  {
+    "question": "Where is St Patrick's Day celebrated on 17th March?",
+    "options": [
+      "Northern Ireland and the Republic of Ireland",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5ce63553"
+  },
+  {
+    "question": "Which TWO are facts about King William II of Scotland?",
+    "options": [
+      "He was defeated by King James II of England when the latter tried to take back the crown",
+      "He was married to the young daughter of King James II of England, Wales and Ireland",
+      "He was the Protestant rule of the Netherlands before he became King William II of Scotland",
+      "He was William of Orange before he became King William III of England. Wales and Ireland"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "James II’s elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands. In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland.",
+    "id": "5cec8056"
+  },
+  {
+    "question": "The Bronze Age was followed by ______",
+    "options": [
+      "the Stone Age",
+      "the Glass Age",
+      "the Iron Age"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5d01aede"
+  },
+  {
+    "question": "People don't celebrate Christmas as much as they use to before",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5d03a073"
+  },
+  {
+    "question": "Famous British fashion designers are:",
+    "options": [
+      "Vivienne Westwood",
+      "Mary Quant",
+      "Capability Brown",
+      "Edwin Lutyens"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "5d0c26ff"
+  },
+  {
+    "question": "The police force is a public service that helps and protects",
+    "options": [
+      "everyone, no matter what their background or where they live",
+      "only British citizens"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5d0fed4f"
+  },
+  {
+    "question": "What's the age requirement to drink wine with a meal with someone over 18?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "16 year olds can drink wine or beer with a meal in a hotel or restaurant as long as they are with someone over 18.",
+    "id": "5d2d54a7"
+  },
+  {
+    "question": "Scotland and Wales remained free of Anglo-Saxon rule",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.",
+    "id": "5d2d5eb0"
+  },
+  {
+    "question": "Snowdonia is a national park in Scotland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Snowdonia is a national park in North Wales",
+    "answers": [
+      1
+    ],
+    "id": "5d3528d9"
+  },
+  {
+    "question": "The Eden Project is in ______",
+    "options": [
+      "Devon",
+      "Cornwall",
+      "Wales",
+      "Somerset"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5d38f8a1"
+  },
+  {
+    "question": "In 55BC Julius Caesar led a Roman invasion of Britain. It was unsuccessful and for nearly ______ years Britain remained separate from the Roman Empire",
+    "options": [
+      "50",
+      "100",
+      "200",
+      "300"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5d48feaa"
+  },
+  {
+    "question": "The UN Security Council has five permanent members",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UN Security Council has five permanent members, 15 members in total and the UN has 190 countries as members.",
+    "id": "5d5935c5"
+  },
+  {
+    "question": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true",
+    "id": "5d633cbb"
+  },
+  {
+    "question": "Civil Servants are political appointees",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5d64d25f"
+  },
+  {
+    "question": "People are able to buy National Lottery tickets in the UK if they are aged 14 or over.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "People under 16 are not allowed to participate in the National Lottery.",
+    "id": "5d6e3b05"
+  },
+  {
+    "question": "The Glorious Revolution was called the 'Glorious revolution' because there was no fighting in England and it guaranteed the power of Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Glorious Revolution was called the 'Glorious revolution' because there was no fighting in England and it guaranteed the power of Parliament",
+    "id": "5d74ea09"
+  },
+  {
+    "question": "It is compulsory to join National Citizen Service programme for 16 and 17 year olds",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "5d7d32b6"
+  },
+  {
+    "question": "Rugby originated in ______ in the early 19th century and is very popular in the UK today",
+    "options": [
+      "Scotland",
+      "France",
+      "England",
+      "Wales"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5d8cddc5"
+  },
+  {
+    "question": "Which flower is associated with Wales?",
+    "options": [
+      "Daffodil",
+      "Thistle",
+      "Rose",
+      "Shamrock"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England Rose, Northern Ireland Shamrock, Scotland Thistle, Wales Daffodil.",
+    "id": "5d9ccb7d"
+  },
+  {
+    "question": "What is the maximum amount for the 'Small Claims Procedure' in England and Wales?",
+    "options": [
+      "£4,000",
+      "£3,000",
+      "£5,000",
+      "£10,000"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £5,000 in England and Wales and £3,000 in Scotland and Northern Ireland.",
+    "id": "5d9ee757"
+  },
+  {
+    "question": "What is an example of the Middle Ages architecture?",
+    "options": [
+      "The White Tower in the Tower of London",
+      "The London Eye",
+      "The O2 arena",
+      "The Queen's House in Greenwich"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the Middle Ages, great cathedrals and churches were built, many of which still stand today. Examples are the cathedrals in Durham, Lincoln, Canterbury and Salisbury. The White Tower in the Tower of London is an example of a Norman castle keep, built on the orders of William the Conqueror.",
+    "id": "5d9f381c"
+  },
+  {
+    "question": "Reading the Queen speech and opening and closing of Parliament are some ceremonial duties performed by",
+    "options": [
+      "The Queen's husband",
+      "The Queen's oldest son",
+      "The Prime Minister",
+      "The Queen"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5da34566"
+  }
+]

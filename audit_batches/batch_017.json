@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Admiral Nelson died in which battle?",
+    "options": [
+      "Battle of Trafalgar",
+      "Battle of Waterloo",
+      "Battle of Agincourt",
+      "Battle of Britain"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Britain’s navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle.",
+    "id": "22773791"
+  },
+  {
+    "question": "The Reform Act of 1832 ______ the number of voters",
+    "options": [
+      "decreased",
+      "leveled",
+      "increased"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "228e3d4d"
+  },
+  {
+    "question": "National Insurance Contributions is paid by",
+    "options": [
+      "all those aged 50 and under who is in paid work",
+      "everybody in the UK who is in paid work",
+      "single people with no dependents",
+      "people who work full time"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "228fdf84"
+  },
+  {
+    "question": "The Restoration' refers to the reestablishment of Roman Catholicism",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had 'no wish to go on his travels again'. There was a restoration of the monarchy.",
+    "id": "229999ec"
+  },
+  {
+    "question": "During the civil war of 1455, what colour rose was the symbol of the House of Lancaster?",
+    "options": [
+      "Orange",
+      "Red",
+      "White",
+      "Read and White"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose.",
+    "id": "22a2a17e"
+  },
+  {
+    "question": "'We shall fight them on the beaches' is a famous quote from a speech by Queen Elizabeth II about the Spanish Armada",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "It's a quote from a speech by Winston Churchill, the Prime Minister in 1940, about a potential German invasion",
+    "answers": [
+      1
+    ],
+    "id": "22aea02e"
+  },
+  {
+    "question": "Which TWO of the following is William Shakespeare famous for writing?",
+    "options": [
+      "Plays",
+      "TV dramas",
+      "Poems",
+      "Radio scripts"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "William Shakespeare (1564–1616) wrote many famous plays and poems. Many of his works are still performed today.",
+    "id": "22b1e6fb"
+  },
+  {
+    "question": "Which parts of the United Kingdom have devolved governments?",
+    "options": [
+      "England and Wales",
+      "Wales, England and Northern Ireland",
+      "Only Northern Ireland",
+      "Wales, Scotland and Northern Ireland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Some powers have been devolved from central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them.",
+    "id": "22bce4ab"
+  },
+  {
+    "question": "Which stories are associated with Geoffrey Chaucer?",
+    "options": [
+      "The Canterbury Tales",
+      "The London Tales",
+      "The Westend Tales",
+      "The Eastend Tales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
+    "id": "22bd4612"
+  },
+  {
+    "question": "December 26th celebrates the birth of Jesus Christ",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "22ce819e"
+  },
+  {
+    "question": "Who is responsible for the opening of the new parliamentary session each year?",
+    "options": [
+      "The Prime Minister",
+      "The Speaker",
+      "The Queen",
+      "The Home Secretary"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "22d215c4"
+  },
+  {
+    "question": "Which comedy double act by Nick Park won many Oscars?",
+    "options": [
+      "Laurel and Hardy",
+      "Wallace and Gromit",
+      "Thelma and Louise",
+      "Gavin and Stacey"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Nick Park, who has won four Oscars for his animated films, including three for films featuring Wallace and Gromit.",
+    "id": "22f2098c"
+  },
+  {
+    "question": "Where does golf come from?",
+    "options": [
+      "Wales",
+      "Australia",
+      "Ireland",
+      "Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "22fa75c5"
+  },
+  {
+    "question": "What party won the General Election in 2010?",
+    "options": [
+      "Labour Party",
+      "Liberal democrats",
+      "Tories",
+      "None, Liberal Democrats and Conservative party formed a Coalition"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+    "id": "231843bc"
+  },
+  {
+    "question": "Which TWO countries took part in the development of Concorde?",
+    "options": [
+      "France",
+      "Russia",
+      "USA",
+      "UK"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The 1960s was also a time of technological progress. Britain and France developed the world’s only supersonic commercial airliner, Concorde. New styles of architecture, including high-rise buildings and the use of concrete and steel, became common.",
+    "id": "231a50d4"
+  },
+  {
+    "question": "What is played at important national occasions and at events attended by the Queen or the Royal Family?",
+    "options": [
+      "Drums",
+      "National Anthem",
+      "Guitar",
+      "Euphonium"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2325f128"
+  },
+  {
+    "question": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+    "options": [
+      "The Home Office",
+      "Your local police force",
+      "Your local MP",
+      "Your family"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "233d75ba"
+  },
+  {
+    "question": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for",
+    "options": [
+      "One year from the date of the entry in the UK",
+      "Two years from the date of the entry in the UK",
+      "As long as your licence is valid",
+      "No, you must pass the UK driving test before you can drive"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "233e6c1c"
+  },
+  {
+    "question": "Female genital mutilation (FGM), also known as cutting or female circumcision, is legal in the UK",
+    "options": [
+      "Yes, it's correct",
+      "No, it's illegal"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "235fedff"
+  },
+  {
+    "question": "If you are self-employed, you need to pay your own tax through a system called",
+    "options": [
+      "Self-checkout",
+      "Self-assessment",
+      "Trade Union",
+      "National Insurance contribution"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "236a3919"
+  },
+  {
+    "question": "What were the Irish people who favoured complete independence from the UK known as?",
+    "options": [
+      "People of Ireland",
+      "Roundheads",
+      "Cavaliers",
+      "Fenians"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Irish Nationalist movement had grown strongly through the 19th century. Some, such as the Fenians, favoured complete independence.",
+    "id": "237d3115"
+  },
+  {
+    "question": "How is the Church of England often called?",
+    "options": [
+      "The Catholic Church",
+      "The New Age Church",
+      "The Anglican Church",
+      "The Christian Church"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In England, there is a constitutional link between Church and state. The official Church of the state is the Church of England called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States.",
+    "id": "23976d6a"
+  },
+  {
+    "question": "People might be taken to court if they owe money to someone",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "239c008d"
+  },
+  {
+    "question": "When is St George's Day?",
+    "options": [
+      "30th November",
+      "17th March",
+      "23rd April",
+      "1st March"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "239e41ba"
+  },
+  {
+    "question": "Mo Farah and Jessica Ennis are well-known athletes who won gold medals at the 2012 London Olympics.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mo Farah won gold medals in the 5,000 and 10,000 metres, and Jessica Ennis won a gold medal in the heptathlon.",
+    "id": "23a13cce"
+  },
+  {
+    "question": "Drivers can use their driving licence until they are 70 years old, after that, The licence is valid for ______ year(s) at a time after driver reaches 70 years of age",
+    "options": [
+      "one",
+      "two",
+      "three",
+      "five"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "23ca2dfb"
+  },
+  {
+    "question": "What is Sir Isaac Newton's famous published work?",
+    "options": [
+      "Relativistic theory of light",
+      "Quantum Photon Properties",
+      "Mathematical Principles of Natural Philosophy",
+      "Discovery of the God particle"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "His most famous published work was Philosophiae Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'), which showed how gravity applied to the whole universe. Newton also discovered that white light is made up of the colours of the rainbow",
+    "id": "23d1c329"
+  },
+  {
+    "question": "A traditional pub game in the UK is",
+    "options": [
+      "Bowling",
+      "Rounders",
+      "Pool",
+      "Poker"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "23d75d53"
+  },
+  {
+    "question": "The UK is a Security Council member of ______",
+    "options": [
+      "The European Parliament",
+      "The UK Parliament",
+      "The United Nation"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "23e4babf"
+  },
+  {
+    "question": "Why was Mary known as 'Bloody Mary'?",
+    "options": [
+      "She persecuted Protestants",
+      "She fought in numerous battles",
+      "She killed her father",
+      "She put her sister in prison"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mary was a devout Catholic and persecuted Protestants.",
+    "id": "23f3e52d"
+  },
+  {
+    "question": "Which of these countries are members of the Commonwealth?",
+    "options": [
+      "Australia",
+      "Canada",
+      "Russia",
+      "USA"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "23f8bcf7"
+  },
+  {
+    "question": "What was the ‘Black Death’?",
+    "options": [
+      "Lack of water",
+      "A battle",
+      "Lack of food",
+      "A form of plague"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+    "id": "23fd2f28"
+  },
+  {
+    "question": "The UN Security Council members recommends action when there are",
+    "options": [
+      "international crises",
+      "threats to peace",
+      "shared goals in democracy",
+      "shared goals in development"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "241383ba"
+  },
+  {
+    "question": "During the reigns of Elizabeth I and James I, the English government encouraged Scottish and English Protestants to settle in which Irish province?",
+    "options": [
+      "Dublin",
+      "Grimsby",
+      "Ulster",
+      "Pale"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in Ulster, the northern province of Ireland, taking over the land from Catholic landholders.",
+    "id": "2439d6d4"
+  },
+  {
+    "question": "Who will remain the longest reigning monarch until 9 September 2015?",
+    "options": [
+      "Elizabeth II",
+      "Elizabeth I",
+      "Victoria",
+      "Mary"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign is known as the Victorian Age. On September 9 2015, Queen Elizabeth II will pass the record set by her great-great-grandmother Queen Victoria.",
+    "id": "243fd840"
+  },
+  {
+    "question": "The National Citizen Service provides military training to young people.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The National Citizen Service gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "2465d1ac"
+  },
+  {
+    "question": "Which official holiday is celebrated on the 30th November in Scotland?",
+    "options": [
+      "Father's Day",
+      "St Andrew's Day",
+      "Bonfire Night",
+      "Hogmanay"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Only Scotland and Northern Ireland have their patron saint’s day as an official holiday. Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.",
+    "id": "24702049"
+  },
+  {
+    "question": "What can schools do to raise money?",
+    "options": [
+      "Organise events",
+      "Ask parents for money",
+      "Ask the local council for extra funding",
+      "Reduce teachers' wages"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many schools organise events to raise money for extra equipment or out-of-school activities. Activities might include book sales, toy sales or bringing food to sell.",
+    "id": "24772d0e"
+  },
+  {
+    "question": "When was the Emancipation Act signed?",
+    "options": [
+      "1807",
+      "1833",
+      "1821",
+      "1813"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.",
+    "id": "24782b7d"
+  },
+  {
+    "question": "The Union Flag consists of three crosses. One is St George's. Who do the other TWO crosses represent?",
+    "options": [
+      "St David",
+      "St Patrick",
+      "St Andrew",
+      "St Piran"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The Union Flag comprises the crosses of Saints George, Andrew and Patrick.",
+    "id": "247f7a70"
+  },
+  {
+    "question": "Why were women given the right to vote?",
+    "options": [
+      "In recognition of the contribution women made to the war effort during the First World War",
+      "In recognition of the contribution women made to the war effort during the Second World War",
+      "In recognition of the contribution women made to the war effort during the Crimean War",
+      "In recognition of the contribution women made to the war effort during the Civil War"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "24863177"
+  },
+  {
+    "question": "The Giant's Causeway was formed about ______ years ago",
+    "options": [
+      "10 million",
+      "20 million",
+      "30 million",
+      "50 million"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "248ca2fd"
+  },
+  {
+    "question": "Nato stands for The North American Treaty Organization",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Nato stands for The North Atlantic Treaty Organization",
+    "id": "24929505"
+  },
+  {
+    "question": "Political parties in the UK are:",
+    "options": [
+      "Office Party",
+      "Conservative Party",
+      "Modern Party",
+      "Labour Party"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "24a044b7"
+  },
+  {
+    "question": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "24a26773"
+  },
+  {
+    "question": "St Andrew’s Day is on 17 March",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "St Andrew’s Day is on 30 November",
+    "id": "24a6230a"
+  },
+  {
+    "question": "Which TWO of the following are examples of criminal law?",
+    "options": [
+      "Racial crime",
+      "Disputes about faulty goods",
+      "Selling tobacco to anyone under the age of 18",
+      "Discrimination in the workplace"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Criminal law relates to crimes that are usually investigated by the police or another authority such as a council, and which are punishable by the courts. Such crimes include racial crimes and selling tobacco to anyone under the age of 18.",
+    "id": "24a77ad3"
+  },
+  {
+    "question": "Life peers in the House of Lords are appointed by ______",
+    "options": [
+      "The monarch",
+      "The Prime Minister",
+      "The Speaker of the House of Commons",
+      "Members of Parliament (MPs)"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "24acab51"
+  },
+  {
+    "question": "The period after the Norman Conquest up until about 1485 is called",
+    "options": [
+      "The Age of Discovery",
+      "The Middle Ages",
+      "The Medieval period",
+      "The Renaissance",
+      "Late Antiquity"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "24caf950"
+  },
+  {
+    "question": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+    "options": [
+      "Television",
+      "Internet",
+      "Newspapers",
+      "Radio"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "",
+    "id": "24cb3e94"
+  }
+]

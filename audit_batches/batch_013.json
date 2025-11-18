@@ -1,0 +1,667 @@
+[
+  {
+    "question": "10 Downing street is the official residence of ______",
+    "options": [
+      "The Queen",
+      "The President",
+      "The Prime Minister"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1a01724f"
+  },
+  {
+    "question": "It is illegal to sell tobacco products such as cigarettes, cigars, roll-up tobacco to anyone under what age?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "It is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.",
+    "id": "1a02174a"
+  },
+  {
+    "question": "By 1600, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
+    "id": "1a107548"
+  },
+  {
+    "question": "Boxing Day is the day before Christmas Day and is a public holiday.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Boxing Day is the day after Christmas Day and is a public holiday.",
+    "id": "1a1ab017"
+  },
+  {
+    "question": "After the Emancipation Act, how many Indian and Chinese workers were employed to replace the slaves?",
+    "options": [
+      "1 million",
+      "1.4 million",
+      "2 million",
+      "2.6 million"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s. William Wilberforce  succeeded in turning public opinion against the slave trade. In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders. After 1833, 2 million Indian and Chinese workers were employed to replace the freed slaves.",
+    "id": "1a2ccb25"
+  },
+  {
+    "question": "Which TWO are associated with the 'Dunkirk Spirit'?",
+    "options": [
+      "The rescue of 300,000 men",
+      "Landings on D-Day",
+      "Small boats coming to the rescue",
+      "Invasion of Berlin on May 9"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+    "id": "1a2d2fff"
+  },
+  {
+    "question": "Which Scottish poet wrote 'The Bruce'?",
+    "options": [
+      "John Barbour",
+      "Geoffrey Chaucer",
+      "Kevin MacDonald",
+      "Kevin MacAlpin"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Scotland, many people continued to speak Gaelic and the Scots language also developed. A number of poets began to write in the Scots language. One example is John Barbour, who wrote The Bruce about the Battle of Bannockburn.",
+    "id": "1a44009f"
+  },
+  {
+    "question": "How can you contact your MP?",
+    "options": [
+      "By sending a text message",
+      "By using social networks",
+      "By writing a letter",
+      "By sending an Email"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "You can contact MPs by letter or telephone at their constituency Office, or at their Office in the House of Commons",
+    "id": "1a5080d0"
+  },
+  {
+    "question": "'Beowulf', 'The Tyger' and 'She Walks in Beauty' are ______",
+    "options": [
+      "Poems",
+      "Plays",
+      "Novels",
+      "Movies"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1a522ce2"
+  },
+  {
+    "question": "When is St Patrick’s day?",
+    "options": [
+      "17th of March",
+      "1st of March",
+      "23rd of April",
+      "30th of November"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day:\n1 March: St David’s Day, Wales\n17 March: St Patrick’s Day, Northern Ireland\n23 April: St George’s Day, England\n30 November: St Andrew’s Day, Scotland.",
+    "id": "1a5c6126"
+  },
+  {
+    "question": "Discrimination in the workplace is a criminal offence",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "An example of civil laws are disputes over wages and cases of unfair dismissal or discrimination in the workplace.",
+    "id": "1a659700"
+  },
+  {
+    "question": "Which two of the following religious communities celebrate Diwali?",
+    "options": [
+      "Buddhists",
+      "Hindus",
+      "Jews",
+      "Sikhs"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "1a71c41e"
+  },
+  {
+    "question": "How long can you use an EU driving licence for?",
+    "options": [
+      "5 years",
+      "2 years",
+      "12 months",
+      "As long as it's valid"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid. If you have a licence from any other country, you may use it in the UK for up to 12 months.",
+    "id": "1a76b297"
+  },
+  {
+    "question": "When did motor-car racing start in the UK?",
+    "options": [
+      "1930s",
+      "1902",
+      "1899",
+      "1896"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Motor-car racing in the UK started in 1902. The UK continues to be a world leader in the development and manufacture of motor-sport technology. A Formula 1 Grand Prix event is held in the UK each year and a number of British Grand Prix drivers have won the Formula 1 World Championship. Recent British winners include Damon Hill, Lewis Hamilton and Jensen Button.",
+    "id": "1a7e3d59"
+  },
+  {
+    "question": "Residents who do not respect the law should not expect to be allowed to become permanent residents in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1a7f03a0"
+  },
+  {
+    "question": "The Commonwealth has no power over its members, although it can suspend membership",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1a8f332d"
+  },
+  {
+    "question": "Can the anthem ‘God save the queen’ be played only in presence of the Queen?",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You can play the Anthem in anyone’s presence",
+    "id": "1aafe88c"
+  },
+  {
+    "question": "Northern Ireland uses a system called 'individual registration' and all those entitled to vote must complete their own registration form.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "1ab361c7"
+  },
+  {
+    "question": "Elections for the European Parliament are held every ______ year(s)",
+    "options": [
+      "one",
+      "three",
+      "four",
+      "five"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1ab5648f"
+  },
+  {
+    "question": "Who is the Patron Saint of Scotland?",
+    "options": [
+      "St David",
+      "St Andrew",
+      "St Patrick",
+      "St George"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1acd7440"
+  },
+  {
+    "question": "Who made the first coins to be minted in Britain?",
+    "options": [
+      "The people of the Stone Age",
+      "The Anglo-saxons",
+      "The people of the Iron Age",
+      "The Romans"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1ad226bb"
+  },
+  {
+    "question": "Who was the tribal leader who fought against the Romans?",
+    "options": [
+      "Columba",
+      "Claudius",
+      "Hadrian",
+      "Boudicca"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "1b0bc6f6"
+  },
+  {
+    "question": "How often are the members of the Welsh Assembly (AMs) elected?",
+    "options": [
+      "Every 5 years",
+      "Every 2 years",
+      "Every 4 years",
+      "Every 3 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1b0f44ea"
+  },
+  {
+    "question": "When do you need a National Insurance number?",
+    "options": [
+      "When you want to use public transport",
+      "When you start work",
+      "When you finish your work",
+      "After you start work"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1b13c608"
+  },
+  {
+    "question": "Who is the head of state of the United Kingdom?",
+    "options": [
+      "The Foreign Secretary",
+      "The Prime Minister",
+      "The Queen",
+      "The MP"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1b14f258"
+  },
+  {
+    "question": "Which TWO of these roles, in the UK, are unpaid?",
+    "options": [
+      "Magistrate",
+      "District Judge",
+      "Special Constable",
+      "Chief of Police"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "You can volunteer with the police, and become a special constable or a lay (non-police) representative. You can also apply to become a Magistrate.",
+    "id": "1b3042e3"
+  },
+  {
+    "question": "The Scottish Parliament was formed in ______",
+    "options": [
+      "1959",
+      "1979",
+      "1989",
+      "1999"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1b31a743"
+  },
+  {
+    "question": "Which prehistoric monument still stands in the English county of Wiltshire?",
+    "options": [
+      "Offa's Dyke",
+      "Fountains Abbey",
+      "Hadrian's Wall",
+      "Stonehenge"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies.",
+    "id": "1b3e710f"
+  },
+  {
+    "question": "When did the UK join the EEC?",
+    "options": [
+      "1973",
+      "1968",
+      "1957",
+      "1964"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973.",
+    "id": "1b5032fb"
+  },
+  {
+    "question": "On which TWO occasions will there be a fresh election, called a by-election, in MP's constituency?",
+    "options": [
+      "gets ill",
+      "dies",
+      "goes abroad",
+      "resigns"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "MPs are elected at a General Election, which is held at least every five years. If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency. MPs are elected through a system called 'first past the post'.",
+    "id": "1b51d5aa"
+  },
+  {
+    "question": "What do the Brit Awards celebrate?",
+    "options": [
+      "Theatre",
+      "Music",
+      "Movies",
+      "Art"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+    "id": "1b528898"
+  },
+  {
+    "question": "When did the UK join the EU?",
+    "options": [
+      "1967",
+      "1961",
+      "1957",
+      "1973"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK originally decided not to join the EU (European Union) but it became a member in 1973. There are now 28 EU member states.",
+    "id": "1b9363a3"
+  },
+  {
+    "question": "How are proceedings in Parliament recorded?",
+    "options": [
+      "By secretaries",
+      "By radio and Morse code",
+      "By TV and Hansard",
+      "By tape recorder"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1ba80054"
+  },
+  {
+    "question": "The House of Lords is more powerful than The House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1bbe869b"
+  },
+  {
+    "question": "The UK was one of the first countries to sign the European Convention in ______",
+    "options": [
+      "1880",
+      "1910",
+      "1930",
+      "1950"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "1bc97af7"
+  },
+  {
+    "question": "Missionaries from Ireland spread the Christian religion in the",
+    "options": [
+      "north",
+      "east",
+      "west",
+      "south"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1bc9a5d2"
+  },
+  {
+    "question": "Which of these plays was written by Shakespeare?",
+    "options": [
+      "A Midsummer Night's Dream",
+      "A Doll's House",
+      "Pygmalion",
+      "Medea"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shakespeare's most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet.",
+    "id": "1be418af"
+  },
+  {
+    "question": "A famous sailing event is held",
+    "options": [
+      "in the city of Belfast",
+      "at Cowes on the Isle of Wight",
+      "in the city of Dublin"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1be55492"
+  },
+  {
+    "question": "During the reign of Elizabeth I, a large fleet of ships was sent to England to conquer the country and to restore Catholicism, where did this fleet come from?",
+    "options": [
+      "France",
+      "Portugal",
+      "Spain",
+      "Italy"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1bead675"
+  },
+  {
+    "question": "What is meant by ‘common law’?",
+    "options": [
+      "Following previous decisions",
+      "Codified",
+      "Written down",
+      "Sentence is decided by the jury"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, judges developed ‘common law’ by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were ‘codified’ (that is, written down).",
+    "id": "1bf6e385"
+  },
+  {
+    "question": "The 'Swinging Sixties' is associated with the 1860s.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 'Swinging Sixties' refers to the 1960s. It was a period of rapid social change, including a growth in popular music and fashion. The Beatles and The Rolling Stones are associated with this period.",
+    "id": "1bf74895"
+  },
+  {
+    "question": "Dame Ellen MacArthur is famous for her achievements in which sport?",
+    "options": [
+      "Athletics",
+      "Cycling",
+      "Sailing",
+      "Swimming"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Dame Ellen MacArthur (1976-) is a yachtswoman and in 2004 became the fastest person to sail around the world single handed.",
+    "id": "1bf890c1"
+  },
+  {
+    "question": "Which country sent a fleet of ships to England in 1588?",
+    "options": [
+      "France",
+      "Germany",
+      "Spain",
+      "Italy"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1c00db5a"
+  },
+  {
+    "question": "The Lake District is England's largest national park.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Lake District is England's largest national park, covering 885 square miles (2,292 square kilometres).",
+    "id": "1c0a132a"
+  },
+  {
+    "question": "During which part of the year are pantomime productions staged in theatres?",
+    "options": [
+      "Easter",
+      "Summer",
+      "Christmas",
+      "Valentine's Day"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Many theatres produce a pantomime at Christmas time. They are light-hearted plays with music and comedy, enjoyed by family audiences.",
+    "id": "1c18571d"
+  },
+  {
+    "question": "Queen Elizabeth I was a Protestant.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Elizabeth I was a Protestant.",
+    "id": "1c442de0"
+  },
+  {
+    "question": "People cannot apply to join the civil service through an application process, like other jobs in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "1c4a948a"
+  },
+  {
+    "question": "When did the 'Battle of Agincourt' take place?",
+    "options": [
+      "1415",
+      "1613",
+      "1200",
+      "1716"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+    "id": "1c51555b"
+  },
+  {
+    "question": "Who first introduced James Bond?",
+    "options": [
+      "JRR Tolkien",
+      "J K Rowling",
+      "Ian Fleming",
+      "Charles Dickens"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Ian Fleming’s books introduced James Bond.",
+    "id": "1c5a2101"
+  },
+  {
+    "question": "What were the Canterbury Tales about?",
+    "options": [
+      "The stories people told each other",
+      "People fighting near Canterbury",
+      "Canterbury life",
+      "Canterbury tales about the King"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
+    "id": "1c6882c5"
+  }
+]

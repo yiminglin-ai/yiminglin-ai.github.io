@@ -1,0 +1,678 @@
+[
+  {
+    "question": "Henry VIII needed the approval of the ______ to divorce his first wife",
+    "options": [
+      "Bishop",
+      "Priest",
+      "Judge",
+      "Pope"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6984c831"
+  },
+  {
+    "question": "What describes the level of expression that the monarch is restricted to when discussing government matters?",
+    "options": [
+      "Warn, revise and observe",
+      "Overrule, argue and advise",
+      "Advise, warn and encourage",
+      "Encourage, advise and observe"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "69b263fb"
+  },
+  {
+    "question": "What is the Church of England also known as in Scotland and the US?",
+    "options": [
+      "Anglican Church",
+      "Catholic Church",
+      "Episcopal Church",
+      "Protestant Church"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In England, there is a constitutional link between Church and state. The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States). It is a Protestant Church and has existed since the Reformation in the 1530s",
+    "id": "69b4df16"
+  },
+  {
+    "question": "Hadrian's Wall is a popular UNESCO World Heritage Site",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Parts of Hadrian's Wall, including the forts of Housesteads and Vindolanda, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Education, Scientific and Cultural Organization) World Heritage Site.",
+    "id": "69b6d945"
+  },
+  {
+    "question": "When did the Romans successfully invade Britain?",
+    "options": [
+      "63 BC",
+      "55 BC",
+      "43 AD",
+      "63 AD"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
+    "id": "69be6839"
+  },
+  {
+    "question": "In year 1066, William the Conqueror invaded England in which battle?",
+    "options": [
+      "Battle of Hastings",
+      "Battle of Britain",
+      "Battle of Agincourt",
+      "Battle of Culloden"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today. ",
+    "id": "69c24efd"
+  },
+  {
+    "question": "The name or photograph of cases heard in the Youth Court can be published in the newspapers once the young person has been found guilty",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+    "id": "69db65a7"
+  },
+  {
+    "question": "What UK landmark was voted as Britain's favourite view in 2007?",
+    "options": [
+      "The Big Ben",
+      "Lake District",
+      "Snowdonia",
+      "The London Eye"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "69dc2683"
+  },
+  {
+    "question": "Wales wasn't under Anglo-Saxon rule",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.",
+    "id": "69df025e"
+  },
+  {
+    "question": "What is the highest-value note issued as British currency?",
+    "options": [
+      "£20",
+      "£70",
+      "£50",
+      "£100"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The £50 note is the highest-value note in circulation. Other denominations (values) of British notes are £5, £10 and £20.",
+    "id": "6a04b13c"
+  },
+  {
+    "question": "When was the Carta Magna created?",
+    "options": [
+      "1514",
+      "1215",
+      "1415",
+      "1314"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6a04bfdb"
+  },
+  {
+    "question": "______ is a group of European and North American countries that have agreed to help each other if they come under attack",
+    "options": [
+      "NATO",
+      "Red Cross",
+      "United Nations",
+      "UNICEF"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6a052b7b"
+  },
+  {
+    "question": "Which TWO are NOT part of the UK?",
+    "options": [
+      "Wales",
+      "the Isle of Man",
+      "Northern Ireland",
+      "the Channel Islands"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "The UK is made up of England, Scotland, Wales and Northern Ireland.",
+    "id": "6a186e53"
+  },
+  {
+    "question": "Robert Burns (1759-1796) is associated with ______",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "He was a poet",
+    "id": "6a1b6c77"
+  },
+  {
+    "question": "Lent begins on _____",
+    "options": [
+      "Ash Wednesday",
+      "Good Friday",
+      "St Valentine's Day"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6a23dd7b"
+  },
+  {
+    "question": "The novels by Charles Dickens are:",
+    "options": [
+      "Harry Potter",
+      "Great Expectations",
+      "Oliver Twist",
+      "Pride and Prejudice"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "6a300d26"
+  },
+  {
+    "question": "What helped the progress of the industrial revolution?",
+    "options": [
+      "Human Nature ideas",
+      "New Economics ideas",
+      "New Political Ideas",
+      "Steam Power"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+    "id": "6a52ac29"
+  },
+  {
+    "question": "Which of the following major sports event took place in the UK in 2012?",
+    "options": [
+      "The Football World Cup",
+      "The Rugby World Cup",
+      "The Olympic games",
+      "The Eurocup Basketball"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "6a5c7c6f"
+  },
+  {
+    "question": "When was the voting age reduced to 18 for men and women?",
+    "options": [
+      "1918",
+      "1928",
+      "1949",
+      "1969"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6a64ec10"
+  },
+  {
+    "question": "What is the reason for more ageing population?",
+    "options": [
+      "Improved Education",
+      "Cheaper Food",
+      "Better Health Care",
+      "Better pension"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+    "id": "6a69dbb2"
+  },
+  {
+    "question": "The Magna Carta established the idea that even the king was subject to the law",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6a6ee31a"
+  },
+  {
+    "question": "There is a dragon on the official flag of Wales",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "here is also an official Welsh flag, which shows a Welsh dragon. The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+    "id": "6a76a475"
+  },
+  {
+    "question": "How can you find a solicitor?",
+    "options": [
+      "Local newspapers",
+      "Yellow Pages",
+      "The Citizens Advice Bureau",
+      "All of these"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6a93f1ca"
+  },
+  {
+    "question": "Which party formed the government in 2010?",
+    "options": [
+      "It was a coalition",
+      "Liberal Democrats only",
+      "Conservative Party only",
+      "Labour Party only"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+    "id": "6a9e1dc0"
+  },
+  {
+    "question": "In what year was Germany comprehensively defeated by the Allies during the WWII?",
+    "options": [
+      "May 1939",
+      "April 1944",
+      "June 1946",
+      "May 1945"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany. The Allies comprehensively defeated Germany in May 1945.",
+    "id": "6aa3404f"
+  },
+  {
+    "question": "Which was the last successful foreign invasion of England that took place in 1066?",
+    "options": [
+      "The Viking invasion",
+      "The Anglo-Saxon Conquest",
+      "The Roman invasion",
+      "The Norman Conquest"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "6ab94c00"
+  },
+  {
+    "question": "The money raised from National Insurance Contributions is used to pay for the state retirement pension and education",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+    "id": "6ac44757"
+  },
+  {
+    "question": "During the Great Depression in the 1930s which industry was badly affected?",
+    "options": [
+      "Housing construction",
+      "Shipbuilding",
+      "Automobile",
+      "Aviation"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6ae3415d"
+  },
+  {
+    "question": "Which of these is a criminal offence?",
+    "options": [
+      "Discrimination in the workplace",
+      "Smoking in a prohibited area",
+      "Tenant not paying rent",
+      "Activating a fire alarm"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Examples of criminal laws are: Carrying a weapon: it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury. Drugs: selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK. Racial crime: it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin. Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18. Smoking in public places: it is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke. Buying alcohol: it is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant see Pubs and Night Clubs.) Drinking in public: some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.",
+    "id": "6ae39768"
+  },
+  {
+    "question": "When is St David's day?",
+    "options": [
+      "1 of March",
+      "17 of March",
+      "23 of April",
+      "30 of November"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "St David's day is on the 1st of March. He is the Patron St of Wales.",
+    "id": "6aeed49a"
+  },
+  {
+    "question": "What can 'Carry on' be associated with?",
+    "options": [
+      "Art",
+      "Films",
+      "Music",
+      "Novels"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 1950s and 1960s were a high point for British comedies, including Passport to Pimlico, The Ladykillers and, later, the Carry On films.",
+    "id": "6b00dfcc"
+  },
+  {
+    "question": "What did the Magna Carta do?",
+    "options": [
+      "Restricted King's power",
+      "Introduced Christianity",
+      "Introduced Democracy",
+      "Allowed to collect taxes"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws.",
+    "id": "6b0a58ce"
+  },
+  {
+    "question": "Who was one of the founders of England's naval tradition?",
+    "options": [
+      "Sir Francis Drake",
+      "William Shakespeare",
+      "King James",
+      "Oliver Cromwell"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship (The Golden Hind) was one of the first to sail around the world.",
+    "id": "6b0d9ef0"
+  },
+  {
+    "question": "What is the capital city of Northern Ireland?",
+    "options": [
+      "Cork",
+      "Edinburgh",
+      "Belfast",
+      "Dublin"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "6b14019d"
+  },
+  {
+    "question": "The Protestants formed their own churches during the Reformation",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "At the same time the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church. The Protestants formed their own churches. They read the Bible in their own languages instead of in Latin; they did not pray to saints or at shrines; and they believed that a person’s own relationship with God was more important than submitting to the authority of the Church. Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "id": "6b1edbfd"
+  },
+  {
+    "question": "What country did Britain fight against during the Crimean War?",
+    "options": [
+      "India",
+      "Turkey",
+      "Russia",
+      "France"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War. It was the first war to be extensively covered by the media through news stories and photographs. Many soldiers died from illnesses they caught in the hospitals, rather than from war wounds. Queen Victoria introduced the Victoria Cross medal during this war.",
+    "id": "6b2dd027"
+  },
+  {
+    "question": "What do Seamus Heaney, Sir William Golding and Harold Pinter have in common?",
+    "options": [
+      "They have all been awarded the Nobel Prize for literature",
+      "They are all famous British singers",
+      "They were part of the first British expedition to the North Pole",
+      "They have all been Prime Minister"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6b308fb9"
+  },
+  {
+    "question": "Which Monarch entered the House of Commons to arrest 5 parliamentary leaders?",
+    "options": [
+      "Charles I",
+      "James I",
+      "James II",
+      "Oliver Cromwell"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.) Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "6b391de5"
+  },
+  {
+    "question": "Which of the events is the bombing of English cities by the Germans?",
+    "options": [
+      "The Battle of Britain",
+      "The Blitz",
+      "D-Day",
+      "The Dunkirk spirit"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Blitz was the German air force bombing London and other British cities at night-time. The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.",
+    "id": "6b438796"
+  },
+  {
+    "question": "What is the small claims procedure?",
+    "options": [
+      "An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer",
+      "A procedure that helps people to make small home insurance claims in certain circumstances"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6b492521"
+  },
+  {
+    "question": "The Ashes are a series of Test",
+    "options": [
+      "rugby matches played between England and New Zealand",
+      "cricket matches played between England and Australia",
+      "football matches played between England and France",
+      "tennis matches played between England and the USA"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6b4b03e8"
+  },
+  {
+    "question": "When were films first shown in the UK?",
+    "options": [
+      "1896",
+      "1894",
+      "1902",
+      "1901"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular.",
+    "id": "6b4ef391"
+  },
+  {
+    "question": "The EU was set up by 6 western countries who signed the Treaty of Rome on which date?",
+    "options": [
+      "17 May 1967",
+      "1 March 1977",
+      "25 March 1957",
+      "30 May 1947"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973.",
+    "id": "6b5c0d60"
+  },
+  {
+    "question": "What do people do on April 1st",
+    "options": [
+      "Go horse-racing",
+      "Attend church",
+      "Play tricks on each other",
+      "Have demonstrations in Trafalgar Square"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6b7022a6"
+  },
+  {
+    "question": "Which of these countries did NOT fight on the side of the Allied Powers during the First World War?",
+    "options": [
+      "Italy",
+      "Bulgaria",
+      "USA",
+      "Serbia"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Allies fought against the Central Powers – mainly Germany, the Austro-Hungarian Empire, the Ottoman Empire and later Bulgaria.",
+    "id": "6b8e5929"
+  },
+  {
+    "question": "Governors and school boards have an important part to play in raising school standards, they have three key roles:",
+    "options": [
+      "setting the strategic direction of the school",
+      "monitoring the students so they go direct to home",
+      "ensuring accountability",
+      "setting the benches for all the students",
+      "monitoring and evaluating school performance",
+      "ensuring there is enough equipments in the play area"
+    ],
+    "answers": [
+      0,
+      2,
+      4
+    ],
+    "id": "6b8ecf6b"
+  },
+  {
+    "question": "When did the WWI come to an end?",
+    "options": [
+      "In 1922",
+      "In 1918",
+      "In 1945",
+      "In 1943"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6b95ca53"
+  },
+  {
+    "question": "Ralph Vaughan Williams was strongly influenced by traditional English folk music",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Ralph Vaughan Williams (1872–1958) wrote music for orchestras and choirs. He was strongly influenced by traditional English folk music.",
+    "id": "6b9cd717"
+  },
+  {
+    "question": "Several British writers have won the Nobel Prize in Literature, including",
+    "options": [
+      "Sir William Golding",
+      "Clarice Cliff",
+      "Seamus Heaney",
+      "Harold Pinter",
+      "Thomas Chippendale",
+      "Vivienne Westwood"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "id": "6bab9a08"
+  },
+  {
+    "question": "In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid",
+    "options": [
+      "Yes, it's correct",
+      "No, they do not get paid"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6bac6e80"
+  }
+]

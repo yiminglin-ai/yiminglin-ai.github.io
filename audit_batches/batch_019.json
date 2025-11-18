@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Which party forms the government?",
+    "options": [
+      "The party appointed by the Queen",
+      "The party with the most votes",
+      "The party with the majority of the members of Parliament (MPs)",
+      "The party which is the most popular"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Most MPs belong to a political party, and the party with the majority of MPs forms the government. If one party does not get a majority, two parties can join together to form a coalition.",
+    "id": "26d220c6"
+  },
+  {
+    "question": "What is the traditional meat served for Christmas Dinner?",
+    "options": [
+      "Turkey",
+      "Chicken",
+      "Beef",
+      "Lamb"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "26e96345"
+  },
+  {
+    "question": "What is MP’s responsibility?",
+    "options": [
+      "To represent everyone in their constituency",
+      "To represent everyone in the UK",
+      "To point out failures",
+      "To get as many votes as possible"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "MPs have a number of different responsibilities. They:\nRepresent everyone in their constituency\nHelp to create new laws\nScrutinise and comment on what the government is doing\nDebate important national issues.",
+    "id": "26f13eae"
+  },
+  {
+    "question": "Which of these is a British invention/discovery?",
+    "options": [
+      "Radiator",
+      "Hovercraft tank",
+      "Fire extinguisher",
+      "The structure of the DNA molecule"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916–2004), one of those awarded the Nobel Prize for this discovery, was British.",
+    "id": "26fad323"
+  },
+  {
+    "question": "Select TWO famous Paralympians",
+    "options": [
+      "Dame Ellen MacArthur",
+      "Baroness Tanni Grey-Thompson",
+      "Jessica Ennis",
+      "Ellie Simmonds"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Baroness Tanni-Grey Thompson (1969–) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games. She won the London Marathon six times and broke a total of 30 world records.\nEllie Simmonds (1994–) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.",
+    "id": "26fb55e2"
+  },
+  {
+    "question": "Why did Protestant Huguenots come to Britain in the 16th and 18th centuries?",
+    "options": [
+      "To escape religious persecution",
+      "To escape war",
+      "To become Catholics",
+      "To escape famine"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "26fbe180"
+  },
+  {
+    "question": "Who was Emmeline Pankhurst?",
+    "options": [
+      "A suffragette",
+      "A nurse",
+      "A doctor",
+      "A scientist"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "270306e8"
+  },
+  {
+    "question": "The Speaker of the House of Commons is chosen",
+    "options": [
+      "by the Prime Minister",
+      "by the monarch",
+      "in a secret ballot",
+      "through a public election"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "270e831e"
+  },
+  {
+    "question": "It is a serious criminal offence to drive a vehicle without insurance",
+    "options": [
+      "Yes, this is correct",
+      "No, if you drive carefully then you don't need one",
+      "No, if you drive slowly then you don't need the insurance"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "27171ba3"
+  },
+  {
+    "question": "Who was the first man to be called the 'Prime Minister'?",
+    "options": [
+      "Sir Robert Walpole",
+      "Winston Churchill",
+      "Margaret Thatcher",
+      "Clement Attlee"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first man to be called 'Prime Minister' was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "id": "27192b6a"
+  },
+  {
+    "question": "Which of these names was Henry VIII and Anne Boleyn's child's name?",
+    "options": [
+      "Mary",
+      "Elizabeth",
+      "Edward",
+      "Catherine"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London.",
+    "id": "2737464e"
+  },
+  {
+    "question": "What are the titles of TWO novels by Charles Dickens?",
+    "options": [
+      "Harry Potter",
+      "Pride and Prejudice",
+      "Great Expectations",
+      "Oliver Twist"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Charles Dickens wrote many famous novels, including Great Expectations and Oliver Twist.",
+    "id": "274376c9"
+  },
+  {
+    "question": "How long is the Bayeux Tapestry?",
+    "options": [
+      "40m",
+      "3m",
+      "70m",
+      "12m"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry which is 70 meters long.",
+    "id": "2743f747"
+  },
+  {
+    "question": "The Scottish Parliament ______",
+    "options": [
+      "may pass laws on foreign and defence affairs",
+      "may pass laws on general economic policy",
+      "is not elected by a form of proportional representation",
+      "may pass legislation on anything not specifically reserved to the UK Parliament"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "274d1e60"
+  },
+  {
+    "question": "There were no laws before 1215 to limit the power of the king of England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "King John was forced by his noblemen to agree to the Magna Carta, which limited the powers of the monarchy in 1215",
+    "answers": [
+      0
+    ],
+    "id": "27515b21"
+  },
+  {
+    "question": "What sport is played at Wimbledon Championships?",
+    "options": [
+      "Rugby",
+      "Tennis",
+      "Football",
+      "Cricket"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2758f20a"
+  },
+  {
+    "question": "National parks are",
+    "options": [
+      "areas of protected countryside that everyone can visit",
+      "national sports grounds for people to hold sporting events"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "275ca659"
+  },
+  {
+    "question": "Who is considered ineligible to do jury service?",
+    "options": [
+      "Police",
+      "Anyone with a criminal conviction",
+      "Non-Christians",
+      "Judges"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+    "id": "2765e2d3"
+  },
+  {
+    "question": "What do pressure and lobby groups do?",
+    "options": [
+      "Assist MPs in their constituency work",
+      "Influence government policy",
+      "Represent the views of British businesses",
+      "Organise violent protests"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "276b89d4"
+  },
+  {
+    "question": "The UK has a declining elderly population",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+    "id": "278496e9"
+  },
+  {
+    "question": "Richard Arkwright originally trained and worked as a",
+    "options": [
+      "zoo keeper",
+      "barber",
+      "farmer",
+      "teacher"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2785089e"
+  },
+  {
+    "question": "Henry Tudor was the first king of",
+    "options": [
+      "the House of Tudor",
+      "the House of Lancaster",
+      "the House of York"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "278f7bd9"
+  },
+  {
+    "question": "Where can you get details about the small claims procedure?",
+    "options": [
+      "Any council office",
+      "Your local County Court",
+      "Your local polling station",
+      "High Court"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "You can get details about the small claims procedure from your local County Court or Sheriff Court.",
+    "id": "27922231"
+  },
+  {
+    "question": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "2796a07b"
+  },
+  {
+    "question": "Which TWO of these are cycling athletes?",
+    "options": [
+      "Sir Chris Hoy",
+      "Sir Steve Redgrave",
+      "Bradley Wiggins",
+      "Jessica Ennis"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Sir Chris Hoy (1976–) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.\nBradley Wiggins (1980–) is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.",
+    "id": "27adde11"
+  },
+  {
+    "question": "Some of the most well-known galleries are:",
+    "options": [
+      "the National Gallery, Tate Britain and Tate Modern in London",
+      "the National Museum in Cardiff",
+      "the Timeout Art Gallery in Leeds",
+      "the National Gallery of Scotland in Edinburgh",
+      "Focus Gallery in Birmingham"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "id": "27adfd05"
+  },
+  {
+    "question": "What name is given to the official flag that represents the union between England, Scotland, Wales and Northern Ireland?",
+    "options": [
+      "Union Ace",
+      "Union Queen",
+      "Union King",
+      "Union Jack"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "One symbol of the union between England, Scotland, Wales and Northern Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack.",
+    "id": "27c560c2"
+  },
+  {
+    "question": "The Medieval Period is referred to the period after the Norman Conquest up until what year?",
+    "options": [
+      "1385",
+      "1455",
+      "1485",
+      "1400"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The period after the Norman Conquest up until about 1485 is called the Middle Ages (or the medieval period). It was a time of almost constant war.",
+    "id": "27c70606"
+  },
+  {
+    "question": "How often does Prime Minister's Questions occur when Parliament is sitting?",
+    "options": [
+      "Every day",
+      "Twice a week",
+      "Once a week",
+      "Once a month"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Prime Minister's Questions takes place every week while Parliament is sitting.",
+    "id": "27cc1abf"
+  },
+  {
+    "question": "Catherine Howard was the sixth wife of Henry VIII.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Catherine Howard, a cousin of Henry VIII's second wife, Anne Boleyn, was Henry's fifth wife.",
+    "id": "27df634c"
+  },
+  {
+    "question": "Who were the 'suffragettes'?",
+    "options": [
+      "Women who left the UK to live in India",
+      "Women who campaigned for women's votes",
+      "Women who chose to be single ",
+      "Women who stayed at home to raise a family"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the late 19th and early 20th centuries, an increasing number of women campaigned and demonstrated for women's rights, in particular the right to vote. They became known as 'suffragettes'.",
+    "id": "27e51710"
+  },
+  {
+    "question": "King Henry VIII created the Church of England when the Pope refused to grant him a divorce.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Henry broke away from the Roman Catholic Church so he could divorce his wife Catherine of Aragon and marry Anne Boleyn. He married six times in total and had one son.",
+    "id": "27f95407"
+  },
+  {
+    "question": "What flower is traditionally worn by people on Remembrance Day?",
+    "options": [
+      "Iris",
+      "Poppy",
+      "Daffodil",
+      "Lily"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "28007178"
+  },
+  {
+    "question": "When were women allowed to vote?",
+    "options": [
+      "1882",
+      "1948",
+      "1928",
+      "1918"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "280fae15"
+  },
+  {
+    "question": "What is the name of the movement against the authority of the Pope and the ideas of the Catholic Church that took place during the reign of Henry VIII?",
+    "options": [
+      "The Reformation",
+      "The Enlightenment",
+      "The Glorious Revolution",
+      "The Renaissance"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "28149918"
+  },
+  {
+    "question": "In Scotland a system called the ______ is used to deal with children and young people who have committed an offence",
+    "options": [
+      "Children's Hearings System",
+      "Youth Hearings System",
+      "Young Hearings System"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "281def34"
+  },
+  {
+    "question": "The Union Flag comprises ______ crosses, one for each part of the United Kingdom",
+    "options": [
+      "two",
+      "three",
+      "four"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2829c6f8"
+  },
+  {
+    "question": "What is the 'Grand National'?",
+    "options": [
+      "A tennis championship",
+      "A football cup competition",
+      "A horse race",
+      "A motor race"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Grand National at Aintree near Liverpool and the Scottish Grand National at Ayr are well known horse racing events.",
+    "id": "2835a289"
+  },
+  {
+    "question": "What year were women given the right to vote?",
+    "options": [
+      "1918",
+      "1925",
+      "1949",
+      "1914"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "283e4616"
+  },
+  {
+    "question": "From where does most of the money come for local services?",
+    "options": [
+      "Advertising",
+      "Central government",
+      "Water rates",
+      "TV licence fees"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "28436820"
+  },
+  {
+    "question": "The British Empire during the Victorian period became the largest empire the world has ever seen",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The British Empire grew to cover Australia, India and large parts of Africa",
+    "answers": [
+      0
+    ],
+    "id": "284a0e0a"
+  },
+  {
+    "question": "When King Charles I tried to impose a revised Prayer Book on the Presbyterian Church in Scotland, which TWO events occurred?",
+    "options": [
+      "A Scottish army was formed and it invaded England",
+      "King Charles I formed his own army without asking for help from Parliament",
+      "Parliament only gave the money to King Charles when the Scottish army invaded England",
+      "King Charles I recalled Parliament to ask it for funds to form his own army"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised Prayer Book. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest. A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament. In 1640, he recalled Parliament to ask it for funds. Many in Parliament were Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England.",
+    "id": "2854c0f4"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, less than ______ of people identified themselves as Buddhist",
+    "options": [
+      "0.5%",
+      "1%",
+      "2%",
+      "4%"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2855a10e"
+  },
+  {
+    "question": "The Channel Islands are a part of the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Channel Islands are not a part of the UK but are closely linked to it. They have their own governments and are called 'Crown dependencies'.",
+    "id": "28577f80"
+  },
+  {
+    "question": "______ abolished slavery throughout the British Empire",
+    "options": [
+      "The Abolition Act",
+      "The Emancipation Act",
+      "The Freedom Act",
+      "The Slavery Act"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "28629c1b"
+  },
+  {
+    "question": "Who was the captain of the English football team that won the World Cup in 1966?",
+    "options": [
+      "Sir Roger Bannister",
+      "Sir Jackie Stewart",
+      "Sir Ian Botham",
+      "Bobby Moore"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "28786648"
+  },
+  {
+    "question": "Which landmark is a prehistoric structure which still stands in the English county of Wiltshire?",
+    "options": [
+      "Offa's Dyke",
+      "Hadrian's Wall",
+      "Windsor Castle",
+      "Stonehenge"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "2880c52a"
+  },
+  {
+    "question": "Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?",
+    "options": [
+      "Boudicca",
+      "Emperor Hadrian",
+      "Emperor Claudius",
+      "Julius Caesar"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2881ce6b"
+  },
+  {
+    "question": "Which king was executed in 1649?",
+    "options": [
+      "James I",
+      "Charles II",
+      "James VII",
+      "Charles I"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "2882a4b7"
+  },
+  {
+    "question": "What method is used to elect UK MPs?",
+    "options": [
+      "Popularity",
+      "Instant runoff",
+      "First past the post system",
+      "Proportional Representation"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "MPs are elected through a system called ‘first past the post’. In each constituency, the candidate who gets the most votes is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+    "id": "2885ed94"
+  }
+]

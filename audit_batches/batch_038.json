@@ -1,0 +1,657 @@
+[
+  {
+    "question": "Britain became fully democratic in the 19th century",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK has had a fully democratic voting system since 1928 (20th century). The present voting age of 18 was set in 1969 and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote.",
+    "id": "4eb8f060"
+  },
+  {
+    "question": "Many people volunteer simply because",
+    "options": [
+      "they don't want to go to school",
+      "they are rich and do not need a paid job",
+      "they want to become a famous",
+      "they want to help other people"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "4eb95182"
+  },
+  {
+    "question": "The day before Lent starts is called",
+    "options": [
+      "Christmas Day",
+      "Good Friday",
+      "Shrove Tuesday",
+      "April Fool's Day",
+      "Pancake Day"
+    ],
+    "answers": [
+      2,
+      4
+    ],
+    "id": "4ec3a719"
+  },
+  {
+    "question": "'The Mousetrap' is",
+    "options": [
+      "an environmental policy aiming to prevent mice from destroying your home",
+      "a play that has been running in London's West End since 1952 It's a murder-mystery play by Dame Agatha Christie"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4eca32e3"
+  },
+  {
+    "question": "Which tribes invaded Britain after the Romans had left?",
+    "options": [
+      "The Jutes and the Anglo-Saxons",
+      "The Vikings",
+      "The Normans",
+      "The Celtics"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+    "id": "4ed285cb"
+  },
+  {
+    "question": "Who appoints 'Life peers'?",
+    "options": [
+      "The Monarch",
+      "The Prime Minister",
+      "The Shadow Cabinet",
+      "The Speaker"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Life peers are appointed by the monarch on the advice of the Prime Minister.",
+    "id": "4ed79c26"
+  },
+  {
+    "question": "How is a jury selected?",
+    "options": [
+      "From the NHS registration system",
+      "Randomly from the electoral register",
+      "Alphabetically from the telephone directory",
+      "From a postcode selection"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4ee70936"
+  },
+  {
+    "question": "The Opposition is the second largest party in the House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The second-largest party in the House of Commons is called the Opposition. The leader of the Opposition usually becomes Prime Minister if his or her party wins the next General Election.",
+    "id": "4ef239d5"
+  },
+  {
+    "question": "Which of these is correct in the chronological order?",
+    "options": [
+      "Canterbury Tales, The Black Death, Magna Carta",
+      "The Black Death, Canterbury Tales, Magna Carta",
+      "The Black Death, Magna Carta, Canterbury Tales",
+      "Magna Carta, The Black Death, Canterbury Tales,"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Magna Carta (1215), The Black Death (1348), The Canterbury Tales (1400)",
+    "id": "4ef971ca"
+  },
+  {
+    "question": "Pubs are usually open from ______",
+    "options": [
+      "8.00am",
+      "9.00am",
+      "10.00am",
+      "11.00am"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "4efc0367"
+  },
+  {
+    "question": "Which ship was one of the first to circumnavigate the world?",
+    "options": [
+      "Golden Hind",
+      "HMS Victory",
+      "Royal Yacht Britannia",
+      "The Ship of Royals"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship, the Golden Hind, was one of the first to sail right around (‘circumnavigate’) the world.",
+    "id": "4f03ff1b"
+  },
+  {
+    "question": "The Bill of Rights of 1689 limited whose powers?",
+    "options": [
+      "The king",
+      "Parliament",
+      "Judges",
+      "The Church"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Bill of Rights of 1689 limited the powers of the king and increased the powers of Parliament.",
+    "id": "4f0712ec"
+  },
+  {
+    "question": "The UK government hasn’t used the power to suspend the Northern Ireland Assembly",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+    "id": "4f09a170"
+  },
+  {
+    "question": "The Prime Minister is the head of the Commonwealth",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+    "id": "4f09f623"
+  },
+  {
+    "question": "What are the Grand National, FA Cup, the 'Open' and Wimbledon?",
+    "options": [
+      "Sporting events",
+      "Shops in Knightsbridge",
+      "Famous places",
+      "Parks in London"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4f132a8c"
+  },
+  {
+    "question": "The Council of Ministers are Local MPs?",
+    "options": [
+      "Yes, they are",
+      "No, they're not"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4f286515"
+  },
+  {
+    "question": "A public vote in 2002 decided that Winston Churchill was the Greatest Briton of all time.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 2002 Winston Churchill (1874–1965), the British Prime Minister from 1940 until 1945, was voted the Greatest Briton of all time by the British public.",
+    "id": "4f2ea2b0"
+  },
+  {
+    "question": "Who sat in the House of Commons in the Middle Ages?",
+    "options": [
+      "Knights",
+      "The Nobility",
+      "Great Landowners",
+      "Bishops"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the middle ages, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons.",
+    "id": "4f483211"
+  },
+  {
+    "question": "The official Church of the state is the Church of England called the Anglican Church in Scotland.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The official Church of the state is the Church of England called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States",
+    "id": "4f486048"
+  },
+  {
+    "question": "All citizens and permanent residents of the UK can choose which laws they follow.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. These include respecting and obeying the law.",
+    "id": "4f48afb2"
+  },
+  {
+    "question": "What was the population of the UK in 1801?",
+    "options": [
+      "4 million",
+      "20 million",
+      "5 million",
+      "8 million"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The population of the UK was just 8 million in 1801.",
+    "id": "4f4c37af"
+  },
+  {
+    "question": "Which Scottish clan was killed for not taking the oath?",
+    "options": [
+      "The MacLaine of Lochbuie",
+      "The McDowalls of Garthland",
+      "The Macpherson of Cluny",
+      "The MacDonalds of Glencoe"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "4f50e127"
+  },
+  {
+    "question": "Where is Snowdon?",
+    "options": [
+      "Wales",
+      "Scotland",
+      "England",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "4f53fb41"
+  },
+  {
+    "question": "What is the second sentence of the citizenship pledge?",
+    "options": [
+      "I will uphold its democratic value",
+      "I will give my loyalty to the UK and respect its rights and freedoms",
+      "I will fulfil my duties and obligations as a British citizen",
+      "I will observe the laws of the UK faithfully"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4f63593e"
+  },
+  {
+    "question": "Northern Ireland Assembly at",
+    "options": [
+      "Stormont, in Belfast",
+      "Lisburn, in Belfast",
+      "Newtownabbey, in Belfast",
+      "Bangor, in County Down"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4f637a1f"
+  },
+  {
+    "question": "Who was the first ‘Scottish King’?",
+    "options": [
+      "Kenneth MacAlpin",
+      "Cnut also \"Canute\"",
+      "Harold",
+      "William I"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the north, the threat of attack by Vikings had encouraged the people to unite under one king, Kenneth MacAlpin. The term Scotland began to be used to describe that country.",
+    "id": "4f64ff59"
+  },
+  {
+    "question": "Who do some local councils appoint as a ceremonial leader?",
+    "options": [
+      "A local business leader",
+      "A member of the Royal Family",
+      "A local celebrity",
+      "A mayor"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Many local authorities appoint a mayor, who is the ceremonial leader of the council. (However in some towns, a mayor is elected to be the effective leader of the administration.)",
+    "id": "4f78b29d"
+  },
+  {
+    "question": "After the abolition of slavery, more than 2 million migrants came from which TWO countries to replace the freed slaves?",
+    "options": [
+      "Russia",
+      "India",
+      "China",
+      "Australia"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "After 1833, 2 million Indian and Chinese workers were employed to replace the freed slaves.",
+    "id": "4f7d6a11"
+  },
+  {
+    "question": "What discount on television licence is offered to blind people?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4f9c2965"
+  },
+  {
+    "question": "William Shakespeare is famous for writing:",
+    "options": [
+      "TV dramas",
+      "Poems",
+      "Plays",
+      "Newspaper articles"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "4f9c4430"
+  },
+  {
+    "question": "During the Middle Ages, which TWO wars were fought abroad?",
+    "options": [
+      "The War of the Roses",
+      "Hundred Years War",
+      "Crusaders",
+      "Battle of Hastings"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "During the Middle Ages, the English kings also fought a number of wars abroad. Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land. English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years).",
+    "id": "4fb3d9f3"
+  },
+  {
+    "question": "You can contact the Assembly Booking Service to book guided tours or seats in the public galleries for the Welsh Assembly",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4fbec5aa"
+  },
+  {
+    "question": "Which is the spiritual leader of the Church of England?",
+    "options": [
+      "The Peers",
+      "The Queen",
+      "The Archbishop of Canterbury",
+      "The Pope"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4fc15ac3"
+  },
+  {
+    "question": "Constituencies which had hardly any voters were called ‘Pocket Boroughs’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Some constituencies were controlled by a single wealthy family. These were called ‘pocket boroughs’. Other constituencies had hardly any voters and were called ‘rotten boroughs’.",
+    "id": "4fe18886"
+  },
+  {
+    "question": "Pressure and lobby groups try to influence British government policy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pressure groups are organisations which try to influence government policy. They play an important role in politics and the democratic process.",
+    "id": "4fe965ba"
+  },
+  {
+    "question": "Nowadays, the House of Commons has more power than the House of Lords",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The House of Commons has powers to overrule the House of Lords, but these are not used often.",
+    "id": "4ff65f1a"
+  },
+  {
+    "question": "'We shall fight them on the beaches' is a famous quote from a speech by Queen Elizabeth I about the Spanish Armada.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "We shall fight them on the beaches' is a quote from a speech by Winston Churchill, the Prime Minister in 1940, about a potential German invasion.",
+    "id": "4ff9d804"
+  },
+  {
+    "question": "Before the election you will be sent a",
+    "options": [
+      "greeting card",
+      "poll card",
+      "photo card",
+      "natinal insurance card"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5003023d"
+  },
+  {
+    "question": "King Henry VIII created the Church of England when the Pope refused to grant him a divorce",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "501aba2b"
+  },
+  {
+    "question": "From age ______, you can be asked to serve on a jury",
+    "options": [
+      "18",
+      "21",
+      "25",
+      "30"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "501afbae"
+  },
+  {
+    "question": "The devolved administrations each have their own civil service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The devolved administrations each have their own civil service.",
+    "id": "501c05c9"
+  },
+  {
+    "question": "Elizabeth I suspected Mary of wanting to take over the English throne, and kept her a prisoner for ______ years and was eventually executed, accused of plotting against Elizabeth I",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "503cb7b8"
+  },
+  {
+    "question": "In the UK you are expected to treat others with fairness.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. These include treating others with fairness.",
+    "id": "50436dbe"
+  },
+  {
+    "question": "What type of literature are the Canterbury Tales?",
+    "options": [
+      "Poems",
+      "Novels",
+      "Jokes",
+      "Fables"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "5043c714"
+  },
+  {
+    "question": "What marked the beginning of 'constitutional monarchy'?",
+    "options": [
+      "The Glorious Revolution",
+      "The Magna Carta",
+      "The Restoration",
+      "The English Civil War"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The laws passed after the Glorious Revolution are the beginning of what is called 'constitutional monarchy'.",
+    "id": "504ca6e1"
+  },
+  {
+    "question": "Who is currently the head of state of the UK?",
+    "options": [
+      "Queen Elizabeth II",
+      "Prince Charles",
+      "David Cameron",
+      "Theresa May"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+    "id": "506113cd"
+  },
+  {
+    "question": "What is the function of the monarch in government?",
+    "options": [
+      "To advise, warn and encourage the Prime Minister",
+      "To attract tourists to London to help the economy",
+      "To accompany the Prime Minister to important meetings",
+      "To help the PM choose a Cabinet"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "50624148"
+  },
+  {
+    "question": "Which novel is the satirical novelist Evelyn Waugh best known for?",
+    "options": [
+      "The Harry Potter Series",
+      "Brideshead Revisited",
+      "Romeo and Juliet",
+      "Lord of the Rings"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Evelyn Waugh (1903–66) wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited.",
+    "id": "5077ab17"
+  },
+  {
+    "question": "Where is the Eden Project located?",
+    "options": [
+      "Cornwall",
+      "Dorset",
+      "London",
+      "Liverpool"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.",
+    "id": "507c2448"
+  },
+  {
+    "question": "Where did many of the Viking settle after they got defeated?",
+    "options": [
+      "Danelaw",
+      "Dorset",
+      "Lancashire",
+      "Pale"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings. Many of the Viking invaders stayed in Britain – especially in the east and north of England, in an area known as the Danelaw (many places names there, such as Grimsby and Scunthorpe, come from the Viking languages).",
+    "id": "5087461f"
+  }
+]

@@ -1,0 +1,655 @@
+[
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+    "id": "42c29309"
+  },
+  {
+    "question": "Adults who are eligible to vote in all UK elections includes:",
+    "options": [
+      "Citizens of the Commonwealth who are resident in the UK",
+      "Only those born in the UK",
+      "UK-born and naturalised adult citizens",
+      "Citizens of the other parts of Europe"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "42c88cd6"
+  },
+  {
+    "question": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada.",
+    "id": "42cc7121"
+  },
+  {
+    "question": "Which of these are two famous garden designers?",
+    "options": [
+      "Gertrude and Dylan Thomas",
+      "Dylan Thomas and Sir Christopher Cockerell",
+      "Gertrude and Edwin Lutyens",
+      "Edwin Lutyens and Dylan Thomas"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Gertrude Jekyll often worked with Edwin Lutyens to design colourful gardens around the houses he designed. Gardens continue to be an important part of homes in the UK. The annual Chelsea Flower Show showcases garden design from Britain and around the world.",
+    "id": "42d1e33a"
+  },
+  {
+    "question": "What is traditionally being eaten as a dessert on Christmas Day?",
+    "options": [
+      "Spotted dick",
+      "Christmas pudding",
+      "Christmas pie",
+      "Christmas cake"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "42d498e0"
+  },
+  {
+    "question": "Life peers have to be Christians",
+    "options": [
+      "True, no other faith members are allowed",
+      "False, other faith members can also be life peers"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "42d543ba"
+  },
+  {
+    "question": "During the Great Depression of the 1930s the UK had high levels of employment.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During the Great Depression of the 1930s, parts of the UK suffered mass unemployment.",
+    "id": "42e4029f"
+  },
+  {
+    "question": "Which two of the following records give us information about England during the reign of William I?",
+    "options": [
+      "The Magna Carta",
+      "The Domesday Book",
+      "The Bayeux Tapestry",
+      "The Canterbury Tales"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "42f44773"
+  },
+  {
+    "question": "What does Christmas Day celebrate?",
+    "options": [
+      "New Year",
+      "The end of the year",
+      "The birth of Jesus Christ",
+      "The end of the Second World War"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "430222a4"
+  },
+  {
+    "question": "Charles II had no legitimate children so after his death in 1685 and his ______, James, who was a Roman Catholic, became King James II in England Wales and Ireland",
+    "options": [
+      "elder brother's son",
+      "brother",
+      "sister's son"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "430e88be"
+  },
+  {
+    "question": "Which TWO festivals or traditions are held in November each year?",
+    "options": [
+      "Father's Day",
+      "Valentine's Day",
+      "Remembrance Day",
+      "Bonfire Night"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Bonfire Night takes place on 5 November and people set off fireworks at home or in special displays. Remembrance Day is held on 11 November and commemorates those who died fighting for the UK and its allies.",
+    "id": "43273801"
+  },
+  {
+    "question": "Party candidate has the right make you vote for a particular candidate",
+    "options": [
+      "Yes, this is correct",
+      "No, only you have the right"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4332a537"
+  },
+  {
+    "question": "The UK is not a member of NATO",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "433429bf"
+  },
+  {
+    "question": "'The Canterbury Tales' was one of the first books to be printed by William Caxton, the first person in England to print books using a printing press",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4352975c"
+  },
+  {
+    "question": "The overseas territory of St Helena is part of the United Kingdom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "4356474c"
+  },
+  {
+    "question": "The role and membership of the House of Lords has changed over the last 50 years",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The role and membership of the House of Lords has changed over the last 50 years.",
+    "id": "43585687"
+  },
+  {
+    "question": "Where is the National Assembly for Wales based?",
+    "options": [
+      "London",
+      "Newport",
+      "Glasgow",
+      "Cardiff"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The National Assembly for Wales is based in Cardiff, the capital city of Wales.",
+    "id": "43790984"
+  },
+  {
+    "question": "The UN was set up straight after the First World War. It now has over 190 countries as members",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+    "id": "437f824a"
+  },
+  {
+    "question": "When do British people celebrate Easter?",
+    "options": [
+      "March and April",
+      "June and July",
+      "September and November",
+      "December and January"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Easter takes place in March or April. It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday. Both Good Friday and the following Monday, called Easter Monday, are public holidays.",
+    "id": "4380bc01"
+  },
+  {
+    "question": "Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "438f1e55"
+  },
+  {
+    "question": "Who led the Scottish, in 1314, to defeat the English at the Battle of Bannockburn?",
+    "options": [
+      "Oliver Cromwell",
+      "William of Orange",
+      "Robert the Bruce",
+      "Robert Burns"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In Scotland, the English kings were less successful. In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "id": "43933207"
+  },
+  {
+    "question": "Which two documents do you need to apply for a National Insurance number?",
+    "options": [
+      "A document with your address on it, such as a tenancy agreement",
+      "Documents that prove that you have permission to work in the UK",
+      "A contract from your employer",
+      "Documents that prove your identity"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "4398cdb2"
+  },
+  {
+    "question": "UK population growth has been faster in recent years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "UK population growth has been faster in recent years, due to migration into the UK and longer life expectancy.",
+    "id": "43a02e85"
+  },
+  {
+    "question": "What did the Romans introduce to Britain?",
+    "options": [
+      "Christianity",
+      "New plants and animals",
+      "New food and cloth",
+      "New machinery"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.",
+    "id": "43a143b9"
+  },
+  {
+    "question": "When was the last successful foreign invasion of England?",
+    "options": [
+      "1415",
+      "1314",
+      "1066",
+      "1200"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "43a46022"
+  },
+  {
+    "question": "What is a traditional pub game in the UK?",
+    "options": [
+      "Scrabble",
+      "Pool",
+      "Rounders",
+      "Poker"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Pool is a traditional pub game, along with darts. Pub quizzes are also popular. Many communities have a local pub that is a natural focal point for social activities.",
+    "id": "43a4a748"
+  },
+  {
+    "question": "The Prime Minister appoints",
+    "options": [
+      "The members of the cabinet",
+      "The Queen",
+      "Members of the Parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "43af7a39"
+  },
+  {
+    "question": "Which UK city hosted the 2012 Paralympic Games?",
+    "options": [
+      "Belfast",
+      "Cardiff",
+      "Edinburgh",
+      "London"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "London hosted the 2012 Paralympic Games.",
+    "id": "43b94166"
+  },
+  {
+    "question": "The European Union (EU) was set up by six western European countries",
+    "options": [
+      "Yes, this is correct",
+      "No, it was nine"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "43c0caff"
+  },
+  {
+    "question": "Who wrote Sherlock Holmes?",
+    "options": [
+      "Evelyn Waugh",
+      "Sir Kingsley Amis",
+      "Graham Greene",
+      "Sir Arthur Conan Doyle"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "43c799ad"
+  },
+  {
+    "question": "What is the capital of Northern Ireland?",
+    "options": [
+      "Cardiff",
+      "Edinburgh",
+      "London",
+      "Belfast"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Belfast is the capital city of Northern Ireland.",
+    "id": "43cba9d4"
+  },
+  {
+    "question": "In the 1830s and 1840s, a group called the Chartists campaigned for every woman to have a vote",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes:\n- For every man to have the vote\n- Elections every year\n- For all regions to be equal in the electoral system\n- Secret ballots\n- For any man to be able to stand as an MP\n- For MPs to be paid",
+    "id": "43d48f04"
+  },
+  {
+    "question": "What are Beowulf, The Tyger and She Walks in Beauty?",
+    "options": [
+      "Plays",
+      "Films",
+      "Poems",
+      "Novels"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Beowulf is an Anglo-Saxon poem, The Tyger is a poem by William Blake and She Walks in Beauty is a poem by Lord Byron.",
+    "id": "43da43a6"
+  },
+  {
+    "question": "Which two houses fought in the War of the Roses?",
+    "options": [
+      "The House of Chester",
+      "The House of York",
+      "The House of Lancaster",
+      "The House of Newcastle"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "43eda893"
+  },
+  {
+    "question": "What percentage of the population has a grandparent born outside of the UK?",
+    "options": [
+      "20%",
+      "5%",
+      "15%",
+      "10%"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.",
+    "id": "43f090df"
+  },
+  {
+    "question": "The Scots had ______ to the execution of Charles I and declared his son Charles II to be king",
+    "options": [
+      "agreed",
+      "not agreed"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "43f3c849"
+  },
+  {
+    "question": "What do you need when applying for a National Insurance number?",
+    "options": [
+      "Proof of your address only",
+      "Proof of Identity only",
+      "Proof of eligibility to work in the UK and ID",
+      "Your income statement"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "You will usually need documents that prove your identity and that you have permission to work in the UK.",
+    "id": "43f7c51c"
+  },
+  {
+    "question": "Civil war between the king and Parliament began in ______",
+    "options": [
+      "1622",
+      "1632",
+      "1642",
+      "1652"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "44021bb8"
+  },
+  {
+    "question": "In 2002, a public vote decided that Winston Churchill was the Greatest Briton of all time",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The British Prime Minister from 1940 until 1945, was voted by the British public as the Greatest Briton of all time",
+    "answers": [
+      0
+    ],
+    "id": "440d27ce"
+  },
+  {
+    "question": "Living people can donate a kidney",
+    "options": [
+      "Yes, this is true",
+      "No, you can only donate it after you die",
+      "No, you can only donate for your family"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "441e87a4"
+  },
+  {
+    "question": "The Bill of Rights, 1719, confirmed the rights of Parliament and the limits of the king’s power.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power.",
+    "id": "4434e703"
+  },
+  {
+    "question": "London's West End, also known as ______, is particularly well known Theatre",
+    "options": [
+      "Theatreworld",
+      "Theatreland",
+      "Theatreboom",
+      "Westtheatre"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "443c7c95"
+  },
+  {
+    "question": "What is the name of the song sung by people in the UK and other countries when celebrating the New Year?",
+    "options": [
+      "The Heart of the Matter",
+      "Scoop",
+      "Sense and Sensibility",
+      "Auld Lang Syne"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "One of the songs sung by people in the UK at New Year is Auld Lang Syne.",
+    "id": "44653a62"
+  },
+  {
+    "question": "What movement challenged the authority of the Pope?",
+    "options": [
+      "The Swinging Sixties",
+      "The Reformation",
+      "The Suffragettes",
+      "The Enlightenment"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "44655efc"
+  },
+  {
+    "question": "Charles I believed in the 'Divine Right of Kings' so he tried:",
+    "options": [
+      "To rule without the Parliament",
+      "To rule with the approval of the Parliament",
+      "To raise money for the Parliament",
+      "To restore Catholicism in Britain"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "44711056"
+  },
+  {
+    "question": "When did the Anglican Church come into existence?",
+    "options": [
+      "1530s",
+      "1630s",
+      "1730s",
+      "1830s"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "447a85e8"
+  },
+  {
+    "question": "Which two houses fought in the Wars of the Roses?",
+    "options": [
+      "Parliament and Senate",
+      "York and Lancaster",
+      "Kings and Warriors",
+      "Lords and Commons"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose.",
+    "id": "447f14ce"
+  },
+  {
+    "question": "What were the working conditions like during the Industrial Revolution?",
+    "options": [
+      "Very Poor",
+      "Best in the World",
+      "Acceptable",
+      "Average"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Working conditions during the Industrial Revolution were very poor. There were no laws to protect employees, who were often forced to work long hours in dangerous situations. Children also worked and were treated in the same way as adults.",
+    "id": "4491351c"
+  },
+  {
+    "question": "What was the population of the UK in 1998?",
+    "options": [
+      "57 million",
+      "60 million",
+      "50 million",
+      "40 million"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Population growth in the UK\n1600: Just over 4 million\n1700: 5 million\n1801: 8 million\n1851: 20 million\n1901: 40 million\n1951: 50 million\n1998: 57 million\n2005: Just under 60 million\n2010: Just over 62 million",
+    "id": "44921c47"
+  },
+  {
+    "question": "In the 18th and 19th centuries the development of the Bessemer process for the mass production of steel led to the development of",
+    "options": [
+      "hospitals",
+      "the shipbuilding industry",
+      "motorways",
+      "the railways"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "44950cf4"
+  }
+]

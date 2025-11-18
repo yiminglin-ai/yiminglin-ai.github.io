@@ -1,0 +1,655 @@
+[
+  {
+    "question": "Hanukkah is celebrated to remember the Jews' struggle for religious freedom and it is in November or December for how many days?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews' struggle for religious freedom. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
+    "id": "737d1ea1"
+  },
+  {
+    "question": "The United Kingdom has a written constitution",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "739908c5"
+  },
+  {
+    "question": "Who was the Prime minister and inspiration leader during the World War Two?",
+    "options": [
+      "R A Butler",
+      "Clement Attlee",
+      "Alexander Fleming",
+      "Winston Churchill"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister. He refused to surrender to the Nazis and was an inspirational leader to the British people in a time of great hardship. He lost the General Election in 1945 but returned as Prime Minister in 1951.",
+    "id": "739a05d4"
+  },
+  {
+    "question": "When did the BBC begin the world's first regular TV service?",
+    "options": [
+      "1921",
+      "1922",
+      "1936",
+      "1938"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The BBC started radio broadcasts in 1922 and began the world's first regular television service in 1936.",
+    "id": "73aecfb3"
+  },
+  {
+    "question": "Who defeated the Vikings?",
+    "options": [
+      "King Kenneth",
+      "King Alfred the Great",
+      "King Harold",
+      "King Edward I"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "73b0a90a"
+  },
+  {
+    "question": "What is not a fundamental principle of British life?",
+    "options": [
+      "Driving a car",
+      "Looking after the environment",
+      "Treating others with fairness",
+      "Looking after yourself and family"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Driving a car is NOT one of the fundamental principles of British life",
+    "id": "73b857cf"
+  },
+  {
+    "question": "Rugby",
+    "options": [
+      "originated in England in the early 19th century",
+      "was introduced by Viking invaders to ancient Britain"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "73bd8a68"
+  },
+  {
+    "question": "Great Britain refers only to England, Wales and Scotland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "73d3f3bb"
+  },
+  {
+    "question": "Which of the following actresses has not won an Oscar?",
+    "options": [
+      "Tilda Swinton",
+      "Emily Watson",
+      "Dame Judi Dench",
+      "Kate Winslet"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "73e084ef"
+  },
+  {
+    "question": "During Queen Elizabeth I's reign the English (1588) defeated a large fleet of ships. Where did the ships come from?",
+    "options": [
+      "France",
+      "Netherlands",
+      "Spain",
+      "Spain and France"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+    "id": "73e2d357"
+  },
+  {
+    "question": "‘To be or not to be’ is a famous Shakespeare line from which play or poem?",
+    "options": [
+      "Romeo and Juliet",
+      "Henry V",
+      "Hamlet",
+      "As you like it"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Lines from his plays and poems which are often still quoted include: Once more unto the breach (Henry V) To be or not to be (Hamlet) A rose by any other name (Romeo and Juliet) All the world’s a stage (As You Like It) The darling buds of May (Sonnet 18 – Shall I Compare Thee To a Summer’s Day).",
+    "id": "73f6d0fb"
+  },
+  {
+    "question": "Every person in the UK receives ______ under the law, it applies in the same way to everyone, no matter who they are or where they are from",
+    "options": [
+      "equal treatment",
+      "priority treatment",
+      "less treatment"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "73f70e8f"
+  },
+  {
+    "question": "Where is the Welsh language spoken?",
+    "options": [
+      "London",
+      "Ireland",
+      "Wales",
+      "Highlands and Islands of Scotland"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "73fa1352"
+  },
+  {
+    "question": "The Bill of Rights of 1689 gave women the right to vote.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "74012bd6"
+  },
+  {
+    "question": "What is the only major golf tournament held outside of the US?",
+    "options": [
+      "The Wimbledon Championship",
+      "Royal Ascot",
+      "The English Premier League",
+      "The Open Championship"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Open Championship is the only ‘Major’ golf tournament held outside the United States. It is hosted by a different golf course every year.",
+    "id": "74079509"
+  },
+  {
+    "question": "Where did the supporters of Charles Edward Stuart come from?",
+    "options": [
+      "Edinburgh",
+      "Glasgow",
+      "Aberdeen",
+      "Highlands"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army.",
+    "id": "741bc00c"
+  },
+  {
+    "question": "The Crown Jewels are kept at the Tower of London",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "You can see the Crown Jewels at the Tower of London",
+    "answers": [
+      0
+    ],
+    "id": "741e7d8b"
+  },
+  {
+    "question": "Pantomimes are plays based on fairy stories.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pantomime plays are a British tradition. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy.",
+    "id": "74318ec5"
+  },
+  {
+    "question": "When a member of Parliament (MP) dies or resigns",
+    "options": [
+      "the post remains vacant until the next General Election",
+      "a by-election is held to replace the member of Parliament",
+      "another MP looks after the constituency",
+      "their party chooses someone to fill the post until the next General Election"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7436a924"
+  },
+  {
+    "question": "What is the official report that contains everything said in Parliament called?",
+    "options": [
+      "Hansard",
+      "The Government report",
+      "The Government press",
+      "The Domesday Book"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
+    "id": "7474c11f"
+  },
+  {
+    "question": "People Celebrate Christmas at the beginning of the New Year",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "748ccfd3"
+  },
+  {
+    "question": "What was the last battle between Great Britain and France?",
+    "options": [
+      "The Battle of Trafalgar",
+      "The Battle of Waterloo",
+      "The Battle of Hastings",
+      "Battle of Agincourt"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "748fc4a5"
+  },
+  {
+    "question": "In 1485, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York.",
+    "id": "74910c62"
+  },
+  {
+    "question": "Roast beef is a traditional food of which country?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Roast beef, which is served with potatoes is an example of English traditional food.",
+    "id": "7491ef2b"
+  },
+  {
+    "question": "Every MP in the UK has his/her own constituency.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Voters in each constituency elect their member of Parliament (MP) in a General Election. All of the elected MPs form the House of Commons. Most MPs belong to a political party, and the party with the majority of MPs forms the government.",
+    "id": "74961086"
+  },
+  {
+    "question": "Which General remains a controversial figure in Ireland?",
+    "options": [
+      "Oliver Cromwell",
+      "Nelson",
+      "James Cook",
+      "Francis Drake"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Cromwell was successful in establishing the authority of the English Parliament in Ireland but did this with such violence that even today Cromwell remains a controversial figure.",
+    "id": "74a0f5aa"
+  },
+  {
+    "question": "There are many variations in language in the different parts of the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The English language has many dialects and accents. In Wales many people speak Welsh. Gaelic is spoken in some parts of Scotland, and in Northern Ireland some people speak Irish Gaelic.",
+    "id": "74a68f2a"
+  },
+  {
+    "question": "St Helena is a British overseas territory and it is part of the United Kingdom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "74ac00c3"
+  },
+  {
+    "question": "How many members does a jury have in Scotland?",
+    "options": [
+      "21",
+      "18",
+      "15",
+      "12"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "A jury is made up of members of the public chosen at random from the local electoral register (see The Electoral Register). In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+    "id": "74b53f15"
+  },
+  {
+    "question": "Who deal with a wide range of civil disputes?",
+    "options": [
+      "Youth Courts",
+      "Peace Courts",
+      "County Courts"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "74c0e6bb"
+  },
+  {
+    "question": "What created The Kingdom of Great Britain in 1707?",
+    "options": [
+      "The act of Government of Wales",
+      "The Act of Union",
+      "The Bill of Rights",
+      "The Kingdom Act"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Act of Union, known as the Treaty of Union in Scotland, was agreed in 1707, creating the Kingdom of Great Britain.",
+    "id": "74d1dcdc"
+  },
+  {
+    "question": "Sir Ian Wilmot, a British inventor, invented the hovercraft in the 1950s.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Christopher Cockerell (1910–99), a British inventor, invented the hovercraft in the 1950s.",
+    "id": "74d7afb7"
+  },
+  {
+    "question": "What is the Union Jack?",
+    "options": [
+      "The Flag of the Commonwealth",
+      "The Flag of the United Kingdom",
+      "The shield used by British Knights",
+      "A trade union to protect workers rights"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "74dd8992"
+  },
+  {
+    "question": "St George is the national saint of Northern Ireland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "75035ba5"
+  },
+  {
+    "question": "______ celebrates British theatre",
+    "options": [
+      "The Man Booker Prize",
+      "The Brit Awards",
+      "The Laurence Olivier Awards",
+      "The BPI Awards"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "750cef36"
+  },
+  {
+    "question": "Whose powers were increased by the Bill of Rights of 1689?",
+    "options": [
+      "Prisoners'",
+      "Parliament's",
+      "King's",
+      "Slaves'"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant. A new Parliament had to be elected at least every three years.",
+    "id": "75126eb9"
+  },
+  {
+    "question": "Who captained the English football team in 1966?",
+    "options": [
+      "Bobby Moore",
+      "Andy Murray",
+      "Jackie Stewart",
+      "Sir Chris Hoy"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bobby Moore (1941–93) captained the English football team that won the World Cup in 1966.",
+    "id": "75172456"
+  },
+  {
+    "question": "Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. What was this known as?",
+    "options": [
+      "Highland Clearances",
+      "Pocket Boroughs",
+      "Feudalism",
+      "The rebellion of the landlords"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A process began which became known as the 'Highland Clearances'. Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+    "id": "7528c444"
+  },
+  {
+    "question": "How old must you be to be able to buy a lottery ticket or scratch card?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "75300193"
+  },
+  {
+    "question": "What is meant by 'common law'?",
+    "options": [
+      "Following previous decisions",
+      "Codified",
+      "Written down",
+      "Sentence is decided by the jury"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, judges developed 'common law' by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were 'codified' (that is, written down).",
+    "id": "753ac848"
+  },
+  {
+    "question": "In which year was there a major outbreak of plague in London?",
+    "options": [
+      "1465",
+      "1565",
+      "1765",
+      "1665"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "During Charles II’s reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul’s Cathedral.",
+    "id": "753b4e1d"
+  },
+  {
+    "question": "What documentation do you need to drive a motor vehicle?",
+    "options": [
+      "A driving licence and a mechanic's report on the engine",
+      "A road map and a receipt for the car/motorcycle",
+      "Driving licence, insurance, an MOT and road tax",
+      "A passport and a photo of your car/motorbike"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "753cba16"
+  },
+  {
+    "question": "The people of the Bronze Age were accomplished glassworkers",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The people of the Bronze Age were accomplished metalworkers",
+    "id": "75445434"
+  },
+  {
+    "question": "Which of the following is a major horse-racing event in England?",
+    "options": [
+      "The Wimbledon Championship",
+      "Royal Ascot",
+      "The Open Championship",
+      "The Six Nations Championship"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "754c2a9c"
+  },
+  {
+    "question": "Which countries are in Great Britain?",
+    "options": [
+      "England, Wales, Scotland",
+      "England, Wales, Scotland, Northern Ireland",
+      "England, Scotland, Ireland",
+      "Wales, Northern Ireland, Scotland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Great Britain consists of 3 countries: England, Wales and Scotland.",
+    "id": "7560d653"
+  },
+  {
+    "question": "Which of the national days is celebrated with a holiday?",
+    "options": [
+      "St George's Day",
+      "St Patrick's Day",
+      "St David's Day"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7564e03f"
+  },
+  {
+    "question": "British citizens can stand for office as a",
+    "options": [
+      "Member of Parliament",
+      "Local councillor",
+      "Member of the European Parliament",
+      "All of the above"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "75670be7"
+  },
+  {
+    "question": "Who can only give 'advice, warn and encourage' about government matters?",
+    "options": [
+      "Prime Minister",
+      "The Queen",
+      "The Speaker",
+      "Members of the police"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The monarch has regular meetings with the Prime Minister and can advice, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet",
+    "id": "757018f9"
+  },
+  {
+    "question": "The Lake District is the largest national park in Scotland",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Lake District is England’s largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain’s favourite view.",
+    "id": "757c16e2"
+  },
+  {
+    "question": "What is celebrated on February 14th?",
+    "options": [
+      "February's Fool Day",
+      "St Valentine's Day",
+      "Remembrance Day",
+      "St Patrick's Day (Republic of Ireland and Northern Ireland)"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "758d2352"
+  }
+]

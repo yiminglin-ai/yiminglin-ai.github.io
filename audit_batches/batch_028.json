@@ -1,0 +1,676 @@
+[
+  {
+    "question": "______ had an important role in drafting the European Convention on Human Rights and Fundamental Freedoms",
+    "options": [
+      "British school teachers",
+      "British diplomats and lawyers",
+      "Chief Constables",
+      "The North Atlantic Treaty Organization (NATO)"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3a1528c9"
+  },
+  {
+    "question": "When is Christmas Eve?",
+    "options": [
+      "24th of December",
+      "25th of December",
+      "26th of December",
+      "23rd of December"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Christmas Day is on the 25th of December. Christmas Eve is the day before that which is the 24th of December.",
+    "id": "3a19205d"
+  },
+  {
+    "question": "What is the day before Lent called?",
+    "options": [
+      "Pancake Day",
+      "Easter Monday",
+      "Ash Wednesday",
+      "Shrove Monday"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The 40 days before Easter are known as Lent. The day before Lent starts is called Shrove Tuesday, or Pancake Day.",
+    "id": "3a252739"
+  },
+  {
+    "question": "In the UK, you must be at least ______ years old to drive a car or motor cycle",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3a2f634d"
+  },
+  {
+    "question": "Since the Middle Ages, when did the first Jews come to Britain to settle in London?",
+    "options": [
+      "1656",
+      "1680",
+      "1652",
+      "1646"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
+    "id": "3a3731cd"
+  },
+  {
+    "question": "What were 'the Troubles' about?",
+    "options": [
+      "Independence for Wales",
+      "Disagreement over Ireland becoming one country",
+      "Independence for Scotland",
+      "Setting up an English Parliament"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Troubles' is a term used to describe the conflict that has occurred in Ireland between those who wish the North and South of Ireland to unite and those who wish the North to remain British.",
+    "id": "3a3be37d"
+  },
+  {
+    "question": "In 1903, who helped found the Women's Social and Political Union?",
+    "options": [
+      "Rudyard Kipling",
+      "Clement Attlee",
+      "Emmeline Pankhurst",
+      "William Beveridge"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU).",
+    "id": "3a55bf79"
+  },
+  {
+    "question": "Where did the Jutes come from?",
+    "options": [
+      "Central Europe",
+      "Northern Europe",
+      "Southern Europe",
+      "East Europe"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Britain was invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons. The languages they spoke are the basis of modern-day English.",
+    "id": "3a5aab92"
+  },
+  {
+    "question": "Which TWO of the athletes are paralympians?",
+    "options": [
+      "Ellie Simmonds",
+      "David Weir",
+      "Jessica Ennis",
+      "Andy Murray"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games. David Weir (1979-) is a Paralympian who uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.",
+    "id": "3a9fa6f8"
+  },
+  {
+    "question": "St Helena is a Crown dependency",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "St Helena is a British overseas territory",
+    "answers": [
+      1
+    ],
+    "id": "3aae2305"
+  },
+  {
+    "question": "The capital cities of the nations of the UK are:",
+    "options": [
+      "Swansea",
+      "London",
+      "Edinburgh",
+      "Glasgow",
+      "Belfast",
+      "Dublin",
+      "Cardiff"
+    ],
+    "answers": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "id": "3ad641ea"
+  },
+  {
+    "question": "What does the annual Chelsea Flower Show showcase?",
+    "options": [
+      "Art",
+      "Poems",
+      "Cakes",
+      "Garden design"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The annual Chelsea Flower Show showcases garden design from Britain and around the world.",
+    "id": "3ad6557c"
+  },
+  {
+    "question": "During the Victorian period, transport link improved, enabling goods and people to move easily around the country",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true",
+    "id": "3aee965b"
+  },
+  {
+    "question": "Guy Fawkes Night on 5th November goes back to 1605, when a small group of Catholics plotted to kill the Protestant King by using gunpowder to blow up the Houses of Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3b1c3a87"
+  },
+  {
+    "question": "The version of the Bible created by King James I is known as:",
+    "options": [
+      "Authorised version",
+      "Reformed version",
+      "Approved version",
+      "Unique version"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3b30456b"
+  },
+  {
+    "question": "Which TWO of the following are UK landmarks?",
+    "options": [
+      "The Eisteddfod",
+      "National Trust",
+      "Edinburgh Castle",
+      "The London Eye"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Edinburgh Castle is in Edinburgh, Scotland, and dates back to the Middle Ages. The London Eye is a Ferris wheel on the bank of the River Thames.",
+    "id": "3b384d23"
+  },
+  {
+    "question": "Gilbert and Sullivan",
+    "options": [
+      "were a comedy double act",
+      "were football players",
+      "wrote many comic operas"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3b49ba56"
+  },
+  {
+    "question": "Charles Dickens is famous for writing musicals",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "He wrote a number of famous novels, including Great Expectations and Oliver Twist",
+    "answers": [
+      1
+    ],
+    "id": "3b4a09a5"
+  },
+  {
+    "question": "Ireland is part of Great Britain",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Great Britain refers only to England, Scotland and Wales.",
+    "id": "3b4dd266"
+  },
+  {
+    "question": "Drivers can use their driving licence until they are ______ years old",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3b68186c"
+  },
+  {
+    "question": "On which date is St Patrick's Day celebrated?",
+    "options": [
+      "1 March",
+      "17 March",
+      "23 April",
+      "30 November"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "St Patrick, the patron saint of Northern Ireland (and the Republic of Ireland), has a special day on 17 March.",
+    "id": "3b69df0d"
+  },
+  {
+    "question": "Remembrance Day",
+    "options": [
+      "Keep alive the memory of Guy Fawkes",
+      "commemorates those who died fighting for the UK and its allies",
+      "Keeps alive the memory of those whose fought against the king",
+      "Celebrates the victory of world wars"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3b70325e"
+  },
+  {
+    "question": "Why was the Habeas Corpus Act of 1679 so important?",
+    "options": [
+      "It ensured no person could be imprisoned unlawfully.",
+      "It allowed people to bury the dead where they wished.",
+      "It ensured that those who died could only be buried by a relative.",
+      "It ended capital punishment in England."
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Habeas Corpus Act was a major legal development ensuring that people could not be held prisoner without just cause.",
+    "id": "3b73935a"
+  },
+  {
+    "question": "______ is a fundamental principle of British life",
+    "options": [
+      "The rule of law",
+      "The rule of the upper classes",
+      "The rule of your local member of Parliament (MP)",
+      "The rule of the monarch"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3b9570cb"
+  },
+  {
+    "question": "What did the Scottish John Logie Baird develop?",
+    "options": [
+      "Television",
+      "Radar",
+      "Personal computer",
+      "Radio"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3b9c41a0"
+  },
+  {
+    "question": "Who lost a lot of their power after the Battle of Culloden in 1746?",
+    "options": [
+      "The Farmers",
+      "The Parliament",
+      "The King",
+      "The Clans"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The clans lost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
+    "id": "3ba108f3"
+  },
+  {
+    "question": "How many Assembly Members are there in the National Assembly for Wales?",
+    "options": [
+      "50",
+      "60",
+      "75",
+      "80"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3ba219ad"
+  },
+  {
+    "question": "Getting to know your neighbours can help you to become part of the community.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Getting to know your neighbours can help you to become part of the community and make friends. Your neighbours are also a good source of help.",
+    "id": "3bb24db2"
+  },
+  {
+    "question": "Who became one of the most popular monarchs in the 16th century?",
+    "options": [
+      "Elizabeth I",
+      "Henry VIII",
+      "Mary I",
+      "Henry VII"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Queen Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada.",
+    "id": "3bb3d340"
+  },
+  {
+    "question": "The major political parties are",
+    "options": [
+      "The Green UK Party",
+      "The National Party",
+      "The Conservative Party",
+      "The Labour Party",
+      "Traditional Voice",
+      "The Liberal Democrats"
+    ],
+    "answers": [
+      2,
+      3,
+      5
+    ],
+    "tip": "",
+    "id": "3be19961"
+  },
+  {
+    "question": "Who opens the new parliamentary session each year in the UK?",
+    "options": [
+      "The monarch",
+      "The Archbishop of Canterbury",
+      "The Speaker of the House of Commons",
+      "The Prime Minister"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3be6725e"
+  },
+  {
+    "question": "Catherine Howard was Anne Boleyn's cousin",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+    "id": "3bf7f662"
+  },
+  {
+    "question": "Who designed New Delhi to be the seat of government in India?",
+    "options": [
+      "Robert Adam",
+      "Inigo Jones",
+      "Sir Edwin Lutyens",
+      "Sir Christopher Wren"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In the 20th century, Sir Edwin Lutyens had an influence throughout the British Empire. He designed New Delhi to be the seat of government in India. He was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall.",
+    "id": "3bfa24c9"
+  },
+  {
+    "question": "Elections to the European Parliament use a system of ______, where seats are allocated to each party in proportion to the total number of votes it has won",
+    "options": [
+      "Proportional representation",
+      "Instant runoff",
+      "First past the post"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3c1f7262"
+  },
+  {
+    "question": "The leader of the Opposition usually becomes Prime Minister if his or her party wins the next General Election",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The second-largest party in the House of Commons is called the opposition. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election.",
+    "id": "3c26f8e7"
+  },
+  {
+    "question": "Who is the head of state of the UK?",
+    "options": [
+      "Queen Elizabeth II",
+      "King George III",
+      "Queen Victoria",
+      "Winston Churchill"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3c2dbec1"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      "Mary Stuart",
+      "Theresa May",
+      "Margaret Thatcher",
+      "Florence Nightingale"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "3c4e4bcc"
+  },
+  {
+    "question": "Which TWO are political parties in the UK?",
+    "options": [
+      "Office Party",
+      "Modern Party",
+      "Conservative Party",
+      "Labour Party"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The major political parties in the UK include the Conservative Party, the Labour Party and the Liberal Democrats.",
+    "id": "3c6bb88d"
+  },
+  {
+    "question": "Bonfire Night occasion is celebrated on ______",
+    "options": [
+      "5th November",
+      "5th Februry",
+      "5th May",
+      "5th August"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3c7b8e4a"
+  },
+  {
+    "question": "What happens at 11:00 on the Remembrance Day?",
+    "options": [
+      "A 2 minute silence",
+      "A 1 minute silence",
+      "A 30 second silence",
+      "A 10 second silence"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+    "id": "3c7c6505"
+  },
+  {
+    "question": "The Bill of Rights, 1689, confirmed the right to vote for all males and females at age of 21",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
+    "id": "3c8a1f8e"
+  },
+  {
+    "question": "The Man Booker Prize is awarded in which of the following categories?",
+    "options": [
+      "Films",
+      "Sport",
+      "Literature",
+      "Music"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "3c8d59c0"
+  },
+  {
+    "question": "Racial crime and smoking in public places are examples of:",
+    "options": [
+      "Civil offences",
+      "Criminal offences"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "3c9a0056"
+  },
+  {
+    "question": "What medal did Mary Peters win in the 1972 Olympics?",
+    "options": [
+      "She did not win any medals",
+      "Silver",
+      "Gold",
+      "Bronze"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "3c9e1361"
+  },
+  {
+    "question": "Protestant ideas gradually gained strength in England, Wales and Scotland during what century?",
+    "options": [
+      "16th",
+      "15th",
+      "14th",
+      "17th"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "id": "3ca013af"
+  },
+  {
+    "question": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country's best loved novel",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country's best loved novel",
+    "id": "3ca8bdbb"
+  },
+  {
+    "question": "You need to buy a TV Licence if there are no TVs in your house but you watch TV programs on your mobile phone",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You must pay for a licence to watch TV through any medium.",
+    "id": "3cacdf49"
+  },
+  {
+    "question": "Everyone who is summoned to do jury service must do it unless they",
+    "options": [
+      "want to go to work",
+      "are not eligible for example, because they have a criminal conviction",
+      "provide a good reason to be excused, such as ill health",
+      "want to attend a wedding party"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "3cb5858b"
+  },
+  {
+    "question": "Who, in 1810 opened the first curry house in Britain called 'The Hindoostane Coffee House' in George Street, London?",
+    "options": [
+      "Sake Dean Mahomet",
+      "Ali Kerimov",
+      "Alexander Burns",
+      "Richard Arkwright"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1810 Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London. It was the first curry house to open in Britain. Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
+    "id": "3cbac8d1"
+  },
+  {
+    "question": "Henry VII established the House of Tudor. What colour rose became the Tudor emblem?",
+    "options": [
+      "White",
+      "Red and white",
+      "Red",
+      "Pink "
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Tudor rose was a red rose with a white rose inside it, showing the alliance between the Houses of York and Lancaster, who had previously fought against each other.",
+    "id": "3cc55703"
+  }
+]

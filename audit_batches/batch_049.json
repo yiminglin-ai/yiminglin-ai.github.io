@@ -1,0 +1,658 @@
+[
+  {
+    "question": "Where is the official home of the Prime Minister?",
+    "options": [
+      "18 Oxford Street",
+      "Buckingham Palace",
+      "Windsor Castle",
+      "10 Downing Street"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "65f1deed"
+  },
+  {
+    "question": "What is the minimum age to drive a car or motorcycle in the UK?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "65f26b24"
+  },
+  {
+    "question": "When did the Habeas Corpus Act become law?",
+    "options": [
+      "1679",
+      "1683",
+      "1685",
+      "1687"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for ‘you must present the person in court’. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
+    "id": "65f973a4"
+  },
+  {
+    "question": "When did the aerial battle 'The Battle of Britain' happen?",
+    "options": [
+      "In the winter 1939",
+      "In the winter of 1940",
+      "In the summer of 1939",
+      "In the summer of 1940"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940",
+    "id": "660f6d7a"
+  },
+  {
+    "question": "The Welsh Dragon doesn’t appear on the Union Flag because Wales was already united with England in 1606",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+    "id": "66176667"
+  },
+  {
+    "question": "Who designed the new St Paul Cathedral?",
+    "options": [
+      "Samuel Pepys",
+      "Isaac Newton",
+      "Sir Christopher Wren",
+      "Isambard Kingdom Brunel"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Christopher Wren designed a new St Paul Cathedral after the previous one was destroyed by a great fire in 1666.",
+    "id": "66186dc8"
+  },
+  {
+    "question": "Which TWO political parties formed the coalition government in 2010?",
+    "options": [
+      "Conservatives",
+      "Labour",
+      "Communists",
+      "Liberal Democrats"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "After the 2010 General Election a coalition government was formed. The two parties in the coalition are the Conservatives and the Liberal Democrats.",
+    "id": "661a2557"
+  },
+  {
+    "question": "Where can you find Boudicca, the Queen of the Iceni statue?",
+    "options": [
+      "Portsmouth",
+      "London",
+      "Kent",
+      "Suffolk"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
+    "id": "6623d8e9"
+  },
+  {
+    "question": "People don’t celebrate Christmas as much as they used to before",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Christmas remains very popular in the UK. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
+    "id": "66244402"
+  },
+  {
+    "question": "The National Assembly for Wales can pass laws (in specific areas) without the agreement of the UK Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The National Assembly for Wales can pass laws without the agreement of the UK Parliament",
+    "id": "6625572d"
+  },
+  {
+    "question": "Where did the first farmers come from?",
+    "options": [
+      "South-west Europe",
+      "South-east Europe",
+      "North-east America",
+      "North-west Asia"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "662f9cf5"
+  },
+  {
+    "question": "When is Boxing Day?",
+    "options": [
+      "The day before Easter",
+      "The day before Christmas Day",
+      "The day after Easter",
+      "The day after Christmas Day"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Boxing Day (26th of December) is the day after Christmas Day (25th of December) and is a public holiday.",
+    "id": "6630238b"
+  },
+  {
+    "question": "Who is responsible for crime, policing and immigration?",
+    "options": [
+      "The Chancellor of the Exchequer",
+      "The Foreign Secretary",
+      "The Speaker",
+      "The Home Secretary"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "663575e4"
+  },
+  {
+    "question": "There are charities which may help people who cannot afford to pay for a vet",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets). There are charities which may help people who cannot afford to pay a vet.",
+    "id": "664a691a"
+  },
+  {
+    "question": "The band called Beatles was popular and some alteration to social laws occurred during which period?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1950s",
+      "1980s"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The decade of the 1960s was a period of significant social change. It was known as 'the Swinging Sixties'. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved.",
+    "id": "665ce20c"
+  },
+  {
+    "question": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development.",
+    "id": "666ba547"
+  },
+  {
+    "question": "Mince pies are traditionally eaten on which day?",
+    "options": [
+      "Halloween",
+      "Easter",
+      "Christmas",
+      "Diwali"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
+    "id": "6671a8a8"
+  },
+  {
+    "question": "Who had a great influence on the English language and invented many words that are still common today?",
+    "options": [
+      "Edward Thomas",
+      "William Blake",
+      "William Shakespeare",
+      "Wilfred Owen"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "667f357a"
+  },
+  {
+    "question": "How often are Elections for the European parliament held?",
+    "options": [
+      "Every 6 years",
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs).",
+    "id": "668e3f11"
+  },
+  {
+    "question": "The names of the main groups in Parliament in the early 18th century were:",
+    "options": [
+      "Labour",
+      "Tories",
+      "Nationalists",
+      "Whigs"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "668fb0dc"
+  },
+  {
+    "question": "The British constitution is described as ‘unwritten’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government. Our most important institutions have developed over hundreds of years.",
+    "id": "66946064"
+  },
+  {
+    "question": "You can help prevent any problems and conflicts with your neighbours by",
+    "options": [
+      "telling them that you do not like them",
+      "respecting their privacy",
+      "limiting how much noise you make",
+      "telling them that you will park your car on their driveway"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "66a06415"
+  },
+  {
+    "question": "Which TWO wars was England involved in during the Middle Ages?",
+    "options": [
+      "Crimean",
+      "Crusades",
+      "Hundred Years War",
+      "Peninsular"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "During the Middle Ages, English kings were involved in several Crusades in the Holy Land and took part in the Hundred Years War, which actually lasted 116 years.",
+    "id": "66a6fd94"
+  },
+  {
+    "question": "What was the main crop in Ireland in the 19th century?",
+    "options": [
+      "Tomato",
+      "Wheat",
+      "Potato",
+      "Cucumber"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In the 19th century, many people in Ireland depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+    "id": "66b62950"
+  },
+  {
+    "question": "What is the title of the UK National Anthem?",
+    "options": [
+      "Long Live the Queen",
+      "God Save the Queen",
+      "Long Live the Monarch",
+      "Almighty is the Queen"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK National Anthem is called 'God Save the Queen' and is played at important national occasions and events attended by the Queen or the Royal Family.",
+    "id": "66bcc3d2"
+  },
+  {
+    "question": "Boudicca, was a tribal leader who fought against which foreign invaders?",
+    "options": [
+      "The Normands",
+      "The Vikings",
+      "The Anglo-Saxons",
+      "The Romans"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "66c4bf6f"
+  },
+  {
+    "question": "There are also several islands which are closely linked with the UK but are not part of it:",
+    "options": [
+      "Northern Ireland",
+      "The Channel Islands",
+      "The Isle of Man"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "66e1ee58"
+  },
+  {
+    "question": "Members of Parliament (MPs) are responsible for:",
+    "options": [
+      "Supporting the government on all decisions and laws",
+      "Scrutinising and commenting on what the government is doing",
+      "Representing everyone in their constituency",
+      "Representing only those who voted for them"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "66ea3297"
+  },
+  {
+    "question": "The Isle of Man is a Crown dependency with its own government",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "66f1df6b"
+  },
+  {
+    "question": "Most shops in the UK are open ______ days a week",
+    "options": [
+      "four",
+      "five",
+      "six",
+      "seven"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "66f2af79"
+  },
+  {
+    "question": "Isaac Newton discovered that white light is made up of the colours of the rainbow",
+    "options": [
+      "Yes, this is correct",
+      "No, white light made up from the sun"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "66f3a52c"
+  },
+  {
+    "question": "The Speaker also represents Parliament on ceremonial occasions",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Speaker keeps order during political debates to make sure the rules are followed. This includes making sure the opposition (see The government) has a guaranteed amount of time to debate issues which it chooses. The Speaker also represents Parliament on ceremonial occasions.",
+    "id": "66f6dbdf"
+  },
+  {
+    "question": "A very impressive hill fort can still be seen today at Maiden Castle, what English county does it stand in?",
+    "options": [
+      "Dorset",
+      "Danebury",
+      "Cornwall",
+      "East Lothian"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+    "id": "66fe7bd7"
+  },
+  {
+    "question": "The Proms is an four-week summer season of orchestral classical music",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Proms is an eight-week summer season of orchestral classical music",
+    "id": "66ff6c15"
+  },
+  {
+    "question": "What will you be given to vote before a general election takes place?",
+    "options": [
+      "A poll tax relief",
+      "A number to queue at the polling station",
+      "A poll card",
+      "An specific time for you to vote"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "6702af7f"
+  },
+  {
+    "question": "The King or Queen does not rule the country but appoints the government chosen by the people in a democratic election",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6708279c"
+  },
+  {
+    "question": "The King James’ Bible is a new translation of the Bible into English",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One achievement of King James’ reign was a new translation of the Bible into English. This translation is known as the ‘King James Version’ or the ‘Authorised Version’. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "id": "670c5926"
+  },
+  {
+    "question": "The Union Jack is comprised of four countries' crosses. They are: England, Wales, Scotland and Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One symbol of the union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack. The flag combined crosses associated with England, Scotland and Ireland. It is still used today as the official flag of the UK.",
+    "id": "67210493"
+  },
+  {
+    "question": "Under which king did the people unite to defeat the Vikings?",
+    "options": [
+      "Henry I",
+      "King Alfred the Great",
+      "Harold",
+      "King William"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings.",
+    "id": "6721b7ae"
+  },
+  {
+    "question": "When is St Patrick's day?",
+    "options": [
+      "17th of March",
+      "1st of March",
+      "23rd of April",
+      "30th of November"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "67221121"
+  },
+  {
+    "question": "The 15th century civil war in England was fought between the supporters of",
+    "options": [
+      "The House of Wessex",
+      "The House of York",
+      "The House of Lancaster",
+      "The House of Sussex"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "672a36c9"
+  },
+  {
+    "question": "The Home Secretary is the government minister responsible for",
+    "options": [
+      "managing relationships with foreign countries",
+      "crime, policing and immigration"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "672dc007"
+  },
+  {
+    "question": "When did the Parliament begin developing into the institution it is now?",
+    "options": [
+      "During the Bronze Age",
+      "During the Industrial Revolution",
+      "During the Iron Age",
+      "During the Middle Ages"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important noblemen and the leaders of the Church.",
+    "id": "67387b4d"
+  },
+  {
+    "question": "In Britain its tradition to eat ______ on Christmas",
+    "options": [
+      "Lamb curry, Chicken Vindaloo, Milk pudding",
+      "Shepherd's pie, sausages and mash, chocolate cake",
+      "Roast turkey, Christmas pudding, Rich steamed pudding",
+      "Fish and chips"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6739cc12"
+  },
+  {
+    "question": "Young people will often dress up in frightening costumes to play 'trick or treat' on Halloween",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "67484279"
+  },
+  {
+    "question": "Nowadays The House of Commons can overrule the House of Lords",
+    "options": [
+      "Yes, always",
+      "Maybe, sometimes",
+      "No, that's not right"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "67524e1e"
+  },
+  {
+    "question": "Which TWO countries are members of the Commonwealth?",
+    "options": [
+      "USA",
+      "Australia",
+      "Canada",
+      "Russia"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Australia and Canada are members of the Commonwealth. The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+    "id": "675eb117"
+  },
+  {
+    "question": "Assembly Members, MPs, and MEPs are listed in the Yellow Pages and Phone book?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "67728e45"
+  },
+  {
+    "question": "Members of the armed forces cannot stand for public office",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6777949f"
+  },
+  {
+    "question": "Who fought in the English Civil war of 1642?",
+    "options": [
+      "The House of York and the House of Lancaster",
+      "The Anglo-Saxons and the Vikings",
+      "The Cavaliers and the Roundheads",
+      "The House of Fraser and the House of Stuart"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "67863dd1"
+  }
+]

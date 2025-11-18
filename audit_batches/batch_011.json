@@ -1,0 +1,663 @@
+[
+  {
+    "question": "The ______ is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer",
+    "options": [
+      "payment protection insurance (PPI)",
+      "small claims procedure",
+      "smart claim online"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "159e6d4a"
+  },
+  {
+    "question": "The minimum age for jury service is ______",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "30"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "159e84d2"
+  },
+  {
+    "question": "Which of these is not a valid bank note?",
+    "options": [
+      "£100",
+      "£50",
+      "£20",
+      "£5"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+    "id": "15a0c18e"
+  },
+  {
+    "question": "The first man to be called the Prime Minister was ______, who was Prime Minister from 1721 to 1742",
+    "options": [
+      "Isaac Newton",
+      "Sir Robert Walpole",
+      "Ernest Rutherford",
+      "Howard Florey"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "15bf2545"
+  },
+  {
+    "question": "Protestant Christian groups include Baptists, Methodists, Presbyterians and Quakers",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Protestant Christian groups in the UK are Baptists, Methodists, Presbyterians and Quakers. There are also other denominations of Christianity, the biggest of which is Roman Catholic.",
+    "id": "15e9a078"
+  },
+  {
+    "question": "What’s the Queen’s speech for?",
+    "options": [
+      "Encourage the youth to persuade education",
+      "Give advise to the general public",
+      "Summarise all of the previous policies",
+      "Set out the government's legislative plans for the next year"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "15fb7439"
+  },
+  {
+    "question": "What is the name of a novel by Jane Austen?",
+    "options": [
+      "Oliver Twist",
+      "James Bond",
+      "Sense and Sensibility",
+      "Great Expectations"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Jane Austen (1775-1817) was an English novelist. Her books include Pride and Prejudice and Sense and Sensibility. Her novels are concerned with marriage and family relationships. Many have been made into television programmes or films.",
+    "id": "15fd7a8e"
+  },
+  {
+    "question": "A new version of the official flag of the United Kingdom was created in 1801 it is often called ______",
+    "options": [
+      "the Union Jack",
+      "the Royal Banner",
+      "the British Standard",
+      "the St George Cross"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "16038cf2"
+  },
+  {
+    "question": "When is New Year's Day?",
+    "options": [
+      "31st December",
+      "1st January",
+      "7th January",
+      "1st February"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "161a531f"
+  },
+  {
+    "question": "UK landmarks are:",
+    "options": [
+      "Edinburgh Castle",
+      "The Eisteddfod",
+      "The London Eye",
+      "National Trust"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "162adc1c"
+  },
+  {
+    "question": "During the 'Great Depression' of the 1930s, which TWO major new industries developed?",
+    "options": [
+      "Shipbuilding",
+      "Coal mining",
+      "Automobile",
+      "Aviation"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "During the Great Depression of the 1930s many traditional heavy industries, such as shipbuilding, went into decline but new industries emerged and grew, such as aviation and the automobile industry.",
+    "id": "163d523e"
+  },
+  {
+    "question": "Police officers must",
+    "options": [
+      "be politically neutral",
+      "obey the law",
+      "be rude and abusive",
+      "use private information for personal gain"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1647dc21"
+  },
+  {
+    "question": "The hearing for the small claims procedure is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table",
+    "options": [
+      "Yes, it's correct",
+      "No, it cannot be held in an ordinary room"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "16519cfb"
+  },
+  {
+    "question": "What UK landmark was voted as Britain's favourite view?",
+    "options": [
+      "The Lake District",
+      "Snowdonia",
+      "Loch Lomond",
+      "Edinburgh Castle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+    "id": "1657ce0d"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, what percentage of people identified themselves as Christian?",
+    "options": [
+      "80%",
+      "50%",
+      "70%",
+      "60%"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK is historically a Christian country. In the 2009 Citizenship Survey, 70% of people identified themselves as Christian.",
+    "id": "1668a627"
+  },
+  {
+    "question": "Beefeaters, who tell visitors about the building's history are associated with which of these?",
+    "options": [
+      "The Tower of London",
+      "Big Ben",
+      "Edinburgh Castle",
+      "Unesco"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there.",
+    "id": "16791c73"
+  },
+  {
+    "question": "Who can get a 50% discount on their TV licence?",
+    "options": [
+      "Blind people",
+      "Deaf people",
+      "Army Officers",
+      "Students"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People over 75 can apply for a free TV licence and blind people can get a 50% discount.",
+    "id": "1681a801"
+  },
+  {
+    "question": "The United Kingdom's constitution is written by",
+    "options": [
+      "Parliament",
+      "The Archbishop of Canterbury",
+      "The Queen",
+      "It is an unwritten constitution"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "16908a1d"
+  },
+  {
+    "question": "It is illegal to sell tobacco products such as cigarettes, cigars, roll-up tobacco to anyone under the age of",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "16932e75"
+  },
+  {
+    "question": "Who does not have to pay for a TV licence?",
+    "options": [
+      "People aged 60 or over",
+      "People aged 65 or over",
+      "People aged 70 or over",
+      "People aged 75 or over"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1697c533"
+  },
+  {
+    "question": "How can you look after the environment? (Choose TWO)",
+    "options": [
+      "Recycle as much as you can",
+      "Always use your own car",
+      "Shop for fresh products only",
+      "Shop for products locally as this reduces your carbon footprint"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "It is important to recycle as much of your waste as you can. A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.",
+    "id": "169e87b6"
+  },
+  {
+    "question": "Which court deals usually with divorce cases in England, Wales and Northern Ireland?",
+    "options": [
+      "Youth Courts",
+      "Magistrates Court",
+      "High Court",
+      "County Court"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "16b29c04"
+  },
+  {
+    "question": "In 1805 at the Battle of Trafalgar, Admiral Nelson defeated the German fleet",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Admiral Nelson defeated a combined French and Spanish fleet",
+    "answers": [
+      1
+    ],
+    "id": "16c1fb88"
+  },
+  {
+    "question": "The Speaker is elected by fellow MPs using the open ballot system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Speaker is chosen by other MPs in a secret ballot.",
+    "id": "16c70f37"
+  },
+  {
+    "question": "The main political parties actively look for members of the public to join their debates",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "16c992d3"
+  },
+  {
+    "question": "On Mothering Sunday children remember their mothers by usually giving them",
+    "options": [
+      "new clothes",
+      "flowers",
+      "new shoes",
+      "greeting cards",
+      "chocolates"
+    ],
+    "answers": [
+      1,
+      3,
+      4
+    ],
+    "id": "16d90efa"
+  },
+  {
+    "question": "A jury is made up of members of the public chosen at random from the local:",
+    "options": [
+      "Voting Register",
+      "Electoral Register",
+      "Jury Register",
+      "City Register"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A jury is made up of members of the public chosen at random from the local electoral register.",
+    "id": "16d94e10"
+  },
+  {
+    "question": "Which TWO are Christian groups?",
+    "options": [
+      "Roman Catholics",
+      "Buddhists",
+      "Sikhs",
+      "Baptists"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Roman Catholics and Baptists are Christian groups. Baptists are a Protestant Christian group. Other Protestant groups include the Church of England, Methodists, Presbyterians and Quakers.",
+    "id": "16e2269b"
+  },
+  {
+    "question": "The United Nations aims to",
+    "options": [
+      "work together towards shared goals in democracy",
+      "prevent war",
+      "promote international peace and security",
+      "work together towards shared goals in development"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "16e4c650"
+  },
+  {
+    "question": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+    "options": [
+      "Queen Victoria",
+      "Henry VIII",
+      "Elizabeth I",
+      "Charles II"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "16e9b2b0"
+  },
+  {
+    "question": "People under 18 are not allowed to participate in the National Lottery.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You have to be 16 to participate in the National Lottery",
+    "id": "16ec3180"
+  },
+  {
+    "question": "St David is the Patron Saint of ______",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "170a90ca"
+  },
+  {
+    "question": "Oliver Cromwell was ______ of the English republic",
+    "options": [
+      "the King",
+      "the leader",
+      "the artist",
+      "the clans"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "170ca67f"
+  },
+  {
+    "question": "There are ______ who are specialists in particular areas, and their knowledge is useful in making and checking laws",
+    "options": [
+      "House of Commons",
+      "House of Lords",
+      "MPs",
+      "Peers"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "170fd306"
+  },
+  {
+    "question": "Diwali is often called",
+    "options": [
+      "Navratri",
+      "the Festival of Lights",
+      "Baisakhi"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "17221337"
+  },
+  {
+    "question": "Where can you visit Admiral Nelson's ship , HMS Victory?",
+    "options": [
+      "Lincolnshire",
+      "Cheshire",
+      "Portsmouth",
+      "London"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Admiral Nelson's ship, HMS Victory, can be visited in Portsmouth",
+    "id": "17247a5d"
+  },
+  {
+    "question": "The Roman army left England after ______ years to defend other parts of their Empire",
+    "options": [
+      "150",
+      "210",
+      "350",
+      "400"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "1737d546"
+  },
+  {
+    "question": "The House of Lords has more powers then the House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "173bd8af"
+  },
+  {
+    "question": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’",
+    "id": "173f0841"
+  },
+  {
+    "question": "Which of these venues is located in Scotland?",
+    "options": [
+      "Troxy",
+      "Wembley Stadium",
+      "The O2",
+      "The SECC"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Scottish Exhibition and Conference Centre (SECC) is located in Glasgow, Scotland.",
+    "id": "1747c382"
+  },
+  {
+    "question": "All dogs in public places must wear a collar showing the name and address of the owner",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "All dogs in public places must wear a collar showing the name and address of the owner",
+    "id": "17505825"
+  },
+  {
+    "question": "Which TWO of the following were important 20th-century inventors?",
+    "options": [
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "George Stephenson",
+      "Isambard Kingdom Brunel"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Alan Turing (1912–54) invented an early mathematical device that led to the development of the computer. Tim Berners-Lee (1955–) invented the World Wide Web.",
+    "id": "17606e5e"
+  },
+  {
+    "question": "EEC was set up in 1957 by six countries",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states.",
+    "id": "17607c32"
+  },
+  {
+    "question": "A bank holiday is",
+    "options": [
+      "a holiday just for people working in banks",
+      "a public holiday when banks and other businesses close for the day",
+      "a holiday entitlement for working longer hours than usual (overtime)",
+      "the day when all banks close to calculate the notes"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "176629ec"
+  },
+  {
+    "question": "______ worked on steam power which helped the progress of the Industrial Revolution",
+    "options": [
+      "Adam Smith",
+      "James Watt",
+      "Howard Florey",
+      "David Hume"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "17679614"
+  },
+  {
+    "question": "Which TWO are plays by William Shakespeare?",
+    "options": [
+      "A Midsummer Night's Dream",
+      "Pride and Prejudice",
+      "Romeo and Juliet",
+      "Oliver Twist"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Among the many plays that Shakespeare wrote are A Midsummer Night's Dream and Romeo and Juliet.",
+    "id": "17893a93"
+  },
+  {
+    "question": "The UK has a constitutional monarchy",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK has a constitutional monarchy. This means that the king or queen does not rule the country but appoints the government, which the people have chosen in a democratic election.",
+    "id": "178c74a7"
+  },
+  {
+    "question": "What awards event celebrates British theatre?",
+    "options": [
+      "The Laurence Olivier Awards",
+      "The Brit Awards",
+      "The Mercury Prize",
+      "The Turner Prize"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various Shakespeare plays.",
+    "id": "17904037"
+  },
+  {
+    "question": "Which of these is a Crown Dependency of the UK and not a part of it?",
+    "options": [
+      "Wales",
+      "Chanel Islands",
+      "Falkland Islands",
+      "St Helena"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "1799d2b7"
+  },
+  {
+    "question": "There is a dragon on the official flag of Wales.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Wales has its own flag, which includes a dragon. The Welsh flag is not a part of the Union Flag, as Wales had united with England many years before the Union Flag was designed.",
+    "id": "17a46f82"
+  }
+]

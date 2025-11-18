@@ -1,0 +1,672 @@
+[
+  {
+    "question": "What is the National Citizen Service?",
+    "options": [
+      "It provides free, independent, impartial advice on your rights and responsibilities",
+      "It is a volunteering programme for young people who want to do voluntary development work abroad",
+      "It helps you build your skills for work and life",
+      "It provides free, confidential and impartial advice on consumer issues"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "0f6186aa"
+  },
+  {
+    "question": "Which was the last successful invasion of Britain?",
+    "options": [
+      "The Viking invasion",
+      "The Anglo Saxon invasion",
+      "The Norman Conquest",
+      "The Roman invasion"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.",
+    "id": "0f669444"
+  },
+  {
+    "question": "When are Pantomimes usually produced?",
+    "options": [
+      "Christmas",
+      "Halloween",
+      "School holidays",
+      "Easter"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man. There is often also a pantomime horse or cow played by two actors in the same costume.",
+    "id": "0f788d5e"
+  },
+  {
+    "question": "Which TWO are used when making Haggis?",
+    "options": [
+      "Onions",
+      "Oatmeal",
+      "Chicken",
+      "Dough"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Scottish Traditional Food: Haggis – a sheep’s stomach stuffed with offal, suet, onions and oatmeal.",
+    "id": "0f7e00cc"
+  },
+  {
+    "question": "When is St Valentine's Day?",
+    "options": [
+      "January 1st",
+      "25 December",
+      "February 14th"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "0f8891d5"
+  },
+  {
+    "question": "A jury is made up of members of the ______ chosen at random from the local electoral register",
+    "options": [
+      "Parliament",
+      "public",
+      "local council",
+      "judges"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0f8e9731"
+  },
+  {
+    "question": "Where can you find Beefeaters?",
+    "options": [
+      "The Tower of London",
+      "The London Eye",
+      "The Eden project",
+      "Edinburgh Castle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there.",
+    "id": "0f906a03"
+  },
+  {
+    "question": "When was the last successful invasion of England?",
+    "options": [
+      "1066",
+      "1415",
+      "1642",
+      "1940"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The last successful invasion of England was in 1066 by William of Normandy.",
+    "id": "0f94dabd"
+  },
+  {
+    "question": "D-Day is the day when the British evacuated the French from Normandy",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as ‘D-Day’).",
+    "id": "0f94fabc"
+  },
+  {
+    "question": "The Speaker is elected by",
+    "options": [
+      "The Prime Minister",
+      "The Queen/King",
+      "The Home Secretary",
+      "Other MPs"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0fa7c5c5"
+  },
+  {
+    "question": "Charles II escaped from ______, famously hiding in an oak tree on one occasion, and eventually fled to Europe",
+    "options": [
+      "Bosworth Field",
+      "Dunbar",
+      "Hastings",
+      "Worcester"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0fbc56d8"
+  },
+  {
+    "question": "Where was the Boer war (1899-1902) fought?",
+    "options": [
+      "France",
+      "South Africa",
+      "Russia",
+      "Netherlands"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers.",
+    "id": "0fce0857"
+  },
+  {
+    "question": "What do you need to do to apply for a National Insurance Number?",
+    "options": [
+      "Contact the NHS",
+      "Contact the Department for Work and Pensions (DWP)",
+      "Contact your local MP",
+      "Ask you employer to get it for you"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0fd49e41"
+  },
+  {
+    "question": "What country is Swansea in?",
+    "options": [
+      "Wales",
+      "England",
+      "Scotland",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Swansea is a Welsh city.",
+    "id": "0fd7bb03"
+  },
+  {
+    "question": "In the 1830s and 1840s a group called the Chartists campaigned for reform of the voting system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0fdb8b4e"
+  },
+  {
+    "question": "Drivers can use their driving licence until they are 75 years old.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Drivers can use their driving licence until they are 70 years old.",
+    "id": "0fe324b0"
+  },
+  {
+    "question": "Who did Henry Tudor marry to unite the House of Lancaster and the House of York?",
+    "options": [
+      "Elizabeth of York",
+      "Elizabeth of Lancaster",
+      "Elizabeth II",
+      "Elizabeth I"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "King Richard III of the House of York was killed in the Battle of Bosworth Field in 1485, and Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard's niece, Elizabeth of York, and united the two families. Henry was the first king of the House of Tudor.",
+    "id": "0fe459c7"
+  },
+  {
+    "question": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
+    "id": "1013a867"
+  },
+  {
+    "question": "An example of a criminal offence is",
+    "options": [
+      "breaches of contract",
+      "being in debt",
+      "carrying a weapon"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "1030f8d2"
+  },
+  {
+    "question": "How can you visit the Welsh Assembly?",
+    "options": [
+      "Using the booking service",
+      "By contacting the education service",
+      "Through visitors services",
+      "By queuing at the public entrance all day"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Senedd is an open building. You can book guided tours or seats in the public galleries for the Welsh Assembly. To make a booking, contact the Assembly Booking Service",
+    "id": "10358b93"
+  },
+  {
+    "question": "Which TWO records tell us about England during the time of William I?",
+    "options": [
+      "Domesday Book",
+      "Diary of Samuel Pepys",
+      "Magna Carta",
+      "Bayeux Tapestry"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The Domesday Book is a record of towns and villages in England. The Bayeux Tapestry tells the story of the Norman Conquest.",
+    "id": "10369218"
+  },
+  {
+    "question": "The leader of the opposition appoints senior opposition MPs to be",
+    "options": [
+      "Shadow Ministers",
+      "Home Secretary",
+      "Chancellor of the Exchequer"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1047fa6b"
+  },
+  {
+    "question": "When does Easter take place?",
+    "options": [
+      "November or December",
+      "January or February",
+      "March or April",
+      "May or June"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "105e3671"
+  },
+  {
+    "question": "What sort of cases do Crown Courts and Sheriff Courts deal with?",
+    "options": [
+      "Small claims procedures",
+      "Youth cases",
+      "Minor criminal cases",
+      "Serious offences"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland, serious offences are tried in front of a judge and jury at a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury.",
+    "id": "1062fca0"
+  },
+  {
+    "question": "The Crimean war was fought with France against Turkey",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War",
+    "id": "108d4305"
+  },
+  {
+    "question": "What can the Scottish Parliament do?",
+    "options": [
+      "may pass laws on foreign and defence affairs",
+      "may pass legislation on anything not specifically reserved to the UK Parliament",
+      "may pass laws on general economic policy",
+      "may pass laws on anything in Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning and additional tax-raising powers.",
+    "id": "108e24a1"
+  },
+  {
+    "question": "Which event is celebrated on the 5th of November each year?",
+    "options": [
+      "The end of the First World War",
+      "The defeat of the Spanish Armada",
+      "A plot to blow up the Houses of Parliament in 1605",
+      "The end of the Second World War"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "id": "10914793"
+  },
+  {
+    "question": "What was the system of land ownership used by the Normans known as?",
+    "options": [
+      "Feudalism",
+      "Noble land",
+      "The Magna Carta",
+      "Democracy"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Normans used a system of land ownership known as feudalism. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army. Some peasants had their own land but most were serfs.",
+    "id": "10927b7c"
+  },
+  {
+    "question": "Blood and organ donations are compulsory in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "It’s a donation, thus it’s not compulsory. Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do.",
+    "id": "109ec166"
+  },
+  {
+    "question": "Who invented the Jet Engine?",
+    "options": [
+      "John Logie Baird",
+      "Sir Tim Berners-Lee",
+      "Sir Frank Whittle",
+      "John MacLeod"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Jet Engine was developed in Britain in the 1930s by Sir Frank Whittle (1907–96), a British Royal Air Force engineer Officer.",
+    "id": "10a5ca16"
+  },
+  {
+    "question": "What is the minimum age for serving on a jury?",
+    "options": [
+      "17",
+      "21",
+      "18",
+      "16"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+    "id": "10bae223"
+  },
+  {
+    "question": "Civil servants are expected to be politically neutral, what core values should they have?",
+    "options": [
+      "Corruption",
+      "Misleading",
+      "Sense of humour",
+      "Impartiality"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are: integrity, honesty, objectivity and impartiality (including being politically neutral).",
+    "id": "10dd0138"
+  },
+  {
+    "question": "1st April is the day when people may play jokes on one another, but only ______",
+    "options": [
+      "Until midnight",
+      "Until 12 noon",
+      "Until 6 pm"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "10df10d8"
+  },
+  {
+    "question": "In 1745, who was supported by clansmen from the Scottish highlands and raised an army?",
+    "options": [
+      "Robert the Bruce",
+      "Oliver Cromwell",
+      "Bonnie Prince Charlie",
+      "Kenneth MacAlpin"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1745 there was another attempt to put a Stuart king back on the throne in place of George I’s son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army. Charles initially had some successes but was defeated by George II’s army at the Battle of Culloden in 1746. Charles escaped back to Europe.",
+    "id": "10e3f87e"
+  },
+  {
+    "question": "Which of the following do you need in order to gain a full car licence?",
+    "options": [
+      "Pass a driving test which tests both knowledge and practical skills",
+      "Own a car",
+      "Achieve five GCSE passes",
+      "Be in employment"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You have to pass both a theory and a practical driving test before you are given a full driving licence.",
+    "id": "10e6c32d"
+  },
+  {
+    "question": "Which popular yearly sporting event takes place between Oxford and Cambridge universities?",
+    "options": [
+      "Rowing",
+      "Horse Racing",
+      "Rugby",
+      "Sailing"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Rowing is also popular, both as a leisure activity and as a competitive sport. There is a popular yearly race on the Thames between Oxford and Cambridge Universities.",
+    "id": "10e6ee51"
+  },
+  {
+    "question": "The UK government has not used the power to suspend the Northern Ireland Assembly",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+    "id": "10f10d01"
+  },
+  {
+    "question": "______ is one of the Roles of school governors and school boards",
+    "options": [
+      "Marking students' homework",
+      "Setting the strategic direction of the school",
+      "Giving teachers ideas for lesson plans",
+      "Serving food and drink in the kitchen canteen"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "11019e76"
+  },
+  {
+    "question": "When did women receive voting equality with men?",
+    "options": [
+      "1838",
+      "1882",
+      "1983",
+      "1928"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "110831ce"
+  },
+  {
+    "question": "Which two houses are part of Parliament?",
+    "options": [
+      "Parliament and Senate",
+      "York and Lancaster",
+      "Kings and Warriors",
+      "Lords and Commons"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The House of Lords and the House of Commons are part of the UK Parliament.",
+    "id": "110a7f44"
+  },
+  {
+    "question": "Who directed the British movie the Belles of St Trinian's in 1954?",
+    "options": [
+      "Frank Launder",
+      "David Lean",
+      "Alfred Hitchcock",
+      "Mary Peters"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Belles of St Trinian's (1954) was directed by Frank Launder",
+    "id": "111224d3"
+  },
+  {
+    "question": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+    "options": [
+      "1835",
+      "1823",
+      "1807",
+      "1833"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "111d8f75"
+  },
+  {
+    "question": "Where are the Crown Jewels kept?",
+    "options": [
+      "At the House of Commons",
+      "At the Tower of London",
+      "At Buckingham Palace",
+      "At Windsor Castle"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "111e80b5"
+  },
+  {
+    "question": "Henry VIII is famous for marrying six times and breaking away from the Church of Rome.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Henry VIII had six wives and broke away from the Roman Catholic Church when the pope refused to grant him a divorce so he could marry again.",
+    "id": "11374631"
+  },
+  {
+    "question": "Florence Nightingale is famous for her work on children's education in the 19th century.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Florence Nightingale (1820–1910) was famous for her work to improve the quality of nursing and hospital conditions. She is often considered the founder of modern nursing.",
+    "id": "11559b52"
+  },
+  {
+    "question": "During the Enlightenment, Adam Smith developed ideas about:",
+    "options": [
+      "Physics",
+      "Economics",
+      "Science",
+      "Engineering"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "11591bae"
+  },
+  {
+    "question": "How often are general elections held in the UK?",
+    "options": [
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years",
+      "Every 10 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "116855fb"
+  },
+  {
+    "question": "In 1348, a disease, probably a form of plague, came to Britain. What was it called?",
+    "options": [
+      "White Death",
+      "Malaria",
+      "Black Death",
+      "Giant Evil"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+    "id": "116ff4e5"
+  },
+  {
+    "question": "'The Troubles' were about",
+    "options": [
+      "disagreement over Ireland becoming one country",
+      "setting up an English Parliament",
+      "independence for Wales",
+      "independence for Scotland"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "117d6766"
+  },
+  {
+    "question": "Who led the team of scientists to ‘split the atom’ for the first time?",
+    "options": [
+      "Ernest Rutherford",
+      "Alexander Fleming",
+      "Dylan Thomas",
+      "Sir Ian Wilmot"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+    "id": "1196875c"
+  }
+]

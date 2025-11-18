@@ -1,0 +1,664 @@
+[
+  {
+    "question": "Clement Atlee led the establishment of the NHS.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Clement Atlee led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+    "id": "0a846446"
+  },
+  {
+    "question": "When did the Queen come to the throne?",
+    "options": [
+      "1953",
+      "1952",
+      "1951",
+      "1950"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0a8a2191"
+  },
+  {
+    "question": "Sir Edward Elgar is known for his famous music work – ‘The Planets’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "More recently, important composers include Gustav Holst (1874–1934), whose work includes The Planets, a suite of pieces themed around the planets of the solar system. He adapted Jupiter, part of the Planets suite, as the tune for I vow to thee my country, a popular hymn in British churches.",
+    "id": "0a95a221"
+  },
+  {
+    "question": "The English fleet defeated a large French fleet of ships that Intended to land an army in England in 1588",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The English fleet defeated the Spanish Armada fleet, which had been sent to conquer England and restore Catholicism in 1588",
+    "answers": [
+      1
+    ],
+    "id": "0a9943e3"
+  },
+  {
+    "question": "Most people in the United Kingdom live in towns and cities",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0a9b8be2"
+  },
+  {
+    "question": "What treaty was signed in 1707?",
+    "options": [
+      "The Act for Government of Wales",
+      "The Act of Union",
+      "The Act of Great Britain",
+      "The Great Union"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
+    "id": "0a9beb30"
+  },
+  {
+    "question": "Guy Fawkes night commemorates",
+    "options": [
+      "Gun powder plot of 1605",
+      "People who died in The First World War",
+      "Fireworks",
+      "People who died in The Second World War"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0a9cadea"
+  },
+  {
+    "question": "What did the first farmers build in Britain?",
+    "options": [
+      "Hospitals and Roads",
+      "Tombs and Stadiums",
+      "Theatres and Houses",
+      "Houses and Monuments"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The first farmers built houses, tombs and monuments on the land.",
+    "id": "0aaa4f90"
+  },
+  {
+    "question": "To visit the UK Parliament you can queue on the day at the public entrance for a free entry",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0aac1d03"
+  },
+  {
+    "question": "Which of the following are a public holiday?",
+    "options": [
+      "Good Friday",
+      "April Fool's Day",
+      "Easter Monday",
+      "St Valentine's Day",
+      "Birthday"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "0abd3d7c"
+  },
+  {
+    "question": "You can find copies of Hansard report in large libraries and on the Internet",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and online.",
+    "id": "0abfc034"
+  },
+  {
+    "question": "Queen Victoria introduced the Victoria Gold during the Crimean War.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Victoria introduced the Victoria Cross medal during the Crimean War.",
+    "id": "0acb1aed"
+  },
+  {
+    "question": "What system can be used to complete a tax return if you are self-employed?",
+    "options": [
+      "PAYE (Pay as you earn)",
+      "Self-assessment",
+      "National Insurance contribution",
+      "Self-checkout"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called ‘Pay As You Earn’ (PAYE). If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return.",
+    "id": "0b065f71"
+  },
+  {
+    "question": "When were men and women given the right to vote at the age of 21?",
+    "options": [
+      "1918",
+      "1903",
+      "1928",
+      "1923"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "0b0bc312"
+  },
+  {
+    "question": "What are TWO of the activities that you might be involved in when canvassing?",
+    "options": [
+      "Getting paid for the time spent advertising",
+      "Knocking on people's doors and asking for their support",
+      "Handing out leaflets in the street",
+      "Getting paid for each vote obtained in commission"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates – for instance, by handing out leaflets in the street or by knocking on people’s doors and asking for their support. This is called ‘canvassing’.",
+    "id": "0b2803da"
+  },
+  {
+    "question": "What was the name of the movement which protested against the Roman Catholic church during Henry VIII's time?",
+    "options": [
+      "Holy Wars",
+      "The Reformation",
+      "Glorious Revolution",
+      "Rebellion of the Clans"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During Henry III's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
+    "id": "0b373ef7"
+  },
+  {
+    "question": "Cricket originated in ______ and is now played in many countries",
+    "options": [
+      "India",
+      "England",
+      "Australia",
+      "South Africa"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0b3db6e1"
+  },
+  {
+    "question": "The UK is one of five permanent members of the Security Council in the United Nation",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0b4a3362"
+  },
+  {
+    "question": "How many counties in Ireland remained in the UK under Northern Ireland?",
+    "options": [
+      "3",
+      "12",
+      "6",
+      "9"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+    "id": "0b4d15d0"
+  },
+  {
+    "question": "The 39 steps was directed by David Lean in 1980",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 39 Steps (1935), directed by Alfred Hitchcock",
+    "id": "0b522ab3"
+  },
+  {
+    "question": "A fundamental principle of British life is",
+    "options": [
+      "inequality",
+      "extremism",
+      "intolerance",
+      "individual liberty"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0b56bd35"
+  },
+  {
+    "question": "Mary, Queen of Scots was ______ Queen Elizabeth I",
+    "options": [
+      "a sister of",
+      "a daughter of",
+      "a cousin of",
+      "unrelated to"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0b5a4ff7"
+  },
+  {
+    "question": "Things that you can do to look after the environment includes:",
+    "options": [
+      "Walk and use public transport to get around",
+      "Use mobile phone as much as possible",
+      "Recycle your waste",
+      "Never turn the lights off in your house"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "0b7ca808"
+  },
+  {
+    "question": "The Victoria Cross medal was introduced during which war?",
+    "options": [
+      "The Hundred Years War",
+      "The Crimean War",
+      "The Second World War",
+      "The First World War"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Victoria introduced the Victoria Cross medal during the Crimean war. It honours acts of valour by soldiers.",
+    "id": "0b8bbd06"
+  },
+  {
+    "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+    "options": [
+      "The names of Iron Age kings",
+      "The names of Iron Age Gods",
+      "The names of trees",
+      "The names of animals"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "0babcabe"
+  },
+  {
+    "question": "Who had a great influence on the English language?",
+    "options": [
+      "Oliver Cromwell",
+      "William Shakespeare",
+      "David Lean",
+      "Wilfred Owen"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Shakespeare had a great influence on the English language and invented many words that are still common today.",
+    "id": "0bc601d0"
+  },
+  {
+    "question": "What is the minimum age you can drive a car or motor cycle in the UK?",
+    "options": [
+      "17",
+      "21",
+      "18",
+      "25"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the UK, you must be at least 17 years old to drive a car or motor cycle and you must have a driving licence to drive on public roads.",
+    "id": "0bde7a88"
+  },
+  {
+    "question": "Writing to the Chief Constable of the police force involved is the only way to make a complaint about the police",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+    "id": "0be0c33f"
+  },
+  {
+    "question": "Which two languages were used across England during the Middle Ages?",
+    "options": [
+      "Welsh",
+      "Gaelic",
+      "Norman French",
+      "Anglo-Saxon"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "",
+    "id": "0bfbfe75"
+  },
+  {
+    "question": "______ is a country of the United Kingdom",
+    "options": [
+      "Isle of Man",
+      "Channel Islands",
+      "Republic of Ireland",
+      "Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0c068fae"
+  },
+  {
+    "question": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+    "id": "0c0da275"
+  },
+  {
+    "question": "If your car is more than three years old, how often will it need a Ministry of Transport (MOT) test?",
+    "options": [
+      "Every three years",
+      "Every six months",
+      "Every 10 years",
+      "Every year"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "If your car is over three years old, you must take it for a Ministry of Transport (MOT) test every year. If the vehicle is new, it will need an MOT test after three years, and then every year.",
+    "id": "0c187cc1"
+  },
+  {
+    "question": "There is a Parliament for Northern Ireland but no Assembly for Scotland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0c1bf020"
+  },
+  {
+    "question": "You have to be ____ to go into betting shops or gambling clubs",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0c2af51b"
+  },
+  {
+    "question": "Which charity works to preserve important buildings?",
+    "options": [
+      "The National Trust",
+      "Age UK",
+      "NSPCC",
+      "The Red Cross"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+    "id": "0c31fd80"
+  },
+  {
+    "question": "How many member states are there in the Commonwealth?",
+    "options": [
+      "51",
+      "52",
+      "54",
+      "58"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0c357f6c"
+  },
+  {
+    "question": "When is Halloween celebrated?",
+    "options": [
+      "31st of November",
+      "31st of October",
+      "30th of October",
+      "30th of November"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "0c4bb07c"
+  },
+  {
+    "question": "What was the population of the UK in 1901?",
+    "options": [
+      "50 million",
+      "40 million",
+      "27 million",
+      "60 million"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The population of the UK was 40 million in 1901.",
+    "id": "0c58eb6e"
+  },
+  {
+    "question": "Which one of the following is the most famous play written by Shakespeare?",
+    "options": [
+      "Under Milk Wood",
+      "The Jungle Book",
+      "The Canterbury Tales",
+      "A Midsummer Night’s Dream"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night’s Dream, Hamlet, Macbeth and Romeo and Juliet.",
+    "id": "0c5e3d7c"
+  },
+  {
+    "question": "Which of these statements is incorrect?",
+    "options": [
+      "Selling or buying drugs such as heroin is illegal in the UK",
+      "It's a criminal offence to offend one's religion or ethnic origin",
+      "It's a criminal offence to carry a weapon of any kind",
+      "It's a criminal offence to owe someone money"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Owing money is a civil offence",
+    "id": "0c70f95f"
+  },
+  {
+    "question": "Which of the following is not proof of identity?",
+    "options": [
+      "Bank statement",
+      "Recent gas bill",
+      "Letter from a friend",
+      "Home Office document"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0c7409f3"
+  },
+  {
+    "question": "Several Church of England bishops sit in the House of Lords.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Several Church of England bishops sit in the House of Lords",
+    "id": "0c78de51"
+  },
+  {
+    "question": "James I was King of which country before becoming King of England?",
+    "options": [
+      "Wales",
+      "Ireland",
+      "France",
+      "Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "0c7af0c3"
+  },
+  {
+    "question": "What was the longest war with France called?",
+    "options": [
+      "Hundred Years War",
+      "Battle of Hastings",
+      "Battle of Agincourt",
+      "Battle of Bannockburn"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415",
+    "id": "0c89f373"
+  },
+  {
+    "question": "How many American colonies declared their independence in 1776?",
+    "options": [
+      "7",
+      "17",
+      "5",
+      "13"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies’ independence in 1783.",
+    "id": "0c8c3c77"
+  },
+  {
+    "question": "It is an offence not to have an MOT certificate if your vehicle is more than ______ old",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "3 years"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0c8ec755"
+  },
+  {
+    "question": "Henry VIII established the ______. In this new Church, the King rather than the Pope has the power to appoint bishops and defines how people should worship",
+    "options": [
+      "Church of Ireland",
+      "Church in Wales",
+      "Church of England",
+      "Church of Scotland"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0c90cd92"
+  },
+  {
+    "question": "Where is the Tate Art Gallery located?",
+    "options": [
+      "Glasgow",
+      "Cardiff",
+      "London",
+      "Belfast"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "0c938c7e"
+  },
+  {
+    "question": "What character did Charlie Chaplin play?",
+    "options": [
+      "Comedian",
+      "Hero",
+      "Tramp",
+      "Detective"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood.",
+    "id": "0c99a9ef"
+  },
+  {
+    "question": "What is the most famous tennis tournament played in the UK?",
+    "options": [
+      "The Queen's Club Championships",
+      "Wimbledon",
+      "Roland Garros",
+      "The Aegon Championships"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0c9b382b"
+  }
+]

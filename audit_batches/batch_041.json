@@ -1,0 +1,664 @@
+[
+  {
+    "question": "Who won two gold medals for running in the 2004 Olympic Games?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Dame Ellen MacArthur",
+      "Jayne Torvill",
+      "Christopher Dean"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Dame Kelly Holmes (1970–) won two gold medals for running in the 2004 Olympic Games.",
+    "id": "55437630"
+  },
+  {
+    "question": "The 40 days before Easter are known as Lent.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Lent is a time when Christians take time to reflect and prepare for Easter. Traditionally, people would fast during this period and today many people will give something up, like a favourite food.",
+    "id": "5568de49"
+  },
+  {
+    "question": "What was encouraged to develop the UK economy in 1950?",
+    "options": [
+      "Immigration",
+      "Education",
+      "Slave Trade",
+      "Savings Accounts"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 1950s, there was still a shortage of labour in the UK. Further immigration was therefore encouraged for economic reasons, and many industries advertised for workers from overseas.",
+    "id": "556b0209"
+  },
+  {
+    "question": "How many volunteers is The National Trust run by?",
+    "options": [
+      "4",
+      "61000",
+      "3",
+      "4500"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The National Trust was set up by just 3 volunteers. Now over 61,000 people help to run it.",
+    "id": "556ea80e"
+  },
+  {
+    "question": "What does the money raised from National Insurance Contributions pay for? (Choose TWO)",
+    "options": [
+      "Job allowances",
+      "The state retirement pension",
+      "Child benefits",
+      "NHS"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+    "id": "55730eed"
+  },
+  {
+    "question": "Which TWO of the following issues can the Northern Ireland Assembly make decisions on?",
+    "options": [
+      "Defence",
+      "Agriculture",
+      "Foreign affairs",
+      "Social services"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "The Northern Ireland Assembly can make decisions on various issues, including agriculture and social services.",
+    "id": "5573f708"
+  },
+  {
+    "question": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+    "id": "5575ea60"
+  },
+  {
+    "question": "How long is Hanukkah celebrated for?",
+    "options": [
+      "8 days",
+      "10 days ",
+      "1 day",
+      "7 days"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
+    "id": "557ef642"
+  },
+  {
+    "question": "Which country's flag is not part of the Union Flag?",
+    "options": [
+      "Wales",
+      "England",
+      "Scotland",
+      "Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Welsh dragon is not part of the Union Flag.",
+    "id": "558de0a9"
+  },
+  {
+    "question": "English Civil War battles are:",
+    "options": [
+      "Marston Moor",
+      "Naseby",
+      "Waterloo",
+      "Hastings"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "55946db5"
+  },
+  {
+    "question": "How frequently are MPs elected?",
+    "options": [
+      "Every 2 years (or earlier if there is an election)",
+      "Every 5 years (or earlier if there is an election)",
+      "Every 3 years (or earlier if there is an election)",
+      "Every 4 years (or earlier if there is an election)"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "559c9a55"
+  },
+  {
+    "question": "The Crown Jewels are kept at the Tower of London.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You can see the Crown Jewels at the Tower of London. The Tower of London was first built by William the Conqueror after he became king in 1066.",
+    "id": "55a5c385"
+  },
+  {
+    "question": "What Palace was a cast-iron and plate-glass building originally erected in Hyde Park, London, to house the Great Exhibition of 1851?",
+    "options": [
+      "Palace of Westminster",
+      "Kensington Palace",
+      "Crystal Palace",
+      "Dream Palace"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK also became a centre for financial services, including insurance and banking. In 1851, the Great Exhibition opened in Hyde Park in the Crystal Palace, a huge building made of steel and glass. Exhibits ranged from huge machines to handmade goods.",
+    "id": "55bfab9e"
+  },
+  {
+    "question": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+    "options": [
+      "King Charles I",
+      "King James I",
+      "Admiral Nelson",
+      "Robert the Bruce"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "55c42087"
+  },
+  {
+    "question": "How is the Speaker elected?",
+    "options": [
+      "The PM chooses the Speaker",
+      "The Archbishop of Canterbury chooses the Speaker",
+      "The Queen chooses the Speaker",
+      "Fellow MPs choose the Speaker"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Debates in the House of Commons are chaired by the Speaker. This person is the chief Officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents’ problems like any other MP. The Speaker is chosen by other MPs in a secret ballot.",
+    "id": "55cffe61"
+  },
+  {
+    "question": "When were the Anglo-Saxon kingdoms established in England?",
+    "options": [
+      "by AD 410",
+      "by AD 600",
+      "by AD 500",
+      "by AD 550"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By about AD 600, Anglo-Saxon kingdoms were established in Britain. These kingdoms were mainly in what is now England.",
+    "id": "55d591e6"
+  },
+  {
+    "question": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "55dc6efa"
+  },
+  {
+    "question": "When was the Domesday Book written?",
+    "options": [
+      "After the Viking invasion",
+      "After the Norman conquest",
+      "After the last Roman invasion",
+      "After the Anglo-Saxon invasion"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "55ed4606"
+  },
+  {
+    "question": "Many theatres produce a ______ at Christmas time",
+    "options": [
+      "tragedy",
+      "puppetry",
+      "reflection",
+      "pantomime"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "55f16256"
+  },
+  {
+    "question": "Who became Prime Minister and was an inspirational leader to the British people during WWII?",
+    "options": [
+      "Winston Churchill",
+      "Clement Attlee",
+      "Margaret Thatcher",
+      "Sir Robert Walpole"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "55ff3231"
+  },
+  {
+    "question": "On Christmas Day families traditionally sit down to a dinner of roast turkey and Christmas pudding, a rich steamed pudding made from suet, dried fruit and spices",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5608d7a4"
+  },
+  {
+    "question": "On average, girls leave school with better qualifications than boys",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Statement is true",
+    "id": "561eae43"
+  },
+  {
+    "question": "Florence Nightingale is associated with",
+    "options": [
+      "the development of nursing",
+      "the development of engineering in farm",
+      "the shipbuilding industry",
+      "policing"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5634bdf9"
+  },
+  {
+    "question": "The opposition party points out what they see as the government's",
+    "options": [
+      "achievements",
+      "failures",
+      "weaknesses",
+      "accomplishments"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "5643131b"
+  },
+  {
+    "question": "Tobacco should not be sold to anyone under the age of 25",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "56686362"
+  },
+  {
+    "question": "What is the monarch's ceremonial role?",
+    "options": [
+      "Opening a parliamentary session",
+      "Going abroad",
+      "Travelling in the UK",
+      "Making parliamentary policies"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year.",
+    "id": "5696cf12"
+  },
+  {
+    "question": "There is a very long history of horse racing in Britain, with evidence of events taking place as far back as ______ times",
+    "options": [
+      "Roman",
+      "Victorian",
+      "Georgian",
+      "Modern"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "569957e9"
+  },
+  {
+    "question": "Christmas pudding is made from suet, dried fruit and spices",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "56a88f32"
+  },
+  {
+    "question": "St Patrick's day is a public holiday in Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "56b6921c"
+  },
+  {
+    "question": "When were women given the right to vote at the same age as men?",
+    "options": [
+      "1832",
+      "1918",
+      "1928",
+      "1969"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+    "id": "56bb62ef"
+  },
+  {
+    "question": "Who was voted the greatest Briton of all time in 2002?",
+    "options": [
+      "Mo Farah",
+      "Admiral Nelson",
+      "Winston Churchill",
+      "Clement Attlee"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "56bcbad4"
+  },
+  {
+    "question": "Who was the British scientist who was awarded the Nobel prize for the discovery of the structure of the DNA molecule?",
+    "options": [
+      "James Goodfellow",
+      "John Macleod",
+      "Francis Crick",
+      "Alan Turing"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916–2004), one of those awarded the Nobel Prize for this discovery, was British.",
+    "id": "56c3da5e"
+  },
+  {
+    "question": "Which TWO are Protestant Christian groups in the UK?",
+    "options": [
+      "Baptists",
+      "Methodists",
+      "Roman Catholics",
+      "Buddhists"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Baptists and Methodists are Protestant Christian groups. Other Protestant groups in the UK include the Church of England, the Church of Scotland, Presbyterians and Quakers.",
+    "id": "56c3f79e"
+  },
+  {
+    "question": "UK laws ensure that people are treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status",
+    "options": [
+      "Yes, it's correct",
+      "No, it should be fairly"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "56c90924"
+  },
+  {
+    "question": "What is the minimum age required to drive a motorcycle?",
+    "options": [
+      "16 years old",
+      "17 years old",
+      "18 years old",
+      "21 years old"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "56cae15b"
+  },
+  {
+    "question": "Isaac Newton is a famous musician from the 18th century",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "He was a famous scientist who developed our understanding of gravity",
+    "answers": [
+      1
+    ],
+    "id": "56d7a836"
+  },
+  {
+    "question": "Some of the principles included in the European Convention on Human Rights are",
+    "options": [
+      "right to life",
+      "right to fight",
+      "prohibition of slavery and forced labour",
+      "prohibition of speech",
+      "right to wear any clothes",
+      "freedom of expression (speech)"
+    ],
+    "answers": [
+      0,
+      2,
+      5
+    ],
+    "id": "56d9920f"
+  },
+  {
+    "question": "The Brit Awards is an event where sports people are given awards.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Brit Awards is an annual event that gives awards to musicians in a range of categories, such as best British group and best British solo artist.",
+    "id": "56da287c"
+  },
+  {
+    "question": "For which TWO reasons is Henry VIII remembered?",
+    "options": [
+      "Horse racing",
+      "Married six times",
+      "Broke away from the Church of Rome",
+      "Had seven sons"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Henry VIII is famous for breaking away from the Catholic Church of Rome and marrying six times.",
+    "id": "56e8c57c"
+  },
+  {
+    "question": "The devolved administrations each have their own civil service",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The devolved administrations each have their own civil service.",
+    "id": "56fe0668"
+  },
+  {
+    "question": "Which Armed Force was used in the Battle of Britain?",
+    "options": [
+      "Army",
+      "Home Guards",
+      "Royal Air Force",
+      "Royal Navy"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called ‘the Battle of Britain’, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane – which were designed and built in Britain.",
+    "id": "5700b85c"
+  },
+  {
+    "question": "You can write to your local MP in advance to ask for tickets to visit the UK Parliament",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "570740bd"
+  },
+  {
+    "question": "Who appoints the government, which most people have chosen in a democratic election?",
+    "options": [
+      "The House of Commons",
+      "The Monarch",
+      "The Prime Minister",
+      "The House of Lords"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The monarch does not rule the country but appoints the government, which the people have chosen in a democratic election. The monarch invites the leader of the party with the largest number of MPs, or the leader of a coalition between more than one party, to become the Prime Minister.",
+    "id": "5715ea3b"
+  },
+  {
+    "question": "In 1588 the English fleet defeated a large French fleet of ships that intended to land an army in England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1588 the English fleet defeated the Spanish Armada fleet, which had been sent to conquer England and restore Catholicism.",
+    "id": "57181321"
+  },
+  {
+    "question": "Who is responsible for crime and immigration?",
+    "options": [
+      "Chancellor of the Exchequer",
+      "Foreign Secretary",
+      "Secretary of State",
+      "Home Secretary"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Home Secretary is responsible for crime, policing and immigration.",
+    "id": "57263044"
+  },
+  {
+    "question": "If you are self-employed, you have to pay your own tax",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "572bd09a"
+  },
+  {
+    "question": "Where can you find the ship HMS Victory now?",
+    "options": [
+      "Portsmouth",
+      "London",
+      "Dorset",
+      "Edinburgh"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "HMS Victory, can be visited in Portsmouth. It was Admiral Nelson’s ship.",
+    "id": "573bbcaf"
+  },
+  {
+    "question": "The Speaker is chosen by other MPs in a secret ballot",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "574224a8"
+  },
+  {
+    "question": "The Council of Europe is separate from EU",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "575380d4"
+  },
+  {
+    "question": "What is an example of the middle ages architecture?",
+    "options": [
+      "The London Eye",
+      "The White Tower in the Tower of London",
+      "The Queen's House in Greenwich",
+      "The O2 arena"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the Middle Ages, great cathedrals and churches were built, many of which still stand today. Examples are the cathedrals in Durham, Lincoln, Canterbury and Salisbury. The White Tower in the Tower of London is an example of a Norman castle keep, built on the orders of William the Conqueror.",
+    "id": "5755c087"
+  }
+]

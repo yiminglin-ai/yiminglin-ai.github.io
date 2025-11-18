@@ -1,0 +1,665 @@
+[
+  {
+    "question": "Which TWO are famous UK sports stars?",
+    "options": [
+      "William Shakespeare",
+      "Thomas Gainsborough",
+      "Jackie Stewart",
+      "Sir Chris Hoy"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Sir Jackie Stewart (1939–) is a Scottish former racing driver who won the Formula 1 world championship three times.\nSir Chris Hoy (1976–) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+    "id": "08463b80"
+  },
+  {
+    "question": "Which two things should you do if you wish to be a permanent resident or citizen of the UK?",
+    "options": [
+      "Look after the area in which you live and the environment",
+      "Look after yourself and your family",
+      "Look after the roads",
+      "Look after your stairs"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "If you wish to be a permanent resident or citizen of the UK, you should:\n•respect and obey the law\n•respect the rights of others, including their right to their own opinions\n•treat others with fairness\n•look after yourself and your family\n•look after the area in which you live and the environment.",
+    "id": "0851df1c"
+  },
+  {
+    "question": "The UN was set up after the Second World War to prevent war and promote international peace and security",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0854cda2"
+  },
+  {
+    "question": "Britain has a constitutional Monarchy in which the King or The Queen have unlimited powers",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "087d2faf"
+  },
+  {
+    "question": "St Patrick's Day is celebrated on",
+    "options": [
+      "1 March",
+      "17 March",
+      "23 April",
+      "30 November"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "08834a0c"
+  },
+  {
+    "question": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership",
+    "options": [
+      "Yes, it's correct",
+      "No, it's incorrect"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "088501b1"
+  },
+  {
+    "question": "Sake Dean Mahomet",
+    "options": [
+      "introduced curry houses and shampooing to Britain from India",
+      "is famous for introducing tea-drinking and bungalows to Britain from India"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "088a0041"
+  },
+  {
+    "question": "The queen of Scotland, Mary Stuart was only ______ old when her father died and she became queen",
+    "options": [
+      "a week",
+      "1 year",
+      "4 years",
+      "9 years"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "088dbe9e"
+  },
+  {
+    "question": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+    "options": [
+      "Richard III",
+      "Charles II",
+      "James I",
+      "Henry IV"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0897364f"
+  },
+  {
+    "question": "Which organisation looks after the environment and historic buildings?",
+    "options": [
+      "NSPCC",
+      "National Trust",
+      "Age UK",
+      "PDSA"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "National Trust works to preserve important buildings, coastline and countryside in the UK.",
+    "id": "089f00aa"
+  },
+  {
+    "question": "Which political parties formed the coalition government in 2010?",
+    "options": [
+      "Conservatives and Labour",
+      "Labour and Liberal Democrats",
+      "Conservatives and Liberal Democrats",
+      "Green Party and UKIP"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+    "id": "089fccc5"
+  },
+  {
+    "question": "Where was Anne Boleyn, the wife of Henry VIII who was accused of taking lovers, executed?",
+    "options": [
+      "Stonehenge",
+      "Maiden Castle",
+      "Windsor Castle",
+      "The Tower of London"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London.",
+    "id": "08b916af"
+  },
+  {
+    "question": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A constitution is a set of principles by which a country is governed. It includes all of the institutions that are responsible for running the country and how their power is kept in check. The constitution also includes laws and conventions. The British constitution is not written down in any single document, and therefore it is described as 'unwritten'.",
+    "id": "08dba47e"
+  },
+  {
+    "question": "Which of these athletes is a paralympian?",
+    "options": [
+      "Jessica Ennis",
+      "David Weir",
+      "Andy Murray",
+      "Bobby Moore"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "David Weir (1979-) is a Paralympian who uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.",
+    "id": "08ebe6f2"
+  },
+  {
+    "question": "Freedoms offered by the UK to citizens and permanent residents are:",
+    "options": [
+      "A right to a fair trial",
+      "Long lunch breaks on Friday at work",
+      "Free groceries for everyone",
+      "Freedom of speech"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "08f043bd"
+  },
+  {
+    "question": "What is the name of the process by which many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle?",
+    "options": [
+      "The Black Death",
+      "The Corn Removal",
+      "The Highland Clearances",
+      "The Enlightenment"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "08f7038a"
+  },
+  {
+    "question": "What is the reason for more ageing population? Choose Two Answers",
+    "options": [
+      "Better Health Care",
+      "Better Living Standards",
+      "Improved Education",
+      "Cheaper Food"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+    "id": "08f9b928"
+  },
+  {
+    "question": "Which of these are known as 'peers'?",
+    "options": [
+      "Members of the House of Commons",
+      "Members of the House of Lords",
+      "Senior Judges",
+      "Bishops of the Church of England"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the House of Lords, known as peers, are not elected by the people and do not represent a constituency.",
+    "id": "0917a21e"
+  },
+  {
+    "question": "When was the Giant's Causeway formed?",
+    "options": [
+      "50 million years ago",
+      "40 million years ago",
+      "70 million years ago",
+      "60 million years ago"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Located on the north-east coast of Northern Ireland, the Giant's Causeway is a land formation of columns made from volcanic lava. It was formed about 50 million years ago. There are many legends about the Causeway and how it was formed.",
+    "id": "091b03ac"
+  },
+  {
+    "question": "Which court would you use to get money back that was owed to you?",
+    "options": [
+      "County Court",
+      "Magistrates' Court",
+      "Youth Court",
+      "Coroner's Court"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "County Courts are civil courts which deal with a wide range of civil disputes. These include disputes where people are trying to get back money that is owed to them.",
+    "id": "091fc491"
+  },
+  {
+    "question": "When did the WWI begin?",
+    "options": [
+      "1914",
+      "1918",
+      "1939",
+      "1941"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first World War began in 1914 and ended in 1918.",
+    "id": "0934f2d5"
+  },
+  {
+    "question": "Who was R. A. Butler?",
+    "options": [
+      "A Conservative MP",
+      "An Economist",
+      "A Poet",
+      "Minister of Health"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Richard Austen Butler (later Lord Butler) was born in 1902. He became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941.",
+    "id": "0952aefa"
+  },
+  {
+    "question": "By which year did the English rule an area around Dublin called the Pale?",
+    "options": [
+      "1100",
+      "1400",
+      "1300",
+      "1200"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to help the Irish king and remained to build their own settlements. By 1200, the English ruled an area of Ireland known as the Pale, around Dublin. Some of the important lords in other parts of Ireland accepted the authority of the English king.",
+    "id": "097b6c94"
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Charles, king of Scotland, was restored as King Charles II of England in 1660.",
+      "Bonnie Prince Charlie became King Charles II of England in 1660."
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles II, whose father Charles I was executed at the end of the Civil War, was made king of Scotland by the Scots. He was forced into exile after being defeated by the English, but was restored to the throne of England in 1660 after the collapse of the republican Commonwealth.",
+    "id": "0980a64e"
+  },
+  {
+    "question": "Big Ben was named ‘Elizabeth Tower’ in honour of Queen Elizabeth I",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012. ",
+    "id": "098388ac"
+  },
+  {
+    "question": "When is the electoral register updated?",
+    "options": [
+      "every 5 years in December/January",
+      "every year in September/October",
+      "every 4 years in November/December",
+      "every 2 years in October/November"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "098f2038"
+  },
+  {
+    "question": "National Trust is a charity that works to preserve important buildings, coastline and countryside",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+    "id": "0996e522"
+  },
+  {
+    "question": "Who developed important Human Nature ideas?",
+    "options": [
+      "Richard Arkwright",
+      "James Watt",
+      "David Hume",
+      "Adam Smith"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "David Hume’s ideas about human nature continue to influence philosophers.",
+    "id": "0997f9f5"
+  },
+  {
+    "question": "At what age can you vote in a General Election in the UK?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The present voting age is 18, and was set in 1969.",
+    "id": "09996427"
+  },
+  {
+    "question": "Which TWO of the following are part of the UK government?",
+    "options": [
+      "The cabinet",
+      "The civil service",
+      "The National Trust",
+      "FIFA"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "There are several different parts of government in the UK, which include the cabinet and the civil service.",
+    "id": "099de0de"
+  },
+  {
+    "question": "Sir Edward Elgar is known for his famous music work - 'The Planets'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "More recently, important composers include Gustav Holst (1874-1934), whose work includes The Planets, a suite of pieces themed around the planets of the solar system. He adapted Jupiter, part of the Planets suite, as the tune for I vow to thee my country, a popular hymn in British churches.",
+    "id": "09ab26b0"
+  },
+  {
+    "question": "It is a criminal offence to owe money to someone and you might be taken to court",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Owing money is a civil offence",
+    "id": "09be37ca"
+  },
+  {
+    "question": "Anne Boleyn the wife of Henry VIII was a ______ princess, she and Henry had one daughter, Elizabeth",
+    "options": [
+      "German",
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "09c4211b"
+  },
+  {
+    "question": "Films were first shown publicly in the UK in 1896",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Films were first shown publicly in the UK in 1896",
+    "id": "09d85ec9"
+  },
+  {
+    "question": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+    "options": [
+      "Pakistan",
+      "Germany",
+      "India",
+      "France"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "09eccbfc"
+  },
+  {
+    "question": "Which country was invaded by Germany in 1939?",
+    "options": [
+      "Austria",
+      "Italy",
+      "Russia",
+      "Poland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "09f46175"
+  },
+  {
+    "question": "What did the Statute of Rhuddlan do?",
+    "options": [
+      "Annexed Wales to England",
+      "Declared independence of American colonies",
+      "Guaranteed that no one could be held prisoner unlawfully",
+      "Subsidised free trade"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The English kings fought with the Welsh, Scottish and Irish noblemen for control of their lands. In Wales, the English were able to establish their rule. In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+    "id": "0a063b2a"
+  },
+  {
+    "question": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland.",
+    "id": "0a1429b9"
+  },
+  {
+    "question": "Which organization looks after the Edinburgh Castle?",
+    "options": [
+      "The Red Cross",
+      "NSPCC",
+      "The National Trust",
+      "Historic Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Edinburgh Castle has a long history, dating back to the early Middle Ages. It is looked after by Historic Scotland, a Scottish government agency.",
+    "id": "0a19a299"
+  },
+  {
+    "question": "Once you are aged 17, which TWO vehicles can you learn to drive?",
+    "options": [
+      "Motor cycle",
+      "Car",
+      "Fire engine",
+      "Heavy goods vehicle"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "You must be 17 or older to drive a motor cycle or car, and you must have a licence to drive on public roads.",
+    "id": "0a23658c"
+  },
+  {
+    "question": "Britain was the first country to industrialise on a large scale",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0a3232fd"
+  },
+  {
+    "question": "HM Revenue and Customs (HMRC), the government department that",
+    "options": [
+      "is responsible for road safety",
+      "collects taxes",
+      "is responsible for the housing benefits"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0a41c0c8"
+  },
+  {
+    "question": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+    "options": [
+      "The Radar",
+      "The Steam Power",
+      "The Jet Engine",
+      "The Turing Machine"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0a4a3fc4"
+  },
+  {
+    "question": "What is the Chancellor of the Exchequer responsible for?",
+    "options": [
+      "Foreign Policy",
+      "Health",
+      "Immigration",
+      "Economy"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Chancellor of the Exchequer is responsible for the economy",
+    "id": "0a4fdc64"
+  },
+  {
+    "question": "For how many years did Charles I raise money without Parliament's approval?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "For 11 years, Charles I found ways in which to raise money without Parliament's approval but eventually trouble in Scotland meant that he had to recall Parliament.",
+    "id": "0a54cfc2"
+  },
+  {
+    "question": "Does Britain have a written constitution?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0a612278"
+  },
+  {
+    "question": "When did a group of Catholics led by Guy Fawkes fail in their plan to kill the Protestant king with a bomb in the Houses of Parliament?",
+    "options": [
+      "5th November 1505",
+      "5th November 1405",
+      "5th November 1605",
+      "5th November 1705"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "id": "0a7194c7"
+  },
+  {
+    "question": "Who wrote the United Kingdom's constitution?",
+    "options": [
+      "Queen Victoria",
+      "King George III",
+      "Winston Churchill",
+      "Nobody, it's an unwritten constitution"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0a74a9de"
+  },
+  {
+    "question": "When is Boxing Day celebrated?",
+    "options": [
+      "31st October",
+      "26th December",
+      "24th December",
+      "01st January"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0a7d60bd"
+  },
+  {
+    "question": "Edward VI died at the age of ______ after ruling for just over six years, and his half-sister Mary became queen",
+    "options": [
+      "15",
+      "24",
+      "26",
+      "30"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0a814c7f"
+  }
+]

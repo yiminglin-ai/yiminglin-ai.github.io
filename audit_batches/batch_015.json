@@ -1,0 +1,668 @@
+[
+  {
+    "question": "Which court deals with minor criminal offences in Scotland?",
+    "options": [
+      "The Sheriff Court",
+      "The Magistrate's Court",
+      "The Crown Court",
+      "The Justice of the Peace Court"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "1e78839b"
+  },
+  {
+    "question": "Who led the invasion of England in 1066?",
+    "options": [
+      "King Alfred the Great",
+      "Julius Caesar",
+      "William the Duke of Normandy",
+      "Harold the Saxon King"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "1eaefe7c"
+  },
+  {
+    "question": "For some Scottish people, ______ is a bigger holiday than Christmas",
+    "options": [
+      "Hogmanay",
+      "Halloween",
+      "Bonfire Night",
+      "Boxing Day"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1eb8331f"
+  },
+  {
+    "question": "St Augustine led missionaries from Rome, who spread Christianity in the south. Who did he become?",
+    "options": [
+      "The first Archbishop of Canterbury",
+      "The first Viking invader",
+      "The first prime minister",
+      "The first King of England"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury (see the Archbishop of Canterbury and the Church in Britain today).",
+    "id": "1ebbe8e4"
+  },
+  {
+    "question": "Who became the first Archbishop of Canterbury?",
+    "options": [
+      "St Patrick",
+      "St Columba",
+      "St David",
+      "St Augustine"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "St Augustine became the first Archbishop of Canterbury.",
+    "id": "1ebd7570"
+  },
+  {
+    "question": "What percentage of the UK population doesn't follow a religion?",
+    "options": [
+      "21%",
+      "14%",
+      "19%",
+      "17%"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the 2009 Citizenship Survey, 21% of people said that they had no religion.",
+    "id": "1ec17459"
+  },
+  {
+    "question": "The Prime Minister can be changed if the MPs in the governing party decide to do so",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister can be changed if the MPs in the governing party decide to do so",
+    "id": "1ecc8529"
+  },
+  {
+    "question": "Who opens the new parliamentary session each year?",
+    "options": [
+      "The Archbishop of Canterbury",
+      "The Prime Minister",
+      "The Speaker of the House of Commons",
+      "The monarch"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The monarch opens the new parliamentary session each year. It is one of a number of important ceremonial roles.",
+    "id": "1ece74eb"
+  },
+  {
+    "question": "The Council of Europe has no power to make laws",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Council of Europe is separate from the EU. It has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.",
+    "id": "1edc2a70"
+  },
+  {
+    "question": "The Scottish Parliament (after the Magna Carta was established in England) was split into two estates: the Lords and the Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In England, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons. Only a small part of the population was able to join in electing the members of the Commons. In Scotland, the parliament had three Houses, called Estates: the Lords, the Commons and the Clergy.",
+    "id": "1ee4d2e5"
+  },
+  {
+    "question": "How often do the PM's questions take place?",
+    "options": [
+      "Every week",
+      "Every day",
+      "Every month",
+      "Every year"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. One important opportunity to do this is at Prime Minister's Questions, which takes place every week while Parliament is sitting",
+    "id": "1ee5ea72"
+  },
+  {
+    "question": "What is the judiciary responsible for?",
+    "options": [
+      "Looking after a jury",
+      "Putting people in prison",
+      "Deciding whether a person is guilty",
+      "Interpreting the law"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Judges, who are together called ‘the judiciary’, are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+    "id": "1ee80688"
+  },
+  {
+    "question": "Anyone who is violent toward their partner (whether they are a man or a woman, married or living together) can not be prosecuted",
+    "options": [
+      "Yes, it's correct",
+      "No, they can be prosecuted"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1f01c0e1"
+  },
+  {
+    "question": "Which Patron Saint day is on the 17th of March?",
+    "options": [
+      "St David",
+      "St Andrew",
+      "St George",
+      "St Patrick"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "1f051b31"
+  },
+  {
+    "question": "What's the objective of the Commonwealth?",
+    "options": [
+      "Achieve goals in democracy and development",
+      "Promote free trade",
+      "Allow visa free migration across the member states",
+      "Promote peace across the world"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+    "id": "1f0a792f"
+  },
+  {
+    "question": "William of Orange was asked by Protestants to invade England. What was this event later known as?",
+    "options": [
+      "The Enlightenment",
+      "The Battle of Britain",
+      "Glorious Revolution",
+      "The Butler Act"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+    "id": "1f10d581"
+  },
+  {
+    "question": "A 2 minutes silence is observed on Easter to commemorate the death of Jesus Christ",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+    "id": "1f228407"
+  },
+  {
+    "question": "Who should you contact to get your National Insurance number?",
+    "options": [
+      "Your local school",
+      "The Home secretary",
+      "DWP (Department for Work and Pensions)",
+      "Local government"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "You will need to telephone the Department for Work and Pensions (DWP) to arrange to get a National Insurance number.",
+    "id": "1f2d1647"
+  },
+  {
+    "question": "One of the most important responsibilities of all residents in the UK is",
+    "options": [
+      "to know and obey the law",
+      "find illegal immigrants",
+      "secretly buy drugs",
+      "pay under the table to the poor people so they get more money"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1f336c1f"
+  },
+  {
+    "question": "What is the Shadow Cabinet?",
+    "options": [
+      "Senior members of the main opposition party who 'shadow' Government ministers in different departments",
+      "The cabinet where the Prime Minister had to resign",
+      "The cabinet that is in trouble",
+      "The name of the office of the Leader of the Opposition in the Parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The leader of the opposition leads his or her party in pointing out what they see as the government’s failures and weaknesses. The leader of the opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+    "id": "1f35a3f5"
+  },
+  {
+    "question": "When was the first coin in Britain made?",
+    "options": [
+      "The Iron age",
+      "The Stone age",
+      "The Gold age",
+      "The Middle ages"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Iron Age people made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
+    "id": "1f369a5e"
+  },
+  {
+    "question": "How long is the longest straight distance on the mainland?",
+    "options": [
+      "845 miles",
+      "1006 miles",
+      "896 miles",
+      "870 miles"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
+    "id": "1f36e8a5"
+  },
+  {
+    "question": "Almost everybody in the UK who is in paid work, including self-employed people, ______ pay National Insurance Contributions",
+    "options": [
+      "should",
+      "must",
+      "may"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1f3b4e79"
+  },
+  {
+    "question": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni. What is it known as now?",
+    "options": [
+      "northern England",
+      "eastern England",
+      "western England",
+      "southern England"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
+    "id": "1f59501d"
+  },
+  {
+    "question": "How many Houses did the Scottish Parliament have in the middle ages?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "6"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the middle ages the Scottish Parliament had three Houses, called Estates: the lords, the commons and the clergy.",
+    "id": "1f5f9de5"
+  },
+  {
+    "question": "When did the Enlightenment happen?",
+    "options": [
+      "19th and 20th century",
+      "18th century",
+      "18th and 19th century",
+      "19th century"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’.",
+    "id": "1f652d8b"
+  },
+  {
+    "question": "Baptists, Methodists and Quakers are",
+    "options": [
+      "all linked to the Roman Catholic Church",
+      "protestant Christian groups"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1f7abbf7"
+  },
+  {
+    "question": "The people of the Bronze Age were accomplished",
+    "options": [
+      "stoneworkers",
+      "metalworkers",
+      "woodworkers",
+      "glassworkers"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1f7d7a35"
+  },
+  {
+    "question": "During the Bronze age people lived in roundhouses and buried their dead in tombs called round barrows",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is true",
+    "id": "1f868d97"
+  },
+  {
+    "question": "Arranged marriages are allowed in the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A marriage should be entered into with the full and free consent of both people involved. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK.",
+    "id": "1f89aa9d"
+  },
+  {
+    "question": "Where does the Fringe take place?",
+    "options": [
+      "Liverpool",
+      "London",
+      "Newcastle",
+      "Edinburgh"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer. The most well-known is the Edinburgh Festival Fringe, also known as the Fringe.",
+    "id": "1f8da2d7"
+  },
+  {
+    "question": "Henry VII established the House of Tudor, ______ rose became the Tudor emblem",
+    "options": [
+      "Red and white",
+      "Pink and red",
+      "White",
+      "Pink and white"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1f9c4de0"
+  },
+  {
+    "question": "Which TWO changes did the Chartists campaign for?",
+    "options": [
+      "For every woman to have the vote",
+      "Elections every year",
+      "Secret ballots",
+      "Elections every 3 years"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes:\n- For every man to have the vote\n- Elections every year\n- For all regions to be equal in the electoral system\n- Secret ballots\n- For any man to be able to stand as an MP\n- For MPs to be paid.",
+    "id": "1fa28fec"
+  },
+  {
+    "question": "How long did the Romans stay in Britain?",
+    "options": [
+      "600 years",
+      "100 years",
+      "400 years",
+      "300 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Romans remained in Britain for 400 years.",
+    "id": "1faadbaf"
+  },
+  {
+    "question": "In the 20th century, what did Sir Edwin Lutyens design to be the seat of government in India?",
+    "options": [
+      "Bangalore",
+      "Mumbai",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In the 20th century, Sir Edwin Lutyens had an influence throughout the British Empire. He designed New Delhi to be the seat of government in India. After the First World War, he was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall.",
+    "id": "1fcd065e"
+  },
+  {
+    "question": "What is Hogmanay also known as?",
+    "options": [
+      "New Year",
+      "Christmas Day",
+      "Christmas Eve",
+      "Easter"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Scotland, 31 December(New Year) is called Hogmanay.",
+    "id": "1fd345a5"
+  },
+  {
+    "question": "If no party wins a majority, two parties may join together to form a coalition",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1fe8fafc"
+  },
+  {
+    "question": "The name of Admiral Nelson's ship was HMS ______",
+    "options": [
+      "Resolution",
+      "Victory",
+      "Discovery",
+      "Bounty"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "1fea41aa"
+  },
+  {
+    "question": "How old was the Queen of Scotland, Mary Stuart when her father died and she became Queen?",
+    "options": [
+      "1 month",
+      "1 year",
+      "1 week",
+      "7 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen.",
+    "id": "1ffff0c1"
+  },
+  {
+    "question": "What did 'the Butler Act'  introduce in 1944?",
+    "options": [
+      "Free primary education in England, Wales and Scotland",
+      "Free university fees in England, Wales, Scotland and Northern Ireland",
+      "Free primary and secondary education in England, Wales and Scotland",
+      "Free secondary education in England and Wales"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "202440c3"
+  },
+  {
+    "question": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+    "options": [
+      "Fenians",
+      "Quakers",
+      "Highlanders",
+      "Suffragettes"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "202f9e42"
+  },
+  {
+    "question": "The UK is located in the ______ west of Europe",
+    "options": [
+      "east",
+      "south",
+      "north",
+      "centre"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "203e59fa"
+  },
+  {
+    "question": "British overseas territories are:",
+    "options": [
+      "Falkland Islands",
+      "St Helena",
+      "Hawaii",
+      "Cyprus"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "20437bef"
+  },
+  {
+    "question": "Young people are sent their National Insurance number just before their ______ birthday",
+    "options": [
+      "14th",
+      "16th",
+      "17th",
+      "18th"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "20463f70"
+  },
+  {
+    "question": "In the UK, 1 April is a day when people play jokes on each other.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "1 April is known as April Fool's Day, when people play jokes on each other until midday.",
+    "id": "204e88b7"
+  },
+  {
+    "question": "Who ordered to write the Book of Common Prayer?",
+    "options": [
+      "Edward VI",
+      "Queen Mary",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Henry VIII was succeeded by his son Edward VI, who was strongly Protestant. During his reign, the Book of Common Prayer was written to be used in the Church of England.",
+    "id": "204f4e93"
+  },
+  {
+    "question": "In 1689, The Bill of Rights gave the power to vote to all male adults.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant. A new Parliament had to be elected at least every three years (later this became seven years and now it is five years).",
+    "id": "204f5544"
+  },
+  {
+    "question": "The Union Jack is a:",
+    "options": [
+      "National Football Team",
+      "National Museum",
+      "Official Flag of the UK",
+      "Act which united the four countries"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "One symbol of this union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack. The flag combined crosses associated with England, Scotland and Ireland.",
+    "id": "20574293"
+  },
+  {
+    "question": "By what system are Members of the Scottish Parliament and the Welsh Assembly elected?",
+    "options": [
+      "Proportional representation",
+      "Instant runoff",
+      "First past the post"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "20591560"
+  },
+  {
+    "question": "What was the symbol of the House of Tudor?",
+    "options": [
+      "Thistle",
+      "Lion",
+      "Two Roses",
+      "Dragon"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+    "id": "205cb656"
+  }
+]

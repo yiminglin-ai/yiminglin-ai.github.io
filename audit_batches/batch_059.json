@@ -1,0 +1,661 @@
+[
+  {
+    "question": "St Helena is a Crown dependency.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "St Helena is a British overseas territory and not a Crown dependency.",
+    "id": "7a8d9cc4"
+  },
+  {
+    "question": "Which TWO plants are associated with the UK?",
+    "options": [
+      "Shamrock",
+      "Rose",
+      "Cactus",
+      "Olive tree"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The shamrock is the national flower of Northern Ireland, and the rose is the national flower of England.",
+    "id": "7a9133ab"
+  },
+  {
+    "question": "Which of these do pressure and lobby groups do?",
+    "options": [
+      "Influence government policy and represent the views of businesses",
+      "Represent the views of British businesses and assist MPs in their constituency work",
+      "Organise violent protests and assist MPs in their constituency work",
+      "Influence government policy and assist MPs in their constituency work"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics. Some are representative organisations such as the CBI (Confederation of British Industry), which represents the views of British business. Others campaign on particular topics, such as the environment (for example, Greenpeace) or human rights (for example, Liberty)",
+    "id": "7aa8189c"
+  },
+  {
+    "question": "What is the most famous competition which is a series of Test matches played between England and Australia?",
+    "options": [
+      "The Ashes",
+      "The Wimbledon Championship",
+      "The Open Championship",
+      "Formula One"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw! The idiosyncratic nature of the game and its complex laws are said to reflect the best of the British character and sense of fair play. You may come across expressions such as ‘rain stopped play’, ‘batting on a sticky wicket’, ‘playing a straight bat’, ‘bowled a googly’ or ‘it’s just not cricket’, which have passed into everyday usage. The most famous competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "id": "7abc131d"
+  },
+  {
+    "question": "The members of the armed forces can stand for public office",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7ac0835d"
+  },
+  {
+    "question": "Which three territories form Great Britain?",
+    "options": [
+      "Wales",
+      "Northern Ireland",
+      "England",
+      "Scotland"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "tip": "",
+    "id": "7ac9c45d"
+  },
+  {
+    "question": "When is Mothering Sunday?",
+    "options": [
+      "3 weeks before Easter",
+      "3 weeks before 14th February",
+      "3 weeks before Christmas"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7acda083"
+  },
+  {
+    "question": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age.",
+    "id": "7ace7f89"
+  },
+  {
+    "question": "In England, judges developed 'common law' by a process of tradition and precedence that is, following previous decisions",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7ae1d2d4"
+  },
+  {
+    "question": "Which of the following is William Wordsworth's poem?",
+    "options": [
+      "She Walks in Beauty",
+      "The Daffodils",
+      "The Tyger",
+      "Home Thoughts from Abroad"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "All 4 options are poems, but all written by different poets. (Robert Browning, 1812-89 Home Thoughts from Abroad)(Lord Byron, 1788-1824 She Walks in Beauty)(William Blake, 1757-1827 The Tyger) (William Wordsworth, 1770-1850 The Daffodils)",
+    "id": "7afac0b2"
+  },
+  {
+    "question": "The House of Commons has powers to overrule ______, but these are not used often",
+    "options": [
+      "The House of Lords",
+      "Peers",
+      "The Queen",
+      "The Prime Minister"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7afdd8d7"
+  },
+  {
+    "question": "It is ______ to carry a weapon of any kind, even if it is for self-defence",
+    "options": [
+      "your responsibility",
+      "your right",
+      "a criminal offence"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "7b08ae3c"
+  },
+  {
+    "question": "What did St Columba and St Augustine do during the Anglo-Saxon period?",
+    "options": [
+      "They were early Christian missionaries",
+      "They were leaders of an uprising in Wales",
+      "They were courageous warriors",
+      "They invented new efficient farming techniques"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7b09ad5b"
+  },
+  {
+    "question": "Which two of the following policies are not controlled by the devolved administrations?",
+    "options": [
+      "Health",
+      "Education",
+      "Defence",
+      "Immigration"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "",
+    "id": "7b0ee3a9"
+  },
+  {
+    "question": "The Grand National is a Horse Race",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7b196de5"
+  },
+  {
+    "question": "How did the Government promote policies of free trade during the Victorian Age?",
+    "options": [
+      "Abolishing a number of taxes on imported goods",
+      "Abolishing the exportation of local produce",
+      "Preventing the importation of cheap raw materials",
+      "Preventing the importation of cheap grain"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7b1d1e5b"
+  },
+  {
+    "question": "Sometimes even radio, television, and newspapers try to fool people with fake stories and jokes",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7b1e883a"
+  },
+  {
+    "question": "What is the fundamental principle of British life?",
+    "options": [
+      "The rule of law",
+      "Attending a Church on Sundays",
+      "Supporting your local team",
+      "Taking part in festivals"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The rule of law is one of the fundamental principles of British Life.",
+    "id": "7b2180f8"
+  },
+  {
+    "question": "If a person is aged under 21, their case will be heard in a Youth Court.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If an accused person is aged 10 to 17, the case is normally held in a Youth Court.",
+    "id": "7b2608b0"
+  },
+  {
+    "question": "What marks the death of Jesus Christ?",
+    "options": [
+      "Easter Sunday",
+      "Shrove Tuesday",
+      "Good Friday",
+      "Ash Wednesday"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Easter takes place in March or April. It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday. Both Good Friday and the following Monday, called Easter Monday, are public holidays.",
+    "id": "7b2cc71b"
+  },
+  {
+    "question": "A law abolished slavery throughout the British Empire in 1833",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7b5f36f7"
+  },
+  {
+    "question": "Which of these TWO is correct about Halloween?",
+    "options": [
+      "It is an ancient festival and has roots in the pagan festival to mark the beginning of winter",
+      "It is when lovers exchange cards and gifts",
+      "It is celebrated on the 31 October",
+      "It is not celebrated in Scotland"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "7b6d8957"
+  },
+  {
+    "question": "Most people live in the countryside in the United Kingdom",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Most people in the United Kingdom live in towns and cities, but much of Britain is still countryside",
+    "answers": [
+      1
+    ],
+    "id": "7b88bf58"
+  },
+  {
+    "question": "If judges find that a public body is not respecting someone's legal rights, they can",
+    "options": [
+      "order that body to change its practices and/or pay compensation",
+      "ask the public body to come in the court and give the explanation"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7b95086d"
+  },
+  {
+    "question": "Where was William Shakespeare born?",
+    "options": [
+      "Stratford upon Avon",
+      "Berkshire",
+      "London",
+      "Essex"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shakespeare (1564-1616) was born in Stratford-upon-Avon, England.",
+    "id": "7b9d8ea8"
+  },
+  {
+    "question": "Which TWO of the following are Christian religious festivals celebrated in the UK?",
+    "options": [
+      "Easter",
+      "Halloween",
+      "Christmas",
+      "New Year"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Easter and Christmas are two Christian festivals. Christmas celebrates the birth of Jesus Christ, and Easter marks his death on Good Friday and his rising from the dead on Easter Sunday.",
+    "id": "7ba6414f"
+  },
+  {
+    "question": "Winston Churchill lost the General Election in 1945",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister. He refused to surrender to the Nazis and was an inspirational leader to the British people in a time of great hardship. He lost the General Election in 1945 but returned as Prime Minister in 1951.",
+    "id": "7ba94af3"
+  },
+  {
+    "question": "Members of the House of Lords are",
+    "options": [
+      "not elected by the people",
+      "voted in by members of the House of Commons",
+      "elected by the general public"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7baa5ed8"
+  },
+  {
+    "question": "Which TWO are compulsory in the UK if you own an old car?",
+    "options": [
+      "Mortgage",
+      "Life insurance",
+      "A valid MOT test certificate",
+      "Car insurance"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "It is an offence not to have an MOT certificate if your vehicle is more than three years old or without car insurance.",
+    "id": "7bb658e4"
+  },
+  {
+    "question": "How can you reduce your carbon footprint?",
+    "options": [
+      "Shop locally for products",
+      "Buy duty-free products when you're abroad",
+      "Do all your shopping online",
+      "Drive to the supermarket"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shopping locally for products will reduce your carbon footprint, because the products you buy will not have had to travel as far.",
+    "id": "7bb72f26"
+  },
+  {
+    "question": "Which TWO are located in Scotland?",
+    "options": [
+      "The Eden Project",
+      "The Giant's Causeway",
+      "Edinburgh Castle",
+      "Loch Lomond"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Loch Lomond and the Edinburgh Castle are located in Scotland.",
+    "id": "7bc0a7c5"
+  },
+  {
+    "question": "You have to pay tax on",
+    "options": [
+      "small amounts of money given to you as a gift",
+      "profits from self-employment",
+      "shopping vouchers given to you by family or friends",
+      "income from property, savings and dividends"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "7be9953b"
+  },
+  {
+    "question": "What followed the Bronze Age?",
+    "options": [
+      "The Iron Age",
+      "The Silver Age",
+      "The Stone Age",
+      "The medieval period"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Bronze Age was followed by the Iron Age, when people learned how to make weapons and tools out of iron.",
+    "id": "7bfd15b7"
+  },
+  {
+    "question": "Northern Ireland and Wales each have their own Church of state:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7c005f14"
+  },
+  {
+    "question": "In what year did the Troubles break out?",
+    "options": [
+      "1921",
+      "1969",
+      "1922",
+      "1957"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland. The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as ‘the Troubles’.",
+    "id": "7c022e94"
+  },
+  {
+    "question": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+    "options": [
+      "Giant greenhouses",
+      "Land formations of columns made from volcanic lava",
+      "Areas of protected countryside",
+      "Medieval buildings"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "7c023b0a"
+  },
+  {
+    "question": "Haggis is a traditional food of which country?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Scotland’s food is Haggis – a sheep’s stomach stuffed with offal, suet, onions and oatmeal.",
+    "id": "7c0f786c"
+  },
+  {
+    "question": "Many people volunteer simply because they want to help other people",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Volunteering and helping your community are an important part of being a good citizen. They enable you to integrate and get to know other people. It helps to make your community a better place if residents support each other.",
+    "id": "7c201985"
+  },
+  {
+    "question": "How often are 'Prime Minister's Questions' held in the parliament?",
+    "options": [
+      "Every day",
+      "Every week",
+      "Every two weeks",
+      "Once a month"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7c2a34a5"
+  },
+  {
+    "question": "How often are European parliamentary elections held?",
+    "options": [
+      "Every three years",
+      "Every four years",
+      "Every five years",
+      "Every six years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "7c2cb84e"
+  },
+  {
+    "question": "How often do PM's Questions take place in the parliament?",
+    "options": [
+      "Every Two Weeks",
+      "Every Week",
+      "Every Working Day",
+      "Every Month"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. One important opportunity to do this is at Prime Minister's Questions, which takes place every week while Parliament is sitting.",
+    "id": "7c3ab89c"
+  },
+  {
+    "question": "When you arrive at the polling station, the staff will ask for your name and address.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "When you arrive at the polling station, the staff will ask for your name and address.",
+    "id": "7c4118a9"
+  },
+  {
+    "question": "What battle is commemorated in the Bayeux Tapestry?",
+    "options": [
+      "The Battle of Waterloo",
+      "The Battle of Trafalgar",
+      "The Battle of Hastings",
+      "The Battle of Britain"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "7c4f6df1"
+  },
+  {
+    "question": "The Queen can only, in a famous phrase,",
+    "options": [
+      "Rule, govern, and reign",
+      "Advise, warn and encourage",
+      "Revise, warn, and observe",
+      "Encourage, observe and advise"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7c60efa3"
+  },
+  {
+    "question": "The Prime Minister cannot be changed until the next General election",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign.",
+    "id": "7c68ef44"
+  },
+  {
+    "question": "Charles II was interested in science. During his reign, the Royal Society was formed to promote ‘natural knowledge’.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles II was interested in science. During his reign, the Royal Society was formed to promote ‘natural knowledge’.",
+    "id": "7c68fc83"
+  },
+  {
+    "question": "What is the minimum legal age you can buy alcohol in the UK?",
+    "options": [
+      "20",
+      "16",
+      "18",
+      "19"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "You must be aged 18 or over to buy alcohol (people under 18 may be able to drink alcohol in pubs or restaurants if they are with someone over 18).",
+    "id": "7c6b0cc2"
+  },
+  {
+    "question": "No one has religious freedom in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7c803925"
+  },
+  {
+    "question": "The government is formed by",
+    "options": [
+      "The party with the second largest number of MPs in the House of Commons",
+      "The Party favoured by the Queen",
+      "The Party which won the largest number of vote",
+      "The party with the largest number of MPs in the House of Commons"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7c8ac624"
+  },
+  {
+    "question": "What is the period after the Norman Conquest up until 1485 called?",
+    "options": [
+      "The Middle Ages",
+      "The Stone age",
+      "The Bronze Age",
+      "The Iron Age"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The period after the Norman Conquest up until about 1485 is called the Middle Ages or the medieval period. It was a time of almost constant war.",
+    "id": "7c8e7422"
+  }
+]

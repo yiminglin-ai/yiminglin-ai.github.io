@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Civil Servants are accountable to ______",
+    "options": [
+      "Ministers",
+      "Members",
+      "Oppositions",
+      "The national party"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5da481a1"
+  },
+  {
+    "question": "You should respect someone's right in court. In return, you are offered the right to a fair trial.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You should always respect everyone rights in court. Vise versa everyone should respect your rights.",
+    "id": "5da4971a"
+  },
+  {
+    "question": "After the Second World War textile and engineering firms recruited workers from",
+    "options": [
+      "India",
+      "Pakistan",
+      "France",
+      "Canada"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "5da917fa"
+  },
+  {
+    "question": "The most serious cases in Scotland, such as murder, are heard at a ______ with a judge and jury",
+    "options": [
+      "Crown Court",
+      "Magistrates' Court",
+      "High Court"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5daec2fd"
+  },
+  {
+    "question": "You can volunteer with the police, and become a special constable or a lay representative",
+    "options": [
+      "Yes, this is true",
+      "No, you cannot become a constable"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5db0e538"
+  },
+  {
+    "question": "Which court deals with the most serious cases in Scotland?",
+    "options": [
+      "High Court",
+      "Crown Court",
+      "Sheriff Court",
+      "Justice of the Peace Court"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+    "id": "5db931d7"
+  },
+  {
+    "question": "Which of these TWO countries are Commonwealth Members?",
+    "options": [
+      "Germany",
+      "Namibia",
+      "USA",
+      "Cameroon"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Cameroon and Namibia are members of the Commonwealth",
+    "id": "5dbb3fcf"
+  },
+  {
+    "question": "Proceedings in Parliament",
+    "options": [
+      "cannot be reported on the internet",
+      "are broadcast on television",
+      "can only be reported in the newspaper"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5dc17130"
+  },
+  {
+    "question": "Northern Ireland and Wales each have their own Church of state",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "There is no established Church in Northern Ireland or Wales",
+    "answers": [
+      1
+    ],
+    "id": "5dc34f7f"
+  },
+  {
+    "question": "Forcing another person to marry is a criminal offence in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership. This is a criminal offence in the UK.",
+    "id": "5dc9d984"
+  },
+  {
+    "question": "In Northern Ireland some people speak Irish Gaelic",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Wales, many people speak Welsh – a completely different language from English – and it is taught in schools and universities. In Scotland, Gaelic (again, a different language) is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic.",
+    "id": "5dd48341"
+  },
+  {
+    "question": "Choose TWO examples of a civil law offence",
+    "options": [
+      "Unfair dismissal or discrimination in the workplace",
+      "Murder, racial crime",
+      "Theft and assault",
+      "Disputes between landlords and tenants"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Examples of civil laws are - Housing law: this includes disputes between landlords and tenants over issues such as repairs and eviction; Consumer rights: an example of this is a dispute about faulty goods or services; Employment law: these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace; Debt: people might be taken to court if they owe money to someone.",
+    "id": "5dda024f"
+  },
+  {
+    "question": "The Council of Europe has ______ member countries, including the UK",
+    "options": [
+      "32",
+      "37",
+      "42",
+      "47"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5de990d3"
+  },
+  {
+    "question": "When are local elections for councillors held?",
+    "options": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5e092a24"
+  },
+  {
+    "question": "The Queen's residence in 10 Downing Street?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5e1ca06e"
+  },
+  {
+    "question": "Judges can make decisions in disputes about contracts, property or employment rights or after an accident",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5e2e7303"
+  },
+  {
+    "question": "When were women given the right to vote at the age of 18?",
+    "options": [
+      "1969",
+      "1918",
+      "1928",
+      "1959"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "By 1918, the voting franchise was extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+    "id": "5e34585b"
+  },
+  {
+    "question": "As the Middle Class grew, the Reform Act of 1832 greatly increased the number of people with the right to vote.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "As the Middle Class grew, the Reform Act of 1832 greatly increased the number of people with the right to vote.",
+    "id": "5e366b09"
+  },
+  {
+    "question": "A National Insurance number on its own proves to an employer that you have the right to work in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5e388d51"
+  },
+  {
+    "question": "Who is Sir Chris Hoy?",
+    "options": [
+      "A Scottish runner",
+      "A Scottish rower",
+      "A Scottish tennis player",
+      "A Scottish cyclist"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Sir Chris Hoy (1976–) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+    "id": "5e3a9bc7"
+  },
+  {
+    "question": "You have to be at least 21 years old to stand for election as an MP",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties.",
+    "id": "5e41cb32"
+  },
+  {
+    "question": "Which TWO are members of Parliament (MPs) responsible for?",
+    "options": [
+      "Representing everyone in their constituency",
+      "Scrutinising and commenting on what the government is doing",
+      "Representing only those who voted for them",
+      "Supporting the government on all decisions and laws"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "MPs have a number of different responsibilities, including representing everyone in their constituency, and scrutinising and commenting on what the government is doing.",
+    "id": "5e4af23c"
+  },
+  {
+    "question": "Who elects Police and Crime Commissioners (PCCs)?",
+    "options": [
+      "The police",
+      "The Home Office",
+      "The public",
+      "Members of Parliament"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The public elect Police and Crime Commissioners (PCCs) in England and Wales. PCCs are responsible for the delivery of an efficient and effective police force.",
+    "id": "5e542920"
+  },
+  {
+    "question": "Which TWO are famous British fashion designers?",
+    "options": [
+      "Robert Adam",
+      "Isambard Kingdom Brunel",
+      "Alexander McQueen",
+      "Mary Quant"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer). Leading fashion designers of recent years include Mary Quant, Alexander McQueen and Vivienne Westwood.",
+    "id": "5e5509bb"
+  },
+  {
+    "question": "What sort of church is the Church of Scotland?",
+    "options": [
+      "Catholic",
+      "Baptist",
+      "Presbyterian",
+      "Methodist"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "5e5e9a55"
+  },
+  {
+    "question": "Which of these are two English Civil Wars?",
+    "options": [
+      "Waterloo and Hastings",
+      "Marston Moor and Waterloo",
+      "Marston Moor and Naseby",
+      "Waterloo and Naseby"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The king’s army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+    "id": "5e5ef618"
+  },
+  {
+    "question": "Where is the Royal Crescent is located?",
+    "options": [
+      "Portsmouth",
+      "London",
+      "Edinburgh",
+      "Bath"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the 18th century, simpler designs became popular. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America. He designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland. His ideas influenced architects in cities such as Bath, where the Royal Crescent was built.",
+    "id": "5e63509d"
+  },
+  {
+    "question": "______ law is used to settle disputes between individuals or groups",
+    "options": [
+      "criminal",
+      "civil",
+      "canon",
+      "common"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5e6764e9"
+  },
+  {
+    "question": "Roman Emperor ______ built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)",
+    "options": [
+      "Antoninus",
+      "Hadrian",
+      "Marcus Aurelius",
+      "Verus"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5e6fcff6"
+  },
+  {
+    "question": "There are ______ members on the UN Security Council",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5e7108a4"
+  },
+  {
+    "question": "For a legal advice you can contact:",
+    "options": [
+      "The Citizens Advice Bureau",
+      "Your local member of Parliament (MP)",
+      "A local councillor",
+      "A solicitor"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "5e7f6d53"
+  },
+  {
+    "question": "Wales has its own established church.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5e82c3e3"
+  },
+  {
+    "question": "Benefits of volunteering are:",
+    "options": [
+      "Meeting new people",
+      "Earning additional money",
+      "Making your community a better place",
+      "You are given a free bus pass to travel around the town"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "5e92fdd9"
+  },
+  {
+    "question": "In the UK, you have to be 21 years old to be able to vote in a general election.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5e94fe3f"
+  },
+  {
+    "question": "The Romans remained in Britain for 300 years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Romans remained in Britain for 400 years.",
+    "id": "5eaff829"
+  },
+  {
+    "question": "People celebrate April Fool's day more than Christmas",
+    "options": [
+      "Yes",
+      "No",
+      "It's the same"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5eb1ae0b"
+  },
+  {
+    "question": "Sir Francis Drake's ship the 'Golden Hind', was one of the first to sail right around/circumnavigate ______",
+    "options": [
+      "the Ireland",
+      "the United Kingdom",
+      "the Europe",
+      "the world"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5ebe49b0"
+  },
+  {
+    "question": "In Scotland, judges developed ‘common law’ by following previous decisions. It was reffered to as ‘unwritten’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In England, judges developed ‘common law’ by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were ‘codified’ (that is, written down).",
+    "id": "5ecfcafc"
+  },
+  {
+    "question": "When did women achieve voting equality with men?",
+    "options": [
+      "1935",
+      "1929",
+      "1928",
+      "1924"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "5ed6fc3a"
+  },
+  {
+    "question": "What was the more probable use for the Stonehenge?",
+    "options": [
+      "A special gathering place for seasonal ceremonies",
+      "A safe place for shelter",
+      "A hiding place from enemies",
+      "A fort for soldiers"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies",
+    "id": "5ed941e3"
+  },
+  {
+    "question": "What do the National Insurance Contributions fund?",
+    "options": [
+      "Schools and Education",
+      "The NHS and state pension",
+      "The NHS and Police",
+      "The Police, NHS and Education"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+    "id": "5ee19e27"
+  },
+  {
+    "question": "The decisions on government policies are made by",
+    "options": [
+      "The Prime Minister",
+      "The monarch",
+      "Cabinet",
+      "The judge",
+      "The Queen"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "5ee441c6"
+  },
+  {
+    "question": "The House of Lords is normally more ______ of the government than the House of Commons",
+    "options": [
+      "powerful",
+      "successful",
+      "independent"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "5f0faa55"
+  },
+  {
+    "question": "There has been a Welsh Assembly and a Scottish Parliament since 1999",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999",
+    "id": "5f14e2a7"
+  },
+  {
+    "question": "The Prime Minister can be changed if",
+    "options": [
+      "the queen orders",
+      "the MPs in the governing party decide to do so",
+      "he or she wishes to resign",
+      "the House of Commons decide to do so",
+      "his or her party loses a General Election",
+      "he or she do not answer the phone for 2 days"
+    ],
+    "answers": [
+      1,
+      2,
+      4
+    ],
+    "id": "5f1ebfdc"
+  },
+  {
+    "question": "Which armed force was used in the Battle of Britain?",
+    "options": [
+      "Army",
+      "Home Guards",
+      "Royal Navy",
+      "Royal Air Force"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane which were designed and built in Britain.",
+    "id": "5f27fba5"
+  },
+  {
+    "question": "How long does it take to give blood?",
+    "options": [
+      "About 10 mins",
+      "About 3 hours",
+      "About 1 hour",
+      "About 20 mins"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do.",
+    "id": "5f37d897"
+  },
+  {
+    "question": "Who sat in the House of Commons in the middle ages?",
+    "options": [
+      "Knights",
+      "The Nobility",
+      "Bishops",
+      "Great Landowners"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the middle ages, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons.",
+    "id": "5f4baf0d"
+  },
+  {
+    "question": "What did St Augustine and St Columba do during the Anglo-Saxon period?",
+    "options": [
+      "They invented new farming techniques. ",
+      "They were leaders of an uprising in Wales.",
+      "They were early Christian missionaries.",
+      "They were courageous warriors. "
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "St Augustine and St Columba were early Christian missionaries who came to Britain to preach about Christianity. St Columba founded a monastery on the Isle of Iona. St Augustine spread Christianity in the south and became the first archbishop of Canterbury.",
+    "id": "5f4dcec5"
+  },
+  {
+    "question": "Drugs such as heroin, cocaine, ecstasy, amphetamines and cannabis are",
+    "options": [
+      "Allowed for personal use",
+      "Some are legal",
+      "Always illegal",
+      "All are illegal, except cannabis"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "5f59c044"
+  }
+]

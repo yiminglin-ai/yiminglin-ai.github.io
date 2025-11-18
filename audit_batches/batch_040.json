@@ -1,0 +1,679 @@
+[
+  {
+    "question": "Which of the following wars took place between 1899 and 1902 in South Africa?",
+    "options": [
+      "The Hundred Years War",
+      "The Boer War",
+      "The First World War",
+      "The Crimean War"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "52eda536"
+  },
+  {
+    "question": "Everyone in the UK with a TV, computer or other medium which can be used for watching TV must have a ______",
+    "options": [
+      "television licence",
+      "copyright licence",
+      "driving licence",
+      "personal licence"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "52ef96fd"
+  },
+  {
+    "question": "The Queen is married to Prince Phillip",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is true",
+    "id": "52fa16e1"
+  },
+  {
+    "question": "Which TWO are English Civil War battles?",
+    "options": [
+      "Waterloo",
+      "Marston Moor",
+      "Hastings",
+      "Naseby"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "The Battles of Marston Moor and Naseby during the English Civil War were both won by the parliamentary armies.",
+    "id": "52fcaa39"
+  },
+  {
+    "question": "Where is the Big Ben located?",
+    "options": [
+      "Buckingham Palace",
+      "The Tower of London",
+      "Trafalgar Square",
+      "The Houses of the Parliament"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "531f6879"
+  },
+  {
+    "question": "The Scottish Parliament has 33 members",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation. The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament.",
+    "id": "5324ddb2"
+  },
+  {
+    "question": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the Former Republic of Yugoslavia. Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq.",
+    "id": "532d8d2f"
+  },
+  {
+    "question": "Nick Park created the 'Wallace and Gromit' film. What kind of film was it?",
+    "options": [
+      "Animated",
+      "Adventure",
+      "Detective",
+      "Romance"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Britain continues to be particularly strong in special effects and animation. One example is the work of Nick Park, who has won four Oscars for his animated films, including three for films featuring Wallace and Gromit.",
+    "id": "53387bdc"
+  },
+  {
+    "question": "The Labour and Liberal Democrat parties formed a coalition in 2010.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Conservative and Liberal Democrat parties formed a coalition in 2010.",
+    "id": "53393f51"
+  },
+  {
+    "question": "If you face problems with discrimination, you can get more information from the Citizens Advice Bureau",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5340bab8"
+  },
+  {
+    "question": "The Norman Conquest was the first  successful foreign invasion of England and led to many changes in government and social structures in England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Norman Conquest was the LAST successful foreign invasion of England and led to many changes in government and social structures in England.",
+    "id": "53555ba4"
+  },
+  {
+    "question": "How old do you have to be to buy a lottery ticket or a scratch card?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People under 16 are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
+    "id": "53560f09"
+  },
+  {
+    "question": "Which TWO are safe places to go and stay in for anyone facing domestic violence?",
+    "options": [
+      "Carehome",
+      "Shelter",
+      "Community Centre",
+      "Refuge"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or the Citizens Advice Bureau can explain the available options. In some areas there are safe places to go and stay in, called refuges or shelters.",
+    "id": "536b1b53"
+  },
+  {
+    "question": "During the WWII, the evacuation of more than 300,000 British and French soldiers from France gave rise to which phrase?",
+    "options": [
+      "the Dunkirk spirit",
+      "the Blitz",
+      "the British rescue",
+      "the Great escape"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase ‘the Dunkirk spirit’.",
+    "id": "536ff073"
+  },
+  {
+    "question": "How many people lost their lives in Northern Ireland in the decades after 1969?",
+    "options": [
+      "4000",
+      "3000",
+      "2000",
+      "1000"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 1970s were also a time of serious unrest in Northern Ireland. In 1972, the Northern Ireland Parliament was suspended and Northern Ireland was directly ruled by the UK government. Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland.",
+    "id": "5374b6e5"
+  },
+  {
+    "question": "Which TWO are famous British composers?",
+    "options": [
+      "Claude Debussy",
+      "Johann Sebastian Bach",
+      "Henry Purcell",
+      "Ralph Vaughan Williams"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Henry Purcell wrote church music, opera and other pieces, and developed a distinctive British style. Ralph Vaughan Williams was strongly influenced by traditional English folk music.",
+    "id": "5379b3e4"
+  },
+  {
+    "question": "There will be a fresh election, called a by-election, in his or her constituency if an MP",
+    "options": [
+      "gets sick",
+      "dies",
+      "goes abroad",
+      "resigns"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "538c9298"
+  },
+  {
+    "question": "Which of these gardens is located in Wales?",
+    "options": [
+      "Bodnant Garden",
+      "Hidcote",
+      "Mount Stewart",
+      "Sissinghurst"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bodnant Garden is in Wales.",
+    "id": "5391e4a7"
+  },
+  {
+    "question": "Who developed a radar?",
+    "options": [
+      "Sir Robert Watson-Watt",
+      "Patrick Steptoe",
+      "James Goodfellow",
+      "Mary Peters"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892–1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+    "id": "539e18fd"
+  },
+  {
+    "question": "Why is 1928 an important year in women's voting history?",
+    "options": [
+      "Women were given the right to vote at the age of 18, the same as men.",
+      "Women were given the right to vote at the age of 25.",
+      "Women were given the right to vote at the age of 30.",
+      "Women were given the right to vote at the age of 21, the same as men."
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "53b9aee0"
+  },
+  {
+    "question": "If your vehicle is over ______ year(s) old, you must take it for a Ministry of Transport (MOT) test every year",
+    "options": [
+      "one",
+      "two",
+      "three",
+      "five"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "53bfd00f"
+  },
+  {
+    "question": "What is the correct order of the National Days?",
+    "options": [
+      "St George's Day, St David's Day, St Patrick's Day, St Andrew's Day",
+      "St David's Day, St Patrick's Day, St George's Day, St Andrew's Day",
+      "St Patrick's Day, St David's Day, St Andrew's Day, St George's Day",
+      "St David's Day, St Patrick's Day, St Andrew's Day, St George's Day"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "53c5db03"
+  },
+  {
+    "question": "The Boer War took place in which country of the British Empire?",
+    "options": [
+      "Scotland",
+      "Bangladesh",
+      "South Africa",
+      "Pakistan"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers.",
+    "id": "53cf9231"
+  },
+  {
+    "question": "Important 20th-century inventors were:",
+    "options": [
+      "Anders Celsius",
+      "George Stephenson",
+      "Tim Berners-Lee invented the World Wide Web (1955-)",
+      "Isambard Kingdom Brunel",
+      "Alan Turing invented an early mathematical device that led to the development of the computer (1912-1954)",
+      "Daniel Gabriel Fahrenheit"
+    ],
+    "answers": [
+      2,
+      4
+    ],
+    "id": "53cfb0c0"
+  },
+  {
+    "question": "Who did the English defeat in 1588?",
+    "options": [
+      "The Normands",
+      "The Romans",
+      "The Spanish Armada",
+      "The Saxons"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "53dfaf49"
+  },
+  {
+    "question": "Christian religious festivals celebrated in the UK are:",
+    "options": [
+      "New Year",
+      "Halloween",
+      "Easter",
+      "Christmas"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "53e2e100"
+  },
+  {
+    "question": "In Scotland, judges developed 'common law' by following previous decisions. It was referred to as 'unwritten'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In England, judges developed 'common law' by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were 'codified' (that is, written down).",
+    "id": "54098aee"
+  },
+  {
+    "question": "When did the UK join the European Economic Community?",
+    "options": [
+      "1947",
+      "1962",
+      "1969",
+      "1973"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "540d5193"
+  },
+  {
+    "question": "What Christmas dish is made from suet, dried fruit and spices?",
+    "options": [
+      "Yorkshire Pudding",
+      "Dumplings",
+      "Christmas Pudding"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "541dc20d"
+  },
+  {
+    "question": "Which TWO are famous British authors?",
+    "options": [
+      "Thomas Hardy",
+      "Graham Greene",
+      "Mary Quant",
+      "Henry Moore"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Thomas Hardy was an author and poet, whose novels include Far from the Madding Crowd and Jude the Obscure. Graham Greene wrote many novels including The Heart of the Matter, The Honorary Consul, Brighton Rock and Our Man in Havana.",
+    "id": "54220e6c"
+  },
+  {
+    "question": "MPs are elected in a General Election held at least every ______ year(s)",
+    "options": [
+      "one",
+      "three",
+      "four",
+      "five"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "542f36a0"
+  },
+  {
+    "question": "When William of Orange re-conquered Ireland (in 1690) he took the title 'William the Conqueror'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
+    "id": "543b1325"
+  },
+  {
+    "question": "Which of the following areas does civil law cover?",
+    "options": [
+      "Debt",
+      "Violent crime",
+      "Burglary",
+      "Drunk and disorderly behaviour"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Getting into debt is a civil matter, dealt with by a County Court or the small claims procedure.",
+    "id": "54646d73"
+  },
+  {
+    "question": "Who is the heir to the throne of Britain?",
+    "options": [
+      "The Prince of Wales",
+      "The Prince of Cambridge",
+      "The Prince of Edinburgh",
+      "The Duke of York"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "54693c6f"
+  },
+  {
+    "question": "Which TWO of the following groups of adults are eligible to vote in all UK elections?",
+    "options": [
+      "UK-born and naturalised adult citizens",
+      "Only those born in the UK",
+      "Citizens of the Commonwealth who are resident in the UK",
+      "Citizens of the USA"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "UK-born and naturalised adult citizens, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all UK elections. (Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.)",
+    "id": "546cc865"
+  },
+  {
+    "question": "Which of the following is not a valid UK coin?",
+    "options": [
+      "1p",
+      "5p",
+      "25p",
+      "£1"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "547d408f"
+  },
+  {
+    "question": "Which of the following countries helped Britain to develop the Concorde?",
+    "options": [
+      "Germany",
+      "Norway",
+      "Italy",
+      "France"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "5483ec84"
+  },
+  {
+    "question": "Which novel written by JRR Tolkien was voted the country's best-loved novel in 2003?",
+    "options": [
+      "Oliver Twist",
+      "James Bond",
+      "Pride and Prejudice",
+      "The Lord of the Rings"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "5495692e"
+  },
+  {
+    "question": "When Queen Anne died, a German, George of Hanover, became the next king of England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne's nearest Protestant relative.",
+    "id": "54afd1be"
+  },
+  {
+    "question": "The Roman Catholics in ______ were afraid of the growing power of the Puritans",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Ireland"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "54bf0e9b"
+  },
+  {
+    "question": "The devolved Scottish government rules Scotland from Edinburgh.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Scottish Parliament sits in Edinburgh, the capital city of Scotland.",
+    "id": "54c9b37a"
+  },
+  {
+    "question": "When is St Andrew's Day?",
+    "options": [
+      "1st of March",
+      "23rd of April",
+      "17th of March",
+      "30th of November"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "St Andrew's Day is on the 30th of November.",
+    "id": "54d3adc4"
+  },
+  {
+    "question": "Who was William Caxton?",
+    "options": [
+      "A poet who wrote about a group of people going to Canterbury on a pilgrimage",
+      "The first person in England to print books using a printing press",
+      "The first person to sail singlehanded around the world",
+      "The inventor of the television"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "54d8ac34"
+  },
+  {
+    "question": "Who sat in the House of Lords in the middle ages?",
+    "options": [
+      "Every Landowner",
+      "Wealthy People",
+      "Knights",
+      "The nobility and great landowners"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The nobility, great landowners and bishops sat in the House of Lords.",
+    "id": "550770cd"
+  },
+  {
+    "question": "When did the first professional football clubs form?",
+    "options": [
+      "20th century",
+      "17th century",
+      "18th century",
+      "19th century"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Football is the UK’s most popular sport. It has a long history in the UK and the first professional football clubs were formed in the late 19th century.",
+    "id": "550e5245"
+  },
+  {
+    "question": "When is St David’s day?",
+    "options": [
+      "1st of March",
+      "17th of March",
+      "30th of November",
+      "23rd of April"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "St David’s day is on the 1st of March. He is a Patron St of Wales.",
+    "id": "55108785"
+  },
+  {
+    "question": "At the turn of the 19th century, Britain was NOT a democracy as we know it today",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5526ed41"
+  },
+  {
+    "question": "Where was Shakespeare born?",
+    "options": [
+      "Newcastle-upon-Tyne",
+      "Berwick-upon-Tweed",
+      "Stratford-upon-Avon",
+      "Norwich"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet.",
+    "id": "55296701"
+  },
+  {
+    "question": "Which TWO of the following do pressure and lobby groups do?",
+    "options": [
+      "Organise violent protests",
+      "Campaign to influence government policy",
+      "Assist MPs in their constituency work",
+      "Represent the views of British businesses"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Pressure groups and lobby groups play an important part in the UK political process. Groups such as the Confederation of British Industry (CBI – which represents British business) and Greenpeace (which is concerned about environmental issues) lobby politicians to get their views across.",
+    "id": "5537ad54"
+  },
+  {
+    "question": "Several of the cathedrals such as York Minster had windows of stained glass, telling stories about",
+    "options": [
+      "The Bible",
+      "The Vikings",
+      "The Romans",
+      "Christian saints"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "553ea1bc"
+  }
+]

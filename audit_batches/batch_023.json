@@ -1,0 +1,669 @@
+[
+  {
+    "question": "Where did the Vikings come from?",
+    "options": [
+      "Austria and Germany",
+      "Norway and Sweden",
+      "Spain and France",
+      "Norway and Denmark"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves.",
+    "id": "2f014a22"
+  },
+  {
+    "question": "Where was one of the Anglo Saxon kings buried with treasure and armour?",
+    "options": [
+      "Newcastle",
+      "Suffolk",
+      "London",
+      "Kent"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk.  This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth. Scotland and Wales remained free of Anglo Saxon rule.",
+    "id": "2f16b9b3"
+  },
+  {
+    "question": "You are expected to respect the rights of others to have their own opinions in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2f1b7a02"
+  },
+  {
+    "question": "How often are elections for the European Parliament held?",
+    "options": [
+      "Annually",
+      "Every two years",
+      "Every five years",
+      "Every 10 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Elections for the European Parliament are held every five years. Elected members are called members of the European Parliament (MEPs).",
+    "id": "2f24d64d"
+  },
+  {
+    "question": "What was an important English export in the Middle Ages?",
+    "options": [
+      "Wool",
+      "Potatoes",
+      "Glass",
+      "Stone"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "English wool became a very important export in the middle ages. People came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland.",
+    "id": "2f387baa"
+  },
+  {
+    "question": "What does an aged population have an impact on?",
+    "options": [
+      "The cost of Insurance",
+      "The price of food",
+      "The cost of Bus Fares",
+      "The cost of Health Care"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+    "id": "2f3a0c65"
+  },
+  {
+    "question": "The Proms is a time when Christians take time to reflect and prepare for Easter.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues.",
+    "id": "2f409ea6"
+  },
+  {
+    "question": "During Slave trade, where did slaves primarily come from?",
+    "options": [
+      "West Africa",
+      "South Africa",
+      "North Africa",
+      "East Africa"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Slaves came primarily from West Africa. Travelling on British ships in horrible conditions, they were taken to America and the Caribbean, where they were made to work on tobacco and sugar plantations.",
+    "id": "2f413d16"
+  },
+  {
+    "question": "What is the capital of Wales?",
+    "options": [
+      "Swansea",
+      "Belfast",
+      "Cardiff",
+      "Edinburgh"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Cardiff is the capital city of Wales",
+    "id": "2f53c2a1"
+  },
+  {
+    "question": "Which of these people are famous UK sports stars?",
+    "options": [
+      "Sir Chris Hoy",
+      "Jane Austen",
+      "Lucien Freud",
+      "Dame Kelly Holmes"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "2f5e51ab"
+  },
+  {
+    "question": "How old do you have to be to stand for election as an MP?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties",
+    "id": "2f7e4628"
+  },
+  {
+    "question": "How old do you have to be to participate in the National Lottery?",
+    "options": [
+      "15",
+      "17",
+      "16",
+      "18"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 16 are not allowed to participate in the National Lottery.",
+    "id": "2f80af07"
+  },
+  {
+    "question": "Where does the UK government sit?",
+    "options": [
+      "Senedd",
+      "Holyrood",
+      "Stormont",
+      "Westminster"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK is governed by the parliament sitting in Westminster.",
+    "id": "2f8596e6"
+  },
+  {
+    "question": "During the 18th century, radical new ideas about politics, philosophy and science were developed, called 'the Enlightenment'.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The period of the Enlightenment saw many new ideas emerge, including the principle that everyone should have the right to their own political and religious beliefs and that the state should not try to dictate to them.",
+    "id": "2fafa74d"
+  },
+  {
+    "question": "Which developments were features of the Industrial Revolution?",
+    "options": [
+      "Medical advances",
+      "Machinery",
+      "Steam power",
+      "Changes in the law"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "2fbead7e"
+  },
+  {
+    "question": "Which poem was written by Lord Byron?",
+    "options": [
+      "The Tyger",
+      "The Daffodils",
+      "She Walks in Beauty",
+      "Anthem for Doomed Youth"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Lord Byron, 1788--1824 She Walks in Beauty",
+    "id": "2fbeaec9"
+  },
+  {
+    "question": "Only Scotland and Northern Ireland have their patron saint’s day as an official holiday",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Only Scotland and Northern Ireland have their patron saint’s day as an official holiday",
+    "id": "2ffbd069"
+  },
+  {
+    "question": "Which TWO kings believed in the 'Divine Right of Kings'?",
+    "options": [
+      "James I",
+      "Henry VIII",
+      "Charles I",
+      "William of Orange"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "James I and his son Charles I were less skilled politically. Both believed in the 'Divine Right of Kings': the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament.",
+    "id": "2ffd1854"
+  },
+  {
+    "question": "Who can attend hearings in a Youth Court?",
+    "options": [
+      "Specially trained magistrates",
+      "Members of the public",
+      "Specially trained police officers",
+      "Social workers"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go to the Crown Court. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+    "id": "3004bd68"
+  },
+  {
+    "question": "In 1588 the English defeated a",
+    "options": [
+      "German invasion fleet of bomber planes",
+      "Spanish invasion fleet of ships"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "300785f4"
+  },
+  {
+    "question": "Which event occurs each year on the third Sunday in June?",
+    "options": [
+      "Halloween",
+      "Father's Day",
+      "Boxing Day",
+      "Remembrance Day"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Father's Day occurs each year on the third Sunday of June. Children give cards or gifts to their fathers.",
+    "id": "300c8c57"
+  },
+  {
+    "question": "Which of the following is a responsibility of the Home Secretary?",
+    "options": [
+      "Economy",
+      "Crime",
+      "Education",
+      "Defence"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "300dbc92"
+  },
+  {
+    "question": "The government, public bodies and the courts must follow the principles of the European Convention",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "300e456d"
+  },
+  {
+    "question": "Which of these is a charity working with animals?",
+    "options": [
+      "NSPCC",
+      "Crisis and Shelter",
+      "PDSA",
+      "Age UK"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "People’s Dispensary for Sick Animals (PDSA)  is the charity that works with animals",
+    "id": "301e8bbb"
+  },
+  {
+    "question": "Which TWO are British Overseas territories?",
+    "options": [
+      "The Falkland Islands",
+      "St Helena",
+      "Ireland",
+      "Hawaii"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "301f23b3"
+  },
+  {
+    "question": "Which TWO are 20th-century British discoveries or inventions?",
+    "options": [
+      "Cloning a mammal",
+      "Cash machines (ATMs)",
+      "Mobile phones",
+      "Walkmans"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "In 1996 Ian Wilmot and Keith Campbell led a team that first succeeded in cloning a mammal. In the 1960s James Goodfellow invented the cash machine.",
+    "id": "302ce590"
+  },
+  {
+    "question": "EastEnders and Coronation Street are",
+    "options": [
+      "popular television programmes",
+      "historical landmarks"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "303078ca"
+  },
+  {
+    "question": "All young people in the UK are sent a National Insurance number just before their",
+    "options": [
+      "13th birthday",
+      "14th birthday",
+      "16th birthday",
+      "18th birthday"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "30342689"
+  },
+  {
+    "question": "When was the first public film shown in the UK?",
+    "options": [
+      "1899",
+      "1896",
+      "1902",
+      "1904"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular. From the beginning, film makers became famous for clever special effects and this continues to be an area of British expertise.",
+    "id": "3034f3eb"
+  },
+  {
+    "question": "The daffodil is the national flower of Wales.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The daffodil is the national flower of Wales, and is worn on St David's Day.",
+    "id": "3036f13e"
+  },
+  {
+    "question": "In which TWO countries were PCCs elected in?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities. PCCs set local police priorities and the local policing budget. They also appoint the Chief Constable.",
+    "id": "3040491a"
+  },
+  {
+    "question": "Who was Thomas Gainsborough?",
+    "options": [
+      "Painted pictures on religious or literary themes in bright colours",
+      "Was a portrait painter who often painted people in country or garden scenery",
+      "Is best known for his large bronze abstract sculptures",
+      "Was a landscape painter in modern style"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Thomas Gainsborough (1727–88) was a portrait painter who often painted people in country or garden scenery.",
+    "id": "30409b4f"
+  },
+  {
+    "question": "The Bill of Rights of 1689 limited the powers of ______",
+    "options": [
+      "Judges",
+      "The king",
+      "The Church",
+      "Parliament"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "30650174"
+  },
+  {
+    "question": "Why is Henry VIII an important English monarch?",
+    "options": [
+      "He broke from the Church of Rome.",
+      "He established the RAF.",
+      "He invaded Sweden.",
+      "He re-established the Catholic Church in England."
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Henry VIII broke from the Catholic Church of Rome when it refused him a divorce. He established his own church that became the Church of England.",
+    "id": "30794481"
+  },
+  {
+    "question": "In the middle of the 19th century the potato crop failed, and Ireland suffered a famine",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the middle of the 19th century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation. Another million and a half left Ireland.",
+    "id": "307c24b8"
+  },
+  {
+    "question": "The Northern Ireland Assembly has powers to decide on matters such as education, agriculture, environment, health, and social services",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3084064b"
+  },
+  {
+    "question": "When did the development of a free press happen?",
+    "options": [
+      "1832",
+      "1695",
+      "1755",
+      "1805"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+    "id": "308be518"
+  },
+  {
+    "question": "In the Citizenship Survey, 21% of people said that they had no religion.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the Citizenship Survey, 21% of people said that they had no religion.",
+    "id": "30935ded"
+  },
+  {
+    "question": "In the north of ______, land was owned by members of the 'clans' (prominent families)",
+    "options": [
+      "England",
+      "Scotland",
+      "Ireland",
+      "Wales"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "3095684e"
+  },
+  {
+    "question": "England has ______ flower associated with it and sometimes worn on national saints' day",
+    "options": [
+      "the rose",
+      "the thistle",
+      "the daffodil",
+      "the shamrock"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "30a6d9b0"
+  },
+  {
+    "question": "Who won gold medals for ice dancing at the Olympic Games in 1984?",
+    "options": [
+      "Bobby Moore and Dame Kelly Holmes",
+      "Peggy Fleming and Sasha Colin",
+      "Tessa Virtue and Scott Moir",
+      "Jayne Torvill and Christopher Dean"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Jayne Torvill (1957–) and Christopher Dean (1958–) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.",
+    "id": "30a81158"
+  },
+  {
+    "question": "What is the name of the UK currency?",
+    "options": [
+      "Dollar",
+      "Euro",
+      "Pound sterling",
+      "Yen"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The currency in the UK is the pound sterling. There are 100 pence in a pound.",
+    "id": "30bdfcba"
+  },
+  {
+    "question": "Pantomimes are plays based on fairy stories",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "30be4a76"
+  },
+  {
+    "question": "What is the minimum age to drive a car or a motorcycle in the UK?",
+    "options": [
+      "17",
+      "16",
+      "18",
+      "21"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the UK, you must be at least 17 years old to drive a car or motorcycle and you must have a driving licence to drive on public roads.",
+    "id": "30ca7c55"
+  },
+  {
+    "question": "From 1945 to 1950 the major welfare changes introduced were:",
+    "options": [
+      "State retirement pension",
+      "National Health Service (NHS)",
+      "A social security system for all",
+      "Employment exchanges"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "30d43d4c"
+  },
+  {
+    "question": "Good citizens are an asset to the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "30e535d1"
+  },
+  {
+    "question": "How many years as queen did Queen Elizabeth II celebrate at her jubilee in 2012?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "30eb44ca"
+  },
+  {
+    "question": "What were the names of the TWO main groups in Parliament in the early 18th century?",
+    "options": [
+      "Whigs",
+      "Labour",
+      "Nationalists",
+      "Tories"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "From 1689 onwards there were two main groups in Parliament, known as the Whigs and the Tories.",
+    "id": "30f50353"
+  },
+  {
+    "question": "Isaac Newton is a famous musician from the 18th century.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Isaac Newton was a famous scientist who developed our understanding of gravity.",
+    "id": "30f8591f"
+  },
+  {
+    "question": "What term arose after the evacuation of men from the beaches of Dunkirk?",
+    "options": [
+      "Dunkirk luck",
+      "Dunkirk spirit",
+      "Dunkirk attitude",
+      "Dunkirk faith"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "As France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+    "id": "30feb569"
+  }
+]

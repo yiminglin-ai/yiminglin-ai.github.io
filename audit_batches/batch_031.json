@@ -1,0 +1,667 @@
+[
+  {
+    "question": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+    "options": [
+      "Netherlands",
+      "Falkland Islands",
+      "Gibraltar",
+      "South Africa"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "40f52148"
+  },
+  {
+    "question": "Which TWO of the following would you contact for legal advice?",
+    "options": [
+      "A solicitor",
+      "A local councillor",
+      "The Citizens Advice Bureau",
+      "Your local member of Parliament (MP)"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Solicitors are trained lawyers who give advice on legal matters. The Citizens Advice Bureau (CAB) can provide contact details of solicitors and the areas of law they specialise in.",
+    "id": "40fd8a0e"
+  },
+  {
+    "question": "Hadrian’s Wall is a popular UNESCO World Heritage Site",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Parts of Hadrian’s Wall, including the forts of Housesteads and Vindolanda, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Education, Scientific and Cultural Organization) World Heritage Site.",
+    "id": "41132385"
+  },
+  {
+    "question": "The leader of the Opposition appoints senior opposition MPs to be what?",
+    "options": [
+      "Home Secretary",
+      "Local Mayors",
+      "Shadow Ministers",
+      "Chancellor of the Exchequer"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The leader of the Opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+    "id": "41235519"
+  },
+  {
+    "question": "Which is the most popular sport in the UK?",
+    "options": [
+      "Football",
+      "Rugby",
+      "Golf",
+      "Tennis"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Football is the UK's most popular sport. It has a long history in the UK and the first professional football clubs were formed in the late 19th century.",
+    "id": "41256c0b"
+  },
+  {
+    "question": "Universities, housing associations, museums and arts councils may advertise for people to serve as volunteers in their governing bodies",
+    "options": [
+      "Yes, this is correct",
+      "No, but they can advertise for paid jobs"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "412e5e00"
+  },
+  {
+    "question": "Which TWO people are famous UK sports stars?",
+    "options": [
+      "Sir Chris Hoy",
+      "Dame Kelly Holmes",
+      "Lucien Freud",
+      "Jane Austen"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Sir Chris Hoy is a Scottish cyclist who has won six gold and one silver Olympic medals. Dame Kelly Holmes is a runner who has won two Olympic gold medals.",
+    "id": "41350e27"
+  },
+  {
+    "question": "What happens when members of Parliament (MPs) hold surgeries?",
+    "options": [
+      "They meet local councillors to discuss local issues.",
+      "Members of the public can meet their MP to discuss issues.",
+      "They discuss local health issues with doctors.",
+      "They invite members of the press along to talk over national issues."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "MPs hold regular 'surgeries', where constituents can go in person to talk about issues that are of concern to them.",
+    "id": "41372208"
+  },
+  {
+    "question": "Which TWO are notable British artists?",
+    "options": [
+      "Joseph Turner",
+      "John Constable",
+      "Rembrandt Peale",
+      "Matthew Harris Jouett"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Joseph Turner (1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting. John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk, Essex border in the east of England.",
+    "id": "414f4128"
+  },
+  {
+    "question": "In which country was Charles II residing before he was invited to England by the Parliament?",
+    "options": [
+      "Netherlands",
+      "Germany",
+      "Ireland",
+      "France"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland.",
+    "id": "4153a5b0"
+  },
+  {
+    "question": "How many members does a jury in England, Wales and Northern Ireland have?",
+    "options": [
+      "15",
+      "14",
+      "13",
+      "12"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+    "id": "415ba20d"
+  },
+  {
+    "question": "During the reign of Charles II parts of London were destroyed. What was the cause?",
+    "options": [
+      "Fire",
+      "Flood",
+      "Earthquake",
+      "War"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A great fire destroyed much of London, including many churches and St Paul's Cathedral.",
+    "id": "41608432"
+  },
+  {
+    "question": "During Queen Elizabeth I's reign, English settlers began to colonise",
+    "options": [
+      "the southern coast of Africa",
+      "the western coast of Asia",
+      "the eastern coast of North America",
+      "Australia"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4161e3a5"
+  },
+  {
+    "question": "Clans lost a lot of their power and influence after which event?",
+    "options": [
+      "The Battle of Culloden",
+      "The Battle of Trafalgar",
+      "The Battle of Aggincourt",
+      "The Crimean War"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The clans lost a lot of their power and influence after the Battle of Culloden (1746). Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
+    "id": "41680b94"
+  },
+  {
+    "question": "In 1913, the British government promised 'Home Rule' for Ireland, why was this postponed?",
+    "options": [
+      "The English people complained",
+      "It was opposed by Catholics",
+      "The Scottish people also wanted to self-govern",
+      "The outbreak of World War I"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1913, the British government promised 'Home Rule' for Ireland. It was opposed by the Protestants in the north of Ireland, who threatened to resist Home Rule by force. The outbreak of the First World War led the British government to postpone any changes in Ireland. Irish Nationalists were not willing to wait and in 1916 there was an uprising (the Easter Rising) against the British in Dublin. A guerilla war against the British army and the police in Ireland followed. In 1921 a peace treaty was signed and in 1922 Ireland became two countries.",
+    "id": "416a26f3"
+  },
+  {
+    "question": "What is Richard Arkwright remembered for?",
+    "options": [
+      "Improving steam power",
+      "Cutting hair",
+      "Creating a carding machine",
+      "Efficiently running factories"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Born in 1732, Arkwright originally trained and worked as a barber. He was able to dye hair and make wigs. When wigs became less popular, he started to work in textiles. He improved the original carding machine. Arkwright is particularly remembered for the efficient and profitable way that he ran his factories.",
+    "id": "417b3c25"
+  },
+  {
+    "question": "Early members of the Royal Society were",
+    "options": [
+      "Sir Edmund Halley",
+      "Sir William Shakespeare",
+      "Sir Isaac Newton",
+      "Sir Geoffrey Chaucer"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "4180760e"
+  },
+  {
+    "question": "How many member countries are in the European Union?",
+    "options": [
+      "15",
+      "17",
+      "20",
+      "27"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "41831479"
+  },
+  {
+    "question": "Ealing Studios has a claim to being the ______ continuously working film studio facility in the world",
+    "options": [
+      "oldest",
+      "newest",
+      "best"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "418411a3"
+  },
+  {
+    "question": "England's largest national park is The Lake District",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "418fc725"
+  },
+  {
+    "question": "In the Iron Age most people were ______",
+    "options": [
+      "shooters",
+      "farmers",
+      "craft workers",
+      "servants",
+      "warriors",
+      "shopkeepers"
+    ],
+    "answers": [
+      1,
+      2,
+      4
+    ],
+    "id": "4196863e"
+  },
+  {
+    "question": "What does Eid al-Fitr celebrate?",
+    "options": [
+      "The stuggle for religious freedom",
+      "The founding of the Muslim community",
+      "That the prophet Ibrahim was willing to sacrifice his son when God ordered him to",
+      "The end of Ramadan"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast. The date when it takes place changes every year. Muslims attend special services and meals.",
+    "id": "419a686b"
+  },
+  {
+    "question": "What percentage of the population has a parent or a grandparent born outside of the UK due to post-war immigration?",
+    "options": [
+      "14%",
+      "16%",
+      "12%",
+      "10%"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.",
+    "id": "41a23b3d"
+  },
+  {
+    "question": "Anyone who is on the electoral register and is aged 18-75 can be asked to serve on a jury",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+    "id": "41a28046"
+  },
+  {
+    "question": "During the 19th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’",
+    "id": "41c191a0"
+  },
+  {
+    "question": "If you are a Commonwealth citizen living in the UK you can vote in all public elections.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections.",
+    "id": "41c29fcc"
+  },
+  {
+    "question": "Which flower is associated with Northern Ireland?",
+    "options": [
+      "A daffodil",
+      "A shamrock",
+      "A thistle",
+      "A rose"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A shamrock is associated with Northern Ireland. A rose is associated with England, a thistle with Scotland and a daffodil with Wales.",
+    "id": "41c85bea"
+  },
+  {
+    "question": "People came to England after 1400 from abroad to trade and also to work, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "41d1386f"
+  },
+  {
+    "question": "Arranged marriages, where both parties agree to the marriage, are not acceptable in the UK",
+    "options": [
+      "Yes, it's correct",
+      "No, it is acceptable"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "41d15a70"
+  },
+  {
+    "question": "Which of the following sporting events was hosted in London in 2012?",
+    "options": [
+      "the Commonwealth Games",
+      "the Paralympic Games",
+      "the Cricket World Cup",
+      "the European Football Championship"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "41e94d0b"
+  },
+  {
+    "question": "'The Enlightenment' is known as",
+    "options": [
+      "New ideas about politics, philosophy and science that were developed in the 18th century",
+      "The abolition of slavery throughout the British Empire in the 19th century",
+      "New laws introduced in the 18th century to protect workers",
+      "The Industrial Revolution in the 18th century"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "41eec776"
+  },
+  {
+    "question": "In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.",
+    "id": "41f2d4c9"
+  },
+  {
+    "question": "After Cromwell defeated Charles II at Worcester, where did Charles II hide?",
+    "options": [
+      "In a house",
+      "In a lake",
+      "In a field",
+      "In an oak tree"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Scots had not agreed to the execution of Charles I and declared his son Charles II to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+    "id": "41f75edf"
+  },
+  {
+    "question": "Which of these TWO lines from Shakespeare's plays and poems are often still quoted?",
+    "options": [
+      "The world is your oyster",
+      "To be or not to be",
+      "The darling buds of May",
+      "A rose is beautiful"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Lines from Shakespeare's plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18 'Shall I Compare Thee To a Summer's Day).",
+    "id": "41f900f5"
+  },
+  {
+    "question": "NSPCC is a charity for which of the following?",
+    "options": [
+      "Old people",
+      "Children",
+      "Animals",
+      "Environment"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Children - the National Society for the Prevention of Cruelty to Children (NSPCC); The homeless - Crisis and Shelter; Medical research charities - Cancer Research UK; Environmental charities- the National Trust and Friends of the Earth; Animals - People's Dispensary for Sick Animals (PDSA).",
+    "id": "420ab4c7"
+  },
+  {
+    "question": "The court systems in England, Wales, Scotland and Northern Ireland are identical.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are some differences between the systems of courts in different parts of the UK.",
+    "id": "420bcd89"
+  },
+  {
+    "question": "What time do people hold a two minute silence on Remembrance Day?",
+    "options": [
+      "9am",
+      "10am",
+      "11am",
+      "12am"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4217f793"
+  },
+  {
+    "question": "The people of which age made the first coins to be minted in Britain?",
+    "options": [
+      "Bronze Age",
+      "Gold Age",
+      "Stone Age",
+      "Iron Age"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The people of the Iron Age had a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings. This marks the beginnings of British history.",
+    "id": "4222ce13"
+  },
+  {
+    "question": "What is another name for the Church of England?",
+    "options": [
+      "The Catholic Church",
+      "The UK Church",
+      "The English",
+      "The Anglican Church"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "422fe89d"
+  },
+  {
+    "question": "Which country's national flower is a thistle?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A thistle is a national flower of Scotland.",
+    "id": "42417aad"
+  },
+  {
+    "question": "When is the New Year celebrated in the United Kingdom?",
+    "options": [
+      "25th of December",
+      "26th of December",
+      "1st of February",
+      "1st of January"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "424e7ec3"
+  },
+  {
+    "question": "James I and his son Charles I believed in the 'Divine Right of Kings', the idea that the king was directly appointed to rule by ______",
+    "options": [
+      "the Queen",
+      "the Prime Minister",
+      "the Church",
+      "God"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "425a4933"
+  },
+  {
+    "question": "Most people live in the countryside in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Most people in the UK live in towns and cities, but much of Britain is still countryside.",
+    "id": "425a8b2a"
+  },
+  {
+    "question": "Mary Stuart (also known as 'Mary, Queen of Scots') fled to England. She was suspected of trying to take over the throne and was kept a prisoner for 20 years",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true.",
+    "id": "42623155"
+  },
+  {
+    "question": "Dunkirk is associated with which TWO events?",
+    "options": [
+      "Landings on D-Day",
+      "The fall of Singapore",
+      "The rescue of 300,000 men",
+      "Small boats coming to the rescue"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The Dunkirk spirit' relates to the rescue of over 300,000 men from the beaches of Dunkirk in 1940. Many small boats, manned by volunteers, helped in the rescue.",
+    "id": "4262e00c"
+  },
+  {
+    "question": "Why did Henry VIII establish the church of England?",
+    "options": [
+      "To celebrate his wedding with Anne of Cleves",
+      "To have control over religious people",
+      "To establish a unique religion in England",
+      "To divorce his first wife, Catherine of Aragon"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "42676e75"
+  },
+  {
+    "question": "Aberdeen and Dundee are cities in Northern Ireland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Aberdeen and Dundee are cities in Scotland",
+    "answers": [
+      1
+    ],
+    "id": "4267fc59"
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "options": [
+      "Life peers are appointed by the Prime Minister on the advice of the monarchy",
+      "Life peers are appointed by the monarchy on the advice of the Prime Minister"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.",
+    "id": "4287ef90"
+  },
+  {
+    "question": "Where were the MacDonalds of Glencoe originally from?",
+    "options": [
+      "Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "All Scottish clans were required formally to accept William as king by taking an oath. The MacDonalds of Glencoe were late in taking the oath and were all killed. The memory of this massacre meant some Scots distrusted the new government.",
+    "id": "4289aa27"
+  },
+  {
+    "question": "How old must you be to drive a motor vehicle in the UK?",
+    "options": [
+      "At least 18",
+      "At least 19",
+      "At least 20",
+      "At least 17"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "42a927cb"
+  }
+]

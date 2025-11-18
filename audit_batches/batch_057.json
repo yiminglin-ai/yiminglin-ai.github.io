@@ -1,0 +1,678 @@
+[
+  {
+    "question": "Which two houses form the UK Parliament?",
+    "options": [
+      "The House of Lords",
+      "House of Members",
+      "House of Commons",
+      "House of Fraser"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "",
+    "id": "759ee740"
+  },
+  {
+    "question": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best loved novel",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best loved novel",
+    "id": "75abf19f"
+  },
+  {
+    "question": "Anne of Cleves the wife of Henry VIII was a ______ princess",
+    "options": [
+      "German",
+      "French",
+      "Scottish",
+      "Spanish"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "75c874e0"
+  },
+  {
+    "question": "Which TWO are correct about Mary Stuart?",
+    "options": [
+      "She was Elizabeth I's sister",
+      "She died of the Black Death",
+      "She spent much of her childhood in France",
+      "She was only a week old when she became queen"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen. Much of her childhood was spent in France. When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+    "id": "75ecfef6"
+  },
+  {
+    "question": "Which play was written by Shakespeare?",
+    "options": [
+      "Hamlet",
+      "Come, Walk with me",
+      "Before the Dawn",
+      "Freedom of Love"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night’s Dream, Hamlet, Macbeth and Romeo and Juliet.\nLines from his plays and poems which are often still quoted include:\nOnce more unto the breach (Henry V)\nTo be or not to be (Hamlet)\nA rose by any other name (Romeo and Juliet)\nAll the world’s a stage (As You Like It)\nThe darling buds of May (Sonnet 18 – Shall I Compare Thee To a Summer’s Day).",
+    "id": "7606bdba"
+  },
+  {
+    "question": "Why were canals built during the Industrial Revolution?",
+    "options": [
+      "To link the factories to towns and cities and to the ports",
+      "To make space for the large fleet of British ships",
+      "To increase the number of water mills in the UK",
+      "To increase the amount of water in towns and cities"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7611e73c"
+  },
+  {
+    "question": "Who designed gardens and the grounds around houses?",
+    "options": [
+      "Robert Adam",
+      "Inigo Jones",
+      "Lancelot 'Capability' Brown",
+      "Sir Christopher Wren"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Lancelot 'Capability' Brown designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’.",
+    "id": "76154ee4"
+  },
+  {
+    "question": "The small claims procedure is used for claims of less than ______ in England and Wales",
+    "options": [
+      "£5,000",
+      "£10,000",
+      "£15,000",
+      "£50,000"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "76190463"
+  },
+  {
+    "question": "The UK is a diverse and dynamic nation which welcomes those who want to make a positive contribution to the society",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK is a diverse and welcoming country. It welcomes those who want to make a positive contribution to the society",
+    "id": "761df0e9"
+  },
+  {
+    "question": "Which TWO of these countries are currently in the EU?",
+    "options": [
+      "Turkey",
+      "Russia",
+      "Poland",
+      "UK"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Russian and Turkey are not members of the EU",
+    "id": "762874f2"
+  },
+  {
+    "question": "The word 'Great Britain' refers to",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales",
+      "Republic of Ireland",
+      "Channel Islands"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "id": "763369ff"
+  },
+  {
+    "question": "Northern Ireland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "76354938"
+  },
+  {
+    "question": "What is the nickname for the great bell of the clock at the Houses of Parliament in London?",
+    "options": [
+      "London Eye",
+      "Snowdonia",
+      "The Eden Project",
+      "Big Ben"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7651a12c"
+  },
+  {
+    "question": "The European Convention on Human Rights is incorporated into UK law",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law. The government, public bodies and the courts must follow the principles of the Convention.",
+    "id": "7657d0da"
+  },
+  {
+    "question": "The Swinging Sixties was a period of new ideas about politics, philosophy and science",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The decade of the 1960s was a period of significant social change. It was known as ‘the Swinging Sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.",
+    "id": "7657f4a2"
+  },
+  {
+    "question": "Northern Ireland has its own banknotes which are valid everywhere in the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+    "id": "765d676a"
+  },
+  {
+    "question": "When did the American Colonies declare their independence?",
+    "options": [
+      "1776",
+      "1749",
+      "1783",
+      "1733"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies’ independence in 1783.",
+    "id": "766afed4"
+  },
+  {
+    "question": "Who governs the Church of Scotland?",
+    "options": [
+      "Local Authorities",
+      "The Archbishop of Canterbury",
+      "The Pope",
+      "Ministers and elders"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+    "id": "766df584"
+  },
+  {
+    "question": "Who is the patron saint of Wales and on which date is his feast day?",
+    "options": [
+      "St Michel 3rd March",
+      "St Peter November 29th",
+      "St James 5th September",
+      "St David 1st March"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "767a2c86"
+  },
+  {
+    "question": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+    "options": [
+      "Sir Chris Hoy",
+      "Sir Roger Bannister",
+      "David Weir",
+      "Mo Farah"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7682b98b"
+  },
+  {
+    "question": "Who became famous in silent movies for his tramp character?",
+    "options": [
+      "Sir Charles Chaplin",
+      "Sir Chris Hoy",
+      "Sir Francis Drake",
+      "Sir Christopher Wren"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood.",
+    "id": "769ddf56"
+  },
+  {
+    "question": "The Scots and the Normans fought on the border between",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "76a48b3e"
+  },
+  {
+    "question": "Where does the Grand National takes place?",
+    "options": [
+      "Near Manchester",
+      "Near London",
+      "Near Suffolk",
+      "Near Liverpool"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "There are racecourses all over the UK. Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+    "id": "76bef11d"
+  },
+  {
+    "question": "What sort of battle was the 'Battle of Britain', fought between Germany and Britain in the summer of 1940?",
+    "options": [
+      "A battle in the sea",
+      "An aerial battle",
+      "A battle in the mountains",
+      "A battle without riffles"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "76c17b65"
+  },
+  {
+    "question": "Set of written rules governing how laws can be made, and setting out the rights and duties of citizens that can be enforced is called a",
+    "options": [
+      "Constitution",
+      "Story",
+      "History",
+      "The Law"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "76cea20b"
+  },
+  {
+    "question": "As a citizen or permanent resident of the UK your responsibility will be to",
+    "options": [
+      "find illegal immigrants",
+      "keep your dog on a lead at all the time",
+      "look after yourself and your family",
+      "grow your own vegetables"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "76d96c92"
+  },
+  {
+    "question": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of ______",
+    "options": [
+      "Danebury",
+      "Cornwall",
+      "Dorset"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "76dd8c6f"
+  },
+  {
+    "question": "The Prime Minister also has a country house outside London called ______",
+    "options": [
+      "The House of Lords",
+      "Windsor castle",
+      "Chequers",
+      "The UK House"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "76e6a727"
+  },
+  {
+    "question": "St Augustine led missionaries from Rome, who spread Christianity in the south. What happened next?",
+    "options": [
+      "St Augustine became the first English Catholic king",
+      "St Augustine became the first Archbishop of Canterbury",
+      "St Augustine established the Church of England",
+      "St Augustine became the saint patron of England"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+    "id": "76fa3879"
+  },
+  {
+    "question": "What TWO values are upheld by the Commonwealth association of countries?",
+    "options": [
+      "Democracy",
+      "Communism",
+      "Violence",
+      "Rule of law"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The Commonwealth is based on the core values of democracy, good government and the rule of law.",
+    "id": "7717217b"
+  },
+  {
+    "question": "What is the meaning of MEPs?",
+    "options": [
+      "Members of the European Parliament",
+      "Members of the Electoral Parliament",
+      "Member of the Economics Parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7728ff8b"
+  },
+  {
+    "question": "You can support your local community by becoming a school board member or school governor",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "772e8822"
+  },
+  {
+    "question": "Which of the following actions is known as 'canvassing'?",
+    "options": [
+      "Donating blood to help people",
+      "Volunteering for an environmental charity",
+      "Caring for animals at a local rescue shelter",
+      "Persuading people to vote for a political party"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "77344bb4"
+  },
+  {
+    "question": "Which two universities participate in an annual rowing race that takes place on the River Thames?",
+    "options": [
+      "The University of Oxford",
+      "The University of Cambridge",
+      "The University of Manchester",
+      "The University of Warwick"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "7738c5ff"
+  },
+  {
+    "question": "Which of the following poems is about a group of people going on a pilgrimage?",
+    "options": [
+      "The Canterbury Tales",
+      "All the world's a stage",
+      "A Midsummer Night's dream",
+      "Great Expectations"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "77454c46"
+  },
+  {
+    "question": "Where can you find Big Ben?",
+    "options": [
+      "At the Buckingham Palace",
+      "At the Albert Hall",
+      "At the King's Cross train station",
+      "At the houses of Parliament"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
+    "id": "77514ea7"
+  },
+  {
+    "question": "Anyone aged 21 or over can stand for election as an MP",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties.",
+    "id": "77724cc2"
+  },
+  {
+    "question": "The Archbishop of Canterbury is the spiritual leader of the Church of England",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The spiritual leader of the Church of England is the Archbishop of Canterbury. The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the Prime Minister and a committee appointed by the Church. Several Church of England bishops sit in the House of Lords. The monarch is the head of state of the church.",
+    "id": "77820dff"
+  },
+  {
+    "question": "Where is Sutton Hoo?",
+    "options": [
+      "Norfolk",
+      "Sussex",
+      "Essex",
+      "Suffolk"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth.",
+    "id": "7797eaf1"
+  },
+  {
+    "question": "Names of places, such as Grimsby and Scunthorpe come from which language?",
+    "options": [
+      "Celtic",
+      "Norman",
+      "Saxon",
+      "Viking"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Many places names, such as Grimsby and Scunthorpe, come from the Viking languages",
+    "id": "77aca241"
+  },
+  {
+    "question": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "77af2da7"
+  },
+  {
+    "question": "What are the 40 days before Easter called?",
+    "options": [
+      "Diwali",
+      "Lent",
+      "Hannukah",
+      "Vaisakhi"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "77bb370d"
+  },
+  {
+    "question": "Where is Snowdonia located?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "West England",
+      "North England"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "77c58df6"
+  },
+  {
+    "question": "The money raised from National Insurance Contributions is used to pay for",
+    "options": [
+      "Education",
+      "State benefits and services such as the state retirement pension",
+      "Road safety",
+      "Housing benefits",
+      "The National Health Service (NHS)"
+    ],
+    "answers": [
+      1,
+      4
+    ],
+    "id": "77c83e10"
+  },
+  {
+    "question": "Population growth has been faster in more recent years because ______ have played a part in population growth",
+    "options": [
+      "Improved weather conditions",
+      "Migration into the UK",
+      "Increase in the unemployment benefit",
+      "Longer life expectancy"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "77d0720f"
+  },
+  {
+    "question": "Which two political parties formed a coalition in 2010?",
+    "options": [
+      "The Conservative Party",
+      "The Green Party",
+      "The Labour Party",
+      "The Liberal Democrats Party"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "",
+    "id": "77d09888"
+  },
+  {
+    "question": "What does the 'Divine Right of Kings' mean?",
+    "options": [
+      "The King is democratically selected",
+      "The King is appointed by God",
+      "The King is selected by the Parliament",
+      "The King is appointed by the Knights"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "James I and his son Charles I were less skilled politically. Both believed in the 'Divine Right of Kings': the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament.",
+    "id": "77e6b8b3"
+  },
+  {
+    "question": "______ is a Charity working with animals",
+    "options": [
+      "British Red Cross",
+      "People's Dispensary for Sick Animals (PDSA)",
+      "NSPCC",
+      "National Trust"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7814752c"
+  },
+  {
+    "question": "Areas of what is now Scotland were never conquered by",
+    "options": [
+      "The Ancient Greeks",
+      "The Romans",
+      "The Anglo-Saxons",
+      "The Vikings"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "782d92cf"
+  },
+  {
+    "question": "Where is the best preserved prehistoric village 'Skara Brae on Orkney' located?",
+    "options": [
+      "Scotland",
+      "England",
+      "Ireland",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+    "id": "7831d5c2"
+  }
+]

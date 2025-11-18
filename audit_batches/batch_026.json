@@ -1,0 +1,665 @@
+[
+  {
+    "question": "What system of government does the UK have?",
+    "options": [
+      "Communist government",
+      "Dictatorship",
+      "Parliamentary democracy",
+      "Federal government "
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The system of government in the UK is a parliamentary democracy. The UK is divided into parliamentary constituencies, and voters in each constituency elect a member of Parliament (MP) to represent them.",
+    "id": "35deecfb"
+  },
+  {
+    "question": "Fundamental principles of British life are:",
+    "options": [
+      "Growing your own fruit and vegetables",
+      "Tolerance of those with different faiths and beliefs",
+      "Only driving your car on weekdays",
+      "Participation in community life"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "35e01c93"
+  },
+  {
+    "question": "What was the longest British War with France called?",
+    "options": [
+      "The Hundred Years War",
+      "The Battle of Trafalgar",
+      "The Battle of Bannockburn",
+      "The Battle of the Boyne"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+    "id": "35ef3dc0"
+  },
+  {
+    "question": "What county does Stonehenge stand in?",
+    "options": [
+      "Berkshire",
+      "Lancashire",
+      "Wiltshire",
+      "Lothians"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies.",
+    "id": "3616a637"
+  },
+  {
+    "question": "The radar and jet engine and were developed in Britain in the 1830s",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "It was in 1930s",
+    "answers": [
+      1
+    ],
+    "id": "36171249"
+  },
+  {
+    "question": "What does the 'R' Plate stand for?",
+    "options": [
+      "Restricted Driver",
+      "Repaired Damages",
+      "Rage Drinking",
+      "Refreshed Data"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Northern Ireland, a newly qualified driver must display an 'R' plate (for restricted driver) for one year after passing the test.",
+    "id": "361b8f73"
+  },
+  {
+    "question": "To get a UK driving licence you must pass a driving test, which tests both",
+    "options": [
+      "your blood test",
+      "your practical skills",
+      "your sugar test",
+      "your knowledge",
+      "your eye test"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "361d2a72"
+  },
+  {
+    "question": "Jessica Ennis and Mo Farah are well-known athletes who won gold medals at the 2012 London Olympics",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "361e5ef7"
+  },
+  {
+    "question": "There are charities which may help people who cannot afford to pay a vet",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3626b646"
+  },
+  {
+    "question": "You have to be 21 years old to stand as an MP",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties. These are the Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests.",
+    "id": "3639b011"
+  },
+  {
+    "question": "A Formula 1 Grand Prix event is held in the UK ______",
+    "options": [
+      "every year",
+      "every 2 years",
+      "every 3 years",
+      "every 4 years"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "364d7195"
+  },
+  {
+    "question": "Members of the public are allowed to attend Youth Courts hearings",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+    "id": "364e2bab"
+  },
+  {
+    "question": "Popular programmes in UK include regular soap operas such as:",
+    "options": [
+      "BBC News",
+      "Coronation Street",
+      "Eastenders",
+      "Sky News"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "3659c714"
+  },
+  {
+    "question": "A marriage should be entered into with the full and free consent of",
+    "options": [
+      "the parents of both people involved",
+      "both people involved",
+      "the father of the husband"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "365f38c5"
+  },
+  {
+    "question": "Solicitors are trained lawyers who give advice on legal matters, take action for their clients and represent their clients in court",
+    "options": [
+      "Yes, it's correct",
+      "No, solicitors cannot take action for their clients"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "36658bf1"
+  },
+  {
+    "question": "Newspapers were allowed to operate without a government licence from ______",
+    "options": [
+      "1660",
+      "1675",
+      "1680",
+      "1695"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "367eb21b"
+  },
+  {
+    "question": "When did people learn how to make weapons and tools out of iron?",
+    "options": [
+      "In the Stone Age",
+      "In the Bronze Age",
+      "In the Iron Age"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "36885a39"
+  },
+  {
+    "question": "Which TWO points about slavery are correct?",
+    "options": [
+      "William Wilberforce was a leading abolitionist.",
+      "Slavery survived in the British Empire until the early 20th century.",
+      "Quakers set up the first anti-slavery groups.",
+      "The Royal Navy refused to stop ships carrying slaves."
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "William Wilberforce played an important role in ending slavery, which was eventually abolished in the British Empire in 1833. The Quakers set up the first anti-slavery groups in the late 1700s.",
+    "id": "3698f31e"
+  },
+  {
+    "question": "What percentage of people identified themselves as Hindu in the 2009 Citizenship Survey?",
+    "options": [
+      "2%",
+      "4%",
+      "6%",
+      "10%"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "369e627f"
+  },
+  {
+    "question": "People of the Iron Age sometimes defended sites. What were these sites?",
+    "options": [
+      "Skara Braes",
+      "Hill barrows",
+      "Round barrows",
+      "Hill forts"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "People still lived in roundhouses, grouped together into larger settlements, and sometimes defended sites called hill forts. A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+    "id": "36b933ea"
+  },
+  {
+    "question": "People aged 16 or over cannot drink alcohol with a meal in a hotel or restaurant",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "36be0c88"
+  },
+  {
+    "question": "Around 4,000 years ago, people learned to make bronze, we call this period",
+    "options": [
+      "the Stone Age",
+      "the Bronze Age",
+      "the Iron Age"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "36c24833"
+  },
+  {
+    "question": "The Enlightenment led to major developments in which TWO areas?",
+    "options": [
+      "Science",
+      "Politics",
+      "History",
+      "Theatre"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "During the 18th century, new ideas about politics, science and philosophy developed. This period became known as 'the Enlightenment'.",
+    "id": "36ce7105"
+  },
+  {
+    "question": "English kings fought a long war with France, called the Hundred Years War, which actually lasted ______ years",
+    "options": [
+      "96",
+      "100",
+      "108",
+      "116"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "36d4aab9"
+  },
+  {
+    "question": "Who is a Patron St of Scotland?",
+    "options": [
+      "St Andrew",
+      "St David",
+      "St George",
+      "St Patrick"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "36f3b6f1"
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Bonnie Prince Charlie became King Charles II of England in 1660",
+      "Charles, king of Scotland, was restored as King Charles II of England in 1660"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "37010035"
+  },
+  {
+    "question": "Who had the title 'Lord Protector'?",
+    "options": [
+      "Sir Francis Drake",
+      "Admiral Nelson",
+      "Charles II",
+      "Oliver Cromwell"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "After his campaign in Ireland and victory over Charles II at Worcester, Cromwell was recognised as the leader of the new republic. He was given the title of Lord Protector and ruled until his death in 1658.",
+    "id": "3712cd1a"
+  },
+  {
+    "question": "The European Union law is an important source of law in Britain",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "372851b2"
+  },
+  {
+    "question": "If HMRC sends you a tax return, it is important to complete and return the form",
+    "options": [
+      "as soon as you have enough money to pay the tax",
+      "as soon as you have all the necessary information",
+      "but only if you are self-employed"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "372a89bf"
+  },
+  {
+    "question": "Bobby Moore is famous for his achievements in ______",
+    "options": [
+      "Horse racing",
+      "Football",
+      "Motor racing",
+      "Rugby"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "372d3249"
+  },
+  {
+    "question": "Select TWO famous Athletes",
+    "options": [
+      "Henry Moore",
+      "John Barbour",
+      "Sir Roger Bannister",
+      "Mo Farah"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Sir Roger Bannister (1929–) was the first man in the world to run a mile in under four minutes, in 1954.\nMo Farah (1983–) is a British distance runner, born in Somalia. He won gold medals in the 2012 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.",
+    "id": "373a2bbf"
+  },
+  {
+    "question": "The Chartists were campaigners who demanded the ______",
+    "options": [
+      "vote for women",
+      "vote for the working classes and other people without property",
+      "abolition of slavery",
+      "independence of Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "37412efd"
+  },
+  {
+    "question": "Which TWO are famous British sailors?",
+    "options": [
+      "Sir Jackie Stewart",
+      "Sir Robin Knox-Johnston",
+      "Sir Francis Chichester",
+      "Sir Ian Botham"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "A British sailor, Sir Francis Chichester, was the first person to sail single-handed around the world, in 1966/67. Two years later, Sir Robin Knox-Johnston became the first person to do this without stopping.",
+    "id": "374d7e7e"
+  },
+  {
+    "question": "What was invented by Alan Turing in the 1930s?",
+    "options": [
+      "The jet engine",
+      "The television",
+      "The Turing machine",
+      "The ball pen"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "375c91aa"
+  },
+  {
+    "question": "Wales united with England during the reign of Henry VIII",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the reign of Henry VIII, Wales became formally united with England by the Act for the Government of Wales. The Welsh sent representatives to the House of Commons and the Welsh legal system was reformed.",
+    "id": "37711273"
+  },
+  {
+    "question": "January 1st is a Public Holiday in The UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3773827e"
+  },
+  {
+    "question": "How many years did Mary, the Queen of Scots spend in prison?",
+    "options": [
+      "20",
+      "11",
+      "30",
+      "4"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+    "id": "377a1ba4"
+  },
+  {
+    "question": "What TWO freedoms are offered by the UK to citizens and permanent residents?",
+    "options": [
+      "Long lunch breaks on Friday",
+      "Freedom of speech",
+      "Free groceries for everyone",
+      "A right to a fair trial"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. This includes freedom of speech and a right to a fair trial.",
+    "id": "377b3098"
+  },
+  {
+    "question": "What do you need to apply for UK citizenship or permanent residency?",
+    "options": [
+      "Driving licence",
+      "TV License",
+      "Good understanding of life in the UK",
+      "Bank account",
+      "Ability to speak and read English"
+    ],
+    "answers": [
+      2,
+      4
+    ],
+    "id": "377ba8d3"
+  },
+  {
+    "question": "To visit Northern Ireland Assembly you can",
+    "options": [
+      "contact the Education Service",
+      "contact an MSP",
+      "arrange tours through visitor services",
+      "contact an MLA"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "3788b512"
+  },
+  {
+    "question": "How often are the European Parliament elections held?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs). Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won.",
+    "id": "3791d8be"
+  },
+  {
+    "question": "Which TWO are used in making an Ulster fry?",
+    "options": [
+      "Oatmeal",
+      "Sausage",
+      "Bacon",
+      "Beef"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+    "id": "37b01c39"
+  },
+  {
+    "question": "In British history D-Day refers to",
+    "options": [
+      "dropping of the atom bomb on Japan",
+      "battle of Trafalgar",
+      "end of the war in Europe in 1945",
+      "British invasion of Europe in 1944"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "37b3cb43"
+  },
+  {
+    "question": "What was the biggest source of employment during the 18th century?",
+    "options": [
+      "Fishing",
+      "Teaching",
+      "Aircraft industry",
+      "Manufacturing"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "37bb056b"
+  },
+  {
+    "question": "Where is Tate Britain and Tate Modern located?",
+    "options": [
+      "London",
+      "Edinburgh",
+      "Cardiff",
+      "Manchester"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Works by British and international artists are displayed in galleries across the UK. Some of the most well-known galleries are The National Gallery, Tate Britain and Tate Modern in London, the National Museum in Cardiff, and the National Gallery of Scotland in Edinburgh.",
+    "id": "37bb3524"
+  },
+  {
+    "question": "When is a by-election for a parliamentary seat held?",
+    "options": [
+      "Half-way through a parliamentary term",
+      "Every two years",
+      "When a member of Parliament (MP) dies or resigns",
+      "When the Prime Minister decides to call one"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency.",
+    "id": "37df3489"
+  },
+  {
+    "question": "Where is Swansea located?",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "37e9fab3"
+  },
+  {
+    "question": "What marked the beginning of \"constitutional monarchy”?",
+    "options": [
+      "The Glorious Revolution",
+      "The Magna Carta",
+      "The Restoration",
+      "The English Civil War"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The laws passed after the Glorious Revolution are the beginning of what is called ‘constitutional monarchy’.",
+    "id": "37ecafb7"
+  },
+  {
+    "question": "What party won the election in 1945 (After WWII)?",
+    "options": [
+      "Coalition",
+      "Labour",
+      "Liberal Democrats",
+      "Conservative"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1945 the British people elected a Labour government. The new Prime Minister was Clement Attlee, who promised to introduce the welfare state outlined in the Beveridge Report. In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+    "id": "37fda94d"
+  },
+  {
+    "question": "One achievement of King James' reign was a new translation of the Bible into ______",
+    "options": [
+      "German",
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "38021911"
+  }
+]

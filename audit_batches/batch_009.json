@@ -1,0 +1,657 @@
+[
+  {
+    "question": "When did the English civil war begin?",
+    "options": [
+      "1642",
+      "1640",
+      "1641",
+      "1646"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "11990ba0"
+  },
+  {
+    "question": "Members of the armed forces cannot stand for public office.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Most citizens of the UK, the Irish Republic and the Commonwealth can stand for public office. There are some exceptions, including members of the armed forces.",
+    "id": "11b718b5"
+  },
+  {
+    "question": "On election day, you will get your ballot paper, which you take to a polling booth to fill in front of the polling officer",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately",
+    "id": "11caa238"
+  },
+  {
+    "question": "Many schools organise events to raise money for extra equipment or out-of-school activities",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Many schools organise events to raise money for extra equipment or out-of-school activities. Activities might include book sales, toy sales or bringing food to sell.",
+    "id": "11da5b25"
+  },
+  {
+    "question": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords",
+    "options": [
+      "Yes, this is true",
+      "No, You can only listen on the TV/radio"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "11ebfbc3"
+  },
+  {
+    "question": "The United Nations (UN) is an international organisation with more than ______ countries as members",
+    "options": [
+      "90",
+      "130",
+      "160",
+      "190"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "120f3cd2"
+  },
+  {
+    "question": "The Falkland Islands are a British overseas territory and are part of the United Kingdom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "12130134"
+  },
+  {
+    "question": "Which clan was killed because of not taking an oath?",
+    "options": [
+      "The MacDonalds of Sleat",
+      "The MacDonalds of Clanranald",
+      "The MacDonalds of Glencoe",
+      "The MacDonalds of Keppoch"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "All Scottish clans were required formally to accept William as king by taking an oath. The MacDonalds of Glencoe were late in taking the oath and were all killed.",
+    "id": "12233c55"
+  },
+  {
+    "question": "By joining a political party, what TWO activities might you be involved in?",
+    "options": [
+      "Violent clashes with other political parties",
+      "Joining your MP for sessions in the House of Commons",
+      "Handing out leaflets in the street",
+      "Knocking on people's doors and asking for support"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Political parties welcome new members. Members work hard to persuade people to vote for their candidates, for example, by handing out leaflets in the street or by knocking on people's doors and asking for their support (this is called 'canvassing').",
+    "id": "12240df8"
+  },
+  {
+    "question": "What was the estimated population of the British Empire?",
+    "options": [
+      "250 million",
+      "350 million",
+      "400 million",
+      "300 million"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+    "id": "1225a991"
+  },
+  {
+    "question": "Which of these government bodies were not established in 1999?",
+    "options": [
+      "Scottish Parliament",
+      "Northern Ireland Assembly",
+      "Welsh Assembly"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+    "id": "122cc733"
+  },
+  {
+    "question": "The ability to laugh at other people is an important part of the UK character",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The ability to laugh at ourselves is an important part of the UK character",
+    "id": "122f4b2c"
+  },
+  {
+    "question": "Under which king did the Anglo-Saxon kingdoms in England unite and defeat the Vikings.",
+    "options": [
+      "Henry VIII",
+      "Alfred the Great",
+      "William the Conqueror",
+      "Henry V"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings.",
+    "id": "124865c2"
+  },
+  {
+    "question": "Who were the first people to live in Britain in what we call the Stone Age?",
+    "options": [
+      "Farmers",
+      "Peasants",
+      "Hunter-gatherers",
+      "Pirates"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "124d0b98"
+  },
+  {
+    "question": "Which of these countries was NOT UK's ally in the WWII?",
+    "options": [
+      "Japan",
+      "Soviet Union",
+      "Poland",
+      "France"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies",
+    "id": "124f0c60"
+  },
+  {
+    "question": "Who is the fastest person to sail around the world singlehanded?",
+    "options": [
+      "Jessica Ennis",
+      "Dame Ellen MacArthur",
+      "Ellie Simmonds",
+      "Dame Kelly Holmes"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "12503d95"
+  },
+  {
+    "question": "In England, Wales and Scotland, Magistrates and Justices of the Peace (JPs) usually work unpaid and do not need legal qualifications",
+    "options": [
+      "Yes, it's correct",
+      "No, they get paid"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "12563ee5"
+  },
+  {
+    "question": "Pakistan is part of the Commonwealth",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Pakistan is currently part of the Commonwealth",
+    "id": "12632836"
+  },
+  {
+    "question": "St Andrew's Day is on the ______",
+    "options": [
+      "23rd November",
+      "17th November",
+      "30th November"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "126e85d3"
+  },
+  {
+    "question": "In the different parts of the UK there are many variations in language",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Gaelic is spoken in some parts of Scotland, in Wales many people speak Welsh, and in Northern Ireland some people speak Irish Gaelic",
+    "answers": [
+      0
+    ],
+    "id": "127b622f"
+  },
+  {
+    "question": "The Speaker is an MP, he/she represents a constituency and deals with constituents’ problems like any other MP",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents’ problems like any other MP.",
+    "id": "127e5f74"
+  },
+  {
+    "question": "Who died at the Battle of Trafalgar?",
+    "options": [
+      "Admiral Nelson",
+      "Henry VIII",
+      "Oliver Cromwell",
+      "Napoleon"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "128870c8"
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes valid everywhere in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+    "id": "128a3519"
+  },
+  {
+    "question": "The jet engine was developed in Britain in the 1890s by Sir Robert Watson-Watt",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The jet engine was developed in Britain in the 1930s by Sir Frank Whittle (1907–96), a British Royal Air Force engineer Officer.",
+    "id": "12a0a6e7"
+  },
+  {
+    "question": "There are ______ national parks in England, Wales and Scotland",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "12a0c4ce"
+  },
+  {
+    "question": "Which flower is associated with England?",
+    "options": [
+      "Rose",
+      "Daffodil",
+      "Thistle",
+      "Shamrock"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A rose is the flower associated with England.",
+    "id": "12a10ccc"
+  },
+  {
+    "question": "On April Fool's day people normally give each other presents",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "12b7c12d"
+  },
+  {
+    "question": "Members of the House of Lords may stand for election to the House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "12b9d2b5"
+  },
+  {
+    "question": "James Watt was famous for his work on what?",
+    "options": [
+      "Radio",
+      "Steam Power",
+      "Economics",
+      "Human nature"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+    "id": "12c6627a"
+  },
+  {
+    "question": "Which TWO principles are included in the European Convention on Human Rights?",
+    "options": [
+      "Right to a fair trial",
+      "Prohibition of life",
+      "Freedom of forced labour",
+      "Right to liberty and security"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Some of the principles included in the European Convention on Human Rights are: right to life; prohibition of torture; prohibition of slavery and forced labour; right to liberty and security; right to a fair trial; freedom of thought, conscience and religion; freedom of expression (speech).",
+    "id": "12dc2411"
+  },
+  {
+    "question": "What is the minimum age for going into betting shops or gambling clubs?",
+    "options": [
+      "18",
+      "21",
+      "17",
+      "16"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You have to be 18 to go into betting shops or gambling clubs.",
+    "id": "12e4a684"
+  },
+  {
+    "question": "£10 £20 £50 £100 are the only banknotes currently allowed in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+    "id": "12ee353c"
+  },
+  {
+    "question": "The symbol of the House of Tudor was",
+    "options": [
+      "a red rose",
+      "a white rose",
+      "a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "12ef8451"
+  },
+  {
+    "question": "Who is the head of the state?",
+    "options": [
+      "The King or the Queen",
+      "The Prime Minister",
+      "The MP",
+      "The Foreign Secretary"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1309e768"
+  },
+  {
+    "question": "The population in the UK in 2010 was",
+    "options": [
+      "just under 58 million",
+      "just over 58 million",
+      "just under 60 million",
+      "just over 62 million"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "130a5c39"
+  },
+  {
+    "question": "Radar was developed by Scotsman Sir Robert Watson-Watt",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892–1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+    "id": "131aadb7"
+  },
+  {
+    "question": "How often are members of Parliament (MPs) elected?",
+    "options": [
+      "At least every three years",
+      "Every six months",
+      "Every year",
+      "At least every five years"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "MPs are elected at a General Election, which is held at least every five years.",
+    "id": "131b9250"
+  },
+  {
+    "question": "You have to be at least 21 years old to serve on a jury.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "132965e9"
+  },
+  {
+    "question": "Who is known as William the Conqueror?",
+    "options": [
+      "William, the Duke of Lion",
+      "William, the Duke of France",
+      "William, the Duke of Edinburgh",
+      "William, the Duke of Normandy"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
+    "id": "132a1cd9"
+  },
+  {
+    "question": "Which of the following discoveries contributed to the progress of the Industrial Revolution?",
+    "options": [
+      "Steam Power",
+      "Television",
+      "Penicillin",
+      "Jet Engine"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’. Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today. David Hume’s ideas about human nature continue to influence philosophers. Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+    "id": "132b094a"
+  },
+  {
+    "question": "Which country’s national flower is a thistle?",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "England",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A thistle is a national flower of Scotland.",
+    "id": "13341b8a"
+  },
+  {
+    "question": "Who is the ceremonial head of the Commonwealth?",
+    "options": [
+      "The Queen",
+      "The Prime Minister",
+      "The Government",
+      "The Monarch"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen is the ceremonial head of the Commonwealth.",
+    "id": "1336d33b"
+  },
+  {
+    "question": "What are the parliaments in Scotland, Wales and Northern Ireland also known as?",
+    "options": [
+      "Political parties",
+      "Formal institutions",
+      "Devolved administrations",
+      "Local authorities"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. These powers are also known as devolved administrations.",
+    "id": "13514d93"
+  },
+  {
+    "question": "What task is associated with the National Trust?",
+    "options": [
+      "Conserving native bird species",
+      "Preserving old aircraft",
+      "Preserving important buildings and places",
+      "Conserving deep water fish"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The National Trust in England, Wales and Northern Ireland, and the National Trust for Scotland, work to preserve important buildings, coastline and countryside.",
+    "id": "13529e6e"
+  },
+  {
+    "question": "Since 1958, the Prime Minister has had the power to appoint ______ just for their own lifetime",
+    "options": [
+      "Peers",
+      "The monarch",
+      "The Speaker"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "13555bdc"
+  },
+  {
+    "question": "What is the name of the charity that works to preserve important buildings, coastline and countryside in the UK?",
+    "options": [
+      "National Trust",
+      "Red Cross",
+      "NSPCC",
+      "Eden Project"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+    "id": "135be3f7"
+  },
+  {
+    "question": "What is the day when jokes are published in newspapers and telecasted on TV?",
+    "options": [
+      "April Fool's Day",
+      "Boxing Day",
+      "Halloween",
+      "Valentine's Day"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "135d6a6b"
+  },
+  {
+    "question": "In 1603, when Elizabeth I died her heir was her cousin James VI of Scotland who became King James I of",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Ireland",
+      "The United Kingdom"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "id": "136fd621"
+  },
+  {
+    "question": "What do Sir William Golding, Seamus Heaney and Harold Pinter have in common?",
+    "options": [
+      "They are all famous British athletes.",
+      "They have all been Prime Minister.",
+      "They were part of the first British expedition to the North Pole.",
+      "They have all been awarded the Nobel Prize in Literature."
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Sir William Golding, Seamus Heaney and Harold Pinter have all won the Nobel Prize in Literature.",
+    "id": "13726708"
+  },
+  {
+    "question": "When did Britain become separated from the continent?",
+    "options": [
+      "4,000 years ago",
+      "6,000 years ago",
+      "8,000 years ago",
+      "10,000 years ago"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago.",
+    "id": "137e543b"
+  }
+]

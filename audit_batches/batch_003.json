@@ -1,0 +1,651 @@
+[
+  {
+    "question": "The Battle of Hastings is commemorated in a piece of embroidery , known as the Bayeux Tapestry",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "04a4512b"
+  },
+  {
+    "question": "Many people continue to visit ______ for holidays and for leisure activities such as walking, camping and fishing",
+    "options": [
+      "shops",
+      "the countryside",
+      "banks",
+      "schools"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "04a6acf4"
+  },
+  {
+    "question": "The current heir to the throne is",
+    "options": [
+      "The Prince of Wales",
+      "Prince William",
+      "Princess Ann",
+      "Prince Harry"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "04a955a3"
+  },
+  {
+    "question": "What is the name of the PM's country house?",
+    "options": [
+      "Edinburgh castle",
+      "Chequers",
+      "The House of Lords",
+      "Windsor castle"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "04af86ca"
+  },
+  {
+    "question": "What organisations try to influence government policy?",
+    "options": [
+      "Pressure and lobby groups",
+      "Chartists",
+      "Quakers",
+      "The Cabinet"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics.",
+    "id": "04b22d41"
+  },
+  {
+    "question": "Complaints against the Police can only be made by writing to the Police Complaints Commissioner",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+    "id": "04b60d6e"
+  },
+  {
+    "question": "Everything found in Hansard is available online",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and online.",
+    "id": "04c7e7b9"
+  },
+  {
+    "question": "The battle of Britain was which type of battle?",
+    "options": [
+      "Air",
+      "Sea",
+      "Ground",
+      "Information"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940.",
+    "id": "04cb8995"
+  },
+  {
+    "question": "The British constitution is described as 'unwritten'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government. Our most important institutions have developed over hundreds of years.",
+    "id": "04cbe984"
+  },
+  {
+    "question": "Who is Queen Elizabeth II married to?",
+    "options": [
+      "Prince Harry",
+      "Prince Philip",
+      "Prince William",
+      "Prince Charles"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Elizabeth II is married to Prince Philip.",
+    "id": "04cc0598"
+  },
+  {
+    "question": "Plants associated with the UK are:",
+    "options": [
+      "Cactus",
+      "Rose the national flower of England",
+      "Shamrock the national flower of Northern Ireland",
+      "Olive tree"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "04d046aa"
+  },
+  {
+    "question": "How many members does the UN Security Council have?",
+    "options": [
+      "150",
+      "5",
+      "15",
+      "54"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+    "id": "04d127f8"
+  },
+  {
+    "question": "Which of these is the name of a novel by Jane Austen?",
+    "options": [
+      "Sense and Sensibility ",
+      "Far from the Madding Crowd ",
+      "Oliver Twist ",
+      "Our Man in Havana "
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Jane Austen was an English novelist who wrote many books, including Sense and Sensibility and Pride and Prejudice.",
+    "id": "04e00480"
+  },
+  {
+    "question": "Where did the Spanish Armada come from?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "South America"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "04e2984f"
+  },
+  {
+    "question": "James VI of Scotland was not related to Queen Elizabeth I of England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Mary was suspected of murdering her husband and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I’s cousin.",
+    "id": "04e5a88f"
+  },
+  {
+    "question": "The BBC is financed by selling advertising space during television programmes",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "It is financed by funds raised from TV licences",
+    "answers": [
+      1
+    ],
+    "id": "04e79bad"
+  },
+  {
+    "question": "Magistrates and Justices of the Peace (JPs) are members of what?",
+    "options": [
+      "Ruling Party",
+      "Law Society",
+      "Local Community",
+      "Police Force"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications. They receive training to do the job and are supported by a legal adviser.",
+    "id": "04fba459"
+  },
+  {
+    "question": "Who appoints the members of the Cabinet?",
+    "options": [
+      "The Prime Minister",
+      "The Monarch",
+      "The Speaker",
+      "The people of the UK"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments which together form the cabinet.",
+    "id": "050b1288"
+  },
+  {
+    "question": "When did Protestant ideas begin to spread?",
+    "options": [
+      "17th century",
+      "15th century",
+      "16th century",
+      "18th century"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "id": "051118eb"
+  },
+  {
+    "question": "Where do you have to be registered to be able to vote?",
+    "options": [
+      "The UK registry",
+      "The Home office",
+      "The UK database",
+      "The electoral register"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.",
+    "id": "053d7c4f"
+  },
+  {
+    "question": "During the reigns of Elizabeth I and James I, where did the English government encourage Scottish and English Protestants to settle?",
+    "options": [
+      "East London",
+      "Ulster",
+      "Cardiff",
+      "Edinburgh"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in Ulster, the northern province of Ireland, taking over the land from Catholic landholders. These settlements were known as plantations.",
+    "id": "054752b7"
+  },
+  {
+    "question": "When was the famous satirical magazine 'Punch' published?",
+    "options": [
+      "1840s",
+      "1820s",
+      "1860s",
+      "1880s"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the 19th century, satirical magazines began to be published. The most famous was 'Punch', which was published for the first time in the 1840s. Today, political cartoons continue to be published in newspapers, and magazines such as Private Eye continue the tradition of satire.",
+    "id": "0548b214"
+  },
+  {
+    "question": "If police officers are corrupt or misuse their authority they are severely punished",
+    "options": [
+      "Yes, it's correct",
+      "No, they will only be given warnings"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0553dcb7"
+  },
+  {
+    "question": "Young people can legally buy alcohol in pubs and off licences as soon as they are 15",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "055e7910"
+  },
+  {
+    "question": "Which of these was a British plane in WWII?",
+    "options": [
+      "Hurricane",
+      "Mig-21",
+      "PAK-22",
+      "F-22"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane - which were designed and built in Britain.",
+    "id": "055f4b42"
+  },
+  {
+    "question": "Oliver Cromwell took the title ‘King of Ireland’",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Cromwell was given the title of Lord Protector and ruled until his death in 1658. Henry VIII took the title ‘King of Ireland’",
+    "id": "056229bc"
+  },
+  {
+    "question": "Which of the following is an example of criminal offence?",
+    "options": [
+      "Smoking in public places where it is not allowed",
+      "Disputes about faulty goods or services",
+      "Disputes about an unfair dismissal in the workplace",
+      "A dispute between the landlord and the tenants who have not paid the rent"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "056e2e76"
+  },
+  {
+    "question": "There are ______ pence in a pound",
+    "options": [
+      "10",
+      "100",
+      "1,000",
+      "10,000"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "05807c43"
+  },
+  {
+    "question": "Until what time do people play jokes on one another on April Fool’s Day?",
+    "options": [
+      "All day",
+      "Until 11 AM",
+      "Until 9 PM",
+      "Until Midday"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "April Fool’s Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes.",
+    "id": "05808440"
+  },
+  {
+    "question": "UK MPs are elected on the basis of",
+    "options": [
+      "Proportional Representation",
+      "First past the post system",
+      "Instant runoff"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0592503c"
+  },
+  {
+    "question": "The Bill of Rights confirmed the rights of Parliament and the limits of the King’s power",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power.",
+    "id": "05999678"
+  },
+  {
+    "question": "It is a criminal offence to sell tobacco products to anyone under the age of 18",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "It is a criminal offence to sell tobacco products to anyone under the age of 18",
+    "id": "059b8309"
+  },
+  {
+    "question": "Example of civil law is",
+    "options": [
+      "Drunk and disorderly behaviour",
+      "Debt",
+      "Burglary",
+      "Violent crime"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "05b11a6d"
+  },
+  {
+    "question": "When is Hogmanay celebrated?",
+    "options": [
+      "25th of December",
+      "2nd of January",
+      "1st of January",
+      "31st of December"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "05b253ed"
+  },
+  {
+    "question": "Which TWO are correct about King Henry's wives?",
+    "options": [
+      "Two of the wives were sisters",
+      "Three wives were called Catherine",
+      "Two wives were called Anne",
+      "All were British"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "3 of the wives were called Catherine and 2 were called Anne.",
+    "id": "05b2747a"
+  },
+  {
+    "question": "What is the purpose of National Insurance?",
+    "options": [
+      "It pays for retirement homes",
+      "It pays for holiday insurance abroad",
+      "It pays for the army and navy",
+      "It pays for pensions and the national health service"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "05bb49e0"
+  },
+  {
+    "question": "If an MP dies or resigns, there will be a fresh General election",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "If an MP dies or resigns, there will be a fresh election, called a byelection, in his or her constituency.",
+    "id": "05c783be"
+  },
+  {
+    "question": "In 1982, which country invaded the Falklands prompting UK to send its naval force in defense?",
+    "options": [
+      "Argentina",
+      "France",
+      "Spain",
+      "Belgium"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval task force was sent from the UK and military action led to the recovery of the islands.",
+    "id": "05d7972b"
+  },
+  {
+    "question": "In the House of Commons the government is formed by the party gaining the majority of the seats even if they do not get the most votes",
+    "options": [
+      "No, that's no true",
+      "Yes, sometimes when members feel like it",
+      "Yes, always"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "05dacc7b"
+  },
+  {
+    "question": "Which is an example of a Civil Offence?",
+    "options": [
+      "Discrimination in the workplace",
+      "Selling Tobacco to under 18's",
+      "Smoking in public places",
+      "Carrying a weapon"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Examples of civil laws are - Housing law: this includes disputes between landlords and tenants over issues such as repairs and eviction; Consumer rights: an example of this is a dispute about faulty goods or services; Employment law: these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace; Debt: people might be taken to court if they owe money to someone.",
+    "id": "05df039b"
+  },
+  {
+    "question": "What is the capital of England?",
+    "options": [
+      "Belfast",
+      "London",
+      "Edinburgh",
+      "Cardiff"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "London is the capital city of England and the United Kingdom.",
+    "id": "05e5715d"
+  },
+  {
+    "question": "The Council of Europe has power to make laws",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "05e8d395"
+  },
+  {
+    "question": "It is compulsory to join National Citizen Service programme for 16 and 17 year olds",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "05fb23ab"
+  },
+  {
+    "question": "Henry Tudor, the leader of the House of Lancaster, became",
+    "options": [
+      "King Richard III",
+      "King Henry VII",
+      "King James I"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0604db29"
+  },
+  {
+    "question": "Where is the UK parliament based?",
+    "options": [
+      "Holyrood",
+      "Senedd ",
+      "Stormont",
+      "Westminster"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK is governed by the parliament sitting in Westminster.",
+    "id": "061a3676"
+  },
+  {
+    "question": "For most people, the right amount of income tax is automatically taken from ______ and paid directly to HM Revenue and Customs (HMRC)",
+    "options": [
+      "the income from employment by their employer",
+      "their bank account by direct debit"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0624564a"
+  },
+  {
+    "question": "People who are self-employed",
+    "options": [
+      "do not have to pay for National Insurance contributions after the age of 60",
+      "need to pay National Insurance Contributions themselves",
+      "have their National Insurance deducted from their pay by their employer"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "063aaa95"
+  },
+  {
+    "question": "It is illegal to sell tobacco products to anyone under 18.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18",
+    "id": "064673c3"
+  },
+  {
+    "question": "Sir Kingsley Amis was a famous English novelist and poet who wrote more than 20 novels, including 'Lucky Jim'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Kingsley Amis (1922-95) was an English novelist and poet. He wrote more than 20 novels. The most well-known is Lucky Jim.",
+    "id": "064af47a"
+  },
+  {
+    "question": "When did the Vikings first attack Britain?",
+    "options": [
+      "AD 789",
+      "AD 798",
+      "AD 897",
+      "AD 879"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves.",
+    "id": "064f3f17"
+  }
+]

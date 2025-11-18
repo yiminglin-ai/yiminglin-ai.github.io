@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Why is Sir Edwin Lutyens famous?",
+    "options": [
+      "He won a gold medal at the London 2012 Olympic Games.",
+      "He was the first UK Prime Minister.",
+      "He invented the World Wide Web.",
+      "He was a 20th-century architect."
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Sir Edwin Lutyens was a famous 20th-century architect who designed the Cenotaph in Whitehall.",
+    "id": "6792209b"
+  },
+  {
+    "question": "What was achieved with the Carta Magna?",
+    "options": [
+      "It restricted the King's power",
+      "It increased the King's power",
+      "It restricted the rights of the farmers",
+      "It increased women's power"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6794a5ae"
+  },
+  {
+    "question": "Who was Henry Purcell?",
+    "options": [
+      "An actor",
+      "A poet",
+      "A gardener",
+      "A musician"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Henry Purcell (1659–95) was the organist at Westminster Abbey. He wrote church music and operas.",
+    "id": "67a733f9"
+  },
+  {
+    "question": "You can get contact details for all your representatives and their parties from",
+    "options": [
+      "television",
+      "your local library",
+      "your local shopping centre",
+      "www.parliament.uk"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "67a8b296"
+  },
+  {
+    "question": "The jury decides whether a person is 'guilty' or 'not guilty' based on what they have heard",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard. In Scotland, a third verdict of 'not proven' is also possible. If the jury finds a defendant guilty, the judge decides on the penalty. The judge is only responsible for interpreting the law.",
+    "id": "67acac78"
+  },
+  {
+    "question": "One of the most important principles of the Enlightenment was that",
+    "options": [
+      "everyone should have the right to their own political and religious beliefs",
+      "newspapers should be free from political involvement",
+      "everyone should have the right to the vote"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "67bfb1cf"
+  },
+  {
+    "question": "What was Margaret Thatcher famous for?",
+    "options": [
+      "She fought for the right to vote for women",
+      "She was the first woman Prime Minister of the UK",
+      "She set up the women's Franchise League",
+      "She was the founder of modern nursing"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "67dadb57"
+  },
+  {
+    "question": "What percentage of the total population lives in Wales?",
+    "options": [
+      "8%",
+      "3%",
+      "1%",
+      "5%"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "UK population is very unequally distributed over the four parts of the UK. Wales makes around 5%.",
+    "id": "67df1769"
+  },
+  {
+    "question": "Isambard Kingdom Brunei was famous for designing and building ______",
+    "options": [
+      "Steam engines",
+      "Bridges",
+      "Skyscrapers",
+      "Motor cars"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "67e0e2d8"
+  },
+  {
+    "question": "In which modern-day country was the composer George Frederick Handel born?",
+    "options": [
+      "Iceland",
+      "Russia",
+      "Japan",
+      "Germany"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "George Frederick Handel was born in Germany. He spent many years in the UK and became a British citizen in 1727.",
+    "id": "67e1db25"
+  },
+  {
+    "question": "Hadrian's Wall was built to keep out whom?",
+    "options": [
+      "The Irish",
+      "The Welsh",
+      "The Picts",
+      "The Vikings"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Roman Emperor Hadrian built the wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "id": "67e39502"
+  },
+  {
+    "question": "There are a variety of foods that are traditionally associated with England:",
+    "options": [
+      "Roast beef, which is served with potatoes, vegetables, Yorkshire puddings",
+      "Fish and chips",
+      "Haggis",
+      "Ulster fry",
+      "Welsh cakes"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "67e54b70"
+  },
+  {
+    "question": "The UK faces terrorist threats from Al Qa'ida, its affiliates and like-minded organisations",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "67e6eb43"
+  },
+  {
+    "question": "Who led the Scottish Army during the Battle of Bannockburn?",
+    "options": [
+      "King Alfred the Great",
+      "Edward I",
+      "Robert the Bruce",
+      "William the Conqueror"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In Scotland, the English kings were less successful. In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "id": "67ef9668"
+  },
+  {
+    "question": "In which year did the UK join the European Union (EU)?",
+    "options": [
+      "1953",
+      "1949",
+      "1973",
+      "1957"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK originally decided not to join the EU but it became a member in 1973. There are now 28 EU member states",
+    "id": "67f5a99e"
+  },
+  {
+    "question": "The London Eye is situated on the southern bank of which river?",
+    "options": [
+      "Tyburn",
+      "Walbrook",
+      "Clyde",
+      "Thames"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.",
+    "id": "67f693de"
+  },
+  {
+    "question": "The Habeas Corpus Act of 1679 was so important because",
+    "options": [
+      "it allowed people to bury the dead where they wished before the death",
+      "it ended capital punishment in England",
+      "it ensured no person could be held unlawfully",
+      "it ensured that those who died could only be buried by a family member"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "67f6d4b5"
+  },
+  {
+    "question": "What profession was Florence Nightingale famous for?",
+    "options": [
+      "Nurse",
+      "Painter",
+      "Gardener",
+      "Political Leader"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "At the age of 31, Florence Nightingale trained as a nurse in Germany. In 1854, she went to Turkey and worked in military hospitals, treating soldiers who were fighting in the Crimean War.",
+    "id": "67f90194"
+  },
+  {
+    "question": "Complaints against the police can only be made by writing to the Police Complaints Commissioner.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "67fe2d69"
+  },
+  {
+    "question": "Northern Ireland Assembly has 120 members?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "68166a7d"
+  },
+  {
+    "question": "The person who chairs the debates in the House of Commons is given the title of ______",
+    "options": [
+      "the Prime Minister",
+      "the Chairman",
+      "the Leader of the House",
+      "the Speaker"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "682ce290"
+  },
+  {
+    "question": "What is 'Snowdon'?",
+    "options": [
+      "Lake",
+      "Mountain",
+      "Castle",
+      "Garden"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "682d37a8"
+  },
+  {
+    "question": "The phrase 'rain stopped play' is used in ______",
+    "options": [
+      "Rugby league",
+      "Football",
+      "Horse racing",
+      "Cricket"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "684b2c30"
+  },
+  {
+    "question": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections. Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.",
+    "id": "686bcd13"
+  },
+  {
+    "question": "What is ‘Snowdon’?",
+    "options": [
+      "A mountain",
+      "A lake",
+      "A garden",
+      "A castle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "68717cd6"
+  },
+  {
+    "question": "What can be done to protect a person from being forced into a marriage, or to protect a person in a forced marriage?",
+    "options": [
+      "Check the age of both people to make sure they are over 25",
+      "Court orders can be obtained by a potential victim or someone acting for them",
+      "Check the age of both people to make sure they are over 18",
+      "Ask the priest to verify the identities"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011.",
+    "id": "68828174"
+  },
+  {
+    "question": "During Queen Elizabeth’s reign the British Empire became the largest empire the world had ever seen",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+    "id": "6884fc90"
+  },
+  {
+    "question": "Vaisakhi (also spelled Baisakhi) is celebrated on ______ each year with parades, dancing and singing",
+    "options": [
+      "14 January",
+      "14 April",
+      "14 July",
+      "14 October"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "68a24040"
+  },
+  {
+    "question": "Which of the options given below is not necessary for a new car?",
+    "options": [
+      "Car insurance",
+      "Road tax",
+      "Seat belts",
+      "MOT test"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.",
+    "id": "68a397d7"
+  },
+  {
+    "question": "What is the Cenotaph associated with?",
+    "options": [
+      "Government office",
+      "War Memorial",
+      "Garden",
+      "Park"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "After the First World War, Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors",
+    "id": "68a89487"
+  },
+  {
+    "question": "How many members form a jury in Scotland?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "20"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "68c0c4e7"
+  },
+  {
+    "question": "What will happen to any driver who has either taken more than the acceptable quantity of alcohol or refused to take the test?",
+    "options": [
+      "Asked to provide medical certificate",
+      "Arrested",
+      "Taken to his home",
+      "Given a warning"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If you are found driving while exceeding the alcohol limit you will be arrested.",
+    "id": "68d16085"
+  },
+  {
+    "question": "Who became famous for his tramp character in silent movies?",
+    "options": [
+      "Sir Rex Harrison",
+      "David Niven",
+      "Richard Burton",
+      "Charlie Chaplin"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "68d41476"
+  },
+  {
+    "question": "Which battle did William the Conqueror fight in?",
+    "options": [
+      "The Battle of Agincourt",
+      "The Battle of Hastings",
+      "The Battle of Bannockburn",
+      "The Battle of Bosworth Field"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "68e4ff06"
+  },
+  {
+    "question": "Which TWO of the following are traditional British foods?",
+    "options": [
+      "Strudel",
+      "Sushi",
+      "Welsh cakes",
+      "Haggis"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Welsh cakes are a traditional Welsh snack made from flour, dried fruits and spices. Haggis is a traditional Scottish food made from a sheep's stomach stuffed with offal, suet, onions and oatmeal.",
+    "id": "68e7a95e"
+  },
+  {
+    "question": "How many members does a jury in Scotland have?",
+    "options": [
+      "12",
+      "9",
+      "13",
+      "15"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+    "id": "68ed3d2c"
+  },
+  {
+    "question": "Which is a famous area in London for theatres?",
+    "options": [
+      "East End",
+      "West End",
+      "The City",
+      "South End"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are theaters in most towns and cities throughout the UK, ranging from the large to the small. They are an important part of local communities and often show both professional and amateur productions. London’s West End, also known as ‘Theatreland’, is particularly well known. The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the West End since 1952 and has had the longest initial run of any show in history.",
+    "id": "69027552"
+  },
+  {
+    "question": "The Speaker is an MP, he/she represents a constituency and deals with constituents' problems like any other MP",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP.",
+    "id": "690b8790"
+  },
+  {
+    "question": "The kingdoms of England and Scotland were united In 1707",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The term 'Great Britain' dates from the union in 1707 of England and Scotland",
+    "answers": [
+      0
+    ],
+    "id": "691e52ca"
+  },
+  {
+    "question": "Why was the Habeas Corpus Act (1679) so important?",
+    "options": [
+      "It gave women their property rights",
+      "It limited the power of the monarch",
+      "It guaranteed that no one could be held prisoner unlawfully",
+      "It gave women the right to vote"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for ‘you must present the person in court’. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
+    "id": "692b5472"
+  },
+  {
+    "question": "St Helena and the Falkland Islands are part of Great Britain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "692c9f17"
+  },
+  {
+    "question": "Donated blood is used by ______ to help people with a wide range of injuries and illnesses",
+    "options": [
+      "medical centres",
+      "hospitals",
+      "surgeries",
+      "chemists"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "692e3e9d"
+  },
+  {
+    "question": "A traditional food in Wales is Ulster fry.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "An Ulster fry is a traditional food of Northern Ireland. It is a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+    "id": "69309a3f"
+  },
+  {
+    "question": "Which TWO were introduced before the First World War (1914)?",
+    "options": [
+      "National Health Service (NHS)",
+      "Child Benefit payments",
+      "State retirement pension",
+      "Free school meals"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "A number of social changes were introduced before the First World War, including the state retirement pension and free school meals.",
+    "id": "693645b4"
+  },
+  {
+    "question": "Who can stand for office as a Local Councillor?",
+    "options": [
+      "British and EU citizens only",
+      "British, Irish, Eligible Commonwealth Citizens and EU citizens",
+      "British, Irish only",
+      "British, Irish and Eligible Commonwealth Citizens only"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "British citizens can stand for Office as a local councillor, a member of Parliament (or the devolved equivalents) or a member of the European Parliament. This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for Office if you are an Irish citizen, an eligible Commonwealth citizen or (except for standing to be an MP) a citizen of another EU country.",
+    "id": "6944606a"
+  },
+  {
+    "question": "What yearly event happens between Oxford and Cambridge Universities?",
+    "options": [
+      "A Game of Football",
+      "A Game of Basketball",
+      "A Tennis Match",
+      "A Rowing Race"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Rowing is also popular, both as a leisure activity and as a competitive sport. There is a popular yearly race on the Thames between Oxford and Cambridge Universities.",
+    "id": "6946baf2"
+  },
+  {
+    "question": "In Scotland, ______ people serve on a jury",
+    "options": [
+      "8",
+      "12",
+      "15",
+      "20"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "694a8cf5"
+  },
+  {
+    "question": "What is the name given to the conflict between those wishing for full Irish independence and those wishing to remain loyal to the UK government?",
+    "options": [
+      "the Troubles",
+      "the Clearances",
+      "the Problems",
+      "the Great Depression"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as ‘the Troubles’.",
+    "id": "69742b66"
+  },
+  {
+    "question": "King Henry VIII's daughter Mary was a devout Catholic and persecuted Protestants, which is why she became known as",
+    "options": [
+      "Catholic Mary",
+      "Scary Mary",
+      "Bloody Mary",
+      "Killer Mary"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "6980aba9"
+  },
+  {
+    "question": "The jet engine and radar were developed in Britain in the 1830s.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The jet engine and the radar were both developed in Britain in the 1930s.",
+    "id": "69823df7"
+  }
+]

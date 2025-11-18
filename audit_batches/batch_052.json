@@ -1,0 +1,655 @@
+[
+  {
+    "question": "You must pay road tax for your car",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6bbc3271"
+  },
+  {
+    "question": "Who is the spiritual leader of the Church of England?",
+    "options": [
+      "The Archbishop of Canterbury",
+      "The Archbishop of London",
+      "The Archbishop of Birmingham",
+      "The Archbishop of Manchester"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6bbcde8e"
+  },
+  {
+    "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony",
+    "options": [
+      "send",
+      "swear",
+      "affirm",
+      "sign"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "6bc0e6e8"
+  },
+  {
+    "question": "A group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament on ______",
+    "options": [
+      "5th November 1505",
+      "5th November 1605",
+      "5th November 1705",
+      "5th November 1805"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6bdf4a22"
+  },
+  {
+    "question": "What was an important English export in the middle ages?",
+    "options": [
+      "Stone",
+      "Potatoes",
+      "Wool",
+      "Glass"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "English wool became a very important export in the middle ages. People came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland.",
+    "id": "6be2afac"
+  },
+  {
+    "question": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6be5e4a3"
+  },
+  {
+    "question": "Money raised from income tax is being used for",
+    "options": [
+      "Roads",
+      "BBC TV and radio channels",
+      "Education",
+      "Water and drainage repair and maintenance",
+      "State benefits",
+      "Police and the armed forces"
+    ],
+    "answers": [
+      0,
+      2,
+      5
+    ],
+    "id": "6bebeb7d"
+  },
+  {
+    "question": "Who wrote 'The Lord of the Rings'?",
+    "options": [
+      "JRR Tolkien",
+      "Ian Fleming",
+      "J K Rowling",
+      "Charles Dickens"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Lord of the Rings by JRR Tolkien was voted the country's best-loved novel in 2003.",
+    "id": "6bf587b4"
+  },
+  {
+    "question": "In the 18th century two political groups emerged are:",
+    "options": [
+      "the Whigs",
+      "the Conservatives",
+      "the Tories",
+      "the Liberals"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "6bfcd038"
+  },
+  {
+    "question": "The Reform Act of 1832 took away the automatic right of hereditary peers to attend the House of Lords",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.",
+    "id": "6c096be2"
+  },
+  {
+    "question": "The Brit Awards is an event where ______ are given awards",
+    "options": [
+      "sports people",
+      "rich people",
+      "musicians",
+      "poor people"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6c0f7e46"
+  },
+  {
+    "question": "The patron saint's days are no longer public holidays in England and Wales",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6c16201c"
+  },
+  {
+    "question": "If you think someone is trying to persuade you to join an extremist or terrorist cause, who should you notify?",
+    "options": [
+      "MP",
+      "Police force",
+      "Church",
+      "Council office"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local police force.",
+    "id": "6c199b7f"
+  },
+  {
+    "question": "2 minutes silence is observed on the Remembrance Day",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6c32ff44"
+  },
+  {
+    "question": "John Constable was",
+    "options": [
+      "An important contributor to the 'pop art' movement of the 1960s",
+      "A landscape painter, most famous for his works of Dedham Vale on the Suffolk-Essex border in the East of England",
+      "A very successful Northern Irish portrait painter",
+      "A Welsh artist, best known for his engravings and stained glass"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6c385477"
+  },
+  {
+    "question": "A good way to support your local community is",
+    "options": [
+      "to shop for products locally where you can",
+      "to shop from the cheapest supermarkets",
+      "to shop from the online grocessory stores",
+      "to import fruits and vegetables from the abroad"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6c3d659b"
+  },
+  {
+    "question": "How many times has the UK hosted the Olympic games?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "8"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "6c3dd72c"
+  },
+  {
+    "question": "In Northern Ireland, a newly qualified driver must display an 'R' plate (for restricted driver) for one year after passing the test",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6c480ccb"
+  },
+  {
+    "question": "When did civil war begin between the King Charles I and Parliament?",
+    "options": [
+      "1625",
+      "1632",
+      "1642",
+      "1678"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "6c489f76"
+  },
+  {
+    "question": "The 'suffragettes' were women who",
+    "options": [
+      "chose to be single",
+      "left the UK to live in other countries",
+      "campaigned for women's votes",
+      "stayed at home to raise a family"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6c4b4f43"
+  },
+  {
+    "question": "Nick Park created the ‘Wallace and Gromit’ film. What kind of film was it?",
+    "options": [
+      "Animated film",
+      "Adventure film",
+      "Detective film",
+      "Romance film"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Britain continues to be particularly strong in special effects and animation. One example is the work of Nick Park, who has won four Oscars for his animated films, including three for films featuring Wallace and Gromit.",
+    "id": "6c4b57b9"
+  },
+  {
+    "question": "Influential British bands are:",
+    "options": [
+      "The Royal Family",
+      "The Rolling Stones",
+      "The National Trust",
+      "The Beatles"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "6c64ec7b"
+  },
+  {
+    "question": "Protestant Christian groups in the UK are:",
+    "options": [
+      "Buddhists",
+      "Baptists",
+      "Roman Catholics",
+      "Methodists"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "6c65ca41"
+  },
+  {
+    "question": "What is the origin of Parliament?",
+    "options": [
+      "The Church's system of governance",
+      "The Noblemen's council of governance",
+      "The King's council of advisers",
+      "The Knights' round table"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important noblemen and the leaders of the Church.",
+    "id": "6c671205"
+  },
+  {
+    "question": "In 1979 Margaret Thatcher became famous in UK history because she",
+    "options": [
+      "campaigned to give women the voting rights same age as men",
+      "took part in the Falklands War",
+      "became the first woman Prime Minister",
+      "became a High Court judge"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6c6b37a8"
+  },
+  {
+    "question": "Which of the following is a traditional food associated with Scotland?",
+    "options": [
+      "Roast beef",
+      "Ulster fry",
+      "Fish and chips",
+      "Haggis"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Haggis is a traditional Scottish food. It is a sheep's stomach stuffed with offal, suet, onions and oatmeal.",
+    "id": "6c7914a8"
+  },
+  {
+    "question": "There is no place in British society for extremism or intolerance",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is true",
+    "id": "6c7a237a"
+  },
+  {
+    "question": "Henry VIII is an important English monarch because",
+    "options": [
+      "He re-established the Catholic Church in England",
+      "He broke from the Church of Rome",
+      "He established the RAF",
+      "He invaded Sweden"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6c7afb59"
+  },
+  {
+    "question": "Developments associated with the 'Swinging Sixties' are:",
+    "options": [
+      "Divorce law reform",
+      "Children's rights law reform",
+      "Decimal currency",
+      "Abortion law reform"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "6c7e73a3"
+  },
+  {
+    "question": "Which of the following is a country of the UK?",
+    "options": [
+      "Channel Islands",
+      "Scotland",
+      "Isle of Man",
+      "Republic of Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Scotland is a country of the UK, along with England, Wales and Northern Ireland.",
+    "id": "6c7fd0b9"
+  },
+  {
+    "question": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.",
+    "id": "6c86af32"
+  },
+  {
+    "question": "The Tower of London is built by",
+    "options": [
+      "William the Conqueror",
+      "Oliver Cromwell",
+      "Winston Churchill",
+      "Queen Elizabeth II"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6c9a3b8d"
+  },
+  {
+    "question": "Which changes were introduced by the Education Act of 1944?",
+    "options": [
+      "Free secondary education for all",
+      "New public examinations for primary education",
+      "Primary education for all",
+      "A clear division between primary and secondary education"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "6c9c9a3e"
+  },
+  {
+    "question": "The Northern Ireland Assembly has ______ elected members, known as MLAs (members of the Legislative Assembly)",
+    "options": [
+      "108",
+      "118",
+      "128",
+      "138"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6c9cd563"
+  },
+  {
+    "question": "UK, West Germany, France, Belgium, Italy and the Netherlands formed the European Economic Community (EEC) in 1957.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "At first the UK did not wish to join the EEC but it eventually did so in 1973.",
+    "id": "6c9dff62"
+  },
+  {
+    "question": "The Scottish Parliament can pass legislation for Scotland on all matters.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Scottish Parliament can pass laws for Scotland on all matters that are not specifically reserved to the UK Parliament.",
+    "id": "6ca54d15"
+  },
+  {
+    "question": "Which two of the following are famous British Paralympians?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Baroness Tanni Grey-Thompson",
+      "Jayne Torvill",
+      "Ellie Simmonds"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "6ca798b9"
+  },
+  {
+    "question": "An international organisation working to prevent war and maintain peace is",
+    "options": [
+      "United Nations",
+      "Red Cross",
+      "NATO",
+      "Save The Children"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6cb2592f"
+  },
+  {
+    "question": "What date in November commemorates an event from 1605?",
+    "options": [
+      "Guy Fawkes Night, November 5",
+      "Remembrance Day, November 11",
+      "Mothering Sunday",
+      "Great Victory Day, November 20"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6cca6c50"
+  },
+  {
+    "question": "The bell called Big Ben, housed in the Elizabeth Tower is over ______ years old and is a popular tourist attraction",
+    "options": [
+      "150",
+      "180",
+      "200",
+      "210"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6cd4a313"
+  },
+  {
+    "question": "Women do not work after having children",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6cd51d4a"
+  },
+  {
+    "question": "Some public places have alcohol-free zones where you cannot drink in public",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "6cd72ee5"
+  },
+  {
+    "question": "The Church of Scotland is a ______ Church",
+    "options": [
+      "Presbyterian",
+      "Quaker",
+      "Methodist",
+      "Roman Catholic"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6cdd147a"
+  },
+  {
+    "question": "The Union Flag is often called the Union Jack.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Union Flag is often called the Union Jack",
+    "id": "6ce0f44d"
+  },
+  {
+    "question": "During the ______ World War Winston Churchill was the British Prime Minister",
+    "options": [
+      "First",
+      "Second"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6ceb9291"
+  },
+  {
+    "question": "Cardiff, Swansea and Newport are cities in England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Cardiff, Swansea and Newport are all cities in Wales.",
+    "id": "6cf06ec2"
+  },
+  {
+    "question": "A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a",
+    "options": [
+      "Provisional Driving License",
+      "National Insurance number",
+      "Full Driving License",
+      "Birth Certificate"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6cf4a748"
+  },
+  {
+    "question": "For much of the Stone Age, Britain was connected to the continent by a",
+    "options": [
+      "Telephone line",
+      "Land bridge",
+      "Power line"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6d08d93c"
+  },
+  {
+    "question": "When was the current voting age established?",
+    "options": [
+      "1949",
+      "1959",
+      "1969",
+      "1979"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6d1cd58d"
+  },
+  {
+    "question": "Which TWO changes were introduced by the Education Act of 1944?",
+    "options": [
+      "New public examinations",
+      "Primary education for all",
+      "Free secondary education for all",
+      "A clear division between primary and secondary education"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "The Education Act of 1944 (also known as the Butler Education Act after the Minister of Education at the time, R A Butler) introduced free secondary education for all and established a clear division between the primary and secondary phases of education.",
+    "id": "6d3ea4ff"
+  }
+]

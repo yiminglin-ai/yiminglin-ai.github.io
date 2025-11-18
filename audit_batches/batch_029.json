@@ -1,0 +1,655 @@
+[
+  {
+    "question": "Norwich, Plymouth and Leeds are cities in",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "England",
+      "Wales"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3cd7bd9f"
+  },
+  {
+    "question": "You should use ______ to get money back that was owed to you",
+    "options": [
+      "Youth Court",
+      "County Court",
+      "Coroner's Court",
+      "Magistrates' Court"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3cddfd4e"
+  },
+  {
+    "question": "Who led the team of scientists to 'split the atom' for the first time?",
+    "options": [
+      "Ernest Rutherford",
+      "Dylan Thomas",
+      "Alexander Fleming",
+      "Sir Ian Wilmot"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to 'split the atom' and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+    "id": "3ce881f8"
+  },
+  {
+    "question": "If judges agree that a government action is illegal, the government must",
+    "options": [
+      "change its policies and ask Parliament to change the law",
+      "persuade the judges to disagree"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3ceec7c4"
+  },
+  {
+    "question": "charities that care about the environment are",
+    "options": [
+      "British Red Cross",
+      "Age UK",
+      "National Trust",
+      "Friends of the Earth"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "3cf24e3f"
+  },
+  {
+    "question": "What area is the Home Secretary responsible for?",
+    "options": [
+      "Police",
+      "Education",
+      "Defence",
+      "Health"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+    "id": "3d18942b"
+  },
+  {
+    "question": "The process 'Highland Clearances' happened due to rebellion of slaves",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A process began which became known as the 'Highland Clearances'. Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+    "id": "3d1b9132"
+  },
+  {
+    "question": "______ and his wife Jane Daly introduced 'shampooing', the Indian art of head massage, to Britain",
+    "options": [
+      "Richard Arkwright",
+      "Robert Burns",
+      "Sake Dean Mahomet",
+      "Isaac Newton"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3d1ebd57"
+  },
+  {
+    "question": "Heroin, cocaine, ecstasy and cannabis are",
+    "options": [
+      "legal drugs",
+      "illegal drugs",
+      "medicine names"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3d1f9f38"
+  },
+  {
+    "question": "When was a Turing machine invented?",
+    "options": [
+      "1910s",
+      "1930s",
+      "1950s",
+      "1970s"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912–54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer.",
+    "id": "3d234057"
+  },
+  {
+    "question": "Small claims can also be issued online through Money Claims Online",
+    "options": [
+      "Yes, it can be issued from www.moneyclaim.gov.uk",
+      "No, it cannot be done online"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3d24c0d1"
+  },
+  {
+    "question": "In which battle during the First World War did the British suffer 60,000 casualties on the first day?",
+    "options": [
+      "Agincourt",
+      "El Alamein",
+      "The Somme",
+      "Waterloo"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In July 1916 the British suffered 60,000 casualties on the first day of the Battle of the Somme.",
+    "id": "3d2aca4b"
+  },
+  {
+    "question": "Who campaigned for women's rights?",
+    "options": [
+      "Suffragettes",
+      "Quakers",
+      "Bishops",
+      "Chartists"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the late 19th and early 20th centuries, an increasing number of women campaigned and demonstrated for greater rights and, in particular, the right to vote. They formed the women’s suffrage movement and became known as ‘suffragettes’.",
+    "id": "3d38d954"
+  },
+  {
+    "question": "You are not responsible for cleaning up after your pet in public places",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.",
+    "id": "3d3cee8b"
+  },
+  {
+    "question": "During the Industrial Revolution in the 18th and 19th centuries children also worked in the factories and were treated in the same way as adults",
+    "options": [
+      "Yes, this is correct",
+      "No, children were not allowed to enter in the factories"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3d4b0276"
+  },
+  {
+    "question": "What is the name of the building where the Northern Irish Assembly meets?",
+    "options": [
+      "Stormont",
+      "Holyrood",
+      "Westminster",
+      "Senedd"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly at Stormont, in Belfast.",
+    "id": "3d4b6fd2"
+  },
+  {
+    "question": "The last battle between Britain and France was the battle of Waterloo.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3d4dbb77"
+  },
+  {
+    "question": "What was build as part of the UK's celebration of the new millennium?",
+    "options": [
+      "The London Eye",
+      "Big Ben",
+      "The Eden Project",
+      "The Tower of London"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK's celebration of the new millennium and continues to be an important part of New Year celebrations.",
+    "id": "3d5b38bc"
+  },
+  {
+    "question": "The Boer War of 1899 to 1902 established the idea that the British Empire is a force for good",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers. The Boers fought fiercely and the war went on for over three years. Many died in the fighting and many more from disease. There was some public sympathy for the Boers and people began to question whether the Empire could continue.",
+    "id": "3d7852d9"
+  },
+  {
+    "question": "What sort of charity is 'Friends of the Earth'?",
+    "options": [
+      "An environmental charity",
+      "A medical research charity",
+      "A charity working with pets",
+      "A charity working with older people"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3d8e7490"
+  },
+  {
+    "question": "Police and Crime Commissioners (PCCs) are elected by ______",
+    "options": [
+      "the Home Office",
+      "the police",
+      "the public",
+      "members of Parliament"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3d9bffde"
+  },
+  {
+    "question": "What percentage of people identified themselves as Sikh in the 2009 Citizenship Survey?",
+    "options": [
+      "1%",
+      "2%",
+      "4%",
+      "6%"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3db299f8"
+  },
+  {
+    "question": "The Civil War in 1642 split the country into which two groups?",
+    "options": [
+      "The landowners and the slaves",
+      "The Roundheads and the Cavaliers",
+      "House of York and House of Lancaster",
+      "House of Commons and House of Lords"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "3db57e34"
+  },
+  {
+    "question": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth I",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
+    "id": "3dc15543"
+  },
+  {
+    "question": "Which of the following UK landmarks is in Northern Ireland?",
+    "options": [
+      "Big Ben",
+      "Snowdonia",
+      "The Giant's Causeway",
+      "The Eden Project"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Giant's Causeway is in Northern Ireland, on the north-east coast. It is a land formation of columns made from volcanic lava.",
+    "id": "3dc6200a"
+  },
+  {
+    "question": "Why is 1928 an important year for women's rights?",
+    "options": [
+      "Women could vote at 18, the same age as men",
+      "Women could vote at 21, the same age as men",
+      "Women could vote if they were over 30 years old",
+      "None of the above"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3dc6b96f"
+  },
+  {
+    "question": "What is a responsibility that you will have as a citizen or permanent resident of the UK?",
+    "options": [
+      "Using your car as much as possible",
+      "Visiting your local pub regularly",
+      "Keeping an allotment",
+      "Looking after the environment"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. These include looking after the environment, and the area in which you live.",
+    "id": "3dd541ce"
+  },
+  {
+    "question": "What is the percentage of Muslims living in the UK?",
+    "options": [
+      "2%",
+      "4%",
+      "3%",
+      "1%"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK is historically a Christian country. In the 2009 Citizenship Survey, 70% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both less than 0.5%), and 2% of people followed another religion.",
+    "id": "3ddcd702"
+  },
+  {
+    "question": "Famous gardens in the UK are:",
+    "options": [
+      "Sissinghurst",
+      "Bodnant Garden",
+      "Snowdonia",
+      "London Eye"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "3de3c143"
+  },
+  {
+    "question": "Which of these are 'Crown Dependencies'?",
+    "options": [
+      "The Channel Islands and the Isle of Man",
+      "St Helena and Wales",
+      "Ireland and the Channel Islands",
+      "St Helena and Falkland Islands"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Channel Islands and the Isle of Man are closely related to the UK but are not part of it. They have their own governments and are called 'Crown dependencies'.",
+    "id": "3df3c760"
+  },
+  {
+    "question": "The Reform Act of 1832 increased",
+    "options": [
+      "the number of electors",
+      "the power of the House of Lords"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "3e068439"
+  },
+  {
+    "question": "What was the religion of the Puritans?",
+    "options": [
+      "Hindu",
+      "Catholic",
+      "Sikh",
+      "Protestant"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "3e095c69"
+  },
+  {
+    "question": "Against which country did Britain fight at the Battle of Waterloo?",
+    "options": [
+      "Germany",
+      "Italy",
+      "France",
+      "Spain"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "3e18be31"
+  },
+  {
+    "question": "The Domesday Book gives a picture of society in England just after the Norman Conquest",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "William the Conqueror (the Duke of Normandy) sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+    "id": "3e3056da"
+  },
+  {
+    "question": "Nearly 20% of the population has a parent or grandparent born outside the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Nearly 10% of the population has a parent or grandparent born outside the UK.",
+    "id": "3e311a2b"
+  },
+  {
+    "question": "Who resides in 10 Downing Street?",
+    "options": [
+      "Prince Charles",
+      "The President",
+      "The Queen",
+      "The Prime Minister"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+    "id": "3e3e77c3"
+  },
+  {
+    "question": "The Welsh Dragon doesn't appear on the Union Flag because Wales was already united with England in 1606",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+    "id": "3e5c3a75"
+  },
+  {
+    "question": "Who first built the Tower of London?",
+    "options": [
+      "Oliver Cromwell",
+      "Queen Elizabeth II",
+      "William the Conqueror",
+      "Winston Churchill"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Tower of London was built by William the Conqueror after he became king in 1066.",
+    "id": "3e5ed53a"
+  },
+  {
+    "question": "______ were built during the Industrial Revolution to link the factories to towns and cities and to the ports, particularly in the new industrial areas in the middle and north of England",
+    "options": [
+      "Train tracks",
+      "Telephone poles",
+      "Canals",
+      "Ropeways"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3e69a53c"
+  },
+  {
+    "question": "Is St Helena part of the UK?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "3e6cd9af"
+  },
+  {
+    "question": "Who was the Prime Minister during 1945-1951?",
+    "options": [
+      "R A Butler",
+      "Dylan Thomas",
+      "Clement Attlee",
+      "Winston Churchill"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Clement Attlee was born in London in 1883. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
+    "id": "3e758b28"
+  },
+  {
+    "question": "The present voting age of 18 was set in",
+    "options": [
+      "1918",
+      "1928",
+      "1949",
+      "1969"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "3e7eefb7"
+  },
+  {
+    "question": "Every MP in the UK has his/her own constituency",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Voters in each constituency elect their member of Parliament (MP) in a General Election. All of the elected MPs form the House of Commons. Most MPs belong to a political party, and the party with the majority of MPs forms the government.",
+    "id": "3e851679"
+  },
+  {
+    "question": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard",
+    "id": "3e96fd91"
+  },
+  {
+    "question": "How often do you have to take the MOT test for an old vehicle?",
+    "options": [
+      "Every year",
+      "Every 5 years",
+      "Every 2 years",
+      "Every 3 years"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.",
+    "id": "3e9ab664"
+  },
+  {
+    "question": "To register to vote you have to ______",
+    "options": [
+      "Pay fees",
+      "Fill in a form",
+      "Have to go to the MP"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3ea2c749"
+  },
+  {
+    "question": "How old do you have to be to have your name placed on the electoral register",
+    "options": [
+      "16 or over",
+      "18 or over",
+      "21 or over",
+      "25 or over"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "3eade607"
+  },
+  {
+    "question": "Which two of the following are fundamental principles of British life?",
+    "options": [
+      "Monarchy",
+      "The rule of law",
+      "Democracy",
+      "Join a political party"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "3ebb9400"
+  },
+  {
+    "question": "The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for the whole lifetime to speak on behalf of that Church.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+    "id": "3ed96c8b"
+  },
+  {
+    "question": "What does the York Minster have?",
+    "options": [
+      "Stained Glass",
+      "Stained Bricks",
+      "Stained Limestone",
+      "Stained Wood"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "York Minster  had windows of stained glass, telling stories about the Bible and Christian saints.",
+    "id": "3edcf483"
+  }
+]

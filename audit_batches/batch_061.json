@@ -1,0 +1,458 @@
+[
+  {
+    "question": "During Charles II's reign, in 1665, there was a major outbreak of plague in ______ where thousands of people died, especially in poorer areas",
+    "options": [
+      "Derby",
+      "Gloucestershire",
+      "Hertfordshire",
+      "London"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7ec26213"
+  },
+  {
+    "question": "The Union Jack is comprised of four countries’ crosses. They are: England, Wales, Scotland and Northern Ireland.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One symbol of the union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack. The flag combined crosses associated with England, Scotland and Ireland. It is still used today as the official flag of the UK.",
+    "id": "7edef9d6"
+  },
+  {
+    "question": "More serious civil cases (for example, when a large amount of compensation is being claimed) are dealt with in the ______ in England, Wales and Northern Ireland",
+    "options": [
+      "Sheriff Court",
+      "County Court",
+      "High Court",
+      "Peace Courts"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "7ef895c5"
+  },
+  {
+    "question": "______ is a national park in North Wales",
+    "options": [
+      "Peak District",
+      "Lake District",
+      "Northumberland",
+      "Snowdonia"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7f0173bc"
+  },
+  {
+    "question": "How is the Speaker of the House of Commons chosen?",
+    "options": [
+      "By the monarch",
+      "Through a public election",
+      "In a secret ballot",
+      "By the Prime Minister"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Speaker is chosen by other members of Parliament (MPs) in a secret ballot. The Speaker's role is to chair debates in the House of Commons.",
+    "id": "7f0323a4"
+  },
+  {
+    "question": "The period after the Norman Conquest up until about 1485 is called the Middle Ages was a time of almost constant war.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The period after the Norman Conquest up until about 1485 is called the Middle Ages was a time of almost constant war.",
+    "id": "7f043a29"
+  },
+  {
+    "question": "You need to be a member of a political party to be able to stand for election as an MP",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties.",
+    "id": "7f04e877"
+  },
+  {
+    "question": "Who gets appointed by local authorities to be the ceremonial leader of the council?",
+    "options": [
+      "Teamleader",
+      "MP",
+      "Mayor",
+      "Council leader"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Many local authorities appoint a mayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.",
+    "id": "7f0735c5"
+  },
+  {
+    "question": "Everyone has the legal right to choose their religion in the UK, or to choose not to practice a religion",
+    "options": [
+      "Yes, this is correct",
+      "No, in the most forms you have choose what is your religion"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7f140699"
+  },
+  {
+    "question": "As a British citizen, you should:",
+    "options": [
+      "Respect and obey the law",
+      "Vote in all elections",
+      "Take part in religious activities",
+      "Look after the area in which you live and the environment"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "",
+    "id": "7f307d2c"
+  },
+  {
+    "question": "Who in 2002 was voted the greatest Briton of all time?",
+    "options": [
+      "Margaret Thatcher",
+      "Winston Churchill",
+      "Clement Atlee",
+      "Sir Robert Walpole"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 2002, Winston Churchill was voted the greatest Briton of all time by the public.",
+    "id": "7f34269a"
+  },
+  {
+    "question": "______ was the first to be extensively covered by media",
+    "options": [
+      "The First World War",
+      "The Second World War",
+      "The Boer War",
+      "The Crimean War"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7f351744"
+  },
+  {
+    "question": "Which TWO developments were features of the Industrial Revolution?",
+    "options": [
+      "Machinery",
+      "Medical advances",
+      "Changes in the law",
+      "Steam power"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Britain was the first country to industrialise on a large scale. This happened because of the development of machinery and the use of steam power.",
+    "id": "7f3cfcc8"
+  },
+  {
+    "question": "Which of these is NOT part of the Commonwealth?",
+    "options": [
+      "USA",
+      "Canada",
+      "Barbados",
+      "UK"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The USA is not part of the Commonwealth.",
+    "id": "7f3ff7e7"
+  },
+  {
+    "question": "The 1970s were also a time of serious unrest in Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The 1970s were also a time of serious unrest in Northern Ireland.",
+    "id": "7f509029"
+  },
+  {
+    "question": "What day relates to the death of Jesus Christ?",
+    "options": [
+      "Good Friday",
+      "Easter Sunday",
+      "Easter Monday",
+      "Ash Wednesday"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7f564513"
+  },
+  {
+    "question": "The Union Flag consists of four crosses",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Union Flag consists of three crosses:\nThe cross of St George, patron saint of England, is a red cross on a white ground.\nThe cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.\nThe cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "7f57b6ed"
+  },
+  {
+    "question": "How many member states does the UN have?",
+    "options": [
+      "15",
+      "27",
+      "5",
+      "190"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members.",
+    "id": "7f5ededf"
+  },
+  {
+    "question": "The UK has a declining elderly population.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK has an ageing population. People in the UK are living longer than ever before.",
+    "id": "7f6296de"
+  },
+  {
+    "question": "A jury has 12 members in the UK",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+    "id": "7f6cc371"
+  },
+  {
+    "question": "______ can be traced back to 15th-century Scotland",
+    "options": [
+      "Surfing",
+      "Cricket",
+      "Golf",
+      "Motorbike racing"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "7f82e49b"
+  },
+  {
+    "question": "Who was given the title of Lord Protector in the 17th century?",
+    "options": [
+      "King Charles II",
+      "Samuel Pepys",
+      "Oliver Cromwell",
+      "Isaac Newton"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Oliver Cromwell was appointed Lord Protector after the execution of King Charles I, when England was a republic without a king.",
+    "id": "7f883686"
+  },
+  {
+    "question": "Who is credited with the introduction of the National Health Service (NHS) in 1948?",
+    "options": [
+      "Winston Churchill",
+      "Florence Nightingale",
+      "David Hume",
+      "Aneurin Bevan"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use",
+    "id": "7f894faa"
+  },
+  {
+    "question": "In Youth Courts, the name or photographs of the accused young person can be published in newspapers or used by the media",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+    "id": "7f94b955"
+  },
+  {
+    "question": "When was England ruled by a republic and not by a monarch?",
+    "options": [
+      "When Elizabeth I died without any successor",
+      "When Charles I was executed",
+      "When the Carta Magna restricted the king's power",
+      "When kind Harold died after the Battle of Hastings"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7f962225"
+  },
+  {
+    "question": "Which country(s) did Britain fight against during the Battle of Trafalgar?",
+    "options": [
+      "Only France",
+      "France and the Netherlands",
+      "Only the Netherlands",
+      "Spain and France"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Britain’s navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805.",
+    "id": "7fb1731e"
+  },
+  {
+    "question": "Who wrote about their experiences in the First World War?",
+    "options": [
+      "Elizabeth and Robert Browning",
+      "Wilfred Owen and William Blake",
+      "Lord Byron and John Masefield",
+      "Wilfred Owen and Siegfried Sassoon"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Wilfred Owen and Siegfried Sassoon – were inspired to write about their experiences in the First World War.",
+    "id": "7fb21cac"
+  },
+  {
+    "question": "You must treat everyone equally, regardless of sex, race, age, religion, disability, class or sexual orientation",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The statement is true.",
+    "id": "7fba1dea"
+  },
+  {
+    "question": "Which two of the following are Civil War Battles?",
+    "options": [
+      "The Battle of Waterloo",
+      "The Battle of Marston Moor",
+      "The Battle of Naseby",
+      "The Battle of Agincourt"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "7fc23e64"
+  },
+  {
+    "question": "Which of the statements is true?",
+    "options": [
+      "Halloween is an American festival that has recently become popular in the UK",
+      "Halloween is an ancient festival and has roots in the pagan festival to mark the beginning of winter."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+    "id": "7fd68c93"
+  },
+  {
+    "question": "Which of the following is a bridge built by Isambard Kingdom Brunel?",
+    "options": [
+      "The Abingdon Bridge",
+      "The Avonmouth Suspension Bridge",
+      "The Clifton Suspension Bridge",
+      "The London Bridge"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "7fdd410b"
+  },
+  {
+    "question": "Who is responsible for subjects such as education, health and defence?",
+    "options": [
+      "Chancellor of the Exchequer",
+      "Secretary of State",
+      "Foreign Secretary",
+      "Home Secretary"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Secretaries of State are responsible for subjects such as education, health and defence.",
+    "id": "7febddb4"
+  },
+  {
+    "question": "How many years did Charles I try to rule without Parliament?",
+    "options": [
+      "11",
+      "14",
+      "16",
+      "20"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "For 11 years, Charles I found ways in which to raise money without Parliament’s approval but eventually trouble in Scotland meant that he had to recall Parliament.",
+    "id": "7fedb737"
+  },
+  {
+    "question": "The European Union member states are",
+    "options": [
+      "Germany",
+      "India",
+      "Lithuania",
+      "Nigeria",
+      "New Zealand",
+      "Romania",
+      "Swaziland",
+      "UK"
+    ],
+    "answers": [
+      0,
+      2,
+      5,
+      7
+    ],
+    "id": "7ffb5cf3"
+  }
+]

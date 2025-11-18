@@ -1,0 +1,669 @@
+[
+  {
+    "question": "The House of Lords can overrule the House of Commons",
+    "options": [
+      "Yes, some times",
+      "Yes, the House of Lords have more powers than the House of Commons",
+      "No, that's not right"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2b987a2a"
+  },
+  {
+    "question": "Who was Britain's first woman Prime Minister?",
+    "options": [
+      "Mary Peters",
+      "Margaret Thatcher",
+      "Nicola Sturgeon",
+      "Mary Poppins"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Margaret Thatcher was the first woman Prime Minister.",
+    "id": "2b98f8c7"
+  },
+  {
+    "question": "As long as you live in United Kingdom you can vote in any elections",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2b9b0153"
+  },
+  {
+    "question": "What is the title of the Queen's eldest son, Prince Charles?",
+    "options": [
+      "Prince of Kent",
+      "Prince of Wales",
+      "Prince of Hanover",
+      "Prince of Brunswick"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2ba6bfb0"
+  },
+  {
+    "question": "Where is Loch Lomond located?",
+    "options": [
+      "Scotland",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Loch Lomond and the Trossachs National Park: This national park covers 720 square miles (1,865 square kilometres) in the west of Scotland. Loch Lomond is the largest expanse of freshwater in mainland Britain and probably the best-known part of the park.",
+    "id": "2bac6b81"
+  },
+  {
+    "question": "What prehistoric village (off the north coast of Scotland) has helped archaeologists to understand more about how people lived near the end of the Stone Age?",
+    "options": [
+      "Skara Brae on Orkney",
+      "St Helena",
+      "Falkland Islands",
+      "Shetland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+    "id": "2bba1263"
+  },
+  {
+    "question": "When were the last Welsh rebellions defeated?",
+    "options": [
+      "17th century",
+      "15th century",
+      "16th century",
+      "14th century"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced.",
+    "id": "2bccf864"
+  },
+  {
+    "question": "British values and principles are based on history and traditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "British society is founded on fundamental values and principles, which are based on history and traditions and are protected by law, customs and expectations.",
+    "id": "2bdf6277"
+  },
+  {
+    "question": "Who was elected as British Prime Minister in 1945?",
+    "options": [
+      "Clement Attlee",
+      "Winston Churchill",
+      "Harold Wilson",
+      "Harold Macmillan"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "2be0d6ea"
+  },
+  {
+    "question": "Which TWO members of a family have a special day dedicated to them?",
+    "options": [
+      "Uncles",
+      "Fathers",
+      "Mothers",
+      "Aunts"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "In the UK Mothering Sunday is celebrated on the Sunday three weeks before Easter and Father's Day on the third Sunday in June. Children send cards and give gifts on these days.",
+    "id": "2be301b3"
+  },
+  {
+    "question": "Who is the St Patron of England?",
+    "options": [
+      "St George",
+      "St Patrick",
+      "St David",
+      "St Andrew"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "St George is the St Patron of England.",
+    "id": "2be6249d"
+  },
+  {
+    "question": "People living in the UK must pay tax on which of the following TWO?",
+    "options": [
+      "Wages from paid employment",
+      "Student Loans",
+      "Income from property, savings and dividends",
+      "Pay day Loans"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "People in the UK have to pay tax on their income, which includes:\n- Wages from paid employment\n- Profits from self-employment\n- Taxable benefits\n- Pensions\n- Income from property, savings and dividends.",
+    "id": "2bec29bd"
+  },
+  {
+    "question": "The UK government has never suspended the Northern Ireland Assembly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2bedb3d3"
+  },
+  {
+    "question": "Who was John Constable?",
+    "options": [
+      "An important contributor to the 'pop art' movement of the 1960s",
+      "A Welsh artist, best known for his engravings and stained glass",
+      "A very successful Northern Irish portrait painter",
+      "A landscape painter, most famous for his works of Dedham Vale on the Suffolk-Essex border in the East of England"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk, Essex border in the east of England.",
+    "id": "2bf90ccd"
+  },
+  {
+    "question": "Who appoints the members of the cabinet?",
+    "options": [
+      "The Monarch",
+      "The Prime Minister",
+      "The people of the UK",
+      "The Speaker"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments which together form the cabinet.",
+    "id": "2c075763"
+  },
+  {
+    "question": "The best-known work of ______ is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year",
+    "options": [
+      "Isaac Newton",
+      "Robert Burns",
+      "Howard Florey",
+      "Ernest Rutherford"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2c1be90c"
+  },
+  {
+    "question": "Patron saints' days occur in March are:",
+    "options": [
+      "St George",
+      "St David",
+      "St Andrew",
+      "St Patrick"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "2c340c47"
+  },
+  {
+    "question": "How many national parks are there in England, Wales and Scotland?",
+    "options": [
+      "8",
+      "15",
+      "25",
+      "5"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+    "id": "2c3c2548"
+  },
+  {
+    "question": "Pantomime productions are staged in theatres during ______",
+    "options": [
+      "Easter",
+      "Christmas",
+      "Summer",
+      "St David's Day"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2c3c876c"
+  },
+  {
+    "question": "Famous British authors includes:",
+    "options": [
+      "Gustav Holst",
+      "Thomas Hardy",
+      "Mary Quant",
+      "Henry Moore",
+      "Graham Greene"
+    ],
+    "answers": [
+      1,
+      4
+    ],
+    "id": "2c5c7a21"
+  },
+  {
+    "question": "Who wrote The Bruce about the Battle of Bannockburn?",
+    "options": [
+      "Elizabeth of York",
+      "Geoffrey Chaucer",
+      "James Bruce",
+      "John Barbour"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "2c5cdb75"
+  },
+  {
+    "question": "How old do you have to be to buy alcohol in the UK?",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2c7305a5"
+  },
+  {
+    "question": "Magistrates usually work unpaid and do not need legal qualifications.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications.",
+    "id": "2c73cf72"
+  },
+  {
+    "question": "If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA)",
+    "options": [
+      "Yes, this is correct",
+      "No, if you buy a used car, you don't have to register it"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "2c7ad0ff"
+  },
+  {
+    "question": "How many times did Sir Jackie Stewart win the Formula 1 championship?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Jackie Stewart (1939–) is a Scottish former racing driver who won the Formula 1 world championship three times.",
+    "id": "2c954f58"
+  },
+  {
+    "question": "Magna Carta was important because",
+    "options": [
+      "it established a new system of free education",
+      "it limited the power of the monarch",
+      "it gave women legal rights",
+      "it gave all men the vote"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2c9fc811"
+  },
+  {
+    "question": "Where are minor criminal cases in England, Wales and Northern Ireland heard?",
+    "options": [
+      "Justice of the Peace Court",
+      "County Court",
+      "Appellate Court",
+      "Magistrates Court"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "id": "2cb6e7ff"
+  },
+  {
+    "question": "Which architectural style are the famous London buildings of the 19th century, such as the House of Parliament and St Pancras Station, associated with?",
+    "options": [
+      "Roman",
+      "Gothic",
+      "Catholic",
+      "Indian"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the 19th century, the medieval ‘gothic’ style became popular again. As cities expanded, many great public buildings were built in this style. The Houses of Parliament and St Pancras Station were built at this time, as were the town halls in cities such as Manchester and Sheffield.",
+    "id": "2cca3e11"
+  },
+  {
+    "question": "Which of the following is an example of civil law?",
+    "options": [
+      "To sell tobacco products to anyone under the age of 18",
+      "To buy alcohol for people who are under the age of 18",
+      "Discrimination in the workplace",
+      "To carry a weapon of any kind, even if it is for self-defence"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "2ccc41db"
+  },
+  {
+    "question": "Organ donation in the UK is",
+    "options": [
+      "a legal requirement",
+      "voluntary",
+      "compulsory required when you apply for a driving license"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2ccf432b"
+  },
+  {
+    "question": "Forcing another person to marry is",
+    "options": [
+      "allowed in the UK",
+      "a criminal offence",
+      "only allowed if they are cousins"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "2ce297f8"
+  },
+  {
+    "question": "Dundee and Aberdeen are cities in Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Dundee and Aberdeen are cities in Scotland.",
+    "id": "2ce9c22d"
+  },
+  {
+    "question": "What did the UK heavily rely on during the industrial revolution?",
+    "options": [
+      "New economic ideas",
+      "Steam power",
+      "Medical advancements",
+      "Software development"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Scientific discoveries, such as James Watt's work on steam power, helped the progress of the Industrial Revolution.",
+    "id": "2ceac47c"
+  },
+  {
+    "question": "Wales wasn’t under Anglo-Saxon rule",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.",
+    "id": "2d002ee3"
+  },
+  {
+    "question": "What county is 'Maiden Castle' in?",
+    "options": [
+      "Dorset",
+      "Wiltshire",
+      "Lothians",
+      "Berkshire"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+    "id": "2d0215fb"
+  },
+  {
+    "question": "People living and working in towns after Black Death led to the development of what?",
+    "options": [
+      "Young Work force",
+      "Powerfull Clans",
+      "Strong Middle Class",
+      "Slavery"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+    "id": "2d0354d8"
+  },
+  {
+    "question": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence",
+    "id": "2d0d56c0"
+  },
+  {
+    "question": "In Scotland, serious cases are heard in a ______ with either a sheriff or a sheriff with a jury",
+    "options": [
+      "Crown Court",
+      "Magistrates' Court",
+      "Sheriff Court"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2d28b2f2"
+  },
+  {
+    "question": "People vote in elections at",
+    "options": [
+      "local school",
+      "polling stations",
+      "local library",
+      "polling places in Scotland"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "2d3814df"
+  },
+  {
+    "question": "Can the anthem 'God save the queen' be played only in presence of the queen?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "You can play the anthem in anyone's presence.",
+    "id": "2d411514"
+  },
+  {
+    "question": "Which of the following is a famous Stone Age site in the UK?",
+    "options": [
+      "Globe Theatre",
+      "Nelson's Column",
+      "Stonehenge",
+      "Windsor Castle"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Stonehenge is a famous Stone Age site in Wiltshire. It was probably built as a place for religious ceremonies.",
+    "id": "2d425873"
+  },
+  {
+    "question": "Which TWO are part of the Government?",
+    "options": [
+      "the parliament",
+      "the civil service",
+      "local people",
+      "local business"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "In the UK, there are several different parts of government. The main ones are: the monarchy, Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts) ,the police, the civil service, local government.",
+    "id": "2d43d2e8"
+  },
+  {
+    "question": "The National Assembly has ______ Assembly members",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2d572ba1"
+  },
+  {
+    "question": "‘Great Britain’ and ‘the United Kingdom’ have the same meaning",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. ‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland.",
+    "id": "2d575007"
+  },
+  {
+    "question": "How are civil servants appointed and what political party do they belong to?",
+    "options": [
+      "They are chosen on merit and form part of the Liberal Democrats party",
+      "They are chosen randomly and form part of the Conservative party",
+      "They are chosen randomly and are politically neutral",
+      "They are chosen on merit and are politically neutral"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "2d6df27e"
+  },
+  {
+    "question": "When did the English defeat the Spanish Armada, which had been sent by Spain to conquer England and restore Catholicism?",
+    "options": [
+      "1455",
+      "1488",
+      "1544",
+      "1588"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "2d74bb6b"
+  },
+  {
+    "question": "Citizens of the United Kingdom, the Irish Republic, or the Commonwealth, aged ______, may stand for public office",
+    "options": [
+      "Aged 18 or over",
+      "Aged 21 or over",
+      "Aged 25 or over"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2d78b24d"
+  },
+  {
+    "question": "In which part of the British Empire did the Boer War of 1899–1902 take place?",
+    "options": [
+      "India",
+      "Canada",
+      "Australia",
+      "South Africa"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Boer War took place in South Africa between the British army and the Boer settlers, who originally came from the Netherlands.",
+    "id": "2d7a990c"
+  },
+  {
+    "question": "The murder of Franz Ferdinand in 1914 led to the start of which world war?",
+    "options": [
+      "Second World War",
+      "Crimean War",
+      "First World War",
+      "Wars of the Roses"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18).",
+    "id": "2d7cae6b"
+  },
+  {
+    "question": "Does the British government have a written constitution?",
+    "options": [
+      "Yes only one constitution",
+      "Yes two constitutions",
+      "Maybe",
+      "No"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "2d7d27cc"
+  }
+]

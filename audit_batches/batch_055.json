@@ -1,0 +1,680 @@
+[
+  {
+    "question": "The queen of Scotland, Mary Stuart's much of the childhood was spent in ______",
+    "options": [
+      "Germany",
+      "France",
+      "England",
+      "Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7141c53a"
+  },
+  {
+    "question": "Sir Steve Redgrave is a famous",
+    "options": [
+      "novelist",
+      "film actor who has won several BAFTAs",
+      "rower who won gold medals in five consecutive Olympic Games"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "714f9e7a"
+  },
+  {
+    "question": "At a court trial a jury decides",
+    "options": [
+      "whether the accused is 'guilty' or 'not guilty'",
+      "whether evidence should be allowed to be heard",
+      "who the judge should be in the next session",
+      "the sentence that the accused should be given"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "714fd206"
+  },
+  {
+    "question": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+    "options": [
+      "Coalition",
+      "Pre-selection",
+      "Random selection",
+      "By-election"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "71641e54"
+  },
+  {
+    "question": "Where in Scotland is known as the home of golf?",
+    "options": [
+      "St Andrews",
+      "Inverness",
+      "Glasgow",
+      "Edinburgh"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Game of golf can be traced back to 15th century Scotland. It is a popular sport played socially as well as professionally. There are public and private golf courses all over the UK. St Andrews in Scotland is known as the home of golf.",
+    "id": "717c37d7"
+  },
+  {
+    "question": "You must pay road tax for your car and display the tax disc on the windscreen, which shows that the tax has been paid",
+    "options": [
+      "Yes, this is correct",
+      "No, if you buy the road tax online then you don't have to display it on the windscreen"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "718218a1"
+  },
+  {
+    "question": "Which TWO are major political parties in the UK?",
+    "options": [
+      "Labour Party",
+      "Republicans",
+      "Democrats",
+      "Conservative Party"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The Conservative Party, the Labour Party, the Liberal Democrats are big political parties",
+    "id": "718da770"
+  },
+  {
+    "question": "Who did Britain fight against in the Crimean War?",
+    "options": [
+      "Turkey",
+      "Russia",
+      "France",
+      "Germany"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7194a3f7"
+  },
+  {
+    "question": "Which TWO famous London buildings are built in the 19th-century 'gothic' style?",
+    "options": [
+      "St Paul's Cathedral",
+      "The Houses of Parliament",
+      "St Pancras Station",
+      "Buckingham Palace"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "In the 19th century, the medieval 'gothic' style became popular again. The Houses of Parliament and St Pancras Station were built at this time.",
+    "id": "7195bfd2"
+  },
+  {
+    "question": "The 'plantation' settlements in Ireland during the 17th century led to",
+    "options": [
+      "Catholic farmers replacing Protestant landowners",
+      "Protestant farmers replacing Catholic landowners"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "719e8295"
+  },
+  {
+    "question": "Which TWO industries developed during the Great Depression?",
+    "options": [
+      "Aviation",
+      "Agriculture",
+      "Automobile",
+      "Shipbuilding"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "During the Great Depression (1929),he traditional heavy industries such as shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed.",
+    "id": "71b854da"
+  },
+  {
+    "question": "Oliver Cromwell was given the title of ______ and ruled until his death in 1658",
+    "options": [
+      "Lord Victor",
+      "Lord Lucan",
+      "Lord Sefton",
+      "Lord Protector"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "71c651d3"
+  },
+  {
+    "question": "Forced Marriage Protection Orders were introduced in ______ for Scotland",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "71caec97"
+  },
+  {
+    "question": "What created the United Kingdom of Great Britain and Ireland?",
+    "options": [
+      "The Great Union",
+      "The Act for the Governments",
+      "The Act of Union",
+      "The Great Governments"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Act of Union of 1800 created the United Kingdom of Great Britain and Ireland.",
+    "id": "71d82b95"
+  },
+  {
+    "question": "You can't sell cigarettes to anyone below 18 years old",
+    "options": [
+      "Yes, it's correct",
+      "No, but you can sell them secretly"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "71eecc6b"
+  },
+  {
+    "question": "Who can only give ‘advice, warn and encourage’ about government matters?",
+    "options": [
+      "Members of the police",
+      "The Queen",
+      "The Speaker",
+      "Prime Minister"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The monarch has regular meetings with the Prime Minister and can advise, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet",
+    "id": "71f5b546"
+  },
+  {
+    "question": "What is the main purpose of the Opposition?",
+    "options": [
+      "To participate in public debates",
+      "To represent the people of the UK",
+      "To change laws",
+      "To challenge the government"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The opposition form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+    "id": "71f81d8b"
+  },
+  {
+    "question": "Which of the following castles is located in Scotland?",
+    "options": [
+      "Crathes Castle",
+      "Caernarfon Castle",
+      "Bodiam Castle",
+      "Powis Castle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "71f9a0c4"
+  },
+  {
+    "question": "Which of these statements about the Commonwealth is true?",
+    "options": [
+      "The Commonwealth is an association of countries that have the same constitution and legal framework.",
+      "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development.",
+    "id": "71fc583a"
+  },
+  {
+    "question": "What's the name of the admiral who died in a sea battle in 1805 and has a monument in Trafalgar Square, London?",
+    "options": [
+      "Nelson",
+      "Drake",
+      "Raleigh",
+      "Cook"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "720b9f59"
+  },
+  {
+    "question": "Adult citizens of other EU states who are resident in the UK can vote in all elections",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "720d4afb"
+  },
+  {
+    "question": "The Battle of Somme resulted in how many British casualties on the first day?",
+    "options": [
+      "40000",
+      "60000",
+      "120000",
+      "140000"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One battle, the British attack on the Somme in July 1916, resulted in about 60,000 British casualties on the first day alone.",
+    "id": "721016eb"
+  },
+  {
+    "question": "Which TWO responsibilities should you respect as a resident of the UK?",
+    "options": [
+      "Respect and obey the law",
+      "Treat others with fairness",
+      "Vote for the government in power",
+      "Take in and look after stray animals"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "There are responsibilities and freedoms which are shared by all those living in the UK. These include respecting and obeying the law, and treating others with fairness.",
+    "id": "721f2091"
+  },
+  {
+    "question": "Most people in the UK live in towns and cities.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Most people in the UK live in towns and cities but much of Britain is still countryside.",
+    "id": "724ed7c0"
+  },
+  {
+    "question": "Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?",
+    "options": [
+      "William of Orange",
+      "King Alfred the Great",
+      "Henry VIII",
+      "Robert the Bruce"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7270d366"
+  },
+  {
+    "question": "To apply to become a permanent resident or citizen of the UK, you will need to:",
+    "options": [
+      "speak and read English",
+      "renew your current passport by providing a new photograph",
+      "have a good understanding of life in the UK",
+      "get a provisional driving license",
+      "go to home office and apply in person"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "7283bcf7"
+  },
+  {
+    "question": "Which TWO of the following were major welfare changes introduced from 1945 to 1950?",
+    "options": [
+      "National Health Service (NHS)",
+      "State retirement pension",
+      "Employment exchanges",
+      "A social security system for all"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "The Labour government that was elected in 1945 established the National Health Service (NHS) and a social security system for all.",
+    "id": "7288c878"
+  },
+  {
+    "question": "If you wish to be a permanent resident or citizen of the UK, you should",
+    "options": [
+      "respect and obey the law",
+      "respect the rights of other, including the right to their own opinions",
+      "look after yourself and your family",
+      "treat others with fairness",
+      "look after the area in which you live and the environment",
+      "All of the above"
+    ],
+    "answers": [
+      5
+    ],
+    "id": "7298751e"
+  },
+  {
+    "question": "What was Isaac Newton known for?",
+    "options": [
+      "The discovery of insulin",
+      "The discovery of gravity",
+      "The discovery of penicillin",
+      "The discovery of the steam power"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "72a670be"
+  },
+  {
+    "question": "Which TWO of these are core values and responsibilities of the British society?",
+    "options": [
+      "To work to provide for yourself and your family",
+      "Always share the same views as your partner",
+      "Not to behave responsibly",
+      "To vote in local and national government elections"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
+    "id": "72c9181b"
+  },
+  {
+    "question": "Why is 1918 an important date in the history of women's rights?",
+    "options": [
+      "The first divorce laws were introduced.",
+      "Women were given the right to vote.",
+      "Equal pay laws were passed.",
+      "Women were made legally responsible for their children."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1918, women over the age of 30 were given the right to vote. In 1928, women were given the right to vote at 21, the same age as men.",
+    "id": "72ccc3ab"
+  },
+  {
+    "question": "What does the UN aim to do?",
+    "options": [
+      "Prevent Starvation",
+      "Prevent High Inflation",
+      "Prevent Diseases",
+      "Prevent War"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.",
+    "id": "72ceaff0"
+  },
+  {
+    "question": "What is the most famous rugby tournament?",
+    "options": [
+      "The Six Nations Championship",
+      "The Wimbledon Championship",
+      "The Super Bowl",
+      "Royal Ascot"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy. The Super League is the most well-known rugby league (club) competition.",
+    "id": "72d4dfc0"
+  },
+  {
+    "question": "The second largest party in the House of Commons is usually known by ______",
+    "options": [
+      "the Opposition",
+      "the Senate",
+      "the Other Side",
+      "the Lords"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "72ec1731"
+  },
+  {
+    "question": "Who supported King Charles I during the Civil War?",
+    "options": [
+      "Roundheads",
+      "Suffragettes",
+      "Quakers",
+      "Cavaliers"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "73020bb5"
+  },
+  {
+    "question": "What language did the Iron Age people speak?",
+    "options": [
+      "Anglo-Saxon",
+      "English",
+      "Viking",
+      "Celtic"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Their language was part of the Celtic language family.",
+    "id": "73020eab"
+  },
+  {
+    "question": "Lake District is the largest national park of England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "73083425"
+  },
+  {
+    "question": "Who invaded England in 1066?",
+    "options": [
+      "Richard the Lionheart",
+      "Canute",
+      "William of Normandy",
+      "Harold of Wessex "
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1066, William of Normandy invaded England and defeated King Harold at the Battle of Hastings.",
+    "id": "73118481"
+  },
+  {
+    "question": "During the period of 1600, Ireland was an almost completely ______ country",
+    "options": [
+      "Catholic",
+      "Irish",
+      "Protestant"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "731c69c9"
+  },
+  {
+    "question": "D-Day refers to what event in British history?",
+    "options": [
+      "Battle of Trafalgar",
+      "British invasion of Europe in 1944",
+      "Dropping of the atom bomb on Japan",
+      "End of the war in Europe in 1945"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "D-Day refers to the allied invasion of Europe on 6 June 1944, which took place on the beaches of Normandy in France.",
+    "id": "7330e326"
+  },
+  {
+    "question": "How can you arrange to get a National Insurance number?",
+    "options": [
+      "Contact your local council",
+      "Contact the Department for Work and Pensions",
+      "Contact your employer",
+      "Write to your MP"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If you have permission to work in the UK, you will need to telephone the Department for Work and Pensions (DWP) to arrange to get a National Insurance number.",
+    "id": "73423a56"
+  },
+  {
+    "question": "Where are the more serious civil cases dealt with in Scotland?",
+    "options": [
+      "Peace Courts",
+      "High Court",
+      "Court of Session in Edinburgh",
+      "Sheriff Court"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court in England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh.",
+    "id": "73457aa1"
+  },
+  {
+    "question": "‘The Mousetrap’,’Jesus Christ Superstar’ and ‘Evita’ are examples of British what?",
+    "options": [
+      "Theatre",
+      "Music",
+      "Films",
+      "Art"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "They are examples of theatre plays.",
+    "id": "73562ca1"
+  },
+  {
+    "question": "Home Secretary is responsible for immigration",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Home Secretary is responsible for immigration",
+    "id": "7359c809"
+  },
+  {
+    "question": "How much do you have to pay to visit the Parliament?",
+    "options": [
+      "General public are not allowed inside the Parliament",
+      "A flat fee of £60 to visit both houses of Parliament and many committees",
+      "Whatever your MP demand for the ticket",
+      "None of the above"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "736666cd"
+  },
+  {
+    "question": "Jensen Button, Lewis Hamilton and Damon Hill are all British winners of the ______ Championship",
+    "options": [
+      "Athletics",
+      "Formula 1",
+      "Football",
+      "Skiing"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "736ab55b"
+  },
+  {
+    "question": "St David is the patron saint of which country of the United Kingdom?",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "736bafea"
+  },
+  {
+    "question": "How many Russian and Polish Jews came to Britain between 1870-1914?",
+    "options": [
+      "140,000",
+      "120,000",
+      "60,000",
+      "30,000"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "People continued to come to Britain from other parts of the world. For example, between 1870 and 1914, around 120,000 Russian and Polish Jews came to Britain to escape persecution.",
+    "id": "7377ae09"
+  },
+  {
+    "question": "What will you receive before the election?",
+    "options": [
+      "A poll card",
+      "A ballot card",
+      "A vote card",
+      "Ballot paper"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People vote in elections at places called polling stations, or polling places in Scotland. Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place.",
+    "id": "737a3382"
+  },
+  {
+    "question": "Which TWO religions celebrate Diwali?",
+    "options": [
+      "Islam",
+      "Buddhism",
+      "Sikh",
+      "Hindu"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+    "id": "737a9bea"
+  }
+]

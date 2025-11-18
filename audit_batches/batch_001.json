@@ -1,0 +1,670 @@
+[
+  {
+    "question": "Which TWO countries took part in the Battle of Agincourt?",
+    "options": [
+      "England",
+      "Wales",
+      "France",
+      "Scotland"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+    "id": "0001e529"
+  },
+  {
+    "question": "The Turner Prize was established in 2004 and celebrates contemporary art.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Turner Prize was established in 1984.",
+    "id": "00097bfa"
+  },
+  {
+    "question": "Participating in your community is a fundamental principle of British life.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "British society is founded on fundamental values and principles which all those living in the UK should respect and support. This includes participating in community life.",
+    "id": "0017ba24"
+  },
+  {
+    "question": "Rudyard Kipling was born in South Africa",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Rudyard Kipling was born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was a force for good. Kipling was awarded the Nobel Prize in Literature in 1907.",
+    "id": "001e40e0"
+  },
+  {
+    "question": "In 1833 a law abolished slavery throughout the British Empire.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Parliament eventually passed the Emancipation Act that abolished slavery in 1833. William Wilberforce played an important part in changing the law.",
+    "id": "0024987a"
+  },
+  {
+    "question": "Who are TWO famous British film directors?",
+    "options": [
+      "Sir Alfred Hitchcock",
+      "Evelyn Waugh",
+      "Ridley Scott",
+      "Thomas Gainsborough"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Sir Alfred Hitchcock and Ridley Scott are British film directors who have had great success in the UK and internationally.",
+    "id": "0024ae2d"
+  },
+  {
+    "question": "Members of the public are allowed in Youth Courts",
+    "options": [
+      "Yes, it's correct",
+      "No, they are not allowed"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0038967c"
+  },
+  {
+    "question": "Eid ul-Fitr and Diwali are the National days",
+    "options": [
+      "Yes, its right",
+      "No, these are European Cities",
+      "No, these are other religious days"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "00433228"
+  },
+  {
+    "question": "The Battle of Waterloo was fought against which country?",
+    "options": [
+      "Netherlands",
+      "Germany",
+      "France",
+      "Russia"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The British army also fought against the French. In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo.",
+    "id": "00496bf9"
+  },
+  {
+    "question": "Where does 'the Fringe' festival take place?",
+    "options": [
+      "Fraserburgh",
+      "Edinburgh",
+      "Inverness",
+      "St Andrews"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0074bdaf"
+  },
+  {
+    "question": "The Boer War of 1899-1902 took place in ______",
+    "options": [
+      "Australia",
+      "Canada",
+      "India",
+      "South Africa"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0093bc79"
+  },
+  {
+    "question": "Where does the Scottish Grand National take place?",
+    "options": [
+      "The borders",
+      "Berkshire",
+      "Aintree",
+      "Ayr"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+    "id": "00997901"
+  },
+  {
+    "question": "George Frederick wrote which oratorio, which is sung regularly by choirs, often at Easter time?",
+    "options": [
+      "Messiah",
+      "The Origin",
+      "Elijah",
+      "The Light of the Moon"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The German-born composer George Frederick Handel (1695–1759) spent many years in the UK and became a British citizen in 1727. He wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II. Both these pieces continue to be very popular. Handel also wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time.",
+    "id": "00a1e608"
+  },
+  {
+    "question": "What is Diwali often called?",
+    "options": [
+      "The Festival of Lights",
+      "The Festival of the Sun",
+      "The Festival of Fire",
+      "The Festival of Love"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+    "id": "00a319df"
+  },
+  {
+    "question": "Who helped found the Women's Social and Political Union (WSPU) in 1903?",
+    "options": [
+      "Mary Peters",
+      "Elizabeth of York",
+      "Jane Seymour",
+      "Emmeline Pankhurst"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU).",
+    "id": "00a68918"
+  },
+  {
+    "question": "A driving licence held by a driver over 70 should be renewed ______",
+    "options": [
+      "Every year",
+      "Every 3 years",
+      "Every 5 years",
+      "Every 10 years"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "00aa79f7"
+  },
+  {
+    "question": "Who is the Queen's eldest son?",
+    "options": [
+      "Prince Edward",
+      "Prince Charles",
+      "Prince Andrew",
+      "Prince William"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen's eldest son is Prince Charles (the Prince of Wales).",
+    "id": "00afbf74"
+  },
+  {
+    "question": "What is the period of the 1960s known for?",
+    "options": [
+      "A downgrade in manufacturing",
+      "A growth in British fashion and pop music",
+      "A shortage of water",
+      "A blockage of social laws"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "00c57393"
+  },
+  {
+    "question": "What did Henry VII do?",
+    "options": [
+      "Increased the power of the nobles",
+      "Broke away from the Church of Rome",
+      "Restricted King's power",
+      "Reduced the power of the nobles"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.",
+    "id": "00fa58f1"
+  },
+  {
+    "question": "During the Victorian Age, the government promoted policies of free trade",
+    "options": [
+      "by importing expensive raw materials",
+      "by creating large public trading companies",
+      "by abolishing a number of taxes on imported goods",
+      "by abolishing slavery"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "00fbf263"
+  },
+  {
+    "question": "A popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions is possible via social networking websites such as:",
+    "options": [
+      "UK Border Agency",
+      "GOV.UK",
+      "Facebook",
+      "Online Banking",
+      "Twitter",
+      "Royal Mail"
+    ],
+    "answers": [
+      2,
+      4
+    ],
+    "id": "00ffebb2"
+  },
+  {
+    "question": "How old do you need to be in order to stand for public office?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "21 "
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Citizens of the UK, the Irish Republic or the Commonwealth must be aged 18 or over to stand for public office.",
+    "id": "011f1e81"
+  },
+  {
+    "question": "The BBC is controlled by the UK government",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government. Other UK channels are primarily funded through advertisements and subscriptions.",
+    "id": "0125ac90"
+  },
+  {
+    "question": "After the abolition of slavery (1833), 2 million migrants came from ______ to replace the freed slaves",
+    "options": [
+      "Australia",
+      "India",
+      "Russia",
+      "China"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "0127dc8e"
+  },
+  {
+    "question": "Shakespeare wrote",
+    "options": [
+      "'To be or not to be'",
+      "'We will fight them on the beaches'"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0138d1ab"
+  },
+  {
+    "question": "Which two of the following are key roles of school governors?",
+    "options": [
+      "Monitoring student's behaviour",
+      "Monitoring and evaluating school performance",
+      "Setting the strategic direction of the school",
+      "Giving awards to the best students of the school"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "01441561"
+  },
+  {
+    "question": "How many countries are members of the European Union?",
+    "options": [
+      "13",
+      "15",
+      "20",
+      "28"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "0145f78a"
+  },
+  {
+    "question": "The members of the House of Lords, known as peers, are elected by the people.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "015b5150"
+  },
+  {
+    "question": "What did R. A. Butler introduce?",
+    "options": [
+      "Free college education in Scotland",
+      "Free university education in the UK",
+      "Free primary education in Wales",
+      "Free secondary education in England"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "R.A. Butler oversaw the introduction of the Education Act 1944 (often called ‘The Butler Act’), which introduced free secondary education in England and Wales.",
+    "id": "016e933c"
+  },
+  {
+    "question": "Which of the following was written by Lord Byron?",
+    "options": [
+      "The Tyger",
+      "She Walks in Beauty",
+      "The Daffodils",
+      "Anthem for Doomed Youth"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "She Walks in Beauty is a short poem by Lord Byron",
+    "id": "016f89a6"
+  },
+  {
+    "question": "Who was recognised as the leader of the new republic?",
+    "options": [
+      "Robert Burns",
+      "Isaac Newton",
+      "Oliver Cromwell",
+      "William Shakespeare"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "017fcb63"
+  },
+  {
+    "question": "Examples of criminal law are:",
+    "options": [
+      "Discrimination in the workplace",
+      "Selling tobacco to anyone under the age of 18",
+      "Racial crime",
+      "Disputes about faulty goods"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "0186d7bf"
+  },
+  {
+    "question": "In the Old times The House of Lords was more powerful than The House of Commons",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "01898407"
+  },
+  {
+    "question": "Famous British authors are:",
+    "options": [
+      "Sir Arthur Conan Doyle",
+      "J K Rowling",
+      "Gustav Holst",
+      "Sir Steve Redgrave"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "018b56aa"
+  },
+  {
+    "question": "Who mapped the coast of Australia?",
+    "options": [
+      "Admiral Nelson",
+      "James Cook",
+      "Sir Francis Drake",
+      "Sir Francis George"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Captain James Cook mapped the coast of Australia and a few colonies were established there. Britain gained control over Canada, and the East India Company, originally set up to trade, gained control of large parts of India.",
+    "id": "018f5f20"
+  },
+  {
+    "question": "The British constitution is contained in a single written document.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'.",
+    "id": "01a50186"
+  },
+  {
+    "question": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+    "options": [
+      "Shelter",
+      "Age UK",
+      "Crisis",
+      "The National Trust"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "01af6660"
+  },
+  {
+    "question": "PCCs set local police priorities and the local policing budget",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "01b5a645"
+  },
+  {
+    "question": "When were films first shown publicly in the UK?",
+    "options": [
+      "1906",
+      "1896",
+      "1945",
+      "1914"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular.",
+    "id": "01e9e6ad"
+  },
+  {
+    "question": "Which of these are British overseas territories?",
+    "options": [
+      "St Helena and the Isle of Man",
+      "St Helena and Falkland Islands",
+      "The Channel Islands and the Isle of Man",
+      "USA and Australia"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "01fa2353"
+  },
+  {
+    "question": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland.",
+    "id": "02228f29"
+  },
+  {
+    "question": "The Council of Europe has the power to make European laws",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Council of Europe has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights",
+    "id": "0224cd78"
+  },
+  {
+    "question": "When did people learn how to make bronze?",
+    "options": [
+      "6,000 years ago",
+      "8,000 years ago",
+      "10,000 years ago",
+      "4,000 years ago"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Around 4,000 years ago, people learned to make bronze.",
+    "id": "022ccfa1"
+  },
+  {
+    "question": "Which battle is commemorated in a piece of embroidery, known as the Bayeux Tapestry?",
+    "options": [
+      "Battle of Britain",
+      "Battle of Hastings",
+      "Battle of Culloden",
+      "Battle of Waterloo"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "02361aab"
+  },
+  {
+    "question": "The Anglo-Saxon kingdoms in England were united under",
+    "options": [
+      "King Alfred the Great",
+      "King Kenneth MacAlpin",
+      "King Henry VIII"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "02467f8d"
+  },
+  {
+    "question": "Where is the Scottish Parliament building located?",
+    "options": [
+      "At Stormont",
+      "At Westminster",
+      "At Holyrood",
+      "In the Senedd"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "025e5ee9"
+  },
+  {
+    "question": "The King James' Bible is a new translation of the Bible into English",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "id": "0285e1e8"
+  },
+  {
+    "question": "Which TWO of the following do you have to pay tax on?",
+    "options": [
+      "Profits from self-employment",
+      "Income from property, savings and dividends",
+      "Shopping vouchers given to you by family or friends",
+      "Small amounts of money given to you as a gift"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "People in the UK have to pay tax on their income, which includes profits from self-employment, and income from property, savings and dividends. Money raised from income tax pays for government services such as roads, education, police and the armed forces.",
+    "id": "0287e93d"
+  },
+  {
+    "question": "What did the Queen celebrate in 2012?",
+    "options": [
+      "Platinum Jubilee",
+      "Diamond Jubilee",
+      "Gold Jubilee",
+      "Silver Jubilee"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Elizabeth II celebrated her Diamond Jubilee in 2012. The clock tower ‘Big Ben’ was named ‘Elizabeth Tower’ in honour of this event.",
+    "id": "028c89e5"
+  },
+  {
+    "question": "Which two responsibilities will you have as a British citizen?",
+    "options": [
+      "To buy food locally",
+      "To volunteer in a community project at least once a year",
+      "To look after yourself and your family",
+      "To respect the rights of others, including their right to their own opinions"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "",
+    "id": "0295a87c"
+  }
+]

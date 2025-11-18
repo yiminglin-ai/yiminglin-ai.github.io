@@ -1,0 +1,676 @@
+[
+  {
+    "question": "The Paralympic Games for 2012 were hosted in ______",
+    "options": [
+      "Birmingham",
+      "Bradford",
+      "Manchester",
+      "London"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "48cdc843"
+  },
+  {
+    "question": "What is the Church of England usually known as in other countries?",
+    "options": [
+      "The Anglican Church",
+      "The Episcopal Church",
+      "The State Church",
+      "The Great Church"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The official Church of the state is the Church of England, called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States.",
+    "id": "48cf2165"
+  },
+  {
+    "question": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a ______ in front of up to three specially trained magistrates or a District Judge",
+    "options": [
+      "Youth Court",
+      "Children's Court",
+      "Child Court"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "48ddc1d6"
+  },
+  {
+    "question": "It is illegal for any person under the age of 16 to buy a Lottery ticket",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 16 are not allowed to participate in the National Lottery.",
+    "id": "48e71759"
+  },
+  {
+    "question": "When was the Parliament of Northern Ireland first established?",
+    "options": [
+      "1999",
+      "1986",
+      "1937",
+      "1922"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969. The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998.",
+    "id": "48eb08a0"
+  },
+  {
+    "question": "What type of church is the Church of Scotland?",
+    "options": [
+      "Quaker",
+      "Roman Catholic",
+      "Presbyterian ",
+      "Methodist"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Church of Scotland is a Presbyterian Church, and it is Scotland's national Church.",
+    "id": "48faf082"
+  },
+  {
+    "question": "What must police officers do?",
+    "options": [
+      "Be rude and abusive",
+      "Obey the law",
+      "Make a false statement",
+      "Be politically neutral"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Police officers must obey the law. They must not be rude or abusive, make a false statement, misuse their authority, or commit racial discrimination.",
+    "id": "48fe29d5"
+  },
+  {
+    "question": "The English Parliament developed naturally out of the daily political needs of the English King and his government, particularly when the King",
+    "options": [
+      "wanted to get married",
+      "was the heir apparent",
+      "wanted to raise money"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "49128d23"
+  },
+  {
+    "question": "After which war were women allowed to vote at the age of 30?",
+    "options": [
+      "First World War",
+      "Crimean War",
+      "Second World War",
+      "Wars of the Roses"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1918(after WW1), women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War.",
+    "id": "491e4417"
+  },
+  {
+    "question": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka).",
+    "id": "4926a94d"
+  },
+  {
+    "question": "Who was the first man to run a mile in under 4 minutes?",
+    "options": [
+      "Sir Roger Bannister",
+      "Sir Ian Botham",
+      "Sir Steve Redgrave",
+      "Sir Jackie Stewart"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Roger Bannister (1929-) was the first man in the world to run a mile in under four minutes, in 1954.",
+    "id": "49290601"
+  },
+  {
+    "question": "Political parties are particularly busy at",
+    "options": [
+      "natural disaster",
+      "election times",
+      "terrorist threats"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "494c3785"
+  },
+  {
+    "question": "The Queen is ceremonial head of",
+    "options": [
+      "The Commonwealth",
+      "The National Council for Voluntary Organisations (NCVO)",
+      "The North Atlantic Treaty Organization (NATO)"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "494fe931"
+  },
+  {
+    "question": "What celebration takes place on the 25th of December each year?",
+    "options": [
+      "Father's Day",
+      "Hogmanay",
+      "Boxing Day",
+      "Christmas Day"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+    "id": "495366d3"
+  },
+  {
+    "question": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+    "options": [
+      "The Enlightenment",
+      "The Glorious Revolution",
+      "The Swinging Sixties",
+      "The Reformation"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "4963ada7"
+  },
+  {
+    "question": "The group of refugees that settled in England before 1720 were ______",
+    "options": [
+      "Bretons",
+      "Welsh",
+      "Huguenots",
+      "Germans"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "496bf8bd"
+  },
+  {
+    "question": "Courts deal with minor criminal cases in the UK are:",
+    "options": [
+      "Crown Court",
+      "Justice of the Peace Court",
+      "Centre Court",
+      "Coroner's Court",
+      "Magistrates' Court"
+    ],
+    "answers": [
+      1,
+      4
+    ],
+    "id": "4972a64a"
+  },
+  {
+    "question": "Father’s Day is the second Sunday in June. Children send cards or buy gifts for their fathers.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Father’s Day is the third Sunday in June. Children send cards or buy gifts for their fathers.",
+    "id": "49782c8a"
+  },
+  {
+    "question": "Which Castles are in use to this day?",
+    "options": [
+      "Edinburgh and Windsor",
+      "Edinburgh and Aberdeen",
+      "Edinburgh and London",
+      "Edinburgh and Dublin"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use.",
+    "id": "497c0705"
+  },
+  {
+    "question": "What percentage of the UK population is Sikh?",
+    "options": [
+      "4%",
+      "1%",
+      "3%",
+      "2%"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the 2009 Citizenship Survey, 1% of people identified themselves as Sikh.",
+    "id": "498598e1"
+  },
+  {
+    "question": "During the Victorian period the British Empire became the largest empire the world has ever seen.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The British Empire grew to cover India, Australia and large parts of Africa.",
+    "id": "49a57e8c"
+  },
+  {
+    "question": "Who is the patron Saint of Northern Ireland?",
+    "options": [
+      "St George",
+      "St Patrick",
+      "St Andrew",
+      "St David"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "49c260e4"
+  },
+  {
+    "question": "By 1400 the preferred language of the English court was ______",
+    "options": [
+      "English",
+      "French",
+      "German",
+      "Welsh"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "49ca084a"
+  },
+  {
+    "question": "Florence Nightingale is famous for her work on children's education in the 19th century",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Florence Nightingale was famous for her work to improve hospital conditions and the quality of nursing so she is often considered the founder of modern nursing",
+    "answers": [
+      1
+    ],
+    "id": "49d29d56"
+  },
+  {
+    "question": "Volunteering is compulsory in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Volunteering is working for good causes without payment. It is not compulsory.",
+    "id": "49d6b71b"
+  },
+  {
+    "question": "Which of the following monuments is located in Wiltshire?",
+    "options": [
+      "Hadrian's Wall",
+      "St Paul's Cathedral",
+      "Nelson's Column",
+      "Stonehenge"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "49e34ab7"
+  },
+  {
+    "question": "The first verse of the UK National Anthem begins with ‘God save the Queen’",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first verse of the UK National Anthem is:\n‘God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!’",
+    "id": "49e76b6a"
+  },
+  {
+    "question": "Which TWO words appear in the first two lines of the national anthem ‘God save the Queen’?",
+    "options": [
+      "Gracious",
+      "Noble",
+      "Royal",
+      "Magesty"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The first verse is:\n‘God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!’",
+    "id": "49f421d4"
+  },
+  {
+    "question": "How many times has the UK hosted the Olympic Games?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The main Olympic site for the 2012 Games was in Stratford, East London.",
+    "id": "49fa4b34"
+  },
+  {
+    "question": "In 2010 Queen Elizabeth II celebrated her Diamond Jubilee (50 years as queen)",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 2012 Queen Elizabeth II celebrated her Diamond Jubilee (60 years as queen)",
+    "id": "49fca5e0"
+  },
+  {
+    "question": "In 1999, what happened to hereditary peers in the House of Lords?",
+    "options": [
+      "Their numbers were greatly increased.",
+      "Their salaries were stopped.",
+      "Women were allowed to inherit their titles.",
+      "They lost their automatic right to attend the House of Lords."
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Hereditary peers are members of the House of Lords who have inherited their titles. In 1999 they lost their automatic right to attend and now only a few are left.",
+    "id": "49fe9c42"
+  },
+  {
+    "question": "The UK government hasn't used the power to suspend the Northern Ireland Assembly",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+    "id": "4a03aa22"
+  },
+  {
+    "question": "Which religion celebrates Diwali?",
+    "options": [
+      "Taoism",
+      "Islam",
+      "Sikh",
+      "Christianity"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge.",
+    "id": "4a0cf7e0"
+  },
+  {
+    "question": "How old do you have to be to go into betting shops or gambling clubs?",
+    "options": [
+      "16",
+      "21",
+      "20",
+      "18"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "You have to be 18 to go into betting shops or gambling clubs.",
+    "id": "4a18611e"
+  },
+  {
+    "question": "What did the Habeas Corpus Act introduce?",
+    "options": [
+      "That every prisoner has a right to a court hearing",
+      "A salary for members of Parliament (MPs)",
+      "Financial help for the unemployed, old-age pensions and free school meals",
+      "Measures to improve the conditions of workers"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "4a18697a"
+  },
+  {
+    "question": "Who chairs the debates at the House of Commons?",
+    "options": [
+      "A bishop",
+      "The Prime Minister",
+      "The Speaker",
+      "The archbishop of Canterbury"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "4a225a78"
+  },
+  {
+    "question": "Who is Sir Edward Elgar(1857-1934)?",
+    "options": [
+      "A musician",
+      "An actor",
+      "A doctor",
+      "A politician"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Edward Elgar (1857–1934) was born in Worcester, England. His best-known work is probably the Pomp and Circumstance Marches. March No 1 (Land of Hope and Glory) is usually played at the Last Night of the Proms at the Royal Albert Hall.",
+    "id": "4a238a7d"
+  },
+  {
+    "question": "Which of these venues is located in Greenwich?",
+    "options": [
+      "The O2",
+      "The SECC",
+      "The Copenhagen Concert Hall",
+      "Auditorio de Tenerife"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are many large venues that host music events throughout the year, such as: The O2 in Greenwich and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.",
+    "id": "4a3e7a3d"
+  },
+  {
+    "question": "Jane Austen and Charles Dickens both are famous",
+    "options": [
+      "painters",
+      "novelists",
+      "worriers"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4a4976b0"
+  },
+  {
+    "question": "What was the 'Black Death'?",
+    "options": [
+      "Battle",
+      "Lack of food",
+      "Disease",
+      "Fire"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+    "id": "4a4da19a"
+  },
+  {
+    "question": "What was Isaac Newton famous for?",
+    "options": [
+      "Splitting the atom",
+      "Discovering penicillin",
+      "Explaining gravitation",
+      "Cloning a sheep"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "His most famous published work was Philosophiae Naturalis Principia Mathematica (‘Mathematical Principles of Natural Philosophy’), which showed how gravity applied to the whole universe. Newton also discovered that white light is made up of the colours of the rainbow. Many of his discoveries are still important for modern science.",
+    "id": "4a655817"
+  },
+  {
+    "question": "Football has a long history in the UK and the first professional football clubs were formed in the late ______ century",
+    "options": [
+      "16th",
+      "17th",
+      "18th",
+      "19th"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "4a65cdbb"
+  },
+  {
+    "question": "What kind of genre was the film Wallace and Gromit created by Nick Park?",
+    "options": [
+      "A soap opera",
+      "A silent movie",
+      "An animated film",
+      "An action film"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "4a759947"
+  },
+  {
+    "question": "Which of the events is the landing of allied forces in Normandy?",
+    "options": [
+      "The Dunkirk spirit",
+      "The Battle of Britain",
+      "D-Day",
+      "The Blitz"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as ‘D-Day’).",
+    "id": "4a79ac12"
+  },
+  {
+    "question": "What are TWO benefits of volunteering?",
+    "options": [
+      "Earning additional money",
+      "Meeting new people",
+      "You are given a courtesy car as transport",
+      "Making your community a better place"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Volunteering is working for good causes without payment. There are many benefits to volunteering, including meeting new people and making your community a better place.",
+    "id": "4a962af6"
+  },
+  {
+    "question": "Who designed the Cenotaph?",
+    "options": [
+      "Sir Edwin Lutyens",
+      "Sir Christopher Wren",
+      "Robert Adam",
+      "Inigo Jones"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the Queen and many others.",
+    "id": "4a967533"
+  },
+  {
+    "question": "Which TWO of these are English civil war battles?",
+    "options": [
+      "Agincourt",
+      "Marston Moor",
+      "Bannockburn",
+      "Naseby"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "During the civil war, the king’s army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+    "id": "4a9baa97"
+  },
+  {
+    "question": "In 1348 a third of the populations of England, Wales and Scotland died as a result of ______ plague",
+    "options": [
+      "the White Death",
+      "the Black Death",
+      "the Dark Death",
+      "the Blue Death"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4aaa51bf"
+  },
+  {
+    "question": "MPs have a number of different responsibilities which includes:",
+    "options": [
+      "Represent everyone in their constituency",
+      "Stays at home and writes new laws",
+      "Scrutinise and comment on what the government is doing",
+      "Helps people with personal problems and makes sure all the taxes are collected",
+      "Help to create new laws",
+      "Debate important national issues",
+      "Meets other MPs to talk about the good old days"
+    ],
+    "answers": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "id": "4aaeef95"
+  },
+  {
+    "question": "Elizabeth I never married and so had no children of her own to inherit her throne",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4ab50426"
+  }
+]

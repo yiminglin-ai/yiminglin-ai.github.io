@@ -1,0 +1,655 @@
+[
+  {
+    "question": "Who designed the new St Paul's?",
+    "options": [
+      "Sir Christopher Wren",
+      "Gertrude Jekyll",
+      "Robert Adam",
+      "Sir Edwin Lutyens"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1666, a great fire destroyed much of the city, including many churches and St Paul's Cathedral. London was rebuilt with a new St Paul's, which was designed by a famous architect, Sir Christopher Wren.",
+    "id": "6f2b1be2"
+  },
+  {
+    "question": "The queen's eldest son, Prince Charles, is also known as?",
+    "options": [
+      "The Commonwealth King",
+      "The Prince of Wales",
+      "The Duke of Edinburgh",
+      "The King of Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "id": "6f2e6b42"
+  },
+  {
+    "question": "Lancelot 'Capability' Brown and Gertrude Jekyll were famous",
+    "options": [
+      "garden designers",
+      "carpenters",
+      "characters in a Sherlock Holmes story"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6f381863"
+  },
+  {
+    "question": "Where did the people of the Bronze Age bury their dead?",
+    "options": [
+      "Towers of Silence",
+      "Caves",
+      "Round barrows",
+      "Trees"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Around 4,000 years ago, people learned to make bronze. We call this period the Bronze Age. People lived in roundhouses and buried their dead in tombs called round barrows.",
+    "id": "6f3d0f9d"
+  },
+  {
+    "question": "How is the New Year often called in Scotland?",
+    "options": [
+      "New Year's eve",
+      "New Year",
+      "Second Christmas",
+      "Hogmanay"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Known in Scotland as ‘The Bard’, Robert Burns was a Scottish poet. His best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+    "id": "6f50e133"
+  },
+  {
+    "question": "Which of these is a famous classical music event in the UK?",
+    "options": [
+      "The Proms",
+      "T in the Park",
+      "Creamfields",
+      "Glastonbury Festival"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London.",
+    "id": "6f536d97"
+  },
+  {
+    "question": "What can you do to reduce carbon footprint?",
+    "options": [
+      "Do all your shopping from online",
+      "Buy duty-free products when you're abroad",
+      "Drive to the supermarket",
+      "Shop locally for products because the products you purchase will not have had to travel as far"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "6f5511be"
+  },
+  {
+    "question": "Which TWO developments are associated with the 'Swinging Sixties'?",
+    "options": [
+      "Children's Rights Law Reform",
+      "Abortion Law Reform",
+      "Establishment of the NHS",
+      "Divorce Law Reform"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "The Swinging Sixties was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved. It was quite common at the time for employers to ask women to leave their jobs when they got married, but Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender.",
+    "id": "6f640002"
+  },
+  {
+    "question": "What religion were Puritans?",
+    "options": [
+      "Protestants",
+      "Jews",
+      "Catholics",
+      "Buddists"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship.",
+    "id": "6f6fce42"
+  },
+  {
+    "question": "What are the official reports of proceedings in Parliament known as?",
+    "options": [
+      "Hansards",
+      "White Papers",
+      "Green Papers"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "6f70c7aa"
+  },
+  {
+    "question": "In everyday language people may say, 'rain stopped play'. With which sport is this phrase associated?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Rugby league",
+      "Horse racing"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The phrase 'rain stopped play' is used in cricket. The phrase has now passed into everyday usage.",
+    "id": "6f822e55"
+  },
+  {
+    "question": "Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised",
+    "options": [
+      "Bible",
+      "Book of Church",
+      "Book of England",
+      "Prayer Book"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "6f928a7a"
+  },
+  {
+    "question": "What is the traditional food of Northern Ireland?",
+    "options": [
+      "Haggis",
+      "Pancakes",
+      "Paella",
+      "Ulster Fry"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "6fd48406"
+  },
+  {
+    "question": "When is Remembrance Day?",
+    "options": [
+      "November 5th",
+      "November 11th",
+      "November 25th"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "6fdec76c"
+  },
+  {
+    "question": "The European Union was originally called the EEC",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 27 EU member states",
+    "id": "6fe277ab"
+  },
+  {
+    "question": "In which year were women given the right to vote at the age of 21,the same as men?",
+    "options": [
+      "1918",
+      "1928",
+      "1921",
+      "1924"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+    "id": "6ff7d17c"
+  },
+  {
+    "question": "Debates in the House of Commons are chaired by the Prime Minister.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Debates in the House of Commons are chaired by the Speaker.",
+    "id": "70055e02"
+  },
+  {
+    "question": "Hannukah is celebrated to remember the Jews' struggle for religious freedom and it is in November or December for ______ days",
+    "options": [
+      "six",
+      "seven",
+      "eight",
+      "nine"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "702f874f"
+  },
+  {
+    "question": "For approximately how many years did the Romans stay in this country?",
+    "options": [
+      "50 years",
+      "100 years",
+      "400 years",
+      "600 years"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Romans ruled Britain for almost 400 years, from AD 43 to AD 410.",
+    "id": "703275dc"
+  },
+  {
+    "question": "What must you do if someone tries to persuade you to join a terrorist cause?",
+    "options": [
+      "Notify the police",
+      "Tell your friends",
+      "Contact the Home Office",
+      "Tell your local council"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local police force.",
+    "id": "705109ea"
+  },
+  {
+    "question": "There is no place in British society for extremism or intolerance.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There is no place for extremism or intolerance. British society is founded on fundamental values and principles which all those living in the UK respect and support.",
+    "id": "7051b669"
+  },
+  {
+    "question": "Police officers themselves do not have to obey the law",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "705a3ac7"
+  },
+  {
+    "question": "What was the most important principle of the Enlightenment?",
+    "options": [
+      "Complete democracy",
+      "Freedom of religion and political views",
+      "New technological advances",
+      "Constitutional democracy"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "One of the most important principles of the Enlightenment was that everyone should have the right to their own political and religious beliefs and that the state should not try to dictate to them.",
+    "id": "70646e87"
+  },
+  {
+    "question": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard",
+    "options": [
+      "Yes, it's correct",
+      "No, they don't decide a verdict"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "70699a25"
+  },
+  {
+    "question": "Members of the public are allowed to attend Youth Court hearings.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+    "id": "7072f14e"
+  },
+  {
+    "question": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "707fbc39"
+  },
+  {
+    "question": "When did Scotland abolish the authority of the Pope?",
+    "options": [
+      "1450",
+      "1501",
+      "1600",
+      "1560"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Scotland had also been strongly influenced by Protestant ideas. In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal.",
+    "id": "7080ff92"
+  },
+  {
+    "question": "How many senior MPs get appointed by the Prime Minister to become ministers in charge of departments?",
+    "options": [
+      "5",
+      "20",
+      "40",
+      "50"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+    "id": "70818c96"
+  },
+  {
+    "question": "In 1960s, the British developed the world's only supersonic commercial airliner \"Concorde\" with which other country?",
+    "options": [
+      "Germany",
+      "Spain",
+      "France",
+      "Norway"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The 1960s was also a time of technological progress. Britain and France developed the world's only supersonic commercial airliner, Concorde.",
+    "id": "70828468"
+  },
+  {
+    "question": "The civil service is",
+    "options": [
+      "politically neutral",
+      "largely consists of political appointees"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "708dafc7"
+  },
+  {
+    "question": "Who is the head of state of many Commonwealth countries?",
+    "options": [
+      "Prince Charles",
+      "The Pope",
+      "The Queen",
+      "The Prime Minister"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "708f65f5"
+  },
+  {
+    "question": "The UK is historically a ______ country",
+    "options": [
+      "Jewish",
+      "Christian",
+      "Muslim",
+      "Buddhist"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7097e874"
+  },
+  {
+    "question": "How many member states does the Commonwealth have?",
+    "options": [
+      "53",
+      "77",
+      "28",
+      "48"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 53 member states. Membership is voluntary.",
+    "id": "70a0c5a2"
+  },
+  {
+    "question": "From which modern country did William, the Duke of Normandy come from?",
+    "options": [
+      "France",
+      "Spain",
+      "United Kingdom",
+      "Norway"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "William, the Duke of Normandy is from Northern France.In 1066 he defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle.",
+    "id": "70a2aa31"
+  },
+  {
+    "question": "Queen Mary was a Protestant and persecuted Catholics (for this reason, she became known as ‘Bloody Mary’)",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’). Mary also died after a short reign and the next monarch was her half-sister, Elizabeth, the daughter of Henry VIII and Anne Boleyn.",
+    "id": "70b18544"
+  },
+  {
+    "question": "Who tells visitors about the history of the Tower of London?",
+    "options": [
+      "Beefeaters",
+      "Instructors",
+      "London Guides",
+      "History graduates"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history. People can also see the Crown Jewels there.",
+    "id": "70b24aa7"
+  },
+  {
+    "question": "People usually have roast ______ for Christmas Dinner",
+    "options": [
+      "Turkey",
+      "Lamb",
+      "Chicken",
+      "Beef"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "70b75148"
+  },
+  {
+    "question": "Which of these charities works with children?",
+    "options": [
+      "NSPCC",
+      "The National Trust",
+      "Crisis and Shelter",
+      "PDSA"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The National Society for the Prevention of Cruelty to Children (NSPCC) works with children.",
+    "id": "70bd43b5"
+  },
+  {
+    "question": "Engaged couples get married on St. Valentine's day",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "70c1e84d"
+  },
+  {
+    "question": "In the 1830s and 1840s a group called the Chartists campaigned for reform to the voting system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Chartists campaigned for reform of the voting system. The changes they wanted included annual elections and for all regions to be equal in the electoral system.",
+    "id": "70cfd9f8"
+  },
+  {
+    "question": "You should respect someone’s right in court. In return, you are offered the right to a fair trial.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "You should always respect everyone rights in court. Vise versa everyone should respect your rights.",
+    "id": "70ecc443"
+  },
+  {
+    "question": "Forced Marriage Protection Orders were introduced in ______ for England, Wales and Northern Ireland",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "70f56ea9"
+  },
+  {
+    "question": "David Hockney was an important contributor to the 'pop art' movement of the 1960s",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "David Hockney (1937-) was an important contributor to the 'pop art' movement of the 1960s and continues to be influential today.",
+    "id": "710902ec"
+  },
+  {
+    "question": "The jury decides whether a person is ‘guilty’ or ‘not guilty’ based on what they have heard",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based on what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible. If the jury finds a defendant guilty, the judge decides on the penalty. The judge is only responsible for interpreting the law.",
+    "id": "71158290"
+  },
+  {
+    "question": "Who is Andy Murray?",
+    "options": [
+      "A Scottish rower",
+      "A Scottish tennis player",
+      "A Scottish cyclist",
+      "A Scottish runner"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Andy Murray (1987–) is a Scottish tennis player who in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals.",
+    "id": "7115d9fb"
+  },
+  {
+    "question": "The Patron Saints’ days are NOT public holidays in which TWO countries?",
+    "options": [
+      "England",
+      "Scotland",
+      "Northern Ireland",
+      "Wales"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Only Scotland and Northern Ireland have their Patron Saint’s day as an official holiday. While the Patron Saints’ days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries.",
+    "id": "711c12ed"
+  },
+  {
+    "question": "Where can you see the ‘Bayeux Tapestry’ today?",
+    "options": [
+      "France",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+    "id": "7123704a"
+  },
+  {
+    "question": "Betting and gambling are illegal in the United Kingdom",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Its legal, you have to be over 18 to go into a betting shop or a gambling club",
+    "answers": [
+      1
+    ],
+    "id": "7123d9b0"
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      "St Augustine",
+      "St Patrick",
+      "St Columba",
+      "St George"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland, and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+    "id": "712f93fc"
+  },
+  {
+    "question": "The 'Swinging Sixties' refers to the 1860s",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "The 'Swinging Sixties' is associated with the 1960s as it was a period of rapid social change, including a growth in popular music and fashion",
+    "answers": [
+      1
+    ],
+    "id": "713fff56"
+  }
+]

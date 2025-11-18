@@ -1,0 +1,651 @@
+[
+  {
+    "question": "Robert Stephenson and George were famous pioneers of ______",
+    "options": [
+      "agricultural changes",
+      "canal building",
+      "railway engines"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "575693c1"
+  },
+  {
+    "question": "In 1776, which British colonies declared their independence because they demanded that there should be 'no taxation without representation'.",
+    "options": [
+      "North African",
+      "Asian",
+      "North American",
+      "South African"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "575f20ac"
+  },
+  {
+    "question": "When did the First World War end?",
+    "options": [
+      "1916",
+      "1917",
+      "1918",
+      "1919"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.",
+    "id": "5761cbbd"
+  },
+  {
+    "question": "William sent people all over England to draw up lists of all the towns and villages, people who lived there, who owned the land and what animals they owned, this list was called",
+    "options": [
+      "The Domesday Book",
+      "The England Book",
+      "The Exeter Book",
+      "The Vercelli Book"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5777271b"
+  },
+  {
+    "question": "Where is Theatreland?",
+    "options": [
+      "Docklands",
+      "London's east end",
+      "London's west end",
+      "London's south end"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "577832f1"
+  },
+  {
+    "question": "On Remembrance Day, many people hold a two minute silence at 11 AM to mark the end of the First World War at the eleventh hour, of the eleventh day, of the eleventh month in 1911",
+    "options": [
+      "This is True",
+      "False, It should be 1918"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "5779ec40"
+  },
+  {
+    "question": "Local councils are funded",
+    "options": [
+      "from central government and local taxes",
+      "by money raised from local fund-raising events",
+      "from local businesses",
+      "by donations from local people"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "577cbbf0"
+  },
+  {
+    "question": "When did the UK sign the European Convention on Human Rights and Fundamental Freedoms?",
+    "options": [
+      "1950",
+      "1959",
+      "1965",
+      "1969"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "57850b9b"
+  },
+  {
+    "question": "During the Industrial Revolution there were no laws to protect employees, who were often forced to work long hours in dangerous situations",
+    "options": [
+      "Yes, this is correct",
+      "No, there were strict laws to protect employees"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "57924754"
+  },
+  {
+    "question": "Who led a team of scientists to develop the atomic bomb?",
+    "options": [
+      "Dylan Thomas",
+      "Isaac Newton",
+      "Ernst  Rutherford",
+      "Sir John Lavery"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+    "id": "57a4e8a4"
+  },
+  {
+    "question": "Rudyard Kipling reflected the idea that the British Empire was a force for good",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Kipling wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was a force for good. Kipling was awarded the Nobel Prize in Literature in 1907.",
+    "id": "57a9700d"
+  },
+  {
+    "question": "When Queen Anne died, a German, George of Hanover, became the next king of England",
+    "options": [
+      "Yes, this is correct",
+      "No, it should be Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "57b60b24"
+  },
+  {
+    "question": "People over 75 years of age do not have to pay for a television licence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Everyone over 75 years of age can apply for a free television licence. Everyone in the UK with a television, computer or other medium which can be used for watching TV must have a television licence.",
+    "id": "57c38ef5"
+  },
+  {
+    "question": "In 1805 at the Battle of Trafalgar, Admiral Nelson defeated the German fleet.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "At the Battle of Trafalgar in 1805 Admiral Nelson defeated a combined French and Spanish fleet. He was killed during the battle.",
+    "id": "57cb93a9"
+  },
+  {
+    "question": "People in the UK are living longer than ever before because improved living standards and better health care",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "57d5ac00"
+  },
+  {
+    "question": "Who was the father of Queen Elizabeth I?",
+    "options": [
+      "Edward I",
+      "Henry V",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "57db73d1"
+  },
+  {
+    "question": "Who was Robert Burns?",
+    "options": [
+      "English social reformer",
+      "English barber",
+      "Scottish poet",
+      "Welsh portrait painter"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Known in Scotland as ‘The Bard’, Robert Burns was a Scottish poet. Burns’ best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+    "id": "57dc15c5"
+  },
+  {
+    "question": "During the 18th century, new ideas about politics, philosophy and science were developed, this is often called",
+    "options": [
+      "The Bard",
+      "Glorious Revolution",
+      "Hogmanay",
+      "The Enlightenment"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "57e51b17"
+  },
+  {
+    "question": "What is an example of a Criminal Offence?",
+    "options": [
+      "Selling Tobacco to under 18's",
+      "Discrimination in the workplace",
+      "Housing disputes",
+      "Owing Money"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Examples of criminal laws are - Carrying a weapon: it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury; Drugs: selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK; Racial crime: it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin; Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18; Smoking in public places: it is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke; Buying alcohol: it is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18; Drinking in public: some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.",
+    "id": "57ece528"
+  },
+  {
+    "question": "Which sport can be traced back to 15th-century Scotland?",
+    "options": [
+      "Surfing",
+      "Formula 1",
+      "Golf",
+      "Motorbike racing"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The modern game of golf can be traced back to Scotland in the 15th century.",
+    "id": "57edfbc1"
+  },
+  {
+    "question": "When was the Battle of Bannockburn?",
+    "options": [
+      "1314",
+      "1381",
+      "1414",
+      "1481"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "580887ba"
+  },
+  {
+    "question": "What is the 'King James' Bible?",
+    "options": [
+      "A new translation into English",
+      "The First English Bible",
+      "The Correct Version",
+      "The Protestant Version"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+    "id": "5810f0ea"
+  },
+  {
+    "question": "What was the name of the activist group who fought for the women's right to vote?",
+    "options": [
+      "Chartists",
+      "Beefeaters",
+      "Suffragettes",
+      "Quakers"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "5816bb1e"
+  },
+  {
+    "question": "The House of Commons can",
+    "options": [
+      "Always overrule the Lords",
+      "Only sometime overrule the Lords",
+      "Never overrule the Lords"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "5817c5b8"
+  },
+  {
+    "question": "What percentage of the total population lives in England?",
+    "options": [
+      "84%",
+      "82%",
+      "80%",
+      "86%"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+    "id": "58249688"
+  },
+  {
+    "question": "The distance from the north coast of Scotland to the South coast of England is approximately ______ miles",
+    "options": [
+      "270",
+      "470",
+      "870",
+      "1070"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "58253d55"
+  },
+  {
+    "question": "Catherine of Aragon the wife of Henry VIII was a ______ princess",
+    "options": [
+      "German",
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "582c9bad"
+  },
+  {
+    "question": "NATO aims to maintain peace between all of its members",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.",
+    "id": "5836cf28"
+  },
+  {
+    "question": "How many members does The Northern Ireland Assembly have?",
+    "options": [
+      "119",
+      "108",
+      "110",
+      "129"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial Offices amongst the main parties. The Assembly has 108 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+    "id": "583707cc"
+  },
+  {
+    "question": "The capital city of Northern Ireland is ______",
+    "options": [
+      "Swansea",
+      "Edinburgh",
+      "Glasgow",
+      "Belfast"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "5841b91b"
+  },
+  {
+    "question": "Police forces are independent of the government",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "585159cf"
+  },
+  {
+    "question": "What did the Beveridge Report of 1942, by William Beveridge, provide the basis for?",
+    "options": [
+      "The Modern Welfare State",
+      "Education for All",
+      "Equal Rights for Women",
+      "NHS"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "William Beveridge (later Lord Beveridge) was a British economist and social reformer. He served briefly as a Liberal MP and was subsequently the leader of the Liberals in the House of Lords but is best known for the 1942 report Social Insurance and Allied Services (known as the Beveridge Report). The report was commissioned by the wartime government in 1941. It recommended that the government should find ways of fighting the five ‘Giant Evils’ of Want, Disease, Ignorance, Squalor and Idleness and provided the basis of the modern welfare state.",
+    "id": "58601163"
+  },
+  {
+    "question": "Which government was elected in 1945?",
+    "options": [
+      "Labour",
+      "Conservative",
+      "Liberal Democrats",
+      "UKIP"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Clement Attlee was Winston Churchill's Deputy Prime Minister in the wartime coalition government and became Prime Minister after the Labour Party won the 1945 election. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years. Attlee's government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge's plans for a stronger welfare state.",
+    "id": "586e49e2"
+  },
+  {
+    "question": "The Romans stayed in this country for approximately ______",
+    "options": [
+      "50 years",
+      "100 years",
+      "200 years",
+      "400 years"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "587403bc"
+  },
+  {
+    "question": "Which country invented Cricket?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Australia"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw! The most famous Cricket competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "id": "58753de5"
+  },
+  {
+    "question": "How were free trade policies promoted in the 19th century?",
+    "options": [
+      "By subsidising each trade",
+      "By building airports",
+      "By removing taxes on imported goods",
+      "By introducing a stock market"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The government began to promote policies of free trade, abolishing a number of taxes on imported goods.",
+    "id": "588068ef"
+  },
+  {
+    "question": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "58824c20"
+  },
+  {
+    "question": "In which battle did Admiral Nelson die?",
+    "options": [
+      "Crimean war",
+      "Glorious First of June",
+      "Trafalgar battle",
+      "Battle of Waterloo"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle",
+    "id": "5892af13"
+  },
+  {
+    "question": "People open their Christmas presents during Easter",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "5897414d"
+  },
+  {
+    "question": "How old must you be to enter a betting shop or gambling club?",
+    "options": [
+      "14",
+      "16",
+      "17",
+      "18"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "589e5a01"
+  },
+  {
+    "question": "By law, radio and television coverage of the political parties must be _____ , so equal time has to be given to rival viewpoints",
+    "options": [
+      "loyal",
+      "balanced",
+      "ethical",
+      "classified"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By law, radio and television coverage of the political parties must be balanced, so equal time has to be given to rival viewpoints.",
+    "id": "58b978bc"
+  },
+  {
+    "question": "What service does the TV licence pay for?",
+    "options": [
+      "The BBC",
+      "Freeview channels",
+      "Free radio and tv channels",
+      "None of these"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The money from TV licences is used to pay for the British Broadcasting Corporation (BBC).",
+    "id": "58c97fae"
+  },
+  {
+    "question": "The people of ______ made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings",
+    "options": [
+      "the Stone Age",
+      "the Bronze Age",
+      "the Iron Age"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "58d2ef38"
+  },
+  {
+    "question": "The government is usually formed by the party that wins the majority of constituencies",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "58dfc179"
+  },
+  {
+    "question": "Which flag has a white cross on a blue background?",
+    "options": [
+      "Irish",
+      "Scottish",
+      "English",
+      "Welsh"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Scottish flag has a white cross on a blue background because St Andrew was the Patron Saint of Scotland.",
+    "id": "58e89465"
+  },
+  {
+    "question": "What is a constitution?",
+    "options": [
+      "Set of principles by which a country is governed",
+      "Set of written history",
+      "Set of written reports of the government"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "58eb0739"
+  },
+  {
+    "question": "What type of government was formed after the General Election of 2010?",
+    "options": [
+      "National",
+      "All-party",
+      "One-party",
+      "Coalition"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The 2010 coalition was formed by the Conservative and Liberal Democrat parties.",
+    "id": "591a9dc9"
+  },
+  {
+    "question": "It is a civil offence to carry a weapon",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "It is a criminal offence to carry a weapon.",
+    "id": "591b51a4"
+  },
+  {
+    "question": "What kind of bird do people usually eat on Christmas Day?",
+    "options": [
+      "Duck",
+      "Chicken",
+      "Turkey",
+      "Ostrich"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "5925f607"
+  },
+  {
+    "question": "In 1969, what important change to our voting rights took place?",
+    "options": [
+      "The voting age was reduced to 18 for men and women",
+      "Compulsory voting was introduced",
+      "Women over 30 were given the vote",
+      "Prisoners were given the vote"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "59334b7f"
+  }
+]

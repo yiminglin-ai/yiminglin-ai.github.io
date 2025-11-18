@@ -1,0 +1,660 @@
+[
+  {
+    "question": "Which statement is true?",
+    "options": [
+      "Queen Elizabeth I was a devout Catholic and persecuted Protestants",
+      "Queen Elizabeth I succeeded in finding a balance between the views of Catholics and Protestants."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people's real beliefs. She succeeded in finding a balance between the views of Catholics and the more extreme Protestants.",
+    "id": "30ff2e7e"
+  },
+  {
+    "question": "The first Jews to come to Britain since the Middle Ages settled in London in ______",
+    "options": [
+      "1636",
+      "1646",
+      "1656",
+      "1666"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3102cadd"
+  },
+  {
+    "question": "What is a Bank Holiday?",
+    "options": [
+      "A national holiday for all of the UK",
+      "A special holiday for bank employees",
+      "A national holiday for all of the UK except Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "310776de"
+  },
+  {
+    "question": "Which two countries developed the Concorde, the world's only supersonic commercial airliner?",
+    "options": [
+      "Italy",
+      "Britain",
+      "Germany",
+      "France"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "312010d8"
+  },
+  {
+    "question": "When Queen Anne died, a German, George of Hanover, became the next King of England",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next King, because he was Anne’s nearest Protestant relative. An attempt by Scottish Jacobites to put James II’s son on the throne instead was quickly defeated.",
+    "id": "3129da6f"
+  },
+  {
+    "question": "Great Britain' and 'the United Kingdom' have the same meaning",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
+    "id": "312e5859"
+  },
+  {
+    "question": "Which official report is broadcast on digital TV?",
+    "options": [
+      "Parliamentary News",
+      "Hansard",
+      "None"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "314765a2"
+  },
+  {
+    "question": "Which of the following is a fundamental principle of British Life?",
+    "options": [
+      "Communism",
+      "Dictatorship",
+      "Democracy",
+      "Terrorism"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The fundamental principles of British life include:\n- Democracy\n- The rule of law\n- Individual liberty\n- Tolerance of those with different faiths and beliefs\n- Participation in community life.",
+    "id": "314c181f"
+  },
+  {
+    "question": "What celebrates the end of Ramadan?",
+    "options": [
+      "Vaisakhi",
+      "Eid ul Adha",
+      "Hannukah",
+      "Eid al-Fitr"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast.",
+    "id": "31515044"
+  },
+  {
+    "question": "The Chancellor of the Exchequer is responsible for the ______",
+    "options": [
+      "immigration",
+      "economy",
+      "crime",
+      "policing"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "315190fb"
+  },
+  {
+    "question": "What was the purpose of the Corn Laws in 1846?",
+    "options": [
+      "To prevent the import of cheap grain",
+      "To build railways",
+      "To improve working conditions",
+      "To improve transport systems"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Corn Laws in 1846 had prevented the import of cheap grain.",
+    "id": "316d07fd"
+  },
+  {
+    "question": "When is Valentine's Day?",
+    "options": [
+      "14th of February",
+      "16th of December",
+      "31st of December",
+      "23rd of April"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Valentine's Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.",
+    "id": "3185b28e"
+  },
+  {
+    "question": "Who can nominate life peers? (Select TWO)",
+    "options": [
+      "The Speaker",
+      "Leaders of other main political parties",
+      "The Prime Minister",
+      "The Monarchy"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. Life peers are appointed by the monarch on the advice of the Prime Minister. They also include people nominated by the leaders of the other main political parties or by an independent Appointments Commission for non-party peers.",
+    "id": "3193281a"
+  },
+  {
+    "question": "All young people are sent a National Insurance number just before their 16th birthday.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "All young people in the UK are sent a National Insurance number just before their 16th birthday. It ensures that the National Insurance Contributions and tax you pay are properly recorded against your name.",
+    "id": "31955017"
+  },
+  {
+    "question": "A traditional food in Wales is Ulster fry",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Ulster fry is a traditional food of Northern Ireland",
+    "answers": [
+      1
+    ],
+    "id": "31a0719d"
+  },
+  {
+    "question": "Which of these is not a music festival?",
+    "options": [
+      "Creamfields",
+      "The Fringe",
+      "V festival",
+      "Glastonbury"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer. The Fringe (One of the festivals) is a showcase of mainly theatre and comedy performances.",
+    "id": "31a37433"
+  },
+  {
+    "question": "You can buy alcohol if you are 17 years old",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "31a5843b"
+  },
+  {
+    "question": "Who is the Patron St of Wales?",
+    "options": [
+      "St David",
+      "St Andrew",
+      "St Patrick",
+      "St George"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+    "id": "31ac40b9"
+  },
+  {
+    "question": "Women in Britain today make up about ______ of the workforce",
+    "options": [
+      "all",
+      "half",
+      "third",
+      "quarter"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "31ba7f14"
+  },
+  {
+    "question": "What is the role of the shadow cabinet?",
+    "options": [
+      "Ask the members to join their party",
+      "Challenge the government and put forward alternative policies",
+      "Opening and closing of Parliament are some ceremonial duties"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "31bfd5ae"
+  },
+  {
+    "question": "What does St Patrick’s cross look like?",
+    "options": [
+      "A red cross on a white ground",
+      "A diagonal red cross on a white ground",
+      "A diagonal white cross on a blue ground",
+      "Welsh dragon cross"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses:\nThe cross of St George, patron saint of England, is a red cross on a white ground.\nThe cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.\nThe cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "31c48244"
+  },
+  {
+    "question": "Major horse-racing events in the UK are:",
+    "options": [
+      "Six Nations Championship",
+      "The Open Championship",
+      "Royal Ascot",
+      "Scottish Grand National"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "31c98d47"
+  },
+  {
+    "question": "In the 18th and 19th centuries manufacturing jobs became the main source of employment in Britain",
+    "options": [
+      "Yes, this is correct",
+      "No, it was agriculture jobs"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "31ccf655"
+  },
+  {
+    "question": "Some people rent land where they grow fruit and vegetables. What is that land called?",
+    "options": [
+      "Menorah",
+      "Allotment",
+      "Hill forts",
+      "Canute"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A lot of people have gardens at home and will spend their free time looking after them. Some people rent additional land called 'an allotment', where they grow fruit and vegetables.",
+    "id": "31d145fa"
+  },
+  {
+    "question": "Which sport often refers to the phrase 'rain stopped play'?",
+    "options": [
+      "Cricket",
+      "Rugby",
+      "Football",
+      "Tennis"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You may come across expressions such as 'rain stopped play', 'batting on a sticky wicket', 'playing a straight bat', 'bowled a googly' or 'it's just not cricket', which have passed into everyday usage. The most famous cricket competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "id": "31de46aa"
+  },
+  {
+    "question": "What is MP's responsibility?",
+    "options": [
+      "To represent everyone in their constituency",
+      "To represent everyone in the UK",
+      "To point out failures",
+      "To get as many votes as possible"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "MPs have a number of different responsibilities. They: represent everyone in their constituency, help to create new laws, scrutinise and comment on what the government is doing, debate important national issues.",
+    "id": "31ebdc3c"
+  },
+  {
+    "question": "Puritans are a group of Catholics who advocate complex religious doctrine and worship",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship.",
+    "id": "31fa1514"
+  },
+  {
+    "question": "St Augustine led missionaries from Rome. Where did he spread Christianity?",
+    "options": [
+      "In the East",
+      "In the West",
+      "In the North",
+      "In the South"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity. Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+    "id": "31fa8fb4"
+  },
+  {
+    "question": "The Church of England is also called",
+    "options": [
+      "Scottish Church",
+      "Welsh Church",
+      "Anglican Church"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "31fae581"
+  },
+  {
+    "question": "The leader of the opposition usually becomes Prime Minister if his or her party wins the General Election",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "32010f67"
+  },
+  {
+    "question": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims sacrifice an animal to eat during this festival. In Britain this has to be done in a slaughterhouse.",
+    "id": "3204f1a5"
+  },
+  {
+    "question": "Who was made a Dame of the British Empire in 2000?",
+    "options": [
+      "Jayne Torvill",
+      "Mary Peters",
+      "Dame Kelly Holmes",
+      "Dame Ellen MacArthur"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who won an Olympic gold medal in the pentathlon in 1972. After this, she raised money for local athletics and became the team manager for the women’s British Olympic team. She continues to promote sport and tourism in Northern Ireland and was made a Dame of the British Empire in 2000 in recognition of her work.",
+    "id": "3219cf27"
+  },
+  {
+    "question": "The Speaker is an MP and represents a constituency like any other MP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Speaker is an MP and represents a constituency like any other MP.",
+    "id": "323329e9"
+  },
+  {
+    "question": "Charles Dickens, Thomas Hardy and Jane Austen are famous writers",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "They are all famous authors and writers.",
+    "id": "3235ce11"
+  },
+  {
+    "question": "Charles Dickens is famous for writing musicals.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Charles Dickens wrote a number of famous novels, including Oliver Twist and Great Expectations.",
+    "id": "3239eb01"
+  },
+  {
+    "question": "The electoral register is supervised",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "323acbe7"
+  },
+  {
+    "question": "Women in Britain received voting rights at the same age as men in ______",
+    "options": [
+      "1926",
+      "1927",
+      "1928",
+      "1929"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "3241f6fe"
+  },
+  {
+    "question": "Which TWO foods are associated with England?",
+    "options": [
+      "Haggis",
+      "Ulster fry",
+      "Roast beef",
+      "Fish and chips"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Popular English foods include fish and chips, and roast beef which is served with potatoes, vegetables, Yorkshire puddings and other accompaniments.",
+    "id": "325c7801"
+  },
+  {
+    "question": "What is the currency used in the UK?",
+    "options": [
+      "Euro",
+      "Gold",
+      "Pound sterling",
+      "Dollars"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound.",
+    "id": "32629591"
+  },
+  {
+    "question": "When did the Black Death take place?",
+    "options": [
+      "The Golden Age",
+      "The Stone Age",
+      "The Middle Ages",
+      "The Iron Age"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "326348dc"
+  },
+  {
+    "question": "What's the Queen's speech for?",
+    "options": [
+      "Set out the government's legislative plans for the next year",
+      "Summarise all of the previous policies",
+      "Give advice to the general public",
+      "Encourage the youth to persuade education"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "32762122"
+  },
+  {
+    "question": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+    "options": [
+      "The Domesday Book",
+      "The Book of Common Prayer",
+      "The Canterbury Tales",
+      "The Carta Magna"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "328442f5"
+  },
+  {
+    "question": "What is the responsibility that you have as a UK citizen?",
+    "options": [
+      "Look after yourself and your family",
+      "Going to the library",
+      "Keeping an allotment",
+      "Going to the cinema"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Flowing from the fundamental principles are responsibilities and freedoms which are shared by all those living in the UK and which we expect all residents to respect.\nIf you wish to be a permanent resident or citizen of the UK, you should:\n- Respect and obey the law\n- Respect the rights of others, including their right to their own opinions\n- Treat others with fairness\n- Look after yourself and your family\n- Look after the area in which you live and the environment.",
+    "id": "329636b1"
+  },
+  {
+    "question": "What is the Enlightenment?",
+    "options": [
+      "A period of total peace in England",
+      "A period when new ideas about politics, philosophy and science were developed",
+      "A period when England became the largest empire the world had ever seen",
+      "A period of economic recovery after the Second World War"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "329aed67"
+  },
+  {
+    "question": "To be or not to be' is a famous Shakespeare line from which play or poem?",
+    "options": [
+      "Henry V",
+      "Hamlet",
+      "Romeo and Juliet",
+      "As you like it"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Lines from Shakespeare's plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18 'Shall I Compare Thee To a Summer's Day).",
+    "id": "329ce2ce"
+  },
+  {
+    "question": "What was the name given to supporters of King Charles I during the Civil War?",
+    "options": [
+      "Luddites",
+      "Roundheads",
+      "Cavaliers",
+      "Levellers"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The king's supporters during the Civil War were called Cavaliers. Those who supported the Parliamentary cause were called Roundheads.",
+    "id": "32be07f9"
+  },
+  {
+    "question": "When did the Irish Free State become a republic?",
+    "options": [
+      "1922",
+      "1949",
+      "1931",
+      "1937"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+    "id": "32c38b98"
+  },
+  {
+    "question": "The minimum legal age to buy alcohol in the UK is ______",
+    "options": [
+      "16",
+      "18",
+      "19",
+      "20"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "32cb31d2"
+  },
+  {
+    "question": "What event is remembered on 5 November each year?",
+    "options": [
+      "The end of the Second World War",
+      "The Queen's birthday",
+      "A plot to blow up the Houses of Parliament in 1605",
+      "The defeat of the Spanish Armada in 1588"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1605 a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament. The event is celebrated today as Bonfire Night.",
+    "id": "32d20c5d"
+  },
+  {
+    "question": "When is St Andrew's day celebrated?",
+    "options": [
+      "17th April",
+      "31st December",
+      "1st March",
+      "30th November"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "32d3f3eb"
+  }
+]

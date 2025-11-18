@@ -1,0 +1,675 @@
+[
+  {
+    "question": "Since 1927 the BBC has sponsored and organised famous concerts of ______",
+    "options": [
+      "The Proms",
+      "Aldeburgh Festival",
+      "The Eisteddfod",
+      "Glastonbury"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2d7e7731"
+  },
+  {
+    "question": "What religion did Queen Elizabeth I practise?",
+    "options": [
+      "Atheist",
+      "Sikh",
+      "Protestant",
+      "Catholic"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of Catholics and the more extreme Protestants.",
+    "id": "2d929e41"
+  },
+  {
+    "question": "Where are the youth cases heard in Scotland?",
+    "options": [
+      "There is a Children's Hearings System",
+      "Youth Court",
+      "Crown Court",
+      "Sheriff Court"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence.",
+    "id": "2d9b4654"
+  },
+  {
+    "question": "Charles I believed in the Divine Right of Kings and tried to rule without the Parliament.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles I believed in the Divine Right of Kings. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without Parliament at all.",
+    "id": "2da91f25"
+  },
+  {
+    "question": "Henry VIII established the Church of England",
+    "options": [
+      "in order to start a war with the French",
+      "because the Pope refused to grant him a divorce"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2dae0c86"
+  },
+  {
+    "question": "When is St David's day celebrated?",
+    "options": [
+      "1st March",
+      "17th March",
+      "23rd April",
+      "17th April"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "2dc5ea44"
+  },
+  {
+    "question": "When did Queen Elizabeth II celebrate her Diamond Jubilee?",
+    "options": [
+      "2010",
+      "2013",
+      "2012",
+      "2011"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Big Ben tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.",
+    "id": "2dcec662"
+  },
+  {
+    "question": "What is the Cenotaph in Whitehall, London?",
+    "options": [
+      "War Memorial",
+      "Museum",
+      "Church",
+      "Garden"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+    "id": "2ddba523"
+  },
+  {
+    "question": "The British Broadcasting Corporation (BBC) is financed by selling advertising space during television programmes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The BBC is financed by funds raised from TV licences. Everyone in the UK with a television, computer or other medium which can be used for watching TV must have a television licence.",
+    "id": "2ddf7ba8"
+  },
+  {
+    "question": "The last successful invasion of England was in ______",
+    "options": [
+      "1066",
+      "1205",
+      "1442",
+      "1940"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2de26eab"
+  },
+  {
+    "question": "Which TWO are influential British bands?",
+    "options": [
+      "The National Trust",
+      "The Rolling Stones",
+      "The Beatles",
+      "The Royal Family"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The Beatles and The Rolling Stones, both formed in the 1960s, continue to have an influence on music in the UK and abroad.",
+    "id": "2df155f8"
+  },
+  {
+    "question": "St Patrick's day is a public holiday in Northern Ireland",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2df84db7"
+  },
+  {
+    "question": "In 1745, Charles Edward Stuart (Bonnie Prince Charlie) landed in Scotland and raised an army. Where did most of his troops come from?",
+    "options": [
+      "Highlands",
+      "Borders",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "He was supported by clansmen from the Scottish highlands and raised an army.",
+    "id": "2e0898d5"
+  },
+  {
+    "question": "What is a traditional pub game?",
+    "options": [
+      "Pool",
+      "Poker",
+      "Chess",
+      "Roulette"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pub quizzes are popular. Pool and darts are traditional pub games.",
+    "id": "2e0e7372"
+  },
+  {
+    "question": "Thomas Hardy is a famous author who wrote Far from the Madding Crowd.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Thomas Hardy (1840–1928) was a famous author and poet, whose best-known novels include Far from the Madding Crowd and Jude the Obscure.",
+    "id": "2e180b27"
+  },
+  {
+    "question": "Snowdonia is a national park in Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Snowdonia is a national park in North Wales. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+    "id": "2e1cee5b"
+  },
+  {
+    "question": "What is the Turner Prize given for?",
+    "options": [
+      "Art",
+      "Dancing",
+      "Garden design",
+      "Music"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Turner Prize is recognised as one of the most prestigious visual art awards in Europe. Previous winners include Damien Hirst and Richard Wright.",
+    "id": "2e2dad16"
+  },
+  {
+    "question": "When do people in Great Britain celebrate Bonfire Night?",
+    "options": [
+      "5th of November",
+      "15th of November",
+      "5th of October",
+      "25th of November"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays.",
+    "id": "2e3639b4"
+  },
+  {
+    "question": "In 1999 which TWO new national bodies were established?",
+    "options": [
+      "House of Lords",
+      "Welsh Assembly",
+      "Scottish Parliament",
+      "English Parliament"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Since 1997, some power has been devolved from central government. In 1999 the Scottish Parliament and the Welsh Assembly were established, to give people in Scotland and Wales more control over matters directly affecting them.",
+    "id": "2e368bd2"
+  },
+  {
+    "question": "The main political parties actively look for members.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The main political parties actively look for members of the public to join their debates, contribute to their costs, and help at elections.",
+    "id": "2e43aae8"
+  },
+  {
+    "question": "In England, Wales and Northern Ireland, most minor criminal cases are dealt by the Magistrates' Court.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt by the Magistrates' Court.",
+    "id": "2e447857"
+  },
+  {
+    "question": "What is an important part of the UK character?",
+    "options": [
+      "To have fish and chips every lunch",
+      "Go to University",
+      "The ability to laugh at ourselves",
+      "Go to the pub every Friday"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.",
+    "id": "2e4f6c77"
+  },
+  {
+    "question": "If you are an EU citizen living in the United Kingdom you can vote in all British public elections",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "All elections except General Elections",
+    "answers": [
+      1
+    ],
+    "id": "2e569b15"
+  },
+  {
+    "question": "The Battle of Britain in 1940 was fought",
+    "options": [
+      "at the border",
+      "in the skies",
+      "at sea"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "2e5a24a3"
+  },
+  {
+    "question": "Bobby Moore is famous for his achievements in which sport?",
+    "options": [
+      "Football",
+      "Rugby union",
+      "Horse racing",
+      "Motor racing"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bobby Moore was the captain of the England football team that won the World Cup in 1966.",
+    "id": "2e5a618e"
+  },
+  {
+    "question": "At which festival are mince pies traditionally eaten?",
+    "options": [
+      "Easter",
+      "Diwali",
+      "Christmas",
+      "Vaisakhi"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Mince pies are traditionally eaten at Christmas time. People also eat roast turkey and Christmas pudding.",
+    "id": "2e608836"
+  },
+  {
+    "question": "The population of England consistently makes up ______ of the UK",
+    "options": [
+      "65",
+      "74%",
+      "84%",
+      "90%"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2e60ab68"
+  },
+  {
+    "question": "Which TWO of these are associated with Sir Francis Drake?",
+    "options": [
+      "Sailing around the world",
+      "Building the Titanic",
+      "The Spanish Armada invasion",
+      "Invasion of Ireland"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship, the Golden Hind, was one of the first to sail right around (‘circumnavigate’) the world.",
+    "id": "2e6f4ea8"
+  },
+  {
+    "question": "What is the Home Secretary responsible for?",
+    "options": [
+      "Health",
+      "Defence",
+      "Education",
+      "Policing"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "2e823d10"
+  },
+  {
+    "question": "What is the Cenotaph?",
+    "options": [
+      "A flower",
+      "A Christian church",
+      "A war memorial",
+      "A theatre"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "2e86d020"
+  },
+  {
+    "question": "Which is an aim of the United Nations?",
+    "options": [
+      "To create a single free trade market",
+      "To prevent war and promote international peace and security",
+      "To examine decisions made by the European Union",
+      "To promote dictatorship"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.",
+    "id": "2e8ada46"
+  },
+  {
+    "question": "What event was held in London in 2012?",
+    "options": [
+      "The Olympic games",
+      "The Football World Cup",
+      "The Eurovision Song Contest",
+      "Formula 1"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012.",
+    "id": "2e8d9989"
+  },
+  {
+    "question": "Mary Stuart, often now called Mary Queen of Scots was a Protestant",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen",
+    "id": "2e93d96d"
+  },
+  {
+    "question": "Father's Day is the ______ Sunday in June",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "forth"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2e95e4f7"
+  },
+  {
+    "question": "If you are arrested and taken to a police station, a police office will tell you",
+    "options": [
+      "the reason for your arrest",
+      "to go back to home",
+      "to bring credit card or cheques"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2e9e4e53"
+  },
+  {
+    "question": "By about AD 700, Anglo-Saxon kingdoms were established in Britain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By about AD 600, Anglo-Saxon kingdoms were established in Britain.",
+    "id": "2ea56d83"
+  },
+  {
+    "question": "Which two languages combined to become one English language?",
+    "options": [
+      "Latin",
+      "Anglo-Saxon",
+      "Proto-Celtic",
+      "Norman French"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "",
+    "id": "2ea6d3c5"
+  },
+  {
+    "question": "Which TWO roles are school governors and school boards responsible for?",
+    "options": [
+      "Setting the strategic direction of the school",
+      "Doing outdoor activities",
+      "Raising money",
+      "Monitoring and evaluating school performance"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Governors and school boards have an important part to play in raising school standards. They have three key roles:\n- Setting the strategic direction of the school\n- Ensuring accountability\n- Monitoring and evaluating school performance.",
+    "id": "2ea6de24"
+  },
+  {
+    "question": "What is the name of the popular UK Tennis tournament played in South London?",
+    "options": [
+      "Kingston",
+      "Vauxhall",
+      "Wimbledon",
+      "Lords"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "2eb75479"
+  },
+  {
+    "question": "When did Ireland split into 2 countries?",
+    "options": [
+      "1934",
+      "1925",
+      "1949",
+      "1922"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Ireland became two countries in 1922.",
+    "id": "2eb7d546"
+  },
+  {
+    "question": "Which TWO are famous gardens in the UK?",
+    "options": [
+      "London Eye",
+      "Sissinghurst",
+      "Bodnant Garden",
+      "Snowdonia"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Sissinghurst is in England and Bodnant Garden is in Wales.",
+    "id": "2eca1cb7"
+  },
+  {
+    "question": "Can the anthem 'God save the queen' be played only in presence of the Queen?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "You can play the Anthem in anyone's presence",
+    "id": "2ecd5770"
+  },
+  {
+    "question": "Which colonies of the British Empire decided to declare their independence in 1776?",
+    "options": [
+      "Australian",
+      "Canadian",
+      "American",
+      "South African"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Australia, Canada and South Africa remained a part of the British Empire and joined the Commonwealth.",
+    "id": "2ecf9a23"
+  },
+  {
+    "question": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+    "options": [
+      "Respect the rights of others, including their right to their own opinions",
+      "Buy a house in the UK",
+      "Look after yourself and your family",
+      "Marry a British citizen"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "",
+    "id": "2ed4ba47"
+  },
+  {
+    "question": "What is the correct order of the Patron Saints' Days? (Starting from January)",
+    "options": [
+      "St George's Day, St David's Day, St Patrick's Day, St Andrew's Day",
+      "St David's Day, St Patrick's Day, St George's Day, St Andrew's Day",
+      "St Patrick's Day, St David's Day, St Andrew's Day, St George's Day",
+      "St David's Day, St Patrick's Day, St Andrew's Day, St George's Day"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday. Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.",
+    "id": "2edfd4d7"
+  },
+  {
+    "question": "Which of these is a crown dependency of the UK and not a part of it?",
+    "options": [
+      "Channel Islands",
+      "Falkland Islands",
+      "St Helena",
+      "Wales"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "2ee8c7e1"
+  },
+  {
+    "question": "What age group does the National Citizen Service programme cover?",
+    "options": [
+      "All children up to the age of 17",
+      "Pensioners",
+      "16- and 17-year-olds",
+      "18- to 30-year-olds"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The National Citizen Service programme is aimed at 16- and 17-year-olds. It gives them the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "2eee54ce"
+  },
+  {
+    "question": "What was the Spanish Armada?",
+    "options": [
+      "A large fleet of ships",
+      "A large army of people",
+      "A French and Spanish army",
+      "An illness"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+    "id": "2efe3188"
+  },
+  {
+    "question": "What is the role of a jury at a court trial?",
+    "options": [
+      "Decide whether the accused is guilty or not guilty",
+      "Decide on a penalty",
+      "Give evidence",
+      "Decide whether evidence is required to be heard"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard. In Scotland, a third verdict of 'not proven' is also possible. If the jury finds a defendant guilty, the judge decides on the penalty.",
+    "id": "2efe537c"
+  },
+  {
+    "question": "Which TWO are examples of civil law?",
+    "options": [
+      "Disputes between landlords and tenants",
+      "Carrying a weapon",
+      "Discrimination in the workplace",
+      "Selling tobacco"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Civil law is used to settle disputes between individuals or groups. Examples of civil law include housing law, employment law, consumer rights and laws related to the recovery of debt.",
+    "id": "2effa960"
+  }
+]

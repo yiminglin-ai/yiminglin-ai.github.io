@@ -1,0 +1,682 @@
+[
+  {
+    "question": "Who led a team of scientists to 'split the atom' for the first time?",
+    "options": [
+      "Alexander Fleming",
+      "Alan Turing",
+      "Ernest Rutherford",
+      "Sir Peter Mansfield"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "4adb4344"
+  },
+  {
+    "question": "What is Diwali?",
+    "options": [
+      "Festival of Happiness",
+      "Festival of White",
+      "Festival of Sun",
+      "Festival of Lights"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+    "id": "4aea1962"
+  },
+  {
+    "question": "The Union Flag is made up of Welsh, Scottish, Irish and English crosses",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses:\nThe cross of St George, patron saint of England, is a red cross on a white ground.\nThe cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.\nThe cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "4b043334"
+  },
+  {
+    "question": "Which process for the mass production of steel led to the development of the shipbuilding industry and the railways?",
+    "options": [
+      "Decarburization",
+      "Flodin process",
+      "Durrer process",
+      "Bessemer process"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways. Manufacturing jobs became the main source of employment in Britain.",
+    "id": "4b064aef"
+  },
+  {
+    "question": "Who has an important ceremonial role in this country?",
+    "options": [
+      "The Queen",
+      "The Prime Minister",
+      "The Archbishop of Canterbury"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4b0a033d"
+  },
+  {
+    "question": "How many crosses does the Union Flag have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Union Flag consists of three crosses.",
+    "id": "4b0f5e88"
+  },
+  {
+    "question": "Who built the Hadrian's Wall to keep out the Picts?",
+    "options": [
+      "Emperor Hadrian",
+      "Sutton Hoo",
+      "King Alfred the Great",
+      "Henry Hadrian"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "id": "4b1077b3"
+  },
+  {
+    "question": "What is known as the 'Dunkirk spirit'?",
+    "options": [
+      "When the German air force bombed London and other British cities at night-time",
+      "The evacuation of Allied soldiers from France during World War II",
+      "When new social classes appeared after the Black Death",
+      "The period when many refugees called Huguenots came from France"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4b275703"
+  },
+  {
+    "question": "The Union Flag comprises the crosses of",
+    "options": [
+      "St David",
+      "St Patrick",
+      "St James",
+      "St George",
+      "St Andrew",
+      "St Piran"
+    ],
+    "answers": [
+      1,
+      3,
+      4
+    ],
+    "id": "4b27aa6c"
+  },
+  {
+    "question": "What is the Church of England known as in Scotland and the US?",
+    "options": [
+      "The Episcopal Church",
+      "The Catholic Church",
+      "The Anglican Church",
+      "The State Church"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The official Church of the state is the Church of England is called the Episcopal Church in Scotland and the United States. It is a Protestant Church.",
+    "id": "4b2f4d2e"
+  },
+  {
+    "question": "St Andrew's Day is the national day of ______",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4b38c5f3"
+  },
+  {
+    "question": "Why was Magna Carta important?",
+    "options": [
+      "It gave all men the vote.",
+      "It limited the power of the monarch.",
+      "It established a system of free education.",
+      "It gave women legal rights."
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "King John was forced by his noblemen to agree to the Magna Carta, which restricted the power of the monarchy.",
+    "id": "4b40d529"
+  },
+  {
+    "question": "King Richard III of the House of York was killed in the Battle of Bosworth Field in",
+    "options": [
+      "1485",
+      "1490",
+      "1495",
+      "1498"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4b4a2ed1"
+  },
+  {
+    "question": "Who is currently the Head of State of the UK?",
+    "options": [
+      "Queen Elizabeth II",
+      "Prince Philip",
+      "David Cameron",
+      "Prince Charles"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+    "id": "4b4b7f3b"
+  },
+  {
+    "question": "What is known as the Bessemer process?",
+    "options": [
+      "Production of coal",
+      "Production of steel",
+      "Production of iron",
+      "Production of bronze"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways.",
+    "id": "4b50e30d"
+  },
+  {
+    "question": "The Government policy try to influence pressure and lobby groups",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pressure and lobby groups are organisations which try to influence government policy.",
+    "id": "4b5bd5e4"
+  },
+  {
+    "question": "When did Britain recognise the American colonies' independence?",
+    "options": [
+      "1783",
+      "1776",
+      "1763",
+      "1751"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
+    "id": "4b5c74d5"
+  },
+  {
+    "question": "William Orange was asked by Protestants to invade England. This event was later known as what?",
+    "options": [
+      "Glorious Revolution",
+      "Magna Carta",
+      "Orange Revolution",
+      "Industrial Revolution"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "James II’s elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands. In 1688, important Protestants in England asked William to invade England and proclaim himself king. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament.",
+    "id": "4b7375dc"
+  },
+  {
+    "question": "How are members of Parliament (MPs) elected?",
+    "options": [
+      "Proportional representation",
+      "First past the post",
+      "Online Voting",
+      "Open Ballot"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "MPs are elected through a system called ‘first past the post’. In each constituency, the candidate who gets the most votes is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+    "id": "4b73ccac"
+  },
+  {
+    "question": "Queen Victoria reigned almost 68 years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years.",
+    "id": "4b7674b5"
+  },
+  {
+    "question": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+    "options": [
+      "Immigration",
+      "Education",
+      "Agriculture",
+      "Defence"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "",
+    "id": "4b7d45dc"
+  },
+  {
+    "question": "The English kings left France in the ______",
+    "options": [
+      "1050s",
+      "1150s",
+      "1250s",
+      "1450s"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "4b8022a2"
+  },
+  {
+    "question": "People usually spend Christmas Day at home and eat a special meal, which often includes ______",
+    "options": [
+      "pizza",
+      "roast turkey",
+      "burger",
+      "christmas pudding",
+      "mince pies",
+      "fish and chips"
+    ],
+    "answers": [
+      1,
+      3,
+      4
+    ],
+    "id": "4b926575"
+  },
+  {
+    "question": "It was during the 3rd and 4th centuries AD that the first ______ communities began to appear in Britain",
+    "options": [
+      "Jewish",
+      "Christian",
+      "Muslim",
+      "Buddhist"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4b9b7ea0"
+  },
+  {
+    "question": "Who designed the Clifton Suspension Bridge?",
+    "options": [
+      "Isambard Kingdom Brunel",
+      "Florence Nightingale",
+      "Richard Arkwright",
+      "Sir Christopher Wren"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships. He was responsible for constructing the Great Western Railway and the Clifton Suspension Bridge.",
+    "id": "4b9f9bed"
+  },
+  {
+    "question": "When walking your dog in a public place, what must you ensure?",
+    "options": [
+      "That your dog wears a special dog coat",
+      "That your dog wears a collar showing the name and address of the owner",
+      "That your dog never strays more than 3 metres away from you",
+      "That your dog does not come into contact with other dogs"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "A lot of people in the UK have pets such as cats or dogs. They might have them for company or because they enjoy looking after them. It is against the law to treat a pet cruelly or to neglect it. All dogs in public places must wear a collar showing the name and address of the owner. The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.",
+    "id": "4baae09a"
+  },
+  {
+    "question": "The Middle Ages or the medieval period was a time of almost constant war",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4bb287f8"
+  },
+  {
+    "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as 'Individual Registration')",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "This system operates in Northern Ireland. This is called 'individual registration' and all those entitled to vote must complete their own registration form",
+    "id": "4bb3516a"
+  },
+  {
+    "question": "How many people serve on a jury in Scotland?",
+    "options": [
+      "8",
+      "11",
+      "15",
+      "20"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In Scotland a jury has 15 members. In England, Wales and Northern Ireland a jury has 12 members.",
+    "id": "4bb3e8cb"
+  },
+  {
+    "question": "Civil servants cannot stand for Office",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public Office. There are some exceptions, including:\n- Members of the armed forces\n- Civil servants\n- People found guilty of certain criminal offences.",
+    "id": "4bb83ec8"
+  },
+  {
+    "question": "What important event happened in England in 1066?",
+    "options": [
+      "The Romans left England",
+      "The building of the Offa Dyke",
+      "The Norman invasion",
+      "The Battle of Bannockburn"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "William of Normandy invaded England in 1066 and defeated Harold, the Saxon king of England, at the Battle of Hastings.",
+    "id": "4bceefa9"
+  },
+  {
+    "question": "Margaret Thatcher, Britain’s first woman Prime Minister belonged to the Conservative Party.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990.",
+    "id": "4be218de"
+  },
+  {
+    "question": "What is the geographic position of the UK in europe?",
+    "options": [
+      "West",
+      "East",
+      "North West",
+      "South"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK is located in the North West of Europe",
+    "id": "4bf2acc4"
+  },
+  {
+    "question": "What service can you use to find a lawyer or a solicitor?",
+    "options": [
+      "NSPCC",
+      "The Citizens Advice Bureau",
+      "The Police",
+      "County Courts"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Citizens Advice Bureau can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society.",
+    "id": "4bf4726e"
+  },
+  {
+    "question": "A Northern Ireland Parliament was established in ______, when Ireland was divided",
+    "options": [
+      "1922",
+      "1932",
+      "1942",
+      "1952"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4bfe87c7"
+  },
+  {
+    "question": "When is St. Patrick's day?",
+    "options": [
+      "1st of March",
+      "14th of February",
+      "17th of March",
+      "30th of December"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "St. Patrick's day is on the 17th of March",
+    "id": "4c089312"
+  },
+  {
+    "question": "How many members does a jury have in England, Wales and Northern Ireland?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "18"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4c22ff65"
+  },
+  {
+    "question": "Which of these is the patron saint of Scotland?",
+    "options": [
+      "St George",
+      "St Andrew",
+      "St Patrick",
+      "St Edmund"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground. The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground. The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "4c2613b4"
+  },
+  {
+    "question": "What happened to 'Mary, Queen of Scots' after she spent 20 years in prison?",
+    "options": [
+      "She became Queen of England",
+      "She was sent to France",
+      "She escaped to Denmark",
+      "She was executed"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "4c2746b6"
+  },
+  {
+    "question": "What are the 40 days before Easter known as?",
+    "options": [
+      "Starve",
+      "Fast",
+      "Lent",
+      "Dent"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. Traditionally, people would fast during this period and today many people will give something up, like a favourite food. The day before Lent starts is called Shrove Tuesday, or Pancake Day. Lent begins on Ash Wednesday.",
+    "id": "4c2b96b9"
+  },
+  {
+    "question": "Which form of religion gained strength as a result of the Reformation?",
+    "options": [
+      "Catholicism",
+      "Methodism",
+      "Hinduism",
+      "Protestantism"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "While the Reformation was happening across Europe, Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "id": "4c2f9006"
+  },
+  {
+    "question": "Who fought in wars against Napoleon?",
+    "options": [
+      "The Duke of Wellington",
+      "Horatio Nelson",
+      "Winston Churchill",
+      "Margaret Thatcher"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "4c39a0d0"
+  },
+  {
+    "question": "Which of the following is a William Wordsworth's poem?",
+    "options": [
+      "The Daffodils",
+      "She Walks in Beauty",
+      "The Tyger",
+      "Home Thoughts from Abroad"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "All 4 options are poems, but all written by different poets.(Robert Browning, 1812-89 'Home Thoughts from Abroad'), (Lord Byron, 1788-1824 'She Walks in Beauty'), (William Blake, 1757-1827 'The Tyger'), (William Wordsworth, 1770-1850 'The Daffodils' - 'I wander'd lonely as a cloud, That floats on high o'er vales and hills, When all at once I saw a crowd, A host of golden daffodils').",
+    "id": "4c3f2d9f"
+  },
+  {
+    "question": "What is the minimum age for jury service?",
+    "options": [
+      "22",
+      "18",
+      "16",
+      "30"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Anyone on the electoral register aged between 18 and 70 can be asked to serve on a jury.",
+    "id": "4c49b79a"
+  },
+  {
+    "question": "What was the first war to be extensively covered by the media?",
+    "options": [
+      "The Battle Of Britain",
+      "The Crimean War",
+      "The Battle of Waterloo",
+      "The Battle of Hastings"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War. It was the first war to be extensively covered by the media through news stories and photographs",
+    "id": "4c52be6a"
+  },
+  {
+    "question": "An example of a civil law case is when you have purchased a faulty item and made a legal complaint.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Civil law cases relate to disputes between individuals or groups.",
+    "id": "4c60dce5"
+  },
+  {
+    "question": "The Scottish Parliament can pass legislation on all matters",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+    "id": "4c6325b7"
+  },
+  {
+    "question": "What is the ‘Divine Right of Kings?",
+    "options": [
+      "Reduced the power of the King",
+      "Increased power of the  parliament",
+      "Reduced the power of the nobles",
+      "The King was Appointed by God"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "‘Divine Right of Kings’ is the idea that the king was directly appointed by God to rule. The king should be able to act without having to seek approval from Parliament.",
+    "id": "4c6acd4f"
+  },
+  {
+    "question": "How did Mary, Elizabeth I's cousin die?",
+    "options": [
+      "She died of starvation",
+      "She died of illness",
+      "She died of old age",
+      "She was executed"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Mary was Elizabeth I's cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+    "id": "4c7c395b"
+  },
+  {
+    "question": "Which TWO are Police duties?",
+    "options": [
+      "Protect life and property",
+      "Detect and prevent crime",
+      "Be corrupt",
+      "Misuse their authority"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The job of the police in the UK is to:\n- Protect life and property\n- Prevent disturbances (also known as keeping the peace)\n- Prevent and detect crime.",
+    "id": "4c8fbdda"
+  }
+]

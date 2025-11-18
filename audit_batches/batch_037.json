@@ -1,0 +1,663 @@
+[
+  {
+    "question": "How were the working conditions like during the Industrial Revolution?",
+    "options": [
+      "Average",
+      "Best in the World",
+      "Very Poor",
+      "Acceptable"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Working conditions during the Industrial Revolution were very poor. There were no laws to protect employees, who were often forced to work long hours in dangerous situations. Children also worked and were treated in the same way as adults.",
+    "id": "4c91323a"
+  },
+  {
+    "question": "The first man to be called ‘Prime Minister’ was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The first man to be called ‘Prime Minister’ was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "id": "4caaef69"
+  },
+  {
+    "question": "In the Battle of ______ the Scottish army were defeated by the army led by Cromwell",
+    "options": [
+      "Bosworth Field",
+      "Dunbar and Worcester",
+      "Hastings",
+      "Marston Moor"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4cb81ea0"
+  },
+  {
+    "question": "What is the name of the War Memorial located in Whitehall?",
+    "options": [
+      "Dumfries",
+      "Cenotaph",
+      "Royal Crescent",
+      "The White Tower"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4cbf5527"
+  },
+  {
+    "question": "The Proms is an eight-week summer season of what?",
+    "options": [
+      "Orchestral classical music",
+      "Classic Pop music",
+      "Underground Hip-Hop music",
+      "Heavy metal music"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London. It has been organised by the British Broadcasting Corporation (BBC) since 1927. The Last Night of the Proms is the most well-known concert and (along with others in the series) is broadcast on television.",
+    "id": "4cc47535"
+  },
+  {
+    "question": "Which TWO courts deal with minor criminal cases in the UK?",
+    "options": [
+      "Justice of the Peace Court",
+      "Centre Court",
+      "Crown Court",
+      "Magistrates' Court"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "id": "4cd31782"
+  },
+  {
+    "question": "In eleventh hour, of the eleventh day, of the eleventh month in 1918 that the First World War (often called the Great War) was started",
+    "options": [
+      "War was started in 1911",
+      "Yes its right",
+      "No, it came to an end"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4cd33970"
+  },
+  {
+    "question": "You can support your local community by becoming a school governor or school board member.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Being a school governor or school board member is a voluntary, unpaid activity. These roles play an important part in raising school standards.",
+    "id": "4cd75467"
+  },
+  {
+    "question": "Which of these TWO lines from Shakespeare’s plays and poems are often still quoted?",
+    "options": [
+      "The world is your oyster",
+      "To be or not to be",
+      "The darling buds of May",
+      "A rose is beautiful"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "Lines from Shakespeare’s plays and poems which are often still quoted include:\nOnce more unto the breach (Henry V)\nTo be or not to be (Hamlet)\nA rose by any other name (Romeo and Juliet)\nAll the world’s a stage (As You Like It)\nThe darling buds of May (Sonnet 18 – Shall I Compare Thee To a Summer’s Day).",
+    "id": "4cee481d"
+  },
+  {
+    "question": "The small claims procedure",
+    "options": [
+      "is an informal way of helping people to settle minor disputes",
+      "helps people to make small home insurance claims"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "4cf7d703"
+  },
+  {
+    "question": "The Industrial Revolution",
+    "options": [
+      "introduced changes in the banking system in the 1970s",
+      "was the rapid development of industry in the 18th and 19th centuries"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4cfe2f64"
+  },
+  {
+    "question": "In Northern Ireland, Deputy District Judges hear minor criminal cases",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.",
+    "id": "4d098409"
+  },
+  {
+    "question": "In which part of the UK is Edinburgh located?",
+    "options": [
+      "Wales",
+      "Northern Ireland",
+      "England",
+      "Scotland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The capital city of Scotland is Edinburgh.",
+    "id": "4d11c31a"
+  },
+  {
+    "question": "What were James II's supporters known as?",
+    "options": [
+      "Jacobites",
+      "Cavaliers",
+      "Roundheads",
+      "Quakers"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James' supporters became known as Jacobites.",
+    "id": "4d27231e"
+  },
+  {
+    "question": "A treaty gave independence to the south of Ireland in 1921",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+    "id": "4d2b5cab"
+  },
+  {
+    "question": "Who developed ideas about economics during the Enlightenment period which are still referred to today?",
+    "options": [
+      "Adam Smith",
+      "James Watt",
+      "David Hume",
+      "Isaac Newton"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today. David Hume’s ideas about human nature continue to influence philosophers. Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+    "id": "4d38f121"
+  },
+  {
+    "question": "Which country is a part of the Commonwealth?",
+    "options": [
+      "USA",
+      "Panama",
+      "Canada",
+      "Norway"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4d399f00"
+  },
+  {
+    "question": "Which is the capital city of the UK?",
+    "options": [
+      "Westminster",
+      "Birmingham",
+      "Windsor",
+      "London"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The capital city of the UK is London, which is in England.",
+    "id": "4d400dc9"
+  },
+  {
+    "question": "What type of painter was Joseph Turner?",
+    "options": [
+      "Portrait",
+      "Stained Glass",
+      "Landscape",
+      "Abstract Sculpture"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Joseph Turner (1775–1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting.",
+    "id": "4d41d866"
+  },
+  {
+    "question": "Which TWO are 20th century British inventions?",
+    "options": [
+      "Aspirin",
+      "AC motor",
+      "Television",
+      "Concorde"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "tip": "Britain and France developed Concorde, the world’s only supersonic passenger aircraft. It first flew in 1969 and began carrying passengers in 1976. Concorde was retired from service in 2003. The television was developed by Scotsman John Logie Baird in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
+    "id": "4d466b8a"
+  },
+  {
+    "question": "Robert Browning, William Blake and Lord Byron were all famous poets",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is true",
+    "id": "4d4bd4c4"
+  },
+  {
+    "question": "By ______, In England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament",
+    "options": [
+      "1200",
+      "1300",
+      "1400",
+      "1500"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4d4d7108"
+  },
+  {
+    "question": "Which of these are British Overseas Territories?",
+    "options": [
+      "St Helena and Falkland Islands",
+      "The Channel Islands and the Isle of Man",
+      "St Helena and the Isle of Man",
+      "USA and Australia"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "4d4ebb86"
+  },
+  {
+    "question": "Which of the following flowers represents England?",
+    "options": [
+      "Rose",
+      "Shamrock",
+      "Daffodil",
+      "Thistle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The national flower of England is the Rose.",
+    "id": "4d6725a8"
+  },
+  {
+    "question": "English laws and the English language were introduced in Wales by the middle of which century?",
+    "options": [
+      "13th century",
+      "15th century",
+      "11th century",
+      "17th century"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced.",
+    "id": "4d68b6ab"
+  },
+  {
+    "question": "Where should you register if you want to become part of a jury?",
+    "options": [
+      "The electoral register",
+      "Your local church",
+      "The NHS",
+      "The British Embassy"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "4d7791a4"
+  },
+  {
+    "question": "When did England win the World Cup?",
+    "options": [
+      "1966",
+      "1970",
+      "1962",
+      "1974"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Bobby Moore (1941–93) captained the English football team that won the World Cup in 1966.",
+    "id": "4d79f176"
+  },
+  {
+    "question": "Skara Brae on Orkney, off the north coast of ______, is the best preserved prehistoric village in northern Europe",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4d85b42f"
+  },
+  {
+    "question": "Where is the National Horseracing Museum located?",
+    "options": [
+      "Edinburgh, Scotland",
+      "Newmarket, Suffolk",
+      "St Andrews, Scotland",
+      "Aintree near Liverpool"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4d85d666"
+  },
+  {
+    "question": "Which of these is correct?",
+    "options": [
+      "Any man who forces a woman to have sex, including her husband, can be charged with rape",
+      "Any man who forces a woman to have sex, excluding her husband, can be charged with rape"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "4d986654"
+  },
+  {
+    "question": "During the English civil war, what were king's supporters known as?",
+    "options": [
+      "Roundheads",
+      "Rotten Boroughs",
+      "Suffragettes",
+      "Cavaliers"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)",
+    "id": "4d9e42a2"
+  },
+  {
+    "question": "Who led a team to clone a mammal for the first time?",
+    "options": [
+      "Sir Ian Wilmot and Keith Campbell",
+      "Patrick Steptoe and Patrick Steptoe",
+      "Jayne Torvill and Mary Peters",
+      "John MacLeod and James Goodfellow"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1996, two British scientists, Sir Ian Wilmot (1944–) and Keith Campbell (1954–2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep. This has led to further research into the possible use of cloning to preserve endangered species and for medical purposes.",
+    "id": "4da49a5c"
+  },
+  {
+    "question": "People over 70 can apply for a free TV licence and blind people can get a 75% discount",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "People over 75 can apply for a free TV licence and blind people can get a 50% discount. You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
+    "id": "4db8d692"
+  },
+  {
+    "question": "Queen Mary was a Protestant and persecuted Catholics (for this reason, she became known as 'Bloody Mary')",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as 'Bloody Mary'). Mary also died after a short reign and the next monarch was her half-sister, Elizabeth, the daughter of Henry VIII and Anne Boleyn.",
+    "id": "4dcb2449"
+  },
+  {
+    "question": "When was the time of growing patriotism?",
+    "options": [
+      "The Iron Age",
+      "The Golden Age",
+      "The Elizabethan period",
+      "The Victorian Age"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English. English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas.",
+    "id": "4ddbb716"
+  },
+  {
+    "question": "Which film or film franchise produced in UK has been the biggest gross earner?",
+    "options": [
+      "Lord of the rings",
+      "James Bond",
+      "Charlie Chaplin",
+      "Matrix"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Many of the films now produced in the UK are made by foreign companies, using British expertise. Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK.",
+    "id": "4de2e883"
+  },
+  {
+    "question": "What was the Beveridge Report of 1942 about?",
+    "options": [
+      "How to end the war in Europe",
+      "How to treat the Germans and Japanese after the war",
+      "Establishing a welfare state",
+      "Overseas aid"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Beveridge Report of 1942, called Social Insurance and Allied Services, set out ideas on how to fight the five evils of Want, Disease, Ignorance, Squalor and Idleness, and provided the basis of the modern welfare state.",
+    "id": "4df50321"
+  },
+  {
+    "question": "What percentage of the UK population is Muslim?",
+    "options": [
+      "5%",
+      "6%",
+      "4%",
+      "3%"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The UK is historically a Christian country. In the 2009 Citizenship Survey, 70% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both less than 0.5%), and 2% of people followed another religion.",
+    "id": "4dfda0e6"
+  },
+  {
+    "question": "Which of these is NOT a valid UK coin?",
+    "options": [
+      "25p",
+      "20p",
+      "5p",
+      "10p"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The denomination of coins are: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2",
+    "id": "4e288591"
+  },
+  {
+    "question": "You can buy alcohol in a shop or pub when you are 16 years old",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "4e38dc75"
+  },
+  {
+    "question": "A Charity working with older people is ______",
+    "options": [
+      "Friends of the Earth",
+      "British Red Cross",
+      "Age UK",
+      "NSPCC",
+      "National Trust"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "4e4a339d"
+  },
+  {
+    "question": "£100 is the highest value note in circulation in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "4e5177d8"
+  },
+  {
+    "question": "Peers (Sitting in the House of Lords) inherit their titles now",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The role and membership of the House of Lords has changed over the last 50 years. Until 1958, all peers were:\n‘hereditary’, which means they inherited their title, or\nsenior judges, or\nbishops of the Church of England.",
+    "id": "4e554eab"
+  },
+  {
+    "question": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa.",
+    "id": "4e609b69"
+  },
+  {
+    "question": "Bank Holidays have no national or religious significance",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "4e6dfb46"
+  },
+  {
+    "question": "When was the first Union flag created?",
+    "options": [
+      "1506",
+      "1556",
+      "1606",
+      "1656"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "4e751018"
+  },
+  {
+    "question": "Boys in the UK leave school with better qualifications than girls.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "On average, girls leave school with better qualifications than boys. Also, more women than men study at university.",
+    "id": "4e9444d3"
+  },
+  {
+    "question": "Margaret Thatcher was the longest-serving UK Prime Minister of the 20th century.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Margaret Thatcher won her first General Election in 1979 and was re-elected in 1983 and 1987. She left office in 1990.",
+    "id": "4eac72be"
+  },
+  {
+    "question": "What should you do to make a complaint about the police (choose two answers)?",
+    "options": [
+      "Write a complaint letter to the House of Commons",
+      "Go to the Police station directly",
+      "Write to the Chief Constable of the police force involved",
+      "Write to your MP"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "",
+    "id": "4eaed38a"
+  },
+  {
+    "question": "Where was Isaac Newton born?",
+    "options": [
+      "Wales",
+      "Scotland",
+      "Ireland",
+      "England"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University.",
+    "id": "4eb31925"
+  }
+]

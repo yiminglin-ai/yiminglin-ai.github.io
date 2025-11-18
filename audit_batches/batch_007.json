@@ -1,0 +1,660 @@
+[
+  {
+    "question": "Some constituencies were controlled by a single wealthy family, but other constituencies had hardly any voters and were called ______",
+    "options": [
+      "county boroughs",
+      "rotten boroughs",
+      "Parliamentary boroughs",
+      "pocket boroughs"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0cb93376"
+  },
+  {
+    "question": "What do you have to pay tax on in the UK?",
+    "options": [
+      "Pensions",
+      "The Personal Allowance",
+      "Buying goods from supermarkets",
+      "All kind of benefits"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People in the UK have to pay tax on their income, which includes:\n- Wages from paid employment\n- Profits from self-employment\n- Taxable benefits\n- Pensions\n- Income from property, savings and dividends.",
+    "id": "0cc4bc61"
+  },
+  {
+    "question": "You need to be ______ years or older in order to stand for public office",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0cca96f0"
+  },
+  {
+    "question": "Many place names such as Grimsby and Scunthorpe, come from the ______ languages",
+    "options": [
+      "English",
+      "Spanish",
+      "Scottish",
+      "Viking"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0ce2efa7"
+  },
+  {
+    "question": "Germany invaded ______ in 1939 that led to the UK declaring war on Germany",
+    "options": [
+      "Finland",
+      "France",
+      "Poland",
+      "Austria"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0ce94f3d"
+  },
+  {
+    "question": "Northern Ireland Assembly has ______ elected members",
+    "options": [
+      "108",
+      "180",
+      "200"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0d027fd9"
+  },
+  {
+    "question": "Famous British artists are:",
+    "options": [
+      "Andy Murray",
+      "David Hockney",
+      "Henry Moore",
+      "Sir Edward Elgar"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "0d1c9059"
+  },
+  {
+    "question": "The Anglo-Saxons were Christians when they first came to Britain",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0d1f3287"
+  },
+  {
+    "question": "What happened in 1215 to change the powers of the king?",
+    "options": [
+      "The Domesday Book ",
+      "Magna Carta ",
+      "The Reform Act",
+      "The Black Death"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Magna Carta was a charter drawn up by King John's noblemen. It laid down basic rights that still prevail today.",
+    "id": "0d25233f"
+  },
+  {
+    "question": "The Welsh Assembly has the power to make laws in Health Services",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Assembly has the power to make laws for Wales in 20 areas, including:\neducation and training\nhealth and social services\neconomic development\nhousing.",
+    "id": "0d2a8896"
+  },
+  {
+    "question": "Which event do people celebrate each year on the third Sunday in June?",
+    "options": [
+      "Mother's Day",
+      "Father's Day",
+      "Bonfire Night",
+      "Halloween"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Father's Day is the third Sunday in June. Children send cards or buy gifts for their fathers.",
+    "id": "0d32f78e"
+  },
+  {
+    "question": "What happened to Margaret Thatcher in 1979 to make her famous in UK history?",
+    "options": [
+      "She took part in the Olympics.",
+      "She became a High Court judge.",
+      "She became the first woman Prime Minister.",
+      "She was made a general in the British army."
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Margaret Thatcher became Britain's first woman Prime Minister in 1979 and won the next two elections in 1983 and 1987. She resigned as Prime Minister in 1990.",
+    "id": "0d396b50"
+  },
+  {
+    "question": "Which country did NOT gain its independence from the British Empire in 1947?",
+    "options": [
+      "The Carribean",
+      "Pakistan",
+      "India",
+      "Sri Lanka"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years.",
+    "id": "0d479242"
+  },
+  {
+    "question": "Who was the first man to be called the ‘Prime Minister’?",
+    "options": [
+      "Clement Atlee",
+      "Margaret Thatcher",
+      "Winston Churchill",
+      "Sir Robert Walpole"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The first man to be called ‘Prime Minister’ was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "id": "0d4e6d5d"
+  },
+  {
+    "question": "Famous UK landmarks are:",
+    "options": [
+      "Loch Lomond",
+      "Snowdonia",
+      "Notre Dame",
+      "Grand Canyon"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "0d4e94c8"
+  },
+  {
+    "question": "Before 1215 there were few limits on the power of the king of England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1215 King John was forced by his noblemen to agree to the Magna Carta, which limited the powers of the monarchy.",
+    "id": "0d600d70"
+  },
+  {
+    "question": "What were the people who supported the King known as in 1642?",
+    "options": [
+      "Cavaliers",
+      "Roundheads",
+      "Chartists",
+      "Quakers"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the English Civil War (1642) the country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "0d81e9ae"
+  },
+  {
+    "question": "The modern Conservative Party is still sometimes referred to as",
+    "options": [
+      "The Whigs",
+      "The Jacobites",
+      "The Tories",
+      "The Peers"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0d89db57"
+  },
+  {
+    "question": "To visit Scottish Parliament you can book tickets or arrange tours through visitor services",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0d956af6"
+  },
+  {
+    "question": "When did women receive voting rights at the same age as men?",
+    "options": [
+      "1918",
+      "1948",
+      "1928",
+      "1882"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0d9cdd8f"
+  },
+  {
+    "question": "Some constituencies were controlled by a single wealthy family were called the",
+    "options": [
+      "county boroughs",
+      "Parliamentary boroughs",
+      "pocket boroughs",
+      "municipal boroughs"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0da5d514"
+  },
+  {
+    "question": "Can the National Anthem be played if the Queen is not present?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "0dc3f557"
+  },
+  {
+    "question": "The Act of Governments, known as the Treaty of Governments in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
+    "id": "0dca5aa4"
+  },
+  {
+    "question": "The Northern Ireland Assembly can make decisions on",
+    "options": [
+      "Agriculture issues",
+      "Defence issues",
+      "Foreign affairs",
+      "Social services"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "0dd2a2c6"
+  },
+  {
+    "question": "The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose and suggest amendments or propose new laws",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0ddfb6e6"
+  },
+  {
+    "question": "The term 'suffragettes' is associated with which group of people?",
+    "options": [
+      "Men",
+      "Women",
+      "Children",
+      "Migrants"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The term 'suffragettes' relates to those who wanted women to gain legal rights and the right to vote in the late 19th and early 20th centuries.",
+    "id": "0deb3db8"
+  },
+  {
+    "question": "What does the UK offer to its residents?",
+    "options": [
+      "Freedom of belief and religion",
+      "Untaxed income",
+      "Free TV license",
+      "Luxurious Life"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In return, the UK offers: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial, a right to join in the election of a government.",
+    "id": "0e01146f"
+  },
+  {
+    "question": "Which political party is still known as the Tories?",
+    "options": [
+      "Conservative",
+      "British National Party",
+      "Labour",
+      "Liberal Democrats"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The modern Conservative Party is still sometimes referred to as the Tories",
+    "id": "0e02da51"
+  },
+  {
+    "question": "What is the minimum age required to serve on a jury?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0e0afaa9"
+  },
+  {
+    "question": "What tells you where your polling station or polling place is and when the election will take place?",
+    "options": [
+      "E-Card",
+      "Vote Card",
+      "Poll card",
+      "E-Vote"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "People vote in elections at places called polling stations, or polling places in Scotland. Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place.",
+    "id": "0e1049d8"
+  },
+  {
+    "question": "When a member of Parliament (MP) dies or resigns, what is the election called that is held to replace them?",
+    "options": [
+      "Re-selection",
+      "Selection",
+      "Hustings",
+      "By-election"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "If an MP dies or resigns, there will be a by-election in his or her constituency to elect a new MP.",
+    "id": "0e17e628"
+  },
+  {
+    "question": "In order to vote in a parliamentary, local, or European election, you must have your name on the register of electors, known as the electoral register",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0e2c90d6"
+  },
+  {
+    "question": "How many colonies were granted independence in 1947?",
+    "options": [
+      "9",
+      "13",
+      "7",
+      "11"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Another aspect of change was self-government for former colonies. In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years.",
+    "id": "0e56c47f"
+  },
+  {
+    "question": "Famous Paralympians are:",
+    "options": [
+      "Dame Ellen MacArthur",
+      "Baroness Tanni Grey-Thompson",
+      "Jessica Ennis",
+      "Ellie Simmonds"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "0e645e20"
+  },
+  {
+    "question": "What are the two main Christian festivals?",
+    "options": [
+      "Halloween",
+      "Easter",
+      "New Year",
+      "Guy Fawkes",
+      "Christmas"
+    ],
+    "answers": [
+      1,
+      4
+    ],
+    "tip": "",
+    "id": "0e695980"
+  },
+  {
+    "question": "What proportion of the population died because of the Black Death?",
+    "options": [
+      "One half",
+      "One fifth",
+      "One fourth",
+      "One third"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "One third of the population of England and a similar proportion in Scotland and Wales died because of the Black Death.",
+    "id": "0e6c17b5"
+  },
+  {
+    "question": "How can you get a National Insurance number?",
+    "options": [
+      "Phone your MP",
+      "Apply in the local council offices",
+      "You will need to telephone the Department for Work and Pensions (DWP)",
+      "There is an application form in your local public library"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0e799633"
+  },
+  {
+    "question": "The Church of England is also known as The Anglican Church?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0e9b0dd8"
+  },
+  {
+    "question": "After the death of Oliver Cromwell, his son, Richard, became ______",
+    "options": [
+      "Lord Victor",
+      "Lord Protector",
+      "Lord Lucan",
+      "Lord Sefton"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0eb503e7"
+  },
+  {
+    "question": "Criminal law relates to ______, which are usually investigated by the police or another authority such as a council, and which are punished by the courts",
+    "options": [
+      "civil law",
+      "common law",
+      "crimes"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0ec355d5"
+  },
+  {
+    "question": "You have to be at least 21 years old to stand as MP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0ed81263"
+  },
+  {
+    "question": "Which is April Fools' Day?",
+    "options": [
+      "1st April",
+      "11th April",
+      "15th April",
+      "31st April"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0ee29a32"
+  },
+  {
+    "question": "There is a yearly ______ race on the River Thames between Oxford and Cambridge Universities",
+    "options": [
+      "sailing",
+      "swimming",
+      "rowing"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "0eec30a6"
+  },
+  {
+    "question": "The Queen is the ceremonial head of the Commonwealth, which currently has 27 member states",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Commonwealth has 54 member states",
+    "id": "0f1b5e54"
+  },
+  {
+    "question": "When walking your dog in a public place, you must ensure:",
+    "options": [
+      "That your dog does not play with other dogs",
+      "That your dog wears a collar showing the name and address of the owner",
+      "That your dog wears a high visibility jacket",
+      "That your dog does not bark"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "0f246ff6"
+  },
+  {
+    "question": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+    "options": [
+      "Northern Ireland",
+      "Wales",
+      "The Channel Islands",
+      "Scotland"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "0f2ad8a8"
+  },
+  {
+    "question": "Which of these wars was England involved in during the Middle Ages?",
+    "options": [
+      "Crusades",
+      "Crimean",
+      "Peninsular",
+      "Hundred Years War"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "0f301568"
+  },
+  {
+    "question": "During the First World War ______ and ______ countries/empires were part of the Central Powers",
+    "options": [
+      "Belgium",
+      "Bulgaria",
+      "Italy",
+      "The Austro-Hungarian Empire"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "0f36a66b"
+  },
+  {
+    "question": "How many wives did Henry VIII have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "0f48de84"
+  },
+  {
+    "question": "What university did Isaac Newton attend?",
+    "options": [
+      "Cambridge",
+      "Oxford",
+      "Warwick",
+      "London State University"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University. He became an important figure in the field. His most famous published work was Philosophiae Naturalis Principia Mathematica ‘Mathematical Principles of Natural Philosophy’, which showed how gravity applied to the whole universe.",
+    "id": "0f5095a6"
+  }
+]

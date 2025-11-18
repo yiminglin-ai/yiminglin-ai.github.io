@@ -1,0 +1,662 @@
+[
+  {
+    "question": "People aged 18 to 70 on the electoral register are ______ to serve on a jury",
+    "options": [
+      "nominated by the local authority",
+      "randomly selected",
+      "kindly asked",
+      "selected in the order of their birth date"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "02a937ef"
+  },
+  {
+    "question": "Which of the following is correct?",
+    "options": [
+      "MPs are elected through a system called 'first past the post'",
+      "MPs are elected through a system called 'proportional representation'"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "MPs are elected through a system called 'first past the post'. In each constituency, the candidate who gets the most votes is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+    "id": "02ec2912"
+  },
+  {
+    "question": "What does the Turner Prize celebrate?",
+    "options": [
+      "Contemporary Art",
+      "The Best Song",
+      "The Best Play",
+      "The Best Album"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Turner Prize was established in 1984 and celebrates contemporary art.",
+    "id": "031c2f25"
+  },
+  {
+    "question": "The Commonwealth can suspend any of its members",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Membership is voluntary. The Commonwealth has no power over its members, although it can suspend membership.",
+    "id": "0322500e"
+  },
+  {
+    "question": "A 60 second silence is observed on the Remembrance Day",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+    "id": "032839cb"
+  },
+  {
+    "question": "Who is responsible for keeping the dog under control?",
+    "options": [
+      "The doctor",
+      "The owner",
+      "The council",
+      "The breeder"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "03292f07"
+  },
+  {
+    "question": "Which one of the following is a Crown dependency?",
+    "options": [
+      "England",
+      "Wales",
+      "The Channel Islands",
+      "Northern Ireland"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "032e620b"
+  },
+  {
+    "question": "What food is traditionally associated with Wales?",
+    "options": [
+      "Haggis",
+      "Welsh cakes",
+      "Ulster fry",
+      "Roast beef, which is served with potatoes, vegetables, Yorkshire puddings"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Welsh cakes – a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.",
+    "id": "03304b4a"
+  },
+  {
+    "question": "What sort of event is the Grand National?",
+    "options": [
+      "Rugby",
+      "Golf",
+      "Horse Racing",
+      "Tennis"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "033baf78"
+  },
+  {
+    "question": "In Northern Ireland, minor cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.",
+    "id": "0344c1e8"
+  },
+  {
+    "question": "When did Ireland become a republic?",
+    "options": [
+      "1925",
+      "1939",
+      "1949",
+      "1927"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "034abab2"
+  },
+  {
+    "question": "EastEnders and Coronation Street are popular soap operas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "British television shows a wide variety of programmes. Popular programmes include regular soap operas such as Coronation Street and EastEnders.",
+    "id": "0353b2a8"
+  },
+  {
+    "question": "What programme helps teenagers develop their skills?",
+    "options": [
+      "The National Citizen Service",
+      "Youth Opportunities",
+      "The Youth Development Service",
+      "The Teenage Programme"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+    "id": "0357307c"
+  },
+  {
+    "question": "Employees",
+    "options": [
+      "do not have to pay for National Insurance contributions after the age of 60",
+      "have their National Insurance deducted from their pay by their employer",
+      "need to pay National Insurance Contributions"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "03586a0d"
+  },
+  {
+    "question": "What system is used in Scotland to deal with children and young people who have committed an offence?",
+    "options": [
+      "Self-Assessment",
+      "Youth Skills Development",
+      "Programme for Excellence",
+      "Children's Hearings System"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In Scotland a system called the Children's Hearings System is used to deal with children and young people who have committed an offence.",
+    "id": "03698d7b"
+  },
+  {
+    "question": "Which of the following is a British overseas territory?",
+    "options": [
+      "Northern Ireland",
+      "Falkland Islands",
+      "France",
+      "USA"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "There are several British overseas territories in other parts of the world, such as the Falkland Islands.",
+    "id": "036f6493"
+  },
+  {
+    "question": "The Phone Book, published by BT, and Yellow Pages also contains the detail of:",
+    "options": [
+      "Assembly members",
+      "Members of the Parliament (MPs)",
+      "Members of the Scottish Parliament (MSPs)",
+      "Members of the European Parliament (MEPs)",
+      "All of the above"
+    ],
+    "answers": [
+      4
+    ],
+    "id": "0370dadc"
+  },
+  {
+    "question": "The fundamental principles of British life include:",
+    "options": [
+      "Democracy",
+      "The rule of law",
+      "Individual liberty",
+      "Tolerance of those with different faiths and beliefs",
+      "Participation in community life",
+      "All of the above"
+    ],
+    "answers": [
+      5
+    ],
+    "id": "0378a397"
+  },
+  {
+    "question": "Pressure groups and lobby groups are organisations which try to influence government policy",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics.",
+    "id": "03815e65"
+  },
+  {
+    "question": "Which TWO are associated with a Bank Holiday?",
+    "options": [
+      "A day when most people have an official day off",
+      "A holiday which is always on a Monday",
+      "A public holiday",
+      "A day off for all the banks in the country"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "Bank holidays are public holidays, when banks and many other businesses are closed for the day.",
+    "id": "03843518"
+  },
+  {
+    "question": "When walking your dog in a public place, you must ensure that your dog",
+    "options": [
+      "wears a collar showing the name and address of the owner",
+      "never strays more than 3 metres away from you",
+      "wears a special dog coat",
+      "does not come into contact with other dogs"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "0387fc4c"
+  },
+  {
+    "question": "The phrase ‘the Dunkirk spirit’ is still used today to describe Britons pulling together in the face of adversity.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.",
+    "id": "038c1e5c"
+  },
+  {
+    "question": "What is one of the roles of school governors and school boards?",
+    "options": [
+      "Setting the strategic direction of the school",
+      "Marking students' homework",
+      "Giving teachers ideas for lesson plans",
+      "Serving food and drink in the canteen"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "School governors and school boards have an important part to play in raising school standards. This includes setting the strategic direction of the school.",
+    "id": "039e7ab4"
+  },
+  {
+    "question": "Where is the Millennium Stadium located?",
+    "options": [
+      "Edinburgh",
+      "Manchester",
+      "London",
+      "Cardiff"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Sporting events take place at major stadiums such as Wembley Stadium in London and the Millennium Stadium in Cardiff.",
+    "id": "03ab3d92"
+  },
+  {
+    "question": "The small claims procedure is used for claims of less than £3,000 in England and Wales",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The small claims procedure is used for claims of less than £5,000 in England and Wales",
+    "id": "03b8f87d"
+  },
+  {
+    "question": "The names or photographs of  young people found guilty of a crime can be published in newspapers or used by the media.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "03bf8595"
+  },
+  {
+    "question": "People eat pancakes, which were traditionally made to use up foods such as egg, fat and milk before fasting during Lent",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "03c507fc"
+  },
+  {
+    "question": "What language did the peasants speak after the Norman conquest?",
+    "options": [
+      "Norman French",
+      "English",
+      "Anglo Saxon",
+      "Gaelic"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The Middle Ages saw the development of a national culture and identity. After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+    "id": "03c8ea2e"
+  },
+  {
+    "question": "'Great Britain' refers only to England, Scotland and Wales.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
+    "id": "03cceb82"
+  },
+  {
+    "question": "What is your responsibility as UK citizen? Select TWO answers.",
+    "options": [
+      "To vote in local and national government elections",
+      "To help and protect your family",
+      "To earn money",
+      "To go to your local pub"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
+    "id": "03cfd47b"
+  },
+  {
+    "question": "In the UK betting and gambling are illegal.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the UK many people enjoy a gamble on sports or other events. You have to be over 18 to go into a betting shop or a gambling club.",
+    "id": "03d4ae85"
+  },
+  {
+    "question": "It is ______ to cause harassment, alarm or distress to someone because of their religion or ethnic origin",
+    "options": [
+      "your right",
+      "a criminal offence",
+      "your responsibility"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "03e09889"
+  },
+  {
+    "question": "The UK has had a fully democratic voting system since",
+    "options": [
+      "1898",
+      "1908",
+      "1918",
+      "1928"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "03e30b87"
+  },
+  {
+    "question": "What happens when a member of Parliament (MP) dies or resigns?",
+    "options": [
+      "The post remains vacant until the next General Election.",
+      "Their party chooses someone to fill the post until the next General Election.",
+      "A by-election is held to replace the MP. ",
+      "A neighbouring MP looks after the constituency."
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "When an MP dies or resigns, a by-election is held. This is an election held in that constituency to elect a new MP.",
+    "id": "03fb60e3"
+  },
+  {
+    "question": "Since 1927 the BBC has organised which series of famous concerts?",
+    "options": [
+      "The Eisteddfod",
+      "Aldeburgh Festival",
+      "The Proms",
+      "Glastonbury "
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Since 1927 the BBC has sponsored and organised the annual Proms, an eight-week summer season of orchestral music.",
+    "id": "03fb64bd"
+  },
+  {
+    "question": "20th century British discoveries or inventions are:",
+    "options": [
+      "Mobile phones",
+      "Cloning a mammal",
+      "Walkmans",
+      "ATMs/Cash machines"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "040c9c6a"
+  },
+  {
+    "question": "When is St Patrick's day celebrated?",
+    "options": [
+      "23rd April",
+      "30th November",
+      "1st April",
+      "17th March"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "0415e95d"
+  },
+  {
+    "question": "Which TWO materials did the UK produce more than half of the world in the 19th century?",
+    "options": [
+      "Cotton Cloth",
+      "Iron",
+      "Potatoes",
+      "Bronze"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "British industry led the world in the 19th century. The UK produced more than half of the world’s iron, coal and cotton cloth.",
+    "id": "042a0f5a"
+  },
+  {
+    "question": "Which of these is not part of the UK?",
+    "options": [
+      "Wales",
+      "England",
+      "Scotland",
+      "Ireland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The United Kingdom consists of England, Scotland, Wales and North Ireland.",
+    "id": "042c793b"
+  },
+  {
+    "question": "Christian groups are:",
+    "options": [
+      "Baptists",
+      "Buddhists",
+      "Roman Catholics",
+      "Sikhs"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "043de6bb"
+  },
+  {
+    "question": "How old must you be to ride a moped in the UK?",
+    "options": [
+      "18",
+      "25",
+      "16",
+      "21"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "There are age requirements in the UK regarding when you can drive different types of vehicles.",
+    "id": "044f0229"
+  },
+  {
+    "question": "Scotland, Wales and Northern Ireland each have devolved administrations which give them full control over all policies and laws",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+    "id": "045153fe"
+  },
+  {
+    "question": "The King or Queen rules the country",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "0454f5cc"
+  },
+  {
+    "question": "What did Emmeline Pankhurst fight for?",
+    "options": [
+      "The right to liberty and security",
+      "The right for women to vote",
+      "Freedom of expression",
+      "The right to a fair trial"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "045cba0d"
+  },
+  {
+    "question": "British inventions were",
+    "options": [
+      "Personal computer (PC)",
+      "Television",
+      "Diesel engine",
+      "Jet engine"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "04745af8"
+  },
+  {
+    "question": "The Wars of the Roses were between the Houses of",
+    "options": [
+      "Windsor",
+      "Lancaster",
+      "York",
+      "Tudor"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "id": "047ffb30"
+  },
+  {
+    "question": "What is the name of the tour guides that tell visitors stories about the Tower of London's history?",
+    "options": [
+      "Knights",
+      "Chartists",
+      "Suffragettes",
+      "Beefeaters"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "04951bcf"
+  },
+  {
+    "question": "If your driving licence is from a country in the European Union",
+    "options": [
+      "you have to apply for a UK licence in order to drive",
+      "you can drive in the UK for as long as your licence is valid",
+      "you don't need to apply for a car insurance"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "049ff834"
+  },
+  {
+    "question": "There are a few MPs who do not represent any of the main political parties are called",
+    "options": [
+      "Self Member",
+      "Shadow Members",
+      "Oppositions",
+      "Independents"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "04a3a7c3"
+  },
+  {
+    "question": "'The Restoration' refers to the re-establishment of Catholicism as the official Church in the 17th century.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Restoration' refers to the re-establishment of the monarchy in 1660, when Charles II returned from exile after being invited back by Parliament.",
+    "id": "04a44a85"
+  }
+]

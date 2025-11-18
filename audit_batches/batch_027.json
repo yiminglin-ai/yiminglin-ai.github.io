@@ -1,0 +1,649 @@
+[
+  {
+    "question": "The chambers that form the UK Parliament are:",
+    "options": [
+      "House of Lords",
+      "House of Representatives",
+      "House of Commons",
+      "House of Fraser"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "38098483"
+  },
+  {
+    "question": "In Scotland, most minor criminal cases are dealt with in a",
+    "options": [
+      "Magistrates' Court",
+      "Justice of the Peace Court"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "380a17ab"
+  },
+  {
+    "question": "How are public holidays called?",
+    "options": [
+      "Bank Holidays",
+      "Workers Holidays",
+      "Business Holidays",
+      "Summer Holidays"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "3821fb22"
+  },
+  {
+    "question": "What type of character was played by Charlie Chaplin?",
+    "options": [
+      "A superhero",
+      "A tramp",
+      "A scientific genius",
+      "A bandit"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "38447407"
+  },
+  {
+    "question": "Motor-car racing in the UK started in ______",
+    "options": [
+      "1802",
+      "1852",
+      "1902",
+      "1952"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "384c9035"
+  },
+  {
+    "question": "During the 1950s, further immigration was encouraged for economic reasons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the 1950s, further immigration was encouraged for economic reasons.",
+    "id": "385ebf99"
+  },
+  {
+    "question": "Those who don’t respect the law should not expect to be allowed to become permanent residents",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If you don’t respect the law you should not expect to be allowed to settle in the UK",
+    "id": "3863f35d"
+  },
+  {
+    "question": "Magistrates",
+    "options": [
+      "usually work unpaid and do not need legal qualifications",
+      "must be specially trained legal experts who have been solicitors for three years"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "38669889"
+  },
+  {
+    "question": "Police and Crime Commissioners (PCCs) are appointed",
+    "options": [
+      "by the local council",
+      "through a public election"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "38723428"
+  },
+  {
+    "question": "During the Enlightenment, ______ developed ideas about economics which are still referred to today",
+    "options": [
+      "Adam Smith",
+      "Robert Smith",
+      "David Hume",
+      "Isaac Newton"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "388a1900"
+  },
+  {
+    "question": "Who was the 'Iron Duke' that defeated the Emperor Napoleon?",
+    "options": [
+      "Wellington",
+      "Admiral Nelson",
+      "Churchill",
+      "Sir Christopher Wren"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
+    "id": "3898b4c1"
+  },
+  {
+    "question": "In which year did John Logie Baird make the first TV broadcast between Glasgow and London?",
+    "options": [
+      "1920",
+      "1955",
+      "1945",
+      "1932"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The television was developed by Scotsman John Logie Baird (1888–1946) in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
+    "id": "389ebea5"
+  },
+  {
+    "question": "Magistrates and Justices of the Peace (JPs) are members of the",
+    "options": [
+      "local community",
+      "Metropolitan Police",
+      "Parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "38a0dce2"
+  },
+  {
+    "question": "The Union Flag comprises four crosses, one for each part of the United Kingdom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag comprises three crosses – the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland).",
+    "id": "38a68e9b"
+  },
+  {
+    "question": "The National Trust was founded in ______ by three volunteers",
+    "options": [
+      "1745",
+      "1795",
+      "1845",
+      "1895"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "38b4697a"
+  },
+  {
+    "question": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "id": "38b52029"
+  },
+  {
+    "question": "Which invention led to the development of Britain during the Industrial Revolution?",
+    "options": [
+      "Magnetic Resonance Imaging",
+      "Steam power",
+      "Radar",
+      "Hovercraft"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "38ba74fc"
+  },
+  {
+    "question": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "38cd2895"
+  },
+  {
+    "question": "To be able to vote in a parliamentary, local or European election, you must register and your name must be on the electoral register",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "38d2e989"
+  },
+  {
+    "question": "Members of the European Union can vote in all public UK elections",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.",
+    "id": "38d551dd"
+  },
+  {
+    "question": "You can contact MPs only at their office in the House of Commons",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You can contact MPs by letter or telephone at their constituency Office, or at their Office in the House of Commons.",
+    "id": "38e739cb"
+  },
+  {
+    "question": "Who was known as 'The Bard' in Scotland?",
+    "options": [
+      "Isaac Newton",
+      "Howard Florey",
+      "Ernest Rutherford",
+      "Robert Burns"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "39012f82"
+  },
+  {
+    "question": "What is the name and the date of the National Day of Wales?",
+    "options": [
+      "St Andrew's Day, 30 November",
+      "St Francis's Day, 19 June",
+      "St George's Day, 23 April",
+      "St David's Day, 1 March"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "3906832a"
+  },
+  {
+    "question": "All terrorist groups try to radicalise and recruit people to their cause",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "392eb2f4"
+  },
+  {
+    "question": "Constituencies which had hardly any voters were called 'Pocket Boroughs'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Some constituencies were controlled by a single wealthy family. These were called 'pocket boroughs'. Other constituencies had hardly any voters and were called 'rotten boroughs'.",
+    "id": "39374529"
+  },
+  {
+    "question": "How can you make a complaint about the Police? (Choose TWO)",
+    "options": [
+      "Visiting the local polling places",
+      "Going to a police station",
+      "Visiting a council office",
+      "Writing to the Chief Constable of the police force involved"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+    "id": "394562b7"
+  },
+  {
+    "question": "When was the Magna Carta established?",
+    "options": [
+      "1215",
+      "1516",
+      "1314",
+      "1415"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There were few formal limits to the king’s power until 1215. In that year, King John was forced by his noblemen to agree to a number of demands. The result was a charter of rights called the Magna Carta (which means the Great Charter). The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws.",
+    "id": "3952c62d"
+  },
+  {
+    "question": "How many crosses does the Union flag have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Union Flag consists of three crosses:\nThe cross of St George, patron saint of England, is a red cross on a white ground.\nThe cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.\nThe cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+    "id": "39548933"
+  },
+  {
+    "question": "What is the name of the major tennis championship in the UK?",
+    "options": [
+      "Cup Final",
+      "Wimbledon Tennis Championship",
+      "Grand National Tennis Championship"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "395b8d49"
+  },
+  {
+    "question": "If you have purchased a faulty item and made a legal complaint that is an example of a civil law case",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "Civil law cases relate to disputes between groups or individuals",
+    "answers": [
+      0
+    ],
+    "id": "396c72b1"
+  },
+  {
+    "question": "Who was King/Queen when English settlers first began colonising the eastern coast of America",
+    "options": [
+      "Edward II",
+      "Henry VIII",
+      "Elizabeth I",
+      "Henry VII"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of America.",
+    "id": "398169bf"
+  },
+  {
+    "question": "What is Good Friday?",
+    "options": [
+      "The day when Jesus Christ rose from the dead",
+      "The day when Jesus Christ was born",
+      "The day when Jesus Christ died",
+      "The day when Jesus Christ became 30 years old"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "3982d368"
+  },
+  {
+    "question": "German invasion of which country led to the 2nd World War?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "Netherlands",
+      "Poland"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Hitler invaded Poland first in 1939. That is when Britain and France declared war in order to stop his aggression.",
+    "id": "3992403b"
+  },
+  {
+    "question": "Wales, Scotland and Northern Ireland each have devolved administrations which give them total control over all policies and laws.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Some powers have been devolved from central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. Some policy and laws remain under central UK government control.",
+    "id": "39a33003"
+  },
+  {
+    "question": "Who ran 1 mile in 4 minutes in 1954?",
+    "options": [
+      "Sir Steve Redgrave",
+      "Sir Chris Hoy",
+      "Sir Roger Bannister",
+      "Sir Jackie Stewart"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Sir Roger Bannister (1929–) was the first man in the world to run a mile in under four minutes, in 1954.",
+    "id": "39aab7e0"
+  },
+  {
+    "question": "Some of the famous lines from William Shakespeare's plays and poems which are still often quoted are:",
+    "options": [
+      "By all the means you can",
+      "A rose by any other name",
+      "Listen to many, speak to a few",
+      "All the world's a stage"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "39adeb75"
+  },
+  {
+    "question": "The Eden Project is located in ______, in the south west of England",
+    "options": [
+      "Devon",
+      "Dorset",
+      "Somerset",
+      "Cornwall"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "39ba90d0"
+  },
+  {
+    "question": "Where do the Laurence Olivier Awards take place?",
+    "options": [
+      "London",
+      "Edinburgh",
+      "Manchester",
+      "Kent"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various Shakespeare plays.",
+    "id": "39bb0aba"
+  },
+  {
+    "question": "The House of Lords is more independent of the government",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The House of Lords is normally more independent of the government than the House of Commons. It can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose.",
+    "id": "39bb432c"
+  },
+  {
+    "question": "What celebration takes place each year on 14 February?",
+    "options": [
+      "Valentine's Day",
+      "Bonfire Night",
+      "Halloween",
+      "Hogmanay "
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Valentine's Day is on 14 February each year, when lovers exchange cards and gifts.",
+    "id": "39bda871"
+  },
+  {
+    "question": "Which TWO things are you required to have to apply for ILR or British Citizenship?",
+    "options": [
+      "Knowledge of English Language",
+      "A relative in the UK with a British Passport",
+      "A Life in the UK pass certificate",
+      "A valid foreign passport"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "tip": "In order to apply for ILR or Naturalization as a British Citizen you must have a valid life in the UK pass certificate and good knowledge of English language",
+    "id": "39bf3eb9"
+  },
+  {
+    "question": "Falkland Islands are a Crown Dependency",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+    "id": "39c7168c"
+  },
+  {
+    "question": "Who captained the English cricket team and holds a number of records, both for batting and bowling?",
+    "options": [
+      "Brian Lara",
+      "Wasim Akram",
+      "Ian Botham",
+      "Shane Warne"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Sir Ian Botham (1955–) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.",
+    "id": "39c89b5c"
+  },
+  {
+    "question": "What are elected members of the National Assembly of Wales known as?",
+    "options": [
+      "MPs",
+      "MEPs",
+      "AMs",
+      "MLAs"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In Wales the elected members, known as AMs, meet in the Welsh Assembly in the Senedd in Cardiff Bay",
+    "id": "39ce92a7"
+  },
+  {
+    "question": "What time do Public Houses open at?",
+    "options": [
+      "11 am",
+      "10 am",
+      "9 am",
+      "Noon"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Public houses (pubs) are an important part of the UK social culture. Pubs are usually open during the day from 11.00 am (12 noon on Sundays).",
+    "id": "39cfb575"
+  },
+  {
+    "question": "It was called the ‘Glorious Revolution’ because there a rapid development of economy of the UK.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "This event was later called the ‘Glorious Revolution’ because there was no fighting in England and it guaranteed the power of Parliament.",
+    "id": "39de7675"
+  },
+  {
+    "question": "The services that funded by National Insurance Contributions are:",
+    "options": [
+      "Supermarket home deliveries",
+      "Local taxi services",
+      "National Health Service (NHS)",
+      "State retirement pension"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "39ee49fc"
+  },
+  {
+    "question": "Why is 1928 an important date for women's rights?",
+    "options": [
+      "Women could vote at 18, the same age as men",
+      "Women could vote at 21, the same age as men",
+      "Women could vote if they were over 30 years old",
+      "None of these"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1918, women over the age of 30 were given voting rights. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+    "id": "39f99f97"
+  },
+  {
+    "question": "Thomas Hardy is a famous author who wrote 'Far from the Madding Crowd'",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "39fcb181"
+  },
+  {
+    "question": "You can serve on a jury up to the age of 80.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The age limit for jury service is 70. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do jury service.",
+    "id": "3a0344c6"
+  }
+]

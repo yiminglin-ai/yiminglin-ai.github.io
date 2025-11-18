@@ -1,0 +1,674 @@
+[
+  {
+    "question": "Which is not a Protestant Christian group?",
+    "options": [
+      "Catholics",
+      "Methodists",
+      "Presbyterians",
+      "Baptists"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There is no established Church in Wales or Northern Ireland. Other Protestant Christian groups in the UK are Baptists, Methodists, Presbyterians and Quakers. There are also other denominations of Christianity, the biggest of which is Roman Catholic.",
+    "id": "6192656a"
+  },
+  {
+    "question": "Examples of civil laws are",
+    "options": [
+      "Carrying a weapon or drugs",
+      "Unfair dismissal or discrimination in the workplace",
+      "Murder, racial crime",
+      "Theft and assault",
+      "Disputes between landlords and tenants",
+      "Faulty consumer goods or services"
+    ],
+    "answers": [
+      1,
+      4,
+      5
+    ],
+    "id": "61a7292b"
+  },
+  {
+    "question": "What event is known as the evacuation of 300,000 people from the beaches?",
+    "options": [
+      "The Blitz spirit",
+      "D-Day",
+      "The Battle of Britain",
+      "The Dunkirk spirit"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase ‘the Dunkirk spirit’.",
+    "id": "61aca4fd"
+  },
+  {
+    "question": "Where did the ancestors of the first farmers come from?",
+    "options": [
+      "North-West Europe",
+      "North Europe",
+      "South-East Europe",
+      "North-East Europe"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The first farmers came to Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe.",
+    "id": "61b05247"
+  },
+  {
+    "question": "When is Vaisakhi celebrated?",
+    "options": [
+      "In March",
+      "In May",
+      "In June",
+      "In April"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated on 14 April each year with parades, dancing and singing.",
+    "id": "61b0f6fc"
+  },
+  {
+    "question": "Tobacco is common in the UK and can be sold to anyone of any age",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "61b79562"
+  },
+  {
+    "question": "People usually decorate their houses during Christmas holidays",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "61bcddb4"
+  },
+  {
+    "question": "Eid al-Fitr and Eid ul Adha are festivals celebrated by which religion?",
+    "options": [
+      "Christianity",
+      "Sikhism",
+      "Buddhism",
+      "Islam"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast. The date when it takes place changes every year. Muslims attend special services and meals.\nEid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims sacrifice an animal to eat during this festival. In Britain this has to be done in a slaughterhouse.",
+    "id": "61d4d45e"
+  },
+  {
+    "question": "Anyone who is violent towards their partner -- whether they are a man or a woman, married or living together -- can be prosecuted.",
+    "options": [
+      "True",
+      "False",
+      ""
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "61d9431d"
+  },
+  {
+    "question": "Which TWO of the following were famous Victorians?",
+    "options": [
+      "Isambard Kingdom Brunel",
+      "Margaret Thatcher",
+      "Dylan Thomas",
+      "Florence Nightingale"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "tip": "Isambard Kingdom Brunel (1806–59) was a famous engineer, and Florence Nightingale (1820–1910) established a training school for nurses, the first of its kind.",
+    "id": "61e1513e"
+  },
+  {
+    "question": "The 40 days before Easter are known as ______",
+    "options": [
+      "Easter holiday",
+      "Lent",
+      "Santaday",
+      "Winter holiday"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "61edc533"
+  },
+  {
+    "question": "Children's Hearings system is used in which country?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "England",
+      "Northern Ireland"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In Scotland a system called the Children's Hearings System is used to deal with children and young people who have committed an offence. Northern Ireland has a system of youth conferencing to consider how a child should be dealt with when they have committed an offence.",
+    "id": "61eddd6b"
+  },
+  {
+    "question": "Which of these athletes is a Paralympian who won gold medals for swimming?",
+    "options": [
+      "Jessica Ennis",
+      "David Weir",
+      "Baroness Tanni Grey-Thompson",
+      "Ellie Simmonds"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Ellie Simmonds (1994–) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.",
+    "id": "61f247d1"
+  },
+  {
+    "question": "Which TWO of the following are linked to football?",
+    "options": [
+      "The Ashes",
+      "UEFA",
+      "Premier League",
+      "The Open"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The Premier League is the top league in English football and attracts a huge international audience. Many UK teams also compete in the UEFA (Union of European Football Associations) Champions League against other teams from Europe.",
+    "id": "621095c8"
+  },
+  {
+    "question": "In 1913, the British government promised 'Home Rule' for Ireland, why were any changes in Ireland delayed until 1921?",
+    "options": [
+      "Due to the outbreak of the First World War",
+      "Due to the outbreak of the Second World War",
+      "Because there was not a king on the British throne",
+      "Due to the outbreak of the Black Death"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "622fcc05"
+  },
+  {
+    "question": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "A constitution is a set of principles by which a country is governed. It includes all of the institutions that are responsible for running the country and how their power is kept in check. The constitution also includes laws and conventions. The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’.",
+    "id": "6234adb8"
+  },
+  {
+    "question": "A famous Stone Age site in the United Kingdom is",
+    "options": [
+      "Windsor Castle",
+      "Chequers",
+      "Stonehenge",
+      "Nelson's Column"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "6236dbe1"
+  },
+  {
+    "question": "Where can you visit Admiral Nelson’s ship , HMS Victory?",
+    "options": [
+      "Portsmouth",
+      "Lincolnshire",
+      "London",
+      "Chesshire"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Admiral Nelson’s ship, HMS Victory, can be visited in Portsmouth",
+    "id": "6237f0e8"
+  },
+  {
+    "question": "What tells us about how people lived just after the Norman Conquest?",
+    "options": [
+      "The Bayeux Tapestry",
+      "The Great Charter",
+      "The Domesday Book",
+      "The best preserved prehistoric village"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+    "id": "623b8e03"
+  },
+  {
+    "question": "Life Peers is a member of the House of Lords appointed by the Queen on the advice of the PM",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "62428973"
+  },
+  {
+    "question": "On what day does 'Lent' begin?",
+    "options": [
+      "Good Friday",
+      "Ash Wednesday",
+      "Shrove Tuesday",
+      "Pancake day"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. Traditionally, people would fast during this period and today many people will give something up, like a favourite food. The day before Lent starts is called Shrove Tuesday, or Pancake Day. Lent begins on Ash Wednesday.",
+    "id": "62470618"
+  },
+  {
+    "question": "What does the abbreviation PTA stand for?",
+    "options": [
+      "Parent Teacher Association",
+      "Primary Teaching Agency",
+      "Personal Trainer Awards",
+      "Premier Tennis Association"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Sometimes school events are organised by parent-teacher associations (PTAs)",
+    "id": "624a9aa3"
+  },
+  {
+    "question": "Wales and Scotland use a system called 'individual registration'. All those entitled to vote must complete their own registration forms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In Northern Ireland a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
+    "id": "624d7498"
+  },
+  {
+    "question": "For how long did England remain a republic?",
+    "options": [
+      "11 years",
+      "10 years",
+      "12 years",
+      "14 years"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Britain had been a republic for 11 years.",
+    "id": "62601404"
+  },
+  {
+    "question": "The roles of police community support officers (PCSOs) are",
+    "options": [
+      "patrol the street",
+      "prevent inflation",
+      "work with the public",
+      "prevent cold weather",
+      "support police officers at crime scenes and major events"
+    ],
+    "answers": [
+      0,
+      2,
+      4
+    ],
+    "id": "6277c768"
+  },
+  {
+    "question": "The Commonwealth Membership is",
+    "options": [
+      "compulsory",
+      "voluntary"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "62828144"
+  },
+  {
+    "question": "How many 'local authorities' does the city of London have?",
+    "options": [
+      "33",
+      "21",
+      "15",
+      "5"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital.",
+    "id": "62876538"
+  },
+  {
+    "question": "At ______ festival mince pies are traditionally eaten",
+    "options": [
+      "Easter",
+      "Dlwali",
+      "Halloween",
+      "Christmas"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "628fc391"
+  },
+  {
+    "question": "Areas of what is now Scotland were never conquered by the Romans",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "id": "62960fe7"
+  },
+  {
+    "question": "The Queen's eldest son, Prince Charles, is also known as?",
+    "options": [
+      "The Prince of Wales",
+      "The Duke of Edinburgh",
+      "The King of Ireland",
+      "The Commonwealth King"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "id": "629b1d83"
+  },
+  {
+    "question": "Judges are responsible for interpreting the law and ensuring that trials are conducted fairly",
+    "options": [
+      "Yes, it's correct",
+      "No, they are not responsible about trials"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "629ffef8"
+  },
+  {
+    "question": "What is the maximum fine if you watch TV without a valid TV licence?",
+    "options": [
+      "£1000",
+      "£500",
+      "£3000",
+      "£2000"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
+    "id": "62a13800"
+  },
+  {
+    "question": "What was the name of plague that killed one third of the population of England in 1348?",
+    "options": [
+      "The White Death",
+      "The Black Death",
+      "Bird Flu",
+      "The Pale Flu"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In 1348, a disease, probably a form of plague called 'the Black Death', came to Britain.",
+    "id": "62b24289"
+  },
+  {
+    "question": "Which of these forts were part of Hadrian's Wall?",
+    "options": [
+      "Housesteads",
+      "Skara Brae",
+      "Sutton Hoo",
+      "Vindolanda"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "id": "62ccd251"
+  },
+  {
+    "question": "The Scottish Parliament was formed in 1998 and sits in Edinburgh",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Scottish Parliament was formed in 1999.",
+    "id": "62d2cf88"
+  },
+  {
+    "question": "Each country in the UK also has its own national Football team that competes with other national teams across the world in tournaments",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "62eba788"
+  },
+  {
+    "question": "What kind of battle was the Battle of Britain (1940)?",
+    "options": [
+      "Air Battle",
+      "Border Battle",
+      "All of these",
+      "Sea Battle"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called ‘the Battle of Britain’, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane – which were designed and built in Britain.",
+    "id": "630e9d26"
+  },
+  {
+    "question": "The name or photographs of an accused young person cannot be published in newspapers or used by the media",
+    "options": [
+      "Yes, it's correct",
+      "No, newspapers are allowed to publish such photographs"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "63220008"
+  },
+  {
+    "question": "Only members of the public who have their name on the electoral register can listen to debates in the Palace of Westminster in the House of Lords",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.",
+    "id": "63299604"
+  },
+  {
+    "question": "What were the people who supported the king known as in 1642?",
+    "options": [
+      "Cavaliers",
+      "Roundheads",
+      "Quakers",
+      "Chartists"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "During the English Civil War (1642) the country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "id": "6335f44e"
+  },
+  {
+    "question": "The most important minister in Parliament became known as the ______",
+    "options": [
+      "Head Minister",
+      "Prime Minister",
+      "Head of the Parliament",
+      "House of Lord"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "634e1b62"
+  },
+  {
+    "question": "Which play was written by Shakespeare?",
+    "options": [
+      "Hamlet",
+      "Come, Walk with me",
+      "Before the Dawn",
+      "Freedom of Love"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet. Lines from his plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18, Shall I Compare Thee To a Summer's Day).",
+    "id": "635719f9"
+  },
+  {
+    "question": "Which of these battles was NOT fought against Napoleon?",
+    "options": [
+      "Battle of Trafalgar",
+      "Battle of Waterloo",
+      "Battle of Agincourt"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "During the 18th century, Britain fought a number of wars with France. In 1789, there was a revolution in France and the new French government soon declared war on Britain. Napoleon, who became Emperor of France, continued the war. Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson's Column in Trafalgar Square, London, is a monument to him. His ship, HMS Victory, can be visited in Portsmouth. The British army also fought against the French. In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
+    "id": "63593378"
+  },
+  {
+    "question": "Who became Prime Minister during WWII?",
+    "options": [
+      "Winston Churchill",
+      "Margaret Thatcher",
+      "Robert Walpole",
+      "Tony Blair"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Hitler invaded Poland and took control of Belgium and the Netherlands. At this time of national crisis, Winston Churchill became Prime Minister.",
+    "id": "6359b77a"
+  },
+  {
+    "question": "To which TWO international bodies does the UK belong?",
+    "options": [
+      "The North Atlantic Treaty Organization (NATO)",
+      "The Commonwealth",
+      "The North American Free Trade Agreement (NAFTA)",
+      "The Arab League"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "The UK belongs to many International bodies including NATO (North Atlantic Treaty Organization) and the Commonwealth.",
+    "id": "636c20f0"
+  },
+  {
+    "question": "The 'Swinging Sixties' was a period of",
+    "options": [
+      "social change",
+      "economical change",
+      "religious change"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "63728a37"
+  },
+  {
+    "question": "Who was the leader of the suffragettes, the group that campaigned for women's rights to vote?",
+    "options": [
+      "Queen Victoria",
+      "Oliver Cromwell",
+      "Florence Nightingale",
+      "Emmeline Pankhurst"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "63741244"
+  },
+  {
+    "question": "The UK has hosted the Olympic Games on three occasions",
+    "options": [
+      "1908",
+      "1938",
+      "1948",
+      "1968",
+      "1998",
+      "2012"
+    ],
+    "answers": [
+      0,
+      2,
+      5
+    ],
+    "id": "6383258d"
+  },
+  {
+    "question": "Which operas were written by Gilbert and Sullivan?",
+    "options": [
+      "The Phantom of the Opera",
+      "HMS Pinafore and The Mikado",
+      "Jesus Christ Superstar",
+      "Tim Rice and Evita"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
+    "id": "63886649"
+  },
+  {
+    "question": "What is Wimbledon Championships?",
+    "options": [
+      "Rugby Tournament",
+      "Cricket Tournament",
+      "Tennis Tournament",
+      "Snooker Tournament"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "638b0e7d"
+  }
+]

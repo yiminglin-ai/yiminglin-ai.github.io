@@ -1,0 +1,666 @@
+[
+  {
+    "question": "A National Insurance number is",
+    "options": [
+      "a unique record for the NHS",
+      "a unique personal account number",
+      "a unique record for the Surgery"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7cbec7fc"
+  },
+  {
+    "question": "How many years did the Romans remain in Britain?",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7cc8d32e"
+  },
+  {
+    "question": "The Queen is responsible for the opening of the new parliamentary session each year",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her name.",
+    "id": "7ccc9c71"
+  },
+  {
+    "question": "______ in Scotland is known as the home of golf",
+    "options": [
+      "St Andrews",
+      "St David",
+      "St George",
+      "St Patrick"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7ccd2c01"
+  },
+  {
+    "question": "Who is a Speaker?",
+    "options": [
+      "Leader of the opposition",
+      "An ordinary MP",
+      "None of the above"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7cd4b71d"
+  },
+  {
+    "question": "Anyone can make a complaint about the police by",
+    "options": [
+      "visiting the local polling places",
+      "going to a police station",
+      "visiting a council office",
+      "writing to the Chief Constable of the police force involved"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "id": "7cd9beb3"
+  },
+  {
+    "question": "Part of the UK government are:",
+    "options": [
+      "The National Trust",
+      "The Westminster Foundation for Democracy",
+      "The civil service",
+      "The cabinet"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "7cf9e0a2"
+  },
+  {
+    "question": "Which country did Germany invade in 1939 that led to the UK declaring war on Germany?",
+    "options": [
+      "Austria",
+      "Finland",
+      "Poland",
+      "France"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "When Adolf Hitler invaded Poland in 1939, Britain, alongside France, declared war on Germany to stop his aggression.",
+    "id": "7d026a3a"
+  },
+  {
+    "question": "Which of the following statements does NOT apply to the United Nations?",
+    "options": [
+      "The UN has five members in total",
+      "The UK is one of five permanent members of the UN Security Council",
+      "It was set up after the Second World War",
+      "It aims to prevent war"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+    "id": "7d1089e4"
+  },
+  {
+    "question": "The second-largest party in the House of Commons is called",
+    "options": [
+      "the opposition",
+      "the cabinet",
+      "the country party"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7d1aca1c"
+  },
+  {
+    "question": "Who was the first British Prime Minister?",
+    "options": [
+      "Winston Churchill",
+      "Earl of Wilmington",
+      "Henry Pelham",
+      "Sir Robert Walpole"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "7d20be4d"
+  },
+  {
+    "question": "Which of the following is a fundamental principle of British life?",
+    "options": [
+      "Extremism",
+      "Individual liberty",
+      "Intolerance",
+      "Inequality"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Individual liberty is a fundamental principle of British life. British society is founded on fundamental values and principles, which all those living in the UK should respect and support.",
+    "id": "7d21eb58"
+  },
+  {
+    "question": "By-election takes place only when an MP resigns.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If an MP dies or resigns, there will be a fresh election, called a byelection, in his or her constituency.",
+    "id": "7d3f33b1"
+  },
+  {
+    "question": "Local authorities are funded by",
+    "options": [
+      "Money from central government",
+      "Local taxes",
+      "TV Licence",
+      "Advertising",
+      "Water rates"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "",
+    "id": "7d3fc12d"
+  },
+  {
+    "question": "What is Hansard?",
+    "options": [
+      "The Prime Minister's progress report",
+      "Parliament's official reports",
+      "Report about the Queen"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7d4202f1"
+  },
+  {
+    "question": "Who directed the two British films ‘Brief Encounter’ and ‘Lawrence of Arabia’?",
+    "options": [
+      "Alfred Hitchcock",
+      "David Lean",
+      "Hugh Hundson",
+      "William Walton"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Brief Encounter (1945), Lawrence of Arabia (1962) were directed by David Lean",
+    "id": "7d4bc026"
+  },
+  {
+    "question": "Who is the head of the Church of England?",
+    "options": [
+      "The Monarch",
+      "The Pope",
+      "The Duke of Edinburgh",
+      "The Prime Minister"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The monarch is the head of the Church of England. The spiritual leader of the Church of England is the Archbishop of Canterbury.",
+    "id": "7d4c558c"
+  },
+  {
+    "question": "Easter eggs are often given as presents at Easter as a symbol of new life",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Easter is also celebrated by people who are not religious. ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of new life.",
+    "id": "7d4fcecb"
+  },
+  {
+    "question": "The Monarch appoints the members of the Cabinet",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the Cabinet and has control over many important public appointments.",
+    "id": "7d5b6424"
+  },
+  {
+    "question": "The Chartists are associated with the Civil War which took place in the 17th century",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes:\n- For every man to have the vote\n- Elections every year\n- For all regions to be equal in the electoral system\n- Secret ballots\n- For any man to be able to stand as an MP\n- For MPs to be paid.",
+    "id": "7d85725a"
+  },
+  {
+    "question": "The job of the police in the UK is to",
+    "options": [
+      "protect life and property",
+      "protect the trees",
+      "prevent disturbances and keeping the peace",
+      "prevent floods",
+      "prevent and detect crime",
+      "prevent limnic eruptions"
+    ],
+    "answers": [
+      0,
+      2,
+      4
+    ],
+    "id": "7d94d980"
+  },
+  {
+    "question": "The most famous Tennis tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7d99f1b5"
+  },
+  {
+    "question": "After the Black Death, a new social class appeared, - owners of large areas of land. What were they called?",
+    "options": [
+      "The Clans",
+      "The Gentry",
+      "The Serfs",
+      "The Tudors"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "New social classes appeared, including owners of large areas of land called 'the gentry', and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+    "id": "7da2efc0"
+  },
+  {
+    "question": "What destroyed the city of London in 1666?",
+    "options": [
+      "War",
+      "Fire",
+      "Plague",
+      "Nuclear Plants"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During Charles II's reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul's Cathedral.",
+    "id": "7da32870"
+  },
+  {
+    "question": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays)",
+    "id": "7daaa869"
+  },
+  {
+    "question": "Remembrance Day November 11th commemorates those who died fighting for the UK and its allies",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7dbcc1a9"
+  },
+  {
+    "question": "When did the first Christian communities begin to appear in Britain?",
+    "options": [
+      "2nd and 3rd centuries",
+      "3rd and 4th centuries",
+      "4th and 5th centuries",
+      "5th and 6th centuries"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain.",
+    "id": "7dc15a41"
+  },
+  {
+    "question": "Police officers are supported by police community support officers (PCSOs)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7de13bd1"
+  },
+  {
+    "question": "European laws are called",
+    "options": [
+      "civil law",
+      "criminal law",
+      "directives",
+      "human rights",
+      "regulations",
+      "framework decisions"
+    ],
+    "answers": [
+      2,
+      4,
+      5
+    ],
+    "id": "7de398bf"
+  },
+  {
+    "question": "The Home Secretary is the government minister responsible for managing relationships with foreign countries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Home Secretary is the government minister responsible for prevention of crime, policing and immigration.",
+    "id": "7dfae1f8"
+  },
+  {
+    "question": "What do you require by law to watch TV using any medium?",
+    "options": [
+      "A valid TV licence",
+      "A TV",
+      "The Internet",
+      "An Antenna"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "7e2b0d8d"
+  },
+  {
+    "question": "______ is a charitiy for medical research",
+    "options": [
+      "British Red Cross",
+      "Age UK",
+      "Cancer Research UK",
+      "National Trust",
+      "Friends of the Earth"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "7e3673eb"
+  },
+  {
+    "question": "The first professional UK football clubs were formed in the late",
+    "options": [
+      "16th century",
+      "17th century",
+      "18th century",
+      "19th century"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7e36fe08"
+  },
+  {
+    "question": "which of these products did the UK produce over half the world's supply in the 19th century?",
+    "options": [
+      "Cotton cloth",
+      "Beer",
+      "Iron",
+      "Cigarettes",
+      "Rubber",
+      "Coal"
+    ],
+    "answers": [
+      0,
+      2,
+      5
+    ],
+    "id": "7e383ce2"
+  },
+  {
+    "question": "The Wimbledon Championships are associated with soccer",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Wimbledon Championships are associated with tennis",
+    "id": "7e39c7fe"
+  },
+  {
+    "question": "Famous British film directors are:",
+    "options": [
+      "Thomas Gainsborough",
+      "Evelyn Waugh",
+      "Ridley Scott",
+      "Sir Alfred Hitchcock"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "id": "7e3cc2ae"
+  },
+  {
+    "question": "Which of the following is not a British banknote?",
+    "options": [
+      "£50",
+      "£25",
+      "£20",
+      "£5"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "7e4a403e"
+  },
+  {
+    "question": "How often do the ministers meet to discuss important issues?",
+    "options": [
+      "Monthly",
+      "Yearly",
+      "Daily",
+      "Weekly"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Ministers form the cabinet, a committee which usually meets weekly and makes important decisions about government policy. Many of these decisions have to be debated or approved by Parliament.",
+    "id": "7e4e2d47"
+  },
+  {
+    "question": "Mary Stuart (also known as ‘Mary, Queen of Scots’) fled to England. She was suspected of trying to take over the throne and was kept a prisoner for 20 years",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The statement is true.",
+    "id": "7e55dcbd"
+  },
+  {
+    "question": "What type of literature are 'The Canterbury Tales' written by Geoffrey Chaucer?",
+    "options": [
+      "Novels",
+      "Plays",
+      "Sonnets",
+      "Poems"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales. It was one of the first books to be printed by William Caxton, the first person in England to print books using a printing press. Many of the stories are still popular. Some have been made into plays and television programmes.",
+    "id": "7e5e33d8"
+  },
+  {
+    "question": "Big Ben is",
+    "options": [
+      "a popular children's television character",
+      "the nickname of the great bell in the clock tower of the Houses of Parliament",
+      "a popular children's cartoon character in Scotland"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "7e5e5fbf"
+  },
+  {
+    "question": "What do many theatres in the UK produce at Christmas time?",
+    "options": [
+      "A stand up comedy show",
+      "A music event",
+      "An opera",
+      "A pantomime"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man.",
+    "id": "7e68e71f"
+  },
+  {
+    "question": "In 1314, which Scottish king defeated the English at the Battle of Bannockburn?",
+    "options": [
+      "Malcolm",
+      "William Wallace",
+      "Andrew",
+      "Robert the Bruce"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "7e78f7cd"
+  },
+  {
+    "question": "Where did the engineers come from in the middle ages?",
+    "options": [
+      "Germany",
+      "Holland",
+      "France",
+      "Italy"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "People came to England from abroad to trade and also to work. Engineers came from Germany.",
+    "id": "7e7d14e2"
+  },
+  {
+    "question": "How is New Year's Eve called in Scotland?",
+    "options": [
+      "Vaisakhi",
+      "Hannukah",
+      "Diwali",
+      "Hogmanay"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "7e89380b"
+  },
+  {
+    "question": "Britain and Germany developed Concorde, a passenger supersonic aircraft.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Concorde was a joint development with France, not Germany.",
+    "id": "7e8e3221"
+  },
+  {
+    "question": "Henry VIII was most famous for breaking away from the Church of Rome and marrying six times.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Henry VIII was most famous for breaking away from the Church of Rome and marrying six times.",
+    "id": "7e91ef7b"
+  },
+  {
+    "question": "European Union law is legally binding in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "7eae1f3b"
+  },
+  {
+    "question": "What is the country house owned by the Prime Minister called?",
+    "options": [
+      "Chequers",
+      "Chalet",
+      "Cottage",
+      "Dormitory"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+    "id": "7eb179aa"
+  },
+  {
+    "question": "Which of the following charities helps the environment?",
+    "options": [
+      "NSPCC",
+      "Shelter",
+      "Friends of the Earth",
+      "Crisis"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "7eba6d49"
+  }
+]

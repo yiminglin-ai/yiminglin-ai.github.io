@@ -1,0 +1,660 @@
+[
+  {
+    "question": "Who is responsible for the economy?",
+    "options": [
+      "Chancellor of the Exchequer",
+      "Home Secretary",
+      "Foreign Secretary",
+      "Secretary of State"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+    "id": "2088e941"
+  },
+  {
+    "question": "Life peers in the House of Lords can pass on their title to their first-born child.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Most members of the House of Lords are now life peers, who are nominated by the Prime Minister and appointed by the monarch to sit in the House of Lords for their own lifetime.",
+    "id": "20891269"
+  },
+  {
+    "question": "During Queen Elizabeth's reign the British Empire became the largest empire the world had ever seen",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+    "id": "2099db33"
+  },
+  {
+    "question": "What was the purpose of the Emancipation Act?",
+    "options": [
+      "Freedom of speech",
+      "Freedom of religion",
+      "No one could be held prisoner unlawfully",
+      "Abolish slavery in the British Empire"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "id": "20a5d414"
+  },
+  {
+    "question": "Which of the following statements is true:",
+    "options": [
+      "Women in Britain today make up about half of the workforce.",
+      "Women in Britain today make up about one quarter of the workforce."
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "20a6fc6d"
+  },
+  {
+    "question": "Whom did the serfs serve?",
+    "options": [
+      "Slaves",
+      "Peasants",
+      "Knights",
+      "Lords"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Normans used a system of land ownership known as feudalism. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army. Some peasants had their own land but most were serfs.",
+    "id": "20a733e3"
+  },
+  {
+    "question": "Who invented the Internet as we know it today? (World Wide Web)",
+    "options": [
+      "Peter Mansfield",
+      "Wilfred Owen",
+      "Sir Tim Berners-Lee",
+      "Clement Atlee"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955–), is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
+    "id": "20ad01af"
+  },
+  {
+    "question": "What were the refugees that came from France called?",
+    "options": [
+      "Roundheads",
+      "Huguenots",
+      "Cavaliers",
+      "Jacobites"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+    "id": "20b20c41"
+  },
+  {
+    "question": "In 1776, 13 colonies declared their independence from the British. On which continent were these colonies located?",
+    "options": [
+      "Asia",
+      "South America",
+      "Africa",
+      "North America"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments.",
+    "id": "20baa5f0"
+  },
+  {
+    "question": "MPs can only be contacted at their office in the House of Commons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "20bf0326"
+  },
+  {
+    "question": "When did English become the official language for documents?",
+    "options": [
+      "1502",
+      "1451",
+      "1400",
+      "1554"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
+    "id": "20c09c43"
+  },
+  {
+    "question": "When did the Roman army leave Britain?",
+    "options": [
+      "AD 410",
+      "AD 43",
+      "AD 630",
+      "AD 100"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned.",
+    "id": "20d43cf9"
+  },
+  {
+    "question": "How many countries are members of the Commonwealth?",
+    "options": [
+      "36",
+      "49",
+      "54",
+      "62"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "20dd0303"
+  },
+  {
+    "question": "Which of the following is a public holiday?",
+    "options": [
+      "St Valentine's Day",
+      "Boxing Day",
+      "April Fool's Day",
+      "Birthday"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "20f406c6"
+  },
+  {
+    "question": "Selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is allowed in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "20f874cd"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Winston Churchill",
+      "Mo Farah",
+      "Sir Robert Watson-Watt",
+      "Sir Tim Berners-Lee"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955–), is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
+    "id": "2123dd4e"
+  },
+  {
+    "question": "The Scottish Parliament sits in",
+    "options": [
+      "Glasgow",
+      "Edinburgh",
+      "Aberdeen",
+      "Dundee"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "212440f2"
+  },
+  {
+    "question": "What is the Turner Prize?",
+    "options": [
+      "A literature award",
+      "A music award",
+      "A contemporary art award",
+      "A theatre award"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "21247f13"
+  },
+  {
+    "question": "What is the highest denomination of coins one can find in the UK?",
+    "options": [
+      "£50",
+      "£2",
+      "£1",
+      "£20"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+    "id": "21258761"
+  },
+  {
+    "question": "What does MEP stand for?",
+    "options": [
+      "Member of the European Parliament",
+      "Minister of the European Parliament",
+      "Member of the Elected Parliament",
+      "Minister of the Elected Parliament"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "21279e5e"
+  },
+  {
+    "question": "What do you need to apply for UK citizenship?",
+    "options": [
+      "Speak and read English",
+      "Be able to use computers in English",
+      "Have a university degree",
+      "Have a driving license"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "To apply to become a permanent resident or citizen of the UK, you will need to:\n- Speak and read English\n- Have a good understanding of life in the UK.",
+    "id": "212bd653"
+  },
+  {
+    "question": "Members in the Welsh Assembly can speak English and Welsh, and all Assembly publications are in both languages",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "2131dbd8"
+  },
+  {
+    "question": "Select TWO popular social networking websites",
+    "options": [
+      "E-mail",
+      "Facebook",
+      "Telephone",
+      "Twitter"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "Social networking websites such as Facebook and Twitter are a popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions. Many people use social networking on their mobile phones when out and about.",
+    "id": "213d9c11"
+  },
+  {
+    "question": "Which of these were introduced before the First World War in 1914?",
+    "options": [
+      "State retirement pension",
+      "Free school meals",
+      "National Health Service (NHS)",
+      "Child Benefit payments"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "2146c9db"
+  },
+  {
+    "question": "The First World War ended on the eleventh hour, of the eleventh day, of the eleventh month in 1918",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "214b37bf"
+  },
+  {
+    "question": "Who is best known for his stories about Sherlock Holmes?",
+    "options": [
+      "Robert Louis Stevenson",
+      "Sir Arthur Conan Doyle",
+      "Charles Dickens",
+      "Thomas Hardy"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Sir Arthur Conan Doyle (1859-1930) was a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives.",
+    "id": "2170a664"
+  },
+  {
+    "question": "Who directed the two British films 'Brief Encounter' and 'Lawrence of Arabia'?",
+    "options": [
+      "David Lean",
+      "Alfred Hitchcock",
+      "Hugh Hundson",
+      "William Walton"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Brief Encounter (1945), Lawrence of Arabia (1962) were directed by David Lean",
+    "id": "217910e3"
+  },
+  {
+    "question": "Forced marriages are an offence in the UK",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership. Forcing another person to marry is a criminal offence.",
+    "id": "217ee887"
+  },
+  {
+    "question": "In Ireland, the Black Death killed many in the Pale and, for a time, the area controlled by the English became larger",
+    "options": [
+      "Yes, this is correct",
+      "No, the area became smaller"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "21802b6b"
+  },
+  {
+    "question": "You can ONLY make a complaint about the police by writing to the Chief Constable of the police force involved.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "If something goes wrong, the police complaints system tries to put it right. Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+    "id": "219a54fe"
+  },
+  {
+    "question": "Famous horse-racing events are:",
+    "options": [
+      "Royal Ascot",
+      "The Grand National",
+      "The Six Nations",
+      "The Cup Final"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "id": "219e85fa"
+  },
+  {
+    "question": "Which of these flowers is closely associated with Remembrance Day?",
+    "options": [
+      "Daffodil",
+      "Lily",
+      "Poppy",
+      "Rose"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The poppy has become the symbol of Remembrance worn during the weeks leading to Remembrance Sunday and Armistice Day.",
+    "id": "219fb93e"
+  },
+  {
+    "question": "Until what time do people play jokes on one another on April Fool's Day?",
+    "options": [
+      "Until 9 PM",
+      "Until 11 AM",
+      "Until Midday",
+      "All day"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "April Fool's Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes.",
+    "id": "21a0f6a1"
+  },
+  {
+    "question": "Robert Browning, William Blake and Lord Byron were all famous golfers",
+    "options": [
+      "True",
+      "False"
+    ],
+    "tip": "They were 19th-century poets",
+    "answers": [
+      1
+    ],
+    "id": "21b2c19a"
+  },
+  {
+    "question": "What was 'Shampooing' when it was first introduced?",
+    "options": [
+      "The Indian art of head massage",
+      "The Indian art of washing",
+      "Washing your head with soap",
+      "Cleaning your hair"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
+    "id": "21b6aa88"
+  },
+  {
+    "question": "On Valentine's Day people exchange gifts and cards and send anonymous cards to people they secretly admire",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Valentine's Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.",
+    "id": "21c4c04a"
+  },
+  {
+    "question": "Women were given the right to vote at the same age as men in 1982",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "21d11614"
+  },
+  {
+    "question": "Which TWO chambers form the UK Parliament?",
+    "options": [
+      "House of Fraser",
+      "House of Lords",
+      "House of Commons",
+      "House of Representatives"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "tip": "The UK Parliament is formed by the House of Commons and the House of Lords.",
+    "id": "21e0e0ca"
+  },
+  {
+    "question": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+    "options": [
+      "Measles",
+      "Leprocy",
+      "Smallpox",
+      "The Black Death"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "",
+    "id": "2211113e"
+  },
+  {
+    "question": "What is the official name of the country?",
+    "options": [
+      "Great Britain",
+      "The UK and Ireland",
+      "The United Kingdom of Great Britain and Northern Ireland",
+      "United Kingdom"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. ‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland.",
+    "id": "221e85e4"
+  },
+  {
+    "question": "During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?",
+    "options": [
+      "Glasgow",
+      "Galloway",
+      "Highlands",
+      "Edinburgh"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "222f0b16"
+  },
+  {
+    "question": "When is Bonfire Night?",
+    "options": [
+      "November 5th",
+      "November 11th",
+      "November 25th"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "22337dbd"
+  },
+  {
+    "question": "Very young children believe that Father Christmas (also known as Santa Claus) brings them presents during the night before Christmas Day",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "22379708"
+  },
+  {
+    "question": "Rugby originated in England in the early 19th century and is very popular in the UK today.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Rugby originated in England in the early 19th century and is very popular in the UK today.",
+    "id": "2241ab59"
+  },
+  {
+    "question": "In Wales a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Children’s Hearings System is used in Scotland",
+    "id": "224a649b"
+  },
+  {
+    "question": "Where did Charles II hide to escape from Cromwell's army?",
+    "options": [
+      "In an oak tree",
+      "In a house",
+      "In a garden",
+      "In a Church"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+    "id": "225c7345"
+  },
+  {
+    "question": "By joining a political party, you might be involved in:",
+    "options": [
+      "Handing out leaflets in the street",
+      "Violent clashes with other political parties",
+      "Knocking on people's doors and asking for support",
+      "Joining your MP for sessions in the House of Commons"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "id": "225e91b4"
+  },
+  {
+    "question": "What do many theatres produce at Christmas time?",
+    "options": [
+      "Pantomime",
+      "New Years Celebration",
+      "Huge Display",
+      "Tragedy Play"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man. There is often also a pantomime horse or cow played by two actors in the same costume.",
+    "id": "22642665"
+  },
+  {
+    "question": "Who chairs the debates in the House of Commons?",
+    "options": [
+      "The Speaker",
+      "The Prime Minister",
+      "The Shadow Minister",
+      "The Judge"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Debates in the House of Commons are chaired by the Speaker. This person is the chief Officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents’ problems like any other MP. The Speaker is chosen by other MPs in a secret ballot.",
+    "id": "2268d130"
+  },
+  {
+    "question": "The first coins of Britain were minted by the people of the Iron Age.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed with the names of the Iron Age kings.",
+    "id": "2276f31a"
+  }
+]

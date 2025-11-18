@@ -1,0 +1,674 @@
+[
+  {
+    "question": "What was Edward Elgar famous for?",
+    "options": [
+      "He was a musician",
+      "He was a tennis player",
+      "He was a comedian",
+      "He was an actor"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "1395c004"
+  },
+  {
+    "question": "______ developed ideas about human nature continue to influence philosophers",
+    "options": [
+      "Adam Smith",
+      "James Watt",
+      "Howard Florey",
+      "David Hume"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "13a56457"
+  },
+  {
+    "question": "Who does make a speech which summarises the government's policies for the year ahead?",
+    "options": [
+      "The Queen's husband",
+      "The Queen's oldest son",
+      "The Prime Minister",
+      "The Queen"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "13aa070b"
+  },
+  {
+    "question": "The words 'Britain', 'British Isles' or 'British' are used in this test to refer to everyone in",
+    "options": [
+      "England",
+      "The Isle of Man",
+      "Scotland",
+      "Wales",
+      "Channel Islands",
+      "Northern Ireland",
+      "Republic of Ireland"
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "id": "13ae8a41"
+  },
+  {
+    "question": "Britain has never been at war with France.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Britain fought a number of wars with France during the Middle Ages and later.",
+    "id": "13ba1e66"
+  },
+  {
+    "question": "'The Divine Right of Kings' meant that",
+    "options": [
+      "the king was appointed by God",
+      "the English king should rule France"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "13bb548e"
+  },
+  {
+    "question": "If a husband forces his wife to have sex he can be charged with rape.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "13be2234"
+  },
+  {
+    "question": "The invasion of which country by Germany provoked UK to declare war on Germany in 1939?",
+    "options": [
+      "Austria",
+      "Belgium",
+      "Poland",
+      "The Soviet Union"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "When Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression.",
+    "id": "13dae5ce"
+  },
+  {
+    "question": "What should you do to make a complaint about the Police?",
+    "options": [
+      "Write to the Chief Constable of the Police force",
+      "Write to your MP",
+      "Write a complaint letter to the House of Commons",
+      "Complain to the Police force directly"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+    "id": "13dff8bf"
+  },
+  {
+    "question": "Boudicca was one of the tribal leaders who",
+    "options": [
+      "built Hadrian's Wall",
+      "fought against the Romans",
+      "built Stonehenge",
+      "converted to Christianity"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "13e13257"
+  },
+  {
+    "question": "How many AMs does the Welsh government have?",
+    "options": [
+      "129",
+      "60",
+      "108",
+      "92"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "The Welsh government and National Assembly for Wales are based in Cardiff, the capital city of Wales. The National Assembly has 60 Assembly members (AMs) and elections are held every four years using a form of proportional representation. Members can speak in either Welsh or English and all of the Assembly’s publications are in both languages. ",
+    "id": "13eaac29"
+  },
+  {
+    "question": "When was the Emancipation Act signed? It abolished slavery throughout the British Empire",
+    "options": [
+      "1807",
+      "1817",
+      "1833",
+      "1837"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Along with other abolitionists (people who supported the abolition of slavery), William Wilberforce succeeded in turning public opinion against the slave trade. In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "id": "13ee1bf6"
+  },
+  {
+    "question": "When did Ireland split into two countries?",
+    "options": [
+      "1922",
+      "1959",
+      "1921",
+      "1916"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+    "id": "13f0e020"
+  },
+  {
+    "question": "Which famous poet's work was inspired by Nature?",
+    "options": [
+      "Charles Dicken",
+      "Sir Roger Bannister",
+      "William Wordsworth",
+      "Damon Hill"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Other poets, including William Wordsworth, were inspired by nature. Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England. He also wrote novels, many of which were set in Scotland.",
+    "id": "13f1fec1"
+  },
+  {
+    "question": "What led the American colonies to want their independence from Britain?",
+    "options": [
+      "The British government wanted to control their borders",
+      "They were running out of resources",
+      "The British government wanted to tax them",
+      "There were not enough jobs for the local people"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "13f46276"
+  },
+  {
+    "question": "Volunteering is a",
+    "options": [
+      "way of helping others without receiving payment",
+      "good way to earn additional money while on benefit"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "13fb653f"
+  },
+  {
+    "question": "The system of government in the UK is a parliamentary democracy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "14000c56"
+  },
+  {
+    "question": "How many members does the Scottish Parliament have?",
+    "options": [
+      "129",
+      "108",
+      "76",
+      "94"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation. The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include:\n- Civil and criminal law\n- Health\n- Education\n- Planning\n- Additional tax-raising powers.",
+    "id": "141c8682"
+  },
+  {
+    "question": "It is illegal to sell tobacco products to people under 18 years of age",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1428788e"
+  },
+  {
+    "question": "What other name is given to Diwali?",
+    "options": [
+      "The Festival of Lights",
+      "Ash Wednesday",
+      "Good Friday",
+      "Easter Monday"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "",
+    "id": "142e168b"
+  },
+  {
+    "question": "What are the allowed religions in Britain?",
+    "options": [
+      "Christianity, Islam and Buddhism",
+      "Christianity and Islam",
+      "Only Christianity",
+      "Everyone has right to religious freedom"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "142fac14"
+  },
+  {
+    "question": "Towns, cities and rural areas in the UK are governed by civil servants who are appointed by the Government.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Civil servants support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are politically neutral they are not political appointees. People can apply to join the civil service through an application process, like other jobs in the UK.",
+    "id": "143606e7"
+  },
+  {
+    "question": "What does Hogmanay refer to?",
+    "options": [
+      "Christmas Day in Wales",
+      "New Year's Eve in Scotland",
+      "Christmas Day in Scotland",
+      "New Year's Eve in Wales"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "14375ca2"
+  },
+  {
+    "question": "On Valentine’s Day people exchange gifts and cards and send anonymous cards to people they secretly admire",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Valentine’s Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.",
+    "id": "1447b001"
+  },
+  {
+    "question": "For which TWO types of literature is William Shakespeare famous?",
+    "options": [
+      "Novels",
+      "Plays",
+      "Biographies",
+      "Sonnets"
+    ],
+    "answers": [
+      1,
+      3
+    ],
+    "tip": "William Shakespeare was a famous playwright and sonnet writer.",
+    "id": "145f465d"
+  },
+  {
+    "question": "Who was one of the tribal leaders that fought against the Romans?",
+    "options": [
+      "Boudicca",
+      "Vacomagi",
+      "Carvetii",
+      "Corieltauvi"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
+    "id": "145fc3cf"
+  },
+  {
+    "question": "On the official flag of the UK, The name of the diagonal white cross on a blue ground is the cross of",
+    "options": [
+      "St Andrew",
+      "St George",
+      "St Patrick",
+      "St Thomas"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "1460032f"
+  },
+  {
+    "question": "What international organisation is working to prevent war and to maintain international peace?",
+    "options": [
+      "Red Cross",
+      "United Nations",
+      "UNICEF",
+      "NATO"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "14739f4c"
+  },
+  {
+    "question": "London has ______ local authorities",
+    "options": [
+      "15",
+      "21",
+      "33",
+      "45"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "14798b7c"
+  },
+  {
+    "question": "Which TWO major welfare changes were introduced between 1945 and 1950?",
+    "options": [
+      "The NHS",
+      "A social security system for everyone",
+      "Employment benefits",
+      "State pension"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "tip": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS). A national system of benefits was also introduced to provide ‘social security’, so that the population would be protected from the ‘cradle to the grave’.",
+    "id": "149f4606"
+  },
+  {
+    "question": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims sacrifice an animal to eat during this festival. In Britain this has to be done in a slaughterhouse.",
+    "id": "14a39e1c"
+  },
+  {
+    "question": "Who built the Tower of London?",
+    "options": [
+      "William the Conqueror",
+      "Henry VIII",
+      "Henry VII",
+      "Edward I"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there",
+    "id": "14c2c1c1"
+  },
+  {
+    "question": "What is the leader of the party that wins the election called?",
+    "options": [
+      "Shadow Ministers",
+      "Home Secretary",
+      "Chancellor of the Exchequer",
+      "Prime Minister"
+    ],
+    "answers": [
+      3
+    ],
+    "id": "14c7130e"
+  },
+  {
+    "question": "What information about you is asked at the polling station?",
+    "options": [
+      "Your name, contact details and age",
+      "Your name and address",
+      "Your name and age",
+      "Your name and telephone number"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification.",
+    "id": "14d13dd1"
+  },
+  {
+    "question": "Which group of refugees settled in England before 1720?",
+    "options": [
+      "Welsh",
+      "Germans",
+      "Bretons",
+      "Huguenots"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "The Huguenots were French Protestants who faced persecution in France so they escaped and came to England to live.",
+    "id": "14d5879a"
+  },
+  {
+    "question": "On what day is the birth of Jesus Christ celebrated?",
+    "options": [
+      "Father's Day",
+      "Christmas Day",
+      "New Year",
+      "Boxing Day"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "",
+    "id": "14ed6e18"
+  },
+  {
+    "question": "Who wrote music for King George I?",
+    "options": [
+      "George Frederick Handel",
+      "Sir William Walton",
+      "Benjamin Britten",
+      "Sir Edward Elgar"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The German-born composer George Frederick Handel (1695–1759) spent many years in the UK and became a British citizen in 1727. He wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II.",
+    "id": "14f1b5c6"
+  },
+  {
+    "question": "How many ski centres are there in Scotland?",
+    "options": [
+      "2",
+      "5",
+      "13",
+      "1"
+    ],
+    "answers": [
+      1
+    ],
+    "tip": "Skiing is increasingly popular in the UK. Many people go abroad to ski and there are also dry ski slopes throughout the UK. Skiing on snow may also be possible during the winter. There are five ski centres in Scotland, as well as Europe’s longest dry ski slope near Edinburgh.",
+    "id": "1500e5dd"
+  },
+  {
+    "question": "In the Church of Scotland, who is the Moderator?",
+    "options": [
+      "A financial overseer who has overall responsibility for the accounts of the Church",
+      "The spiritual leader of the Church, who is appointed for life",
+      "A key figure who is responsible for all relations with the Church of England",
+      "The chairperson of the General Assembly, who is appointed for one year only and often speaks on behalf of the Church"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+    "id": "151553b4"
+  },
+  {
+    "question": "In the 2009 Citizenship Survey, ______ of people identified themselves as Muslim",
+    "options": [
+      "2%",
+      "4%",
+      "8%",
+      "10%"
+    ],
+    "answers": [
+      1
+    ],
+    "id": "151bad64"
+  },
+  {
+    "question": "What is the capital city of Scotland?",
+    "options": [
+      "Aberdeen",
+      "Dundee",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "answers": [
+      2
+    ],
+    "id": "152b551a"
+  },
+  {
+    "question": "Which of the following is part of the UK?",
+    "options": [
+      "Wales",
+      "St Helena",
+      "Channel Islands",
+      "Canada"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The United Kingdom consists of Wales,England,Scotland and Northern Ireland.",
+    "id": "152ed520"
+  },
+  {
+    "question": "When did hereditary peers lose the automatic right to attend the House of Lords?",
+    "options": [
+      "1989",
+      "1969",
+      "1999",
+      "1979"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.",
+    "id": "153a0daf"
+  },
+  {
+    "question": "Wales united with England during the reign of King Henry VIII",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answers": [
+      0
+    ],
+    "id": "153cd168"
+  },
+  {
+    "question": "‘The Restoration’ refers to the reestablishment of Roman Catholicism",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had ‘no wish to go on his travels again’. There was a restoration of the monarchy.",
+    "id": "153d57c8"
+  },
+  {
+    "question": "Which style of architecture became popular in the 19th century?",
+    "options": [
+      "Gothic",
+      "Classical",
+      "Simple",
+      "Neoclassical"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "In the 19th century, the medieval ‘gothic’ style became popular once again.",
+    "id": "15424870"
+  },
+  {
+    "question": "The London Eye is situated on the southern bank of the River ______",
+    "options": [
+      "Tyburn",
+      "Walbrook",
+      "Thames",
+      "Fleet"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "",
+    "id": "1577483e"
+  },
+  {
+    "question": "What did the 'Bill of Rights' confirm?",
+    "options": [
+      "Parliament's increased power",
+      "King's increased power",
+      "Kings can collect taxes",
+      "Kings can administer justice"
+    ],
+    "answers": [
+      0
+    ],
+    "tip": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
+    "id": "157ac7c9"
+  },
+  {
+    "question": "Who took the title 'King of Ireland'?",
+    "options": [
+      "Charles II",
+      "James VI",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "answers": [
+      3
+    ],
+    "tip": "Henry VII and Henry VIII had extended English control outside the Pale. Henry VIII took the title 'King of Ireland' and English laws were introduced.",
+    "id": "157fdda8"
+  },
+  {
+    "question": "Women over 30 were allowed to vote as a result of their contribution towards the war effort. Which war was it?",
+    "options": [
+      "Second World War",
+      "Boer War",
+      "First World War",
+      "Crimean war"
+    ],
+    "answers": [
+      2
+    ],
+    "tip": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War. Shortly before Emmeline’s death in 1928, women were given the right to vote at the age of 21, the same as men.",
+    "id": "1590fd09"
+  }
+]
