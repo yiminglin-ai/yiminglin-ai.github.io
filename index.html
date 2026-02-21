@@ -1,428 +1,310 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html lang="en">
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yiming Lin</title>
+  <meta name="author" content="Yiming Lin">
+  <meta name="description" content="Yiming Lin - Research Scientist at Meta Reality Labs working on Generative AI and avatars.">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
-<meta name="description" content="Personal blog.">
-
-<title>Yiming Lin</title>
-<style>
-code{white-space: pre-wrap;}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
-  vertical-align: middle;
-}
-</style>
-
-
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
-  "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
-  }
-}</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-blog-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-blog-listings'] = new List('listing-blog-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159378078-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-159378078-1');
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Yiming Lin" href="index.xml"><meta property="og:title" content="">
-<meta property="og:description" content="Personal blog.">
-<meta property="og:site-name" content="Yiming Lin">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="Personal blog.">
-<meta name="twitter:creator" content="@yiming_lin__">
-<meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/icon_IC.png">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body>
+  <div class="container">
 
-<div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand navbar-dark ">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Yiming Lin</span>
-    </a>
+    <!-- Profile -->
+    <div class="profile">
+      <img src="images/profile.jpeg" alt="Yiming Lin" class="profile-photo">
+      <div class="profile-info">
+        <h1 class="profile-name">Yiming Lin</h1>
+        <p class="profile-bio">
+          I am a Research Scientist working on Generative AI and avatars at
+          <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a>.
+          Previously, I was a staff research engineer at
+          <a href="https://www.realeyesit.com/">Realeyes</a> where I led the research
+          and development on Face Perception platform, AI Fairness and Responsible AI.
+          Prior to Realeyes, I was a research scientist at
+          <a href="https://ai.meta.com/">Meta AI</a> (formerly Facebook AI),
+          where I contributed to multiple products related to face analysis, emotion
+          recognition, and virtual avatar generation.
+          I am also an affiliated honorary research fellow at
+          <a href="https://ibug.doc.ic.ac.uk/">iBUG</a>, Imperial College London,
+          where I completed my PhD supervised by Professor
+          <a href="https://www.linkedin.com/in/maja-pantic-3922952b/">Maja Pantic</a>.
+        </p>
+        <div class="profile-links">
+          <a href="https://github.com/yiminglin-ai">GitHub</a>
+          <a href="mailto:linyiming.ibug+web@gmail.com">Email</a>
+          <a href="https://scholar.google.co.uk/citations?user=Y5RfxWkAAAAJ&hl=en">Google Scholar</a>
+          <a href="https://twitter.com/yiming_lin__">Twitter / X</a>
+          <a href="https://www.linkedin.com/in/yiminglin-ibug/">LinkedIn</a>
+          <a href="https://www.zhihu.com/people/lin-yiming-10">Zhihu</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- News -->
+    <section>
+      <h2 class="section-heading">News</h2>
+      <ul class="news-list">
+        <li>
+          <span class="news-date">2024</span>
+          <span>Joined <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a> as a Research Scientist, working on Generative AI and avatars.</span>
+        </li>
+        <li>
+          <span class="news-date">03/2023</span>
+          <span>Our paper <strong>Toward Robust Facial Action Units' Detection</strong> is accepted by
+            <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5">Proceedings of the IEEE</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">02/2023</span>
+          <span>Our paper <strong>Self-supervised Video-centralised Transformer for Video Face Clustering</strong> is accepted by
+            <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">01/2023</span>
+          <span>One paper on <strong>facial action unit detection using Transformers</strong> accepted by
+            <a href="https://wacv2023.thecvf.com/">WACV 2023</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">02/2022</span>
+          <span>One paper on <strong>facial age estimation</strong> accepted by IEEE Transactions on Image Processing (TIP).</span>
+        </li>
+        <li>
+          <span class="news-date">10/2021</span>
+          <span>Participating <a href="https://iccv2021.thecvf.com/doctoral-consortium">ICCV 2021 Doctoral Consortium</a>
+            (mentor <a href="https://www.cs.cmu.edu/~ftorre/index.html">Fernando De la Torre</a>).</span>
+        </li>
+        <li>
+          <span class="news-date">05/2021</span>
+          <span>One paper on <strong>face parsing</strong> accepted by Image and Vision Computing.</span>
+        </li>
+        <li>
+          <span class="news-date">01/2021</span>
+          <span>Join Meta AI.</span>
+        </li>
+        <li>
+          <span class="news-date">09/2020</span>
+          <span>Start internship at <a href="https://ai.meta.com/people/yiming-lin/">Meta AI (Facebook AI)</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">04/2020</span>
+          <span>Selected for participation in the <a href="https://fg2020.sunai.uoc.edu/doctoral-consortium/">FG2020 Doctoral Consortium</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">02/2020</span>
+          <span>One paper on face tracking accepted by FG 2020 as an <strong>Oral</strong> presentation.</span>
+        </li>
+        <li>
+          <span class="news-date">03/2019</span>
+          <span>Start internship at <a href="https://research.samsung.com/aicenter_cambridge">Samsung AI Center Cambridge</a>.</span>
+        </li>
+        <li>
+          <span class="news-date">02/2019</span>
+          <span>One paper on face tracking accepted by FG 2019 as an <strong>Oral</strong> presentation.</span>
+        </li>
+      </ul>
+    </section>
+
+    <!-- Research / Publications -->
+    <section>
+      <h2 class="section-heading">Research</h2>
+      <ul class="pub-list" id="publications">
+        <!-- Publications will be rendered by JavaScript from pub.bib -->
+      </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>Website design inspired by <a href="https://jonbarron.info/">Jon Barron</a>.</p>
+    </footer>
+
   </div>
-          <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
-  </li>  
-</ul>
-          <div class="quarto-navbar-tools ms-auto tools-wide">
-    <a href="https://twitter.com/yiming_lin__" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
-    <a href="https://github.com/yiminglin-ai" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-    <a href="./index.xml" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
-</div>
-            <div id="quarto-search" class="" title="Search"></div>
-      </div> <!-- /container-fluid -->
-    </nav>
-</header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
-    
-<!-- main -->
-<main class="content" id="quarto-document-content">
 
-
-
-<p>Hi, this is Yiming’s personal blog for my thoughts and notes on various topics.</p>
-<p>For my research portfolio, please visit <a href="https://www.doc.ic.ac.uk/~yl1915/">here</a>.</p>
-<section id="blog-posts" class="level2">
-<h2 class="anchored" data-anchor-id="blog-posts">Blog Posts</h2>
-<div id="listing-blog-listings" class="quarto-listing quarto-listing-container-table">
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="data-centric-ai,dataset-pruning" data-listing-date-sort="1693350000000" data-listing-file-modified-sort="1693429084701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">2023-08-30</span>
-</td>
-<td>
-<a href="./blog/posts/dataset-pruning/index.html" class="title listing-title">Dataset Pruning: Enhancing Deep Learning Efficiency on Large Scale Datasets</a>
-</td>
-</tr>
-<tr data-index="1" data-categories="blog,quarto" data-listing-date-sort="1693004400000" data-listing-file-modified-sort="1693429466311" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Using Quarto for Notes and Code" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">2023-08-26</span>
-</td>
-<td>
-<a href="./blog/posts/post-with-code/index.html" class="title listing-title">Using Quarto for Notes and Code</a>
-</td>
-</tr>
-</tbody>
-
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-
-
-
-</section>
-
-</main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+  <script>
+    // Minimal BibTeX parser and renderer
+    (function () {
+      const bibEntries = [
+        {
+          key: 'yang_2023_proc',
+          title: 'Toward Robust Facial Action Units\' Detection',
+          authors: 'Jing Yang, Yordan Hristov, Jie Shen, <span class="self-author">Yiming Lin</span>, Maja Pantic',
+          venue: 'Proceedings of the IEEE, 2023',
+          links: {
+            paper: 'https://ieeexplore.ieee.org/document/10081935',
+            arxiv: 'https://github.com/jingyang2017/AU-Net/blob/main/Towards%20Robust%20Facial%20Action%20Units%20Detection.pdf',
+            code: 'https://github.com/jingyang2017/AU-Net'
+          },
+          bibtex: `@article{yang_2023,
+  author={Yang, Jing and Hristov, Yordan and Shen, Jie and Lin, Yiming and Pantic, Maja},
+  journal={Proceedings of the IEEE},
+  title={Toward Robust Facial Action Units' Detection},
+  year={2023},
+  pages={1-17},
+  doi={10.1109/JPROC.2023.3257542}
+}`
+        },
+        {
+          key: 'wang_2023_tpami',
+          title: 'Self-supervised Video-centralised Transformer for Video Face Clustering',
+          authors: 'Yujiang Wang, Mingzhi Dong, Jie Shen, Yiming Luo, <span class="self-author">Yiming Lin</span>, Pingchuan Ma, Stavros Petridis, Maja Pantic',
+          venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023',
+          links: {
+            paper: 'https://ieeexplore.ieee.org/document/10042051',
+            arxiv: 'https://arxiv.org/abs/2203.13166',
+            code: 'https://github.com/ibug-group/Easycom-Clustering'
+          },
+          bibtex: `@article{wang_2023,
+  author={Wang, Yujiang and Dong, Mingzhi and Shen, Jie and Luo, Yiming and Lin, Yiming and Ma, Pingchuan and Petridis, Stavros and Pantic, Maja},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={Self-supervised Video-centralised Transformer for Video Face Clustering},
+  year={2023},
+  pages={1-16},
+  doi={10.1109/TPAMI.2023.3243812}
+}`
+        },
+        {
+          key: 'yang_2023_wacv',
+          title: 'FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection',
+          authors: 'Jing Yang, Jie Shen, <span class="self-author">Yiming Lin</span>, Yordan Hristov, Maja Pantic',
+          venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023',
+          links: {
+            paper: 'https://openaccess.thecvf.com/content/WACV2023/html/Yang_FAN-Trans_Online_Knowledge_Distillation_for_Facial_Action_Unit_Detection_WACV_2023_paper.html',
+            arxiv: 'https://arxiv.org/abs/2211.06143'
+          },
+          bibtex: `@inproceedings{Yang_2023_WACV,
+  author={Yang, Jing and Shen, Jie and Lin, Yiming and Hristov, Yordan and Pantic, Maja},
+  title={FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023},
+  pages={6019-6027}
+}`
+        },
+        {
+          key: 'lin2021fpage',
+          title: 'FP-Age: Leveraging Face Parsing Attention for Facial Age Estimation in the Wild',
+          authors: '<span class="self-author">Yiming Lin</span>, Jie Shen, Yujiang Wang, Maja Pantic',
+          venue: 'IEEE Transactions on Image Processing, 2022',
+          links: {
+            paper: 'https://ieeexplore.ieee.org/document/9733166',
+            arxiv: 'https://arxiv.org/abs/2106.11145',
+            code: 'https://github.com/ibug-group/fpage',
+            data: 'https://github.com/yiminglin-ai/imdb-clean'
+          },
+          bibtex: `@article{lin2021fpage,
+  title={FP-Age: Leveraging Face Parsing Attention for Facial Age Estimation in the Wild},
+  author={Yiming Lin and Jie Shen and Yujiang Wang and Maja Pantic},
+  year={2022},
+  journal={IEEE Transactions on Image Processing}
+}`
+        },
+        {
+          key: 'lin2021roi',
+          title: 'RoI Tanh-polar Transformer Network for Face Parsing in the Wild',
+          authors: '<span class="self-author">Yiming Lin</span>, Jie Shen, Yujiang Wang, Maja Pantic',
+          venue: 'Image and Vision Computing, 2021',
+          links: {
+            paper: 'https://www.sciencedirect.com/science/article/pii/S0262885621000950',
+            arxiv: 'https://arxiv.org/abs/2102.02717',
+            code: 'https://github.com/hhj1897/face_parsing',
+            data: 'https://drive.google.com/file/d/1hGSki97qQPGNB812hh2Wf1_lP9NgJkti'
+          },
+          bibtex: `@article{lin2021roi,
+  title={RoI Tanh-polar transformer network for face parsing in the wild},
+  journal={Image and Vision Computing},
+  volume={112},
+  pages={104190},
+  year={2021},
+  author={Yiming Lin and Jie Shen and Yujiang Wang and Maja Pantic}
+}`
+        },
+        {
+          key: 'lin2020ftrcnn',
+          title: 'FT-RCNN: Real-time Visual Face Tracking with Region-based Convolutional Neural Networks',
+          authors: '<span class="self-author">Yiming Lin</span>, Jie Shen, Shiyang Cheng, Maja Pantic',
+          venue: '15th IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2020',
+          links: {
+            paper: 'https://ieeexplore.ieee.org/document/9320152',
+            arxiv: 'https://ibug.doc.ic.ac.uk/media/uploads/documents/real-time_visual_face_tracking_with_region-based_convolutional_neural_networks.pdf'
+          },
+          bibtex: `@inproceedings{lin2020ftrcnn,
+  author={Lin, Yiming and Shen, Jie and Cheng, Shiyang and Pantic, Maja},
+  booktitle={15th IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+  title={FT-RCNN: Real-time Visual Face Tracking with Region-based Convolutional Neural Networks},
+  year={2020},
+  pages={61-68},
+  doi={10.1109/FG47880.2020.00040}
+}`
+        },
+        {
+          key: 'lin2019mobiface',
+          title: 'MobiFace: A Novel Dataset for Mobile Face Tracking in the Wild',
+          authors: '<span class="self-author">Yiming Lin</span>, Shiyang Cheng, Jie Shen, Maja Pantic',
+          venue: '14th IEEE International Conference on Automatic Face Gesture Recognition (FG), 2019',
+          links: {
+            paper: 'https://ieeexplore.ieee.org/document/8756581',
+            arxiv: 'https://arxiv.org/abs/1805.09749v2',
+            data: 'https://mobiface.github.io/'
+          },
+          bibtex: `@inproceedings{lin2019mobiface,
+  author={Lin, Yiming and Cheng, Shiyang and Shen, Jie and Pantic, Maja},
+  booktitle={14th IEEE International Conference on Automatic Face Gesture Recognition (FG)},
+  title={MobiFace: A Novel Dataset for Mobile Face Tracking in the Wild},
+  year={2019},
+  pages={1-8},
+  doi={10.1109/FG.2019.8756581}
+}`
         }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-  function tippyHover(el, contentFn) {
-    const config = {
-      allowHTML: true,
-      content: contentFn,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start'
-    };
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
+      ];
+
+      const linkLabels = {
+        paper: 'paper',
+        arxiv: 'arXiv',
+        code: 'code',
+        data: 'data'
+      };
+
+      const container = document.getElementById('publications');
+
+      bibEntries.forEach(entry => {
+        const li = document.createElement('li');
+        li.className = 'pub-item';
+
+        let linksHtml = '';
+        for (const [type, url] of Object.entries(entry.links)) {
+          linksHtml += `<a href="${url}" target="_blank" rel="noopener">${linkLabels[type] || type}</a>`;
         }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+        linksHtml += `<button class="bib-toggle" onclick="toggleBib('${entry.key}')">bibtex</button>`;
+
+        li.innerHTML = `
+          <div class="pub-title">${entry.title}</div>
+          <div class="pub-authors">${entry.authors}</div>
+          <div class="pub-venue">${entry.venue}</div>
+          <div class="pub-links">${linksHtml}</div>
+          <pre class="bib-content" id="bib-${entry.key}">${entry.bibtex}</pre>
+        `;
+
+        container.appendChild(li);
       });
-    }
-  }
-});
-</script>
-</div> <!-- /content -->
 
+      window.toggleBib = function (key) {
+        const el = document.getElementById('bib-' + key);
+        el.classList.toggle('show');
+      };
+    })();
+  </script>
+</body>
 
-
-</body></html>
+</html>
