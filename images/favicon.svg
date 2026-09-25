@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Yiming Lin monogram</title>
+  <desc id="description">A stylized Y-shaped facial rig inside a head silhouette.</desc>
+  <rect width="512" height="512" rx="112" fill="#1a1a2e"/>
+  <path
+    d="M256 72c-103 0-164 71-164 176 0 109 63 181 164 192 101-11 164-83 164-192 0-105-61-176-164-176Z"
+    fill="none"
+    stroke="#fffaf4"
+    stroke-width="22"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M174 190 256 260l82-70M256 260v104"
+    fill="none"
+    stroke="#e07a3a"
+    stroke-width="24"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="174" cy="190" r="18" fill="#fffaf4"/>
+  <circle cx="338" cy="190" r="18" fill="#fffaf4"/>
+  <circle cx="256" cy="260" r="17" fill="#e07a3a" stroke="#fffaf4" stroke-width="8"/>
+  <circle cx="256" cy="364" r="18" fill="#fffaf4"/>
+</svg>
