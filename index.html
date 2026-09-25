@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Yiming Lin</title>
   <meta name="author" content="Yiming Lin">
-  <meta name="description" content="Yiming Lin - Research Scientist at Meta Reality Labs working on Generative AI and avatars.">
+  <meta name="description" content="Yiming Lin — Research Scientist at Meta Reality Labs working on generative AI, avatars, and 3D facial animation.">
+  <meta name="theme-color" content="#1a1a2e">
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159378078-1"></script>
@@ -18,6 +19,7 @@
   </script>
 
   <link rel="stylesheet" href="stylesheet.css">
+  <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
   <link rel="icon" type="image/png" sizes="64x64" href="images/favicon-64.png">
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
@@ -28,7 +30,7 @@
 
     <!-- Profile -->
     <div class="profile">
-      <img src="images/profile.jpeg" alt="Yiming Lin" class="profile-photo">
+      <img src="images/profile.jpeg" alt="Portrait of Yiming Lin" class="profile-photo">
       <div class="profile-info">
         <h1 class="profile-name">Yiming Lin</h1>
         <p class="profile-bio">
@@ -49,7 +51,7 @@
         <div class="profile-links">
           <a href="https://github.com/yiminglin-ai">GitHub</a>
           <a href="mailto:linyiming.ibug+web@gmail.com">Email</a>
-          <a href="https://scholar.google.co.uk/citations?user=Y5RfxWkAAAAJ&hl=en">Google Scholar</a>
+          <a href="https://scholar.google.co.uk/citations?user=Y5RfxWkAAAAJ&amp;hl=en">Google Scholar</a>
           <a href="https://twitter.com/yiming_lin__">Twitter / X</a>
           <a href="https://www.linkedin.com/in/yiminglin-ibug/">LinkedIn</a>
           <a href="https://www.zhihu.com/people/lin-yiming-10">Zhihu</a>
@@ -61,6 +63,32 @@
     <section>
       <h2 class="section-heading">News</h2>
       <ul class="news-list">
+        <li>
+          <span class="news-date">09/2026</span>
+          <span>
+            Meta unveiled <strong>Hologram</strong>, a release I helped bring to life as a major contributor.
+            Watch the <a href="https://www.youtube.com/watch?v=SdKFDIAGF24&amp;t=3060s" target="_blank" rel="noopener">keynote reveal</a>
+            and read Meta's announcements on the
+            <a href="https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/" target="_blank" rel="noopener">new VR glasses</a>
+            and <a href="https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/" target="_blank" rel="noopener">Hologram features</a>.
+          </span>
+        </li>
+        <li>
+          <span class="news-date">2026</span>
+          <span>
+            Our paper <strong>OmniFaceRig: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies</strong>
+            will appear at <a href="https://omnifacerig.github.io/" target="_blank" rel="noopener">SIGGRAPH Asia 2026</a> and in <strong>ACM Transactions on Graphics</strong>.
+          </span>
+        </li>
+        <li>
+          <span class="news-date">2024–2025</span>
+          <span>
+            I was a major contributor to Meta's <strong>AI-powered dubbing and lip-synced translation</strong> project,
+            <a href="https://techcrunch.com/2024/09/25/meta-ai-gets-lip-synced-translations-and-celebrity-voices-like-judi-dench-and-john-cena/" target="_blank" rel="noopener">announced at Meta Connect 2024</a>
+            and <a href="https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/" target="_blank" rel="noopener">rolled out globally to creators in 2025</a>.
+            Watch the <a href="https://youtu.be/I7JyydkqDeI?si=pza-MLMerz0-LF8r&amp;t=1168" target="_blank" rel="noopener">keynote demo</a>.
+          </span>
+        </li>
         <li>
           <span class="news-date">2024</span>
           <span>Joined <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a> as a Research Scientist, working on Generative AI and avatars.</span>
@@ -139,6 +167,25 @@
     // Minimal BibTeX parser and renderer
     (function () {
       const bibEntries = [
+        {
+          key: 'wang2026omnifacerig',
+          title: 'OmniFaceRig: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies',
+          authors: 'Chao Wang, Guangyao Ma, John Doublestein, Junming Chen, <span class="self-author">Yiming Lin</span>, Zhaoen Su, Xiaomin Luo, Shiyang Cheng, Jie Shen, Doug Roble, Dilin Wang, Yilei Li, Rakesh Ranjan',
+          venue: 'ACM Transactions on Graphics (SIGGRAPH Asia), 2026',
+          links: {
+            project: 'https://omnifacerig.github.io/',
+            arxiv: 'https://arxiv.org/abs/2606.08043'
+          },
+          bibtex: `@article{wang2026omnifacerig,
+  title={OmniFaceRig: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies},
+  author={Wang, Chao and Ma, Guangyao and Doublestein, John and Chen, Junming and Lin, Yiming and Su, Zhaoen and Luo, Xiaomin and Cheng, Shiyang and Shen, Jie and Roble, Doug and Wang, Dilin and Li, Yilei and Ranjan, Rakesh},
+  journal={ACM Transactions on Graphics},
+  year={2026},
+  note={To appear at SIGGRAPH Asia 2026},
+  url={https://omnifacerig.github.io/},
+  arxiv={https://arxiv.org/abs/2606.08043}
+}`
+        },
         {
           key: 'yang_2023_proc',
           title: 'Toward Robust Facial Action Units\' Detection',
@@ -272,6 +319,7 @@
       ];
 
       const linkLabels = {
+        project: 'project',
         paper: 'paper',
         arxiv: 'arXiv',
         code: 'code',
